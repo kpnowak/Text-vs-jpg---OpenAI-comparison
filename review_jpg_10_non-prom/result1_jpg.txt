@@ -1,0 +1,69 @@
+**Guideline Source**: *Source - Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional*
+
+**Source Sentence**: "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+**Deviations Corrected**: According to the *Source - Communicate With Care Pocket Guide*, the information suggests that content should be clear and factual. This sentence could be misinterpreted if the individual changes their medical treatment without proper consultation.
+
+**New Sentence**: "When living with type 2 diabetes, it is common to consult with your doctor about reevaluating and possibly changing your treatment to adjust to your changing personal health needs."
+
+**Reason**: This correction ensures the sentence is clear and prevents potential misunderstandings regarding the necessity of consulting a physician before making treatment changes.
+
+---
+
+**Guideline Source**: *Source - Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers*
+
+**Source Sentence**: "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+
+**Deviations Corrected**: *According to the "Disclaimer Texts for Non-promotional Material"*, all content should include appropriate disclaimers to clearly communicate its non-promotional nature.
+
+**New Sentence**: "Your doctor is the medical expert, but you are the one living with type 2 diabetes. [The content of this guide is for educational purposes and not a substitute for professional medical advice.]"
+
+**Reason**: Adding the disclaimer ensures that the reader understands that the information is educational and not a replacement for medical advice from their healthcare provider.
+
+---
+
+**Guideline Source**: *Source - EFPIA Chapter 3: Article 17 - Informational or Educational Materials and Items of Medical Utility*
+
+**Source Sentence**: "Talk about your lifestyle and how a new treatment might be better suited for you."
+
+**Deviations Corrected**: EFPIA Guidelines stipulate that educational material must not constitute promotion or recommendations for a specific product.
+
+**New Sentence**: "Talk with your doctor about your lifestyle and discuss how a new treatment might be better suited for you."
+
+**Reason**: The corrected sentence ensures it is clear the advice is to talk with a medical professional, maintaining the non-promotional nature of the material while providing relevant educational content.
+
+---
+
+**Guideline Source**: *Source - Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers*
+
+**Source Sentence**: "Ask questions or share concerns you have about trying a new medication."
+
+**Deviations Corrected**: This sentence lacks a disclaimer ensuring readers consult with their doctor and does not substitute medical advice.
+
+**New Sentence**: "Ask questions or share concerns you have about trying a new medication. [This content does not substitute for professional medical advice.]"
+
+**Reason**: Including a disclaimer emphasizes the necessity of using the information solely for educational purposes and consulting a healthcare professional for medical decisions.
+
+---
+
+**Guideline Source**: *Source - Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional*
+
+**Source Sentence**: "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+
+**Deviations Corrected**: The original sentence is clear, but adding more context strengthens the emphasis on professional medical advice.
+
+**New Sentence**: "Remember, this conversation is about working together with your doctor to find the best treatment option tailored specifically for you. Always consult your healthcare provider before making any changes to your treatment plan."
+
+**Reason**: This ensures the statement is factual and clear, removing any potential ambiguity regarding the need for professional consultation before treatment changes.
+
+---
+
+**Guideline Source**: *Source - EFPIA Chapter 3: Article 16 - Lifelong Learning in Healthcare*
+
+**Source Sentence**: "When funding Independent Medical Education or organizing LLH activities directly or in collaboration with third parties, Member Companies must ensure that their participation and role is clearly acknowledged and apparent from the outset."
+
+**Deviations Corrected**: This document should clearly define the role and maintain transparency regarding the sponsor.
+
+**New Sentence**: "If Member Companies fund or organize independent medical education or LLH activities directly or in collaboration with third parties, they must ensure their participation and role are clearly acknowledged and apparent from the outset."
+
+**Reason**: This reinforces the importance of transparency regarding the participation of Member Companies in educational initiatives, as stipulated in the guidelines.

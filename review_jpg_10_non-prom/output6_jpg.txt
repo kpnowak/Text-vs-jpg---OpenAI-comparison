@@ -1,0 +1,43 @@
+### Review and Recommendations
+
+#### 1. **Section: "Lifestyle" Paragraph**
+
+- **Original Source Sentence:**
+  - "Talk about your lifestyle and how a new treatment might be better suited for you."
+
+- **Deviation from Guidelines:**
+  - According to [Source - EFPIA Chapter 3, Article 16] the information suggests that LLH activities must have content that is fair, balanced and objective.
+
+- **Expert Reviewer’s Original Suggested Change:**
+  - "Discuss how your lifestyle might impact your treatment choices and whether a different approach might better suit your needs."
+
+- **Explanation for New Suggested Change:**
+  - To better align with the objective and balanced content requirement, the inclusion of practical examples will make the advice more actionable while ensuring it remains factual and not promotional.
+
+- **New Suggested Sentence:**
+  - "Talk about your lifestyle and any specific preferences, such as work travel or physical activity levels, to see if a different treatment approach might better meet your needs."
+
+- **Deviations:**
+  - According to [Source - EFPIA Chapter 3, Article 16] the information suggests that LLH activities must have content that is fair, balanced and objective.
+
+#### 2. **Section: "Concerns and side effects" Paragraph**
+
+- **Original Source Sentence:**
+  - "Ask questions or share concerns you have about trying a new medication."
+
+- **Deviation from Guidelines:**
+  - According to [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication, Article 1], the information suggests that Non-Promotional Material must share factual information without promoting any specific product.
+
+- **Expert Reviewer’s Original Suggested Change:**
+  - "Share any concerns you have about your current treatment or potential new treatment options, including understanding their mechanisms and side effects."
+
+- **Explanation for New Suggested Change:**
+  - The suggested change slightly improves the original sentence’s adherence to guidelines by emphasizing factual concerns and understanding mechanisms and side effects within a balanced context.
+
+- **New Suggested Sentence:**
+  - "Express any concerns you have about your current or newly suggested treatments, including their effectiveness, mechanisms, and potential side effects."
+
+- **Deviations:**
+  - According to [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication, Article 1], the information suggests that Non-Promotional Material must share factual information without promoting any specific product.
+
+By implementing these revised changes, the document will align more closely with the Non-Promotional Material Guidelines, maintaining compliance and ensuring a high standard of educational content.

@@ -1,0 +1,14 @@
+- The original source sentence: "The information on this website is intended for education purposes only and should not be substituted for medical advice from your doctor."
+
+- The deviation from the guidelines originally provided by the expert reviewer: The tagline does not comply with the disclaimer requirement for general non-promotional material. According to [Source - Disclaimer Texts for Non-promotional Material], it suggests that a specific disclaimer be included.
+
+- The expert reviewer's original suggested change: "This information is intended for diabetes patients who have been prescribed [insert NN medicinal product] and should not be substituted for medical advice from your doctor."
+
+- An explanation for the reason behind your new suggested change: While the expert's suggested change improves compliance with the disclaimer requirements, it assumes that the material is intended solely for diabetes patients on a specific prescribed medicinal product. However, the general nature of the webpage indicates a broader audience. The guideline from the [Source - Disclaimer Texts for Non-promotional Material] also provides multiple general disclaimers for use. Therefore, I have chosen a more appropriate general disclaimer from the source to keep the material non-promotional and compliant.
+
+- Your new suggested sentence: "This information is intended for educational purposes for all patients and should not replace medical advice from your healthcare provider."
+
+- In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response: According to [Source - Disclaimer Texts for Non-promotional Material], general disclaimers include statements that ensure the non-promotional nature of the material and maintain the educational objective.
+
+
+Note: The expert's review covered multiple points, but for this exercise, only one point needed improvement after review. Thus, other comments which adhered to the guidelines as given were left unmentioned.

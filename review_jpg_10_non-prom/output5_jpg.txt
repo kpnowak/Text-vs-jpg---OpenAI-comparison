@@ -1,0 +1,31 @@
+### Revision of Expert Reviewer Comments
+
+**Original Source Sentence**: "Share your personal goals, whether it’s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective."
+**Deviations**: The instruction here assumes a discussion around efficacies of "current treatment" which could indicate a promotional bias without necessarily containing factual, non-branded educational information. According to [Source - EFPIA Chapter 3, Article 17(iv)] the information should not constitute an inducement.
+**Expert Reviewer's Original Suggested Change**: "Share your personal goals, such as better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss general strategies for managing diabetes more effectively."
+**Reason**: This replacement ensures the focus remains on general healthcare improvement rather than potentially implying the promotion of a specific treatment.
+**My New Suggested Sentence**: "Share your personal goals, such as better blood sugar control, weight management, or reducing the risk of cardiovascular events, and explore with your doctor general healthcare strategies for managing diabetes more effectively."
+**Reason**: This ensures neutrality by focusing on health improvement strategies without implying specific treatment efficacy, aligning with non-promotional guidelines.
+
+**Original Source Sentence**: "Ask questions or share concerns you have about trying a new medication."
+**Deviations**: Directly mentioning new medication could be interpreted as promotional. According to [Source - EFPIA Chapter 3, Article 17(i)] the focus should be on general healthcare improvement rather than specific treatment.
+**Expert Reviewer's Original Suggested Change**: "Ask questions or share concerns you have about your diabetes management and treatment options."
+**Reason**: This rephrases the sentence to keep attention on general patient care rather than new product promotion.
+**My New Suggested Sentence**: "Ask questions or share concerns you have regarding your diabetes management and the variety of available treatment options."
+**Reason**: This revision shifts focus to broader diabetes management conversations without suggesting the promotion of new medication, ensuring compliance with non-promotional guidelines.
+
+**Original Source Sentence**: "It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+**Deviations**: The term "beneficial" needs clearer definition as it may be interpreted as promotional without specifying medical utility. According to [Source - EFPIA Chapter 3, Article 17(ii)] the information should directly benefit patient care without suggesting inducement.
+**Expert Reviewer's Original Suggested Change**: "It’s important that you feel empowered and ready to talk to your doctor about your treatment options and when adjustments may be necessary for your health."
+**Reason**: This revision clarifies the focus on health improvements through discussion, ensuring non-promotional integrity by avoiding ambiguous terms.
+**My New Suggested Sentence**: "It’s important that you feel empowered to discuss with your doctor any changes to your treatment plan that might better support your health needs."
+**Reason**: This ensures the message is clear and focused on collaborative healthcare discussion without implying specific treatment benefits, adhering to non-promotional guidelines.
+
+**Original Source Sentence**: "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+**Deviations**: "Best treatment option" could inadvertently convey promotional undertones. According to [Source - EFPIA Chapter 3, Article 16] the content must be fair, balanced, and objective, not focusing on a single "best" option.
+**Expert Reviewer's Original Suggested Change**: "Remember, this conversation is about working together with your doctor to find a suitable treatment plan for you."
+**Reason**: The revised phrasing is more neutral, aligning with non-promotional intent by implying personalization rather than superiority.
+**My New Suggested Sentence**: "Remember, this conversation is about collaborating with your doctor to identify a treatment plan that is appropriate for you."
+**Reason**: This refines the focus on partnership and suitability without implying promotional superiority, in line with non-promotional guidelines.
+
+By carefully examining and revising the sentences in question, the adjustments ensure adherence to the "Non-Promotional Material Guidelines", maintaining a clear, neutral, and informative tone without any promotional undertones.

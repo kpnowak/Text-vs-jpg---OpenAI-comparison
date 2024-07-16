@@ -1,0 +1,71 @@
+### Review of Non-Promotional Material Document
+
+#### Guideline Source: Disclaimer Texts for Non-promotional Material
+Source Sentence:
+"The image shown is a model and not a real patient."
+Deviation:
+- Certain disclaimers relevant to visual content depicting individuals or medical scenarios have not been included.
+New Sentence:
+- "Model is not a real patient and situations shown do not reflect models’ experience."
+Reason for Replacement:
+- Ensures that the document clearly states that any human imagery is not representative of real patients, maintaining clarity and compliance. This includes all necessary disclaimers to avoid misinterpretations or legal implications.
+
+#### Guideline Source: EFPIA Chapter 3, Article 17
+Source Sentence:
+"It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+Deviation:
+- The original text may unintentionally imply direct consumer recommendation of initiating treatment conversations, which should be neutral and informational.
+New Sentence:
+- "It’s important that you stay informed and prepared to discuss treatment options with your doctor whenever appropriate."
+Reason for Replacement:
+- The new sentence ensures the tone remains educational, informing patients they can discuss changes with their healthcare provider, but without encouraging actions directly, adhering to non-promotional compliance.
+
+#### Guideline Source: Communicate With Care Pocket Guide, Article 2
+Source Sentence:
+"This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
+Deviation:
+- The original text could be seen as informal and lacking in professionalism.
+New Sentence:
+- "This involves discussing and understanding how the medication works, including potential side effects."
+Reason for Replacement:
+- This change maintains a more formal and professional tone, ensuring clarity and that the information remains straightforward and professional.
+
+#### Guideline Source: EFPIA Chapter 4, Article 21
+Source Sentence:
+"Share your personal goals, whether it’s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and ask if your doctor how your current treatment could be more effective."
+Deviation:
+- The sentence may appear to offer treatment suggestions or pose direct medical advice.
+New Sentence:
+- "Discuss your personal goals, such as improving blood sugar control, managing weight, or reducing cardiovascular risks, and explore with your doctor whether your current treatment meets these goals."
+Reason for Replacement:
+- Rephrasing ensures the focus remains on a collaborative discussion with the healthcare provider, aligning with principles of mutual respect and patient-doctor partnership described in Chapter 4.
+
+#### Guideline Source: Disclaimer Texts for Non-promotional Material, Article 3
+Source Sentence:
+"Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+Deviation:
+- Lacks a general disclaimer about patient-doctor discussions and prescribed treatments.
+New Sentence:
+- "This information is intended for educational purposes only and should not be substituted for medical advice from your doctor."
+Reason for Replacement:
+- This clarifies the purpose of the material, ensuring it is seen as informational and supporting the proper patient-doctor relationship for treatment decisions.
+
+#### Guideline Source: EFPIA Chapter 4, Article 21
+Source Sentence:
+"By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that’ll empower you on your journey towards better health."
+Deviation:
+- The original phrasing may promise empowerment, which could be considered as promotional language.
+New Sentence:
+- "By actively participating in discussions and asking questions, you can collaborate with your doctor to develop a personalized plan that supports your health journey."
+Reason for Replacement:
+- The modified text emphasizes collaborative efforts in planning health management with a healthcare provider without promising specific patient outcomes.
+
+---
+### Summary of Changes Made
+
+1. **Disclaimers**: Added visual and patient-related disclaimers to ensure clarity and legal compliance.
+2. **Language Tone**: Adjusted language to maintain a professional and formal tone.
+3. **Neutrality**: Ensured that all wording remains neutral and purely informational without unintentionally promoting specific actions.
+4. **Collaborative Emphasis**: Highlighted the collaborative nature of patient-doctor interactions without implying medical advice.
+
+By correcting these deviations, the reviewed material adheres more stringently to the Non-Promotional Material Guidelines, ensuring legal compliance and maintaining professional integrity.

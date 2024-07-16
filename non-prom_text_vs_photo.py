@@ -1,7 +1,7 @@
 from openai import OpenAI
 import base64
 
-client = OpenAI(api_key = 'PUT YOUR KEY HERE')
+client = OpenAI(api_key = 'ADD YOUR KEY HERE')
 
 NON_PROMOTIONAL_GUIDELINES = """
 Source - EFPIA Chapter 3:
@@ -378,4 +378,97 @@ def jpg_review():
     with open("Non-prom/output_jpg.txt", "w") as f:
         f.write(response.choices[0].message.content)
 
-jpg_review()
+def jpg_review_10():
+    for i in range(10):
+        url = f"data:image/jpeg;base64,{base64_image}"
+        response = client.chat.completions.create(
+        model="gpt-4o",
+        messages=[
+            {"role":"assistant","content":"Your role is to review an image, which is a document."},
+            {
+            
+            "role": "user",
+            "content": [
+                {"type": "text", "text": f"{non_promotional_material_prompt_template_jpg}"},
+                {
+                "type": "image_url",
+                "image_url": {
+                    "url": url,
+                },
+                },
+            ],
+            }
+            
+        ],
+        max_tokens=1500,
+        )
+        
+        with open(f"review_jpg_10_non-prom/result{i + 1}_jpg.txt", "w") as f:
+            f.write(response.choices[0].message.content)
+
+        # chef review instruction
+        final_non_promotional_review_prompt_template_jpg = f"""
+        You are the chief reviewer for reviews performed for "Non-Promotional Material Guidelines". You are provided with document reviews from your team of expert reviewers. You are responsible for checking over their reviews and providing feedback to the reviewers before publishing the reviews to the client. 
+
+        Below are the guidelines for the "Non-Promotional Material Guidelines" delimited by XXX: 
+        XXX 
+        {NON_PROMOTIONAL_GUIDELINES} 
+        XXX 
+    
+        You are provided with an image of the document that your team of experts already reviewed.
+        Please conduct a review upon the image of the document that you are provided with and the Expert's comments below delimited by XXX:
+        XXX 
+        {response.choices[0].message.content}
+        XXX 
+        
+        Work through each of the comments provided by the expert reviewer. You should start by understanding "Non-Promotional Material Guidelines" guidelines. Next you should verify that the expert's suggested change adheres to every single one of the guidelines. If there can be an improvement to the expert's suggested change or is inadequate with regards to the "Non-Promotional Material Guidelines", please create a new suggested change which better adhere's to all of the guidelines, this can be a completely new sentence if needed. 
+        
+        Please provide the following response for each of the comments you've improved upon: 
+            - The original source sentence
+            - The deviation from the guidelines originally provided by the expert reviewer
+            - The expert reviewer's original suggested change 
+            - An explanation for the reason behind your new suggested change 
+            - Your new suggested sentence
+            - In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response (i.e. "According to [Source - Communicate With Care Pocket Guide] the information suggests that [write your deviations here])
+        
+        Comments which you have not improved upon can be left out of your response 
+        
+        In your review you should make sure that your suggested changes are not just copies of the source sentence nor a copy of the expert reviewer's sentence and they adhere to the guidelines 
+        
+        Take your time to work through the comments systematically in a step-by-step process. 
+    
+        Double check that you've examined every comment provided by the expert reviewer, if there are any you missed on your initial check, please go back and review them in the same manner as previously defined. If a suggestion by the expert reviewer is correct and adheres to the guidelines, you should skip it and do not mention it in your response. 
+        Be careful, because this text will be saved as txt file, so do NOT use any weird characters. Just do a plain text.
+        """
+
+        url = f"data:image/jpeg;base64,{base64_image}"
+        response = client.chat.completions.create(
+        model="gpt-4o",
+        messages=[
+            {"role":"assistant","content":"Your role is to review an image."},
+            {
+            
+            "role": "user",
+            "content": [
+                {"type": "text", "text": f"{final_non_promotional_review_prompt_template_jpg}"},
+                {
+                "type": "image_url",
+                "image_url": {
+                    "url": url,
+                },
+                },
+            ],
+            }
+            
+        ],
+        max_tokens=1500,
+        )
+        
+        with open(f"review_jpg_10_non-prom/output{i + 1}_jpg.txt", "w") as f:
+            f.write(response.choices[0].message.content)
+
+#jpg_to_text()
+#text_review()
+#text_review_10()
+#jpg_review()
+jpg_review_10()

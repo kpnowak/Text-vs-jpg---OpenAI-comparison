@@ -1,0 +1,46 @@
+### Analysis and Corrections Overview
+
+**Guideline Source**: EFPIA Chapter 3, Article 17(iv)
+**Current Sentence**: "Share your personal goals, whether it’s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective."
+**Deviations**: The instruction here assumes a discussion around efficacies of "current treatment" which could indicate a promotional bias without necessarily containing factual, non-branded educational information.
+**New Sentence**: "Share your personal goals, such as better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss general strategies for managing diabetes more effectively."
+**Reason**: This replacement ensures the focus remains on general healthcare improvement rather than potentially implying the promotion of a specific treatment.
+
+**Guideline Source**: Disclaimer Texts for Non-promotional Material, Article 3(vi)
+**Current Sentence**: None (lack of disclaimer).
+**Deviations**: Missing essential disclaimer that aligns with non-promotional intent and patient guidance.
+**New Sentence**: "Please see the patient information leaflet in the package for additional information."
+**Reason**: Adding this disclaimer ensures compliance with non-promotional material guidelines and directs patients to detailed product information, which prevents any impression of promotion.
+
+**Guideline Source**: EFPIA Chapter 3, Article 17(ii)
+**Current Sentence**: "It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+**Deviations**: The term "beneficial" needs clearer definition as it may be interpreted as promotional without specifying medical utility.
+**New Sentence**: "It’s important that you feel empowered and ready to talk to your doctor about your treatment options and when adjustments may be necessary for your health."
+**Reason**: This revision clarifies the focus on health improvements through discussion, ensuring non-promotional integrity by avoiding ambiguous terms.
+
+**Guideline Source**: EFPIA Chapter 3, Article 17(i)
+**Current Sentence**: "Ask questions or share concerns you have about trying a new medication."
+**Deviations**: Directly mentioning new medication could be interpreted as promotional.
+**New Sentence**: "Ask questions or share concerns you have about your diabetes management and treatment options."
+**Reason**: This rephrases the sentence to keep attention on general patient care rather than new product promotion.
+
+**Guideline Source**: EFPIA Chapter 3, Article 16
+**Current Sentence**: "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+**Deviations**: "Best treatment option" could inadvertently convey promotional undertones.
+**New Sentence**: "Remember, this conversation is about working together with your doctor to find a suitable treatment plan for you."
+**Reason**: The revised phrasing is more neutral, aligning with non-promotional intent by implying personalization rather than superiority.
+
+**Guideline Source**: EFPIA Chapter 3, Article 20
+**Current Sentence**: "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+**Deviations**: Needs emphasis on the collaborative but non-promotional role of the HCP and patient.
+**New Sentence**: "Your doctor provides medical expertise, while you bring personal health insights from living with type 2 diabetes."
+**Reason**: This enhanced collaboration statement ensures non-promotional tone and equalizes roles in healthcare decision-making.
+
+**Guideline Source**: Disclaimer Texts for Non-promotional Material, Article 3(i)
+**Current Sentence**: None (lack of disclaimer next to model image).
+**Deviations**: Missing essential model disclaimer.
+**New Sentence**: "The image shown is a model and not a real patient."
+**Reason**: This disclaimer is necessary to avoid any misinterpretation that the model represents actual patient outcomes or experiences, ensuring compliance with non-promotional standards. 
+
+### Summary
+The review of the document against the "Non-Promotional Material Guidelines" led to several necessary adjustments to ensure compliance and non-promotional adherence. Changes involved refining language to maintain neutrality, adding disclaimers to prevent misinterpretation, and ensuring that patient education remains the primary focus. This approach keeps the communication within the ethical boundaries and legal standards specified.
