@@ -1,7 +1,7 @@
 from openai import OpenAI
 import base64
 
-client = OpenAI(api_key = 'sk-proj-GNa8aEchhT424OsBKUTJT3BlbkFJxeJntFBjbJal2pDjnCxX')
+client = OpenAI(api_key = 'PUT KEY HERE')
 
 MULTILANGUAGE_GUIDELINES = """
 1. Grammar and Punctuation: 
