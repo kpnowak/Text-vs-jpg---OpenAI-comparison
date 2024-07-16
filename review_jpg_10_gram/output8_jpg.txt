@@ -1,0 +1,43 @@
+### Review of the Document Image
+
+**Identified Language**: 
+The prominent language of the document is English.
+
+### Expert Reviewer Comments and Suggested Improvements
+
+#### 1. Source Sentence: 
+"David and I satt in the corner of the room."
+
+**Deviations Corrected**:
+- Typographical error "satt" should be "sat".
+
+**Expert Reviewer’s Suggested Change**:
+- "David and I sat in the corner of the room."
+
+**Explanation for New Suggested Change**: 
+The expert reviewer correctly identified and corrected the typographical error. However, there is no need for an additional change because their suggestion adheres to the guidelines and addresses the issue.
+
+**New Suggested Sentence**: 
+- "David and I sat in the corner of the room."
+
+#### 2. Source Sentence:
+"He didn ' t making the first move to go and see her."
+
+**Deviations Corrected**:
+- Incorrect auxiliary structure and contraction spacing.
+- The verb "making" should be replaced with "make".
+
+**Expert Reviewer’s Suggested Change**:
+- This deviation was not noted by the expert reviewer.
+
+**Explanation for New Suggested Change**:
+The expert overlooked this sentence. It contains errors in auxiliary verb usage and spacing within the contraction.
+
+**New Suggested Sentence**:
+- "He didn’t make the first move to go and see her."
+
+#### 3. Source Sentence:
+"He study english with me at university."
+
+**Deviations Corrected**:
+- Incorrect verb

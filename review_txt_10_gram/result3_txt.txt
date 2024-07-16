@@ -1,0 +1,36 @@
+The document is in English.
+
+Sentence: "Yesterday, I gone to a party with my friend David."
+Deviations corrected: Incorrect verb form "gone" should be corrected to "went."
+Reason for the replacement: Correcting the verb form to maintain proper grammar.
+Your new sentence: "Yesterday, I went to a party with my friend David."
+
+Sentence: "He study english with me at university."
+Deviations corrected: Incorrect verb form "study" should be in the correct form for the subject ("He studies").
+Reason for the replacement: Correcting the verb form to match the subject.
+Your new sentence: "He studies English with me at university."
+
+Sentence: "He didn't making the first move to go and see her."
+Deviations corrected: Incorrect verb form "making" should be corrected to "make."
+Reason for the replacement: Correcting the verb form to maintain proper grammar.
+Your new sentence: "He didn't make the first move to go and see her."
+
+Sentence: "He taked a drink to get some energy."
+Deviations corrected: Incorrect verb form "taked" should be corrected to "took."
+Reason for the replacement: Correcting the verb form to maintain proper grammar.
+Your new sentence: "He took a drink to get some energy."
+
+Sentence: "Feeling reassured and confident, he told her which feelings he was experiencing."
+Deviations corrected: Awkward phrasing "which feelings he was experiencing" should be improved for clarity.
+Reason for the replacement: Enhancing clarity and readability.
+Your new sentence: "Feeling reassured and confident, he shared his emotions with her."
+
+Sentence: "She suddenly looked sullen. She looked embaressed."
+Deviations corrected: Spelling error "embaressed" should be corrected to "embarrassed."
+Reason for the replacement: Correcting a spelling error.
+Your new sentence: "She suddenly looked sullen. She looked embarrassed."
+
+Sentence: "She could hardly say a word but after a little seconds, she said: 'I'm sorry to deceive you but actually I fancy Sebastian'."
+Deviations corrected: Awkward phrasing "after a little seconds" should be improved for clarity.
+Reason for the replacement: Enhancing clarity and readability.
+Your new sentence: "She could hardly say a word but a few moments later, she said: 'I'm sorry to deceive you, but actually I fancy Sebastian'."

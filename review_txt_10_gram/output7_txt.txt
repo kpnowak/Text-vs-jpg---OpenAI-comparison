@@ -1,0 +1,11 @@
+Unfortunately, since the document language is not specified, I cannot provide a response tailored to that specific language. However, I can still outline a generic example of how to respond to an expert reviewer's comment based on the guidelines provided.
+
+Original sentence:
+"He waited for so long to tell her that he had a crush on her."
+Deviation: The preposition "for" is missing after "waited."
+Expert reviewer's original suggested change:
+"He waited for so long to tell her that he had a crush on her."
+Explanation for the reason behind your new suggested change in the same language as the issue.
+New suggested sentence:
+"He waited so long to tell her about his crush."
+In this new suggested sentence, I rephrased the sentence to make it more concise and easy to read while still conveying the same meaning. By removing the unnecessary repetition of "for," the sentence becomes more direct and to the point, aligning better with the guidelines for clarity and readability.

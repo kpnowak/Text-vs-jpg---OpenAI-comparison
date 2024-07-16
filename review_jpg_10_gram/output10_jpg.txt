@@ -1,0 +1,25 @@
+### Review of Expert Comments
+
+#### Sentence 1:
+- **Original Sentence**: "Yesterday, I gone to a party with my friend David."
+- **Deviation from Guidelines**: Incorrect verb form "gone," tense should be past simple.
+- **Expert's Suggested Change**: "Yesterday, I went to a party with my friend David."
+- **New Suggested Sentence**: Correct
+
+#### Sentence 2:
+- **Original Sentence**: "He study english with me at university."
+- **Deviation from Guidelines**: Incorrect verb tense "study," and "english" should be capitalized.
+- **Expert's Suggested Change**: "He studies English with me at university."
+- **New Suggested Sentence**: Correct
+
+#### Sentence 3:
+- **Original Sentence**: "He waited for so long to tell her that he had a crush on her."
+- **Deviation from Guidelines**: Sentence is technically correct but could be clearer.
+- **Expert's Suggested Change**: "He waited a long time to tell her that he had a crush on her."
+- **Explanation for Change**: The suggested correction maintains clarity with minimal changes, which adheres to the guideline ensuring sentences are clearer while preserving the meaning.
+- **New Suggested Sentence**: Correct
+
+#### Sentence 4:
+- **Original Sentence**: "David and I satt in the corner of the room."
+- **Deviation from Guidelines**: Typo "satt" should be "sat."
+- **Expert

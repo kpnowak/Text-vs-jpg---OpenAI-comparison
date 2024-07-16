@@ -1,0 +1,21 @@
+[document_language] == English.
+
+Grammar & Spelling Guidelines (English):
+1. Grammar and Punctuation:
+    - Correct any grammatical errors, taking into account the specific rules of the language.
+    - Fix punctuation mistakes, including commas, periods, semicolons, colons, and quotation marks, according to the standards of the language. Ignore the lack of a period at the end of the sentence.
+    - Ensure the correct use of capitalization, especially for proper nouns and at the beginning of sentences.
+    - Avoid hyphen usage corrections.
+2. Sentence Structure:
+    - Ensure all sentences are complete and properly structured as per the syntax and grammar rules of the language.
+    - Reorganize sentences if necessary to improve clarity and readability while preserving the original meaning.
+3. Consistency:
+    - Maintain consistent verb tenses throughout the document, as per the conventions of the language.
+    - Ensure consistent use of pronouns, articles, and other language-specific constructs.
+    - Standardize terminology and style across the document.
+4. Spelling:
+    - Correct any spelling mistakes, considering the spelling rules of the language.
+    - Do not correct medical terminology. Some components of the text may contain typical medical jargon (such as sentence fragments related to dosage and use). These are not grammatical errors but rather standard formulations in the medical industry.
+5. Clarity and Readability:
+    - Improve the clarity of sentences where needed, considering the nuances and complexities of the language.
+    - Simpl

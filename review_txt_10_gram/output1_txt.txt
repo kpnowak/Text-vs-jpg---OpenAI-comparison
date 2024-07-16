@@ -1,0 +1,14 @@
+The original sentence:
+"He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+
+Deviation from the guidelines:
+Incorrect verb form ("taked" should be "took").
+
+The expert reviewer's original suggested change:
+Correction: He took a drink to get some energy, and after a few minutes of endless hesitation, he walked to her.
+
+Explanation for the reason behind your new suggested change in the same language as the issue:
+The verb "taked" is incorrect and should be replaced with the correct past form "took."
+
+Your new suggested sentence:
+He took a drink to get some energy, and after a few minutes of endless hesitation, he walked to her.
