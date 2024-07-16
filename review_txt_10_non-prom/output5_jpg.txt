@@ -1,0 +1,13 @@
+1. 
+    - The original source sentence: "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+    - The deviation from the guidelines originally provided by the expert reviewer: The source sentence implies a collaborative decision-making process between the patient and the doctor without considering the restrictions on medical sample inducements.
+    - The expert reviewer's original suggested change: According to EFPIA Chapter 4 - Article 19, the conversation regarding treatment options should not be influenced by inducements related to medical samples, therefore it should be unbiased. Your new sentence: "Remember, the discussion with your doctor aims at tailoring the best treatment option for you based on your unique needs and preferences."
+    - An explanation for the reason behind your new suggested change: The original sentence implies a collaborative decision-making process that might be influenced by medical sample inducements, which is against the guidelines. The new sentence highlights the importance of an unbiased discussion with the doctor to find the best treatment option based solely on the patient's needs and preferences.
+    - Your new suggested sentence: "Remember, the discussion with your doctor aims at tailoring the best treatment option for you based on your unique needs and preferences."
+
+2. 
+    - The original source sentence: "Understanding what to expect can help you stay motivated and evaluate if your medicine is working."
+    - The deviation from the guidelines originally provided by the expert reviewer: The source sentence lacks clarity on maintaining boundaries between sharing off-label information and promotional intent, which is essential in non-promotional material guidelines.
+    - The expert reviewer's original suggested change: According to Global Legal & Compliance Pocket Guide Semaglutide portfolio, sharing off-label information is permitted without promotional intent; hence, setting clear expectations is crucial. Your new sentence: "Setting clear expectations can help you remain informed about your treatment progress without promotional implications."
+    - An explanation for the reason behind your new suggested change: The original sentence could be misconstrued as promoting a certain medicine rather than providing general information. The new sentence emphasizes the importance of clear expectations regarding treatment progress without any promotional undertones.
+    - Your new suggested sentence: "Setting clear expectations can help you remain informed about your treatment progress without promotional implications."

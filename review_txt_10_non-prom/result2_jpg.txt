@@ -1,0 +1,10 @@
+According to [EFPIA Chapter 4 - Article 21], interactions between Member Companies and patient organizations must be transparent, with financial and non-financial support clearly acknowledged. Member Companies must refrain from influencing the content of materials sponsored by patient organizations in a manner that serves their commercial interests. 
+
+Deviation:
+The document does not explicitly mention the requirement for financial and non-financial support to be clearly acknowledged in interactions with patient organizations.
+
+New Sentence:
+Member Companies must ensure that all interactions with patient organizations are based on transparency, with clear acknowledgment of any financial and non-financial support provided, and they must refrain from exerting influence on the content of sponsored materials in a manner favorable to their commercial interests.
+
+Correction Reason:
+By including the requirement for transparent interactions and acknowledgment of support, as well as emphasizing the avoidance of influencing content, the new sentence aligns with the ethical obligation outlined in the Non-Promotional Material Guidelines to maintain transparency and prevent promotional influence in interactions with patient organizations.

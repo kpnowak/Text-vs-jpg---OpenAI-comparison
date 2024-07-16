@@ -1,0 +1,8 @@
+1. 
+    - Original source sentence: "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+    - Deviation from the guidelines: The original sentence may imply a promotional element by emphasizing the patient's role in the treatment decision.
+    - Expert reviewer's original suggested change: "While your doctor is the medical expert, your personal experience of living with type 2 diabetes is invaluable for effective treatment discussions."
+    - Explanation: The original suggestion still places a heavy emphasis on the patient's role, which could be interpreted as promoting self-efficacy over medical advice, potentially deviating from the guideline of not promoting a particular approach. 
+    - New suggested sentence: "Collaborating with your doctor, who is the medical expert, to incorporate your experience of living with type 2 diabetes can enhance your treatment discussions effectively."
+    - Influence from "Non-Promotional Material Guidelines": According to [Source - EFPIA Chapter 3, Article 16], non-promotional materials should be fair, balanced, and objective, designed to fulfill unmet educational needs in healthcare.
+    - Influence from "Non-Promotional Material Guidelines": [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio], sharing of scientific information should be done in a balanced and objective manner without promotional intent.

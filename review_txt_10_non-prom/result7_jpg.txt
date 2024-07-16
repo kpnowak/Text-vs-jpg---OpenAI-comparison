@@ -1,0 +1,23 @@
+---
+
+1. Guideline source: EFPIA Chapter 3 (Article 17 - Informational or Educational Materials and Items of Medical Utility)
+   Source sentence: "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+   Deviations: According to EFPIA Chapter 3, non-promotional materials should not constitute an inducement to recommend or prescribe any medicinal product. The source sentence could potentially imply encouraging discussions that lead to treatment changes, which could be seen as promotional.
+   New sentence: "Empowerment in discussing potential treatment changes with your doctor is crucial for ensuring your healthcare needs are met."
+
+2. Guideline source: EFPIA Chapter 4 (Article 21 - Interactions with POs)
+   Source sentence: "Here are some topics to consider if you want to speak up about your type 2 diabetes treatment."
+   Deviations: According to EFPIA Chapter 4, Member Companies must not influence the text of sponsored materials in a manner favorable to their commercial interests. The source sentence could suggest influencing dialogue about treatment options.
+   New sentence: "Here are various considerations to help facilitate open discussions with your healthcare provider regarding your type 2 diabetes treatment."
+
+3. Guideline source: Global Legal & Compliance Pocket Guide (Article 1 - Non-Promotional Material)
+   Source sentence: "By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health."
+   Deviations: The provision of medical information exchange should be done in a balanced and objective way without promotional intent, as outlined in the Global Legal & Compliance Pocket Guide. The source sentence may imply a level of patient empowerment that could unconsciously promote specific medical products.
+   New sentence: "Engaging in open dialogue with your healthcare provider allows for the development of a personalized healthcare plan focused on enhancing your well-being."
+
+4. Guideline source: EFPIA Chapter 3 (Article 19 - Medical Samples)
+   Source sentence: "Your doctor should have useful strategies that can help you manage them or decide if you should switch to something else."
+   Deviations: According to EFPIA Chapter 3, Member Companies should not provide Medical Samples as an inducement to prescribe specific medicinal products. The source sentence could potentially imply discussing switching medications based on strategies provided by the company rather than solely on medical necessity.
+   New sentence: "Discuss with your doctor strategies to manage any concerns or side effects related to your current treatment, for informed decision-making regarding potential treatment adjustments."
+
+---

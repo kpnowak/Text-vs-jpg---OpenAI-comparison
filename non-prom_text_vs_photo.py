@@ -1,7 +1,7 @@
 from openai import OpenAI
 import base64
 
-client = OpenAI(api_key = 'Put you key here')
+client = OpenAI(api_key = 'PUT YOUR KEY HERE')
 
 NON_PROMOTIONAL_GUIDELINES = """
 Source - EFPIA Chapter 3:
@@ -185,6 +185,7 @@ def text_review():
     Take your time to work through the comments systematically in a step-by-step process. 
  
     Double check that you've examined every comment provided by the expert reviewer, if there are any you missed on your initial check, please go back and review them in the same manner as previously defined. If a suggestion by the expert reviewer is correct and adheres to the guidelines, you should skip it and do not mention it in your response. 
+    Be careful, because this text will be saved as txt file, so do NOT use any weird characters. Just do a plain text.
     """
 
     # chef review code
@@ -209,7 +210,7 @@ def text_review_10():
             {"role": "user", "content": f"{non_promotional_material_prompt_template_jpg}"},
         ]
         )
-        with open(f"review_jpg_10/result{i + 1}_jpg.txt", "w") as f:
+        with open(f"review_txt_10_non-prom/result{i + 1}_jpg.txt", "w") as f:
             f.write(response.choices[0].message.content)
 
         # chef review instruction
@@ -243,6 +244,7 @@ def text_review_10():
         Take your time to work through the comments systematically in a step-by-step process. 
     
         Double check that you've examined every comment provided by the expert reviewer, if there are any you missed on your initial check, please go back and review them in the same manner as previously defined. If a suggestion by the expert reviewer is correct and adheres to the guidelines, you should skip it and do not mention it in your response. 
+        Be careful, because this text will be saved as txt file, so do NOT use any weird characters. Just do a plain text. PLease.
         """
 
         # chef review code
@@ -253,5 +255,9 @@ def text_review_10():
             {"role": "user", "content": f"{final_non_promotional_review_prompt_template_jpg}"},
         ]
         )
-        with open("output_jpg.txt", "w") as f:
+        with open(f"review_txt_10_non-prom/output{i + 1}_jpg.txt", "w") as f:
             f.write(response.choices[0].message.content)
+
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------- PHOTO ---------------------------------------------------------------------------------------------
+# --------------------------------------------------------------------------------------------------------------------------------------------------------------------

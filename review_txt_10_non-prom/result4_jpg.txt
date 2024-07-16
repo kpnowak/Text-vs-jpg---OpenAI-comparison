@@ -1,0 +1,20 @@
+According to [EFPIA Chapter 3], materials must have content that is fair, balanced, and objective, designed to allow the expression of diverse evidence-based science. 
+
+- Source sentence: "How to talk about treatment options"
+- Deviations: The original document lacks a clear reference to the requirement for materials to have fair, balanced, and objective content as per the "Non-Promotional Material Guidelines".
+- New sentence: "When discussing treatment options, it's essential to ensure that the information provided is fair, balanced, and objective, reflecting diverse evidence-based science."
+- Reason for the change: The new sentence aligns with the guideline to ensure that the content is not promotional and adheres to ethical standards by emphasizing the need for fair and balanced information. 
+
+According to [EFPIA Chapter 3], LLH activities must fulfill unmet educational needs in healthcare. 
+
+- Source sentence: "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- Deviations: The original document doesn't explicitly connect the educational material to unmet needs in healthcare, as required by the "Non-Promotional Material Guidelines" principles.
+- New sentence: "Considering the evolving nature of type 2 diabetes treatment, it's crucial to engage in educational discussions that address unmet needs in healthcare."
+- Reason for the change: The new sentence ensures alignment with the guideline by emphasizing the importance of addressing unmet needs in healthcare through educational content. 
+
+According to [EFPIA Chapter 3], LLH activities must be fair, balanced, and objective.
+
+- Source sentence: "Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it's important to advocate for your needs and preferences during your discussion."
+- Deviations: The original content overlooking the requirement for LLH activities to be fair, balanced, and objective based on the guidelines specified in the "Non-Promotional Material Guidelines".
+- New sentence: "Although your doctor holds medical expertise, your first-hand experience living with type 2 diabetes should be complemented with scientifically accurate, fair, balanced, and objective information to drive discussions and decision-making processes."
+- Reason for the change: The new sentence reflects the guideline's emphasis on ensuring educational content meets the requirements for being fair, balanced, and objective in content.
