@@ -1,0 +1,14 @@
+- Original sentence:
+"He study english with me at university."
+
+- Deviation from the guidelines:
+Subject-verb agreement error ("study" should be changed to "studies").
+
+- Expert reviewer's original suggested change:
+"He studies English with me at university."
+
+- Explanation for the reason behind your new suggested change:
+The suggested change made by the expert reviewer corrected the subject-verb agreement error, which is in line with the guidelines to ensure grammatical correctness.
+
+- Your new suggested sentence:
+"He studies English with me at university."
