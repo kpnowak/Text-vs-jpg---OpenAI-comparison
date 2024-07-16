@@ -1,0 +1,49 @@
+### Review of the Document Image
+
+**Identified Language**: 
+The prominent language of the document is English.
+
+#### 1. Source Sentence: 
+"Yesterday, I gone to a party with my friend David."
+
+**Deviations Corrected**:
+- Incorrect verb form "gone" used with "I".
+- Missing auxiliary verb resulting in incorrect past tense construction.
+
+**Reason for Replacement**: 
+To correct grammatical tense agreement for past tense.
+
+**New Sentence**: 
+"Yesterday, I went to a party with my friend David."
+
+#### 2. Source Sentence: 
+"He study english with me at university."
+
+**Deviations Corrected**:
+- Incorrect verb form "study" should be "studies".
+- "english" should be capitalized.
+
+**Reason for Replacement**: 
+To correct subject-verb agreement and capitalization rules.
+
+**New Sentence**: 
+"He studies English with me at university."
+
+#### 3. Source Sentence: 
+"He wanted to be introduced to Lucy wo he fancied."
+
+**Deviations Corrected**:
+- Typographical error "wo" should be "who".
+
+**Reason for Replacement**: 
+To correct a typographical error.
+
+**New Sentence**: 
+"He wanted to be introduced to Lucy who he fancied."
+
+#### 4. Source Sentence: 
+"David and I satt in the corner of the room."
+
+**Deviations Corrected**:
+- Typographical error "satt" should be "sat".
+

@@ -1,0 +1,19 @@
+### Checking Over Expert's Comments:
+
+1. **Source Sentence**: "Yesterday, I gone to a party with my friend David."
+   - **Deviations Corrected**: Incorrect verb tense "gone" should be "went".
+   - **Reason**: Correcting the past tense usage to improve grammatical accuracy.
+   - **Expert Suggested Change**: "Yesterday, I went to a party with my friend David."
+   - **New Suggested Sentence**: "Yesterday, I went to a party with my friend David."
+
+2. **Source Sentence**: "He study english with me at university."
+   - **Deviations Corrected**: Incorrect verb tense "study" should be "studies", and "english" should be capitalized.
+   - **Reason**: Ensuring the verb tense agrees with the subject and proper noun capitalization.
+   - **Expert Suggested Change**: "He studies English with me at university."
+   - **New Suggested Sentence**: "He studies English with me at university."
+
+3. **Source Sentence**: "He wanted to be introduced to Lucy wo he fancied."
+   - **Deviations Corrected**: Typographical error "wo" should be "who".
+   - **Reason**: Correcting the spelling to improve clarity.
+   - **Expert Suggested Change**: "He wanted to be introduced to Lucy who he fancied."
+   - **New Suggested Sentence**: "He wanted to be introduced to Lucy

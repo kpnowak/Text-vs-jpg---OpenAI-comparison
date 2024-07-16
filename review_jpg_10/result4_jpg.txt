@@ -1,0 +1,22 @@
+The prominent language of the document is English. Let's ensure we follow all steps and guidelines to review and correct the grammar accurately.
+
+### Review and Correction
+
+1. **Source Sentence**: "Yesterday, I gone to a party with my friend David."
+   - **Deviation**: Incorrect past tense verb usage ("gone" should be "went").
+   - **Reason for replacement**: Corrects the tense of the verb for grammatical correctness.
+   - **New Sentence**: "Yesterday, I went to a party with my friend David."
+
+2. **Source Sentence**: "He study english with me at university."
+   - **Deviation**: Incorrect verb form and capitalization ("study" should be "studies", "english" should be "English").
+   - **Reason for replacement**: Corrects subject-verb agreement and proper noun capitalization.
+   - **New Sentence**: "He studies English with me at university."
+
+3. **Source Sentence**: "David and I satt in the corner of the room."
+   - **Deviation**: Misspelling ("satt" should be "sat").
+   - **Reason for replacement**: Corrects the spelling error.
+   - **New Sentence**: "David and I sat in the corner of the room."
+
+4. **Source Sentence**: "He didn ' t making the first move to go and see her."
+   - **Deviation**: Incorrect verb form ("making" should be "make").
+   - **Reason

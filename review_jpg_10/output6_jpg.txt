@@ -1,0 +1,26 @@
+### Step 1: Identify the prominent language of the document
+The document is written in English.
+
+### Step 2: Skip reviewing any French content
+Not Applicable (the document is only in English).
+
+### Step 4: Study the Prompt and Guidelines
+Done.
+
+### Step 6: Work through each of the comments provided by the expert reviewer.
+
+1. Original sentence: Yesterday, I gone to a party with my friend David.
+   - Deviation: Incorrect verb tense ("gone" should be "went").
+   - Expert reviewer's suggested change: Yesterday, I went to a party with my friend David.
+   - Agreed with the expert's suggested change.
+
+2. Original sentence: He study english with me at university.
+   - Deviation: Incorrect verb tense ("study" should be "studies"). "english" should be capitalized to "English."
+   - Expert reviewer's suggested change: He studies English with me at university.
+   - Agreed with the expert's suggested change.
+
+3. Original sentence: He didn ' t making the first move to go and see her.
+   - Deviation: Incorrect verb form ("making" should be "make"). Extra spaces around the contraction.
+   - Expert reviewer's suggested change: He didn't make the first move to go and see her.
+   - Justification for new suggestion: Correct the verb form and remove unnecessary spaces around the contraction.
+   - New suggested sentence: He didn't make the first move to go and see

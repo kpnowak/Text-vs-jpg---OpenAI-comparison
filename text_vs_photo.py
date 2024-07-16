@@ -1,7 +1,7 @@
 from openai import OpenAI
 import base64
 
-client = OpenAI(api_key = 'sk-proj-hjIsgHjRy9fKmrGuNkkOT3BlbkFJ3XHrmXXHhsrgrobZ53Wt')
+client = OpenAI(api_key = 'sk-proj-GNa8aEchhT424OsBKUTJT3BlbkFJxeJntFBjbJal2pDjnCxX')
 
 MULTILANGUAGE_GUIDELINES = """
 1. Grammar and Punctuation: 
@@ -124,7 +124,7 @@ def jpg_to_text():
         }
         
     ],
-    max_tokens=300,
+    max_tokens=1500,
     )
     
     with open("jpg_to_txt.txt", "w") as f:
@@ -358,7 +358,7 @@ def jpg_review():
         }
         
     ],
-    max_tokens=300,
+    max_tokens=1500,
     )
     
     with open("result_jpg.txt", "w") as f:
@@ -437,7 +437,7 @@ def jpg_review():
         }
         
     ],
-    max_tokens=300,
+    max_tokens=1500,
     )
     
     with open("output_jpg.txt", "w") as f:
@@ -466,7 +466,7 @@ def jpg_review_10():
             }
             
         ],
-        max_tokens=300,
+        max_tokens=1500,
         )
         
         with open(f"review_jpg_10/result{i + 1}_jpg.txt", "w") as f:
@@ -545,7 +545,7 @@ def jpg_review_10():
             }
             
         ],
-        max_tokens=300,
+        max_tokens=1500,
         )
         
         with open(f"review_jpg_10/output{i + 1}_jpg.txt", "w") as f:
