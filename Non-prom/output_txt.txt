@@ -1,0 +1,45 @@
+### Comment 1: 
+
+- **Original Source Sentence:**
+  According to [EFPIA Chapter 3], LLH activities must have content that is fair, balanced, and objective.
+  
+- **Deviation from the Guidelines:**
+  The expert's suggested change provides additional guidance on discussing treatment options to ensure fairness, balance, and objectivity but lacks specific alignment with the LLH guidelines.
+  
+- **Expert Reviewer's Original Suggested Change:**
+  "When discussing treatment options, ensure the information presented is fair, balanced, and objective to align with LLH guidelines."
+  
+- **Explanation for the New Suggested Change:**
+  The suggested change by the expert reviewer lacks a direct connection to the LLH guidelines outlined in [EFPIA Chapter 3]. To improve alignment with the guidelines and provide clear direction, the new sentence should focus explicitly on ensuring that the content of LLH activities meets the criteria specified in the guideline.
+  
+- **New Suggested Sentence:**
+  "LLH activities must ensure that all information presented regarding treatment options is fair, balanced, and objective as per the guidelines in [EFPIA Chapter 3]."
+  
+  - **Influence of Non-Promotional Material Guidelines:**
+    According to [EFPIA Chapter 3], LLH activities must have content that is fair, balanced, and objective.
+
+---
+
+### Comment 2:
+
+- **Original Source Sentence:**
+  According to [EFPIA Chapter 4], financial and non-financial support provided by Member Companies to POs must always be clearly acknowledged.
+  
+- **Deviation from the Guidelines:**
+  The expert's suggested change emphasizes transparency in disclosing support but lacks a clear direct link to the guidelines provided by [EFPIA Chapter 4].
+  
+- **Expert Reviewer's Original Suggested Change:**
+  "When seeking collaborations, it's essential to transparently acknowledge any financial or non-financial support provided by Member Companies to maintain ethical standards."
+  
+- **Explanation for the New Suggested Change:**
+  While the expert's suggested change touches on the importance of acknowledging support, the new sentence should be more explicit in directly referencing the guidelines from [EFPIA Chapter 4] to ensure adherence to the specified regulations.
+  
+- **New Suggested Sentence:**
+  "Member Companies must ensure that any financial or non-financial support provided to POs is clearly acknowledged as required by the guidelines outlined in [EFPIA Chapter 4]."
+  
+  - **Influence of Non-Promotional Material Guidelines:**
+    According to [EFPIA Chapter 4], financial and non-financial support provided by Member Companies to POs must always be clearly acknowledged.
+
+---  
+
+Ensure that you consistently reference and align with the specified guidelines in your suggested changes to maintain accuracy and compliance with the "Non-Promotional Material Guidelines."

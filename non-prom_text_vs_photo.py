@@ -1,7 +1,7 @@
 from openai import OpenAI
 import base64
 
-client = OpenAI(api_key = 'PUT YOUR KEY HERE')
+client = OpenAI(api_key = 'sk-proj-Jt4lv2p6LLqhcweW7E2RT3BlbkFJY7He1gNW7TTMEypdw5Z7')
 
 NON_PROMOTIONAL_GUIDELINES = """
 Source - EFPIA Chapter 3:
@@ -69,7 +69,7 @@ with open('Non-prom/jpg_to_txt.txt', 'r', encoding='latin-1') as file:
     jpg_to_txt_content = file.read()
 
 
-non_promotional_material_prompt_template_jpg = f"""
+non_promotional_material_prompt_template_txt = f"""
 
 You as an expert reviewer for promotional materials, your role is to meticulously review non-promotional materials in accordance with "Non-Promotional Material Guidelines". It is imperative to follow the instructions provided and ensure your response meets the required standards. 
 
@@ -148,14 +148,14 @@ def text_review():
     model="gpt-3.5-turbo",
     messages=[
         {"role": "system", "content": "You are a helpful assistant that reviews the documents."},
-        {"role": "user", "content": f"{non_promotional_material_prompt_template_jpg}"},
+        {"role": "user", "content": f"{non_promotional_material_prompt_template_txt}"},
     ]
     )
-    with open("Non-prom/result_jpg.txt", "w") as f:
+    with open("Non-prom/result_txt.txt", "w") as f:
         f.write(response.choices[0].message.content)
 
     # chef review instruction
-    final_non_promotional_review_prompt_template_jpg = f"""
+    final_non_promotional_review_prompt_template_txt = f"""
     You are the chief reviewer for reviews performed for "Non-Promotional Material Guidelines". You are provided with document reviews from your team of expert reviewers. You are responsible for checking over their reviews and providing feedback to the reviewers before publishing the reviews to the client. 
 
     Below are the guidelines for the "Non-Promotional Material Guidelines" delimited by XXX: 
@@ -193,10 +193,10 @@ def text_review():
     model="gpt-3.5-turbo",
     messages=[
         {"role": "system", "content": "You are a helpful assistant that reviews the documents."},
-        {"role": "user", "content": f"{final_non_promotional_review_prompt_template_jpg}"},
+        {"role": "user", "content": f"{final_non_promotional_review_prompt_template_txt}"},
     ]
     )
-    with open("Non-prom/output_jpg.txt", "w") as f:
+    with open("Non-prom/output_txt.txt", "w") as f:
         f.write(response.choices[0].message.content)
 
 
@@ -207,14 +207,14 @@ def text_review_10():
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": "You are a helpful assistant that reviews the documents."},
-            {"role": "user", "content": f"{non_promotional_material_prompt_template_jpg}"},
+            {"role": "user", "content": f"{non_promotional_material_prompt_template_txt}"},
         ]
         )
-        with open(f"review_txt_10_non-prom/result{i + 1}_jpg.txt", "w") as f:
+        with open(f"review_txt_10_non-prom/result{i + 1}_txt.txt", "w") as f:
             f.write(response.choices[0].message.content)
 
         # chef review instruction
-        final_non_promotional_review_prompt_template_jpg = f"""
+        final_non_promotional_review_prompt_template_txt = f"""
         You are the chief reviewer for reviews performed for "Non-Promotional Material Guidelines". You are provided with document reviews from your team of expert reviewers. You are responsible for checking over their reviews and providing feedback to the reviewers before publishing the reviews to the client. 
 
         Below are the guidelines for the "Non-Promotional Material Guidelines" delimited by XXX: 
@@ -252,12 +252,130 @@ def text_review_10():
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": "You are a helpful assistant that reviews the documents."},
-            {"role": "user", "content": f"{final_non_promotional_review_prompt_template_jpg}"},
+            {"role": "user", "content": f"{final_non_promotional_review_prompt_template_txt}"},
         ]
         )
-        with open(f"review_txt_10_non-prom/output{i + 1}_jpg.txt", "w") as f:
+        with open(f"review_txt_10_non-prom/output{i + 1}_txt.txt", "w") as f:
             f.write(response.choices[0].message.content)
 
 # --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # ----------------------------------------------------------------------- PHOTO ---------------------------------------------------------------------------------------------
 # --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+non_promotional_material_prompt_template_jpg = f"""
+
+You as an expert reviewer for promotional materials, your role is to meticulously review non-promotional materials in accordance with "Non-Promotional Material Guidelines". It is imperative to follow the instructions provided and ensure your response meets the required standards. 
+
+"Non-Promotional Material Guidelines" delimited by XXX: 
+XXX 
+{NON_PROMOTIONAL_GUIDELINES} 
+XXX 
+
+Please review the image that you are provided with, which is the document, by using the "Non-Promotional Material Guidelines" provided above. The document to review is the image.
+    
+You should start your review by studying the "Non-Promotional Material Guidelines", remember to adhere to the ethical principles outlined in the document and maintain high standards when reviewing materials. Each point should be carefully checked to ensure compliance with the "Non-Promotional Material Guidelines". 
+
+Please provide the following response for each of your new sentences:
+- Guideline source which influenced your response
+- The source sentence your new sentence replaces 
+- The deviations your new sentence corrects
+- In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response (i.e. "According to [Source - Communicate With Care Pocket Guide] the information suggests that [write your deviations here])
+- Your new sentence 
+- The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations 
+   
+Try to correct as many deviations as you can. 
+    
+Double-check your working, ensuring that you've considered the entire document provided and your comments refer clearly to the Non-Promotional Material Guidelines. 
+   
+Do not provide duplicate comments. No two comments in your response should be the same. If there are any duplicate comments, remove them from your response, keeping the original. 
+"""
+
+def jpg_review():
+    url = f"data:image/jpeg;base64,{base64_image}"
+    response = client.chat.completions.create(
+    model="gpt-4o",
+    messages=[
+        {"role":"assistant","content":"Your role is to review an image, which is a document."},
+        {
+        
+        "role": "user",
+        "content": [
+            {"type": "text", "text": f"{non_promotional_material_prompt_template_jpg}"},
+            {
+            "type": "image_url",
+            "image_url": {
+                "url": url,
+            },
+            },
+        ],
+        }
+        
+    ],
+    max_tokens=1500,
+    )
+    
+    with open("Non-prom/result_jpg.txt", "w") as f:
+        f.write(response.choices[0].message.content)
+
+    # chef review instruction
+    final_non_promotional_review_prompt_template_jpg = f"""
+    You are the chief reviewer for reviews performed for "Non-Promotional Material Guidelines". You are provided with document reviews from your team of expert reviewers. You are responsible for checking over their reviews and providing feedback to the reviewers before publishing the reviews to the client. 
+
+    Below are the guidelines for the "Non-Promotional Material Guidelines" delimited by XXX: 
+    XXX 
+    {NON_PROMOTIONAL_GUIDELINES} 
+    XXX 
+   
+    You are provided with an image of the document that your team of experts already reviewed.
+    Please conduct a review upon the image of the document that you are provided with and the Expert's comments below delimited by XXX:
+    XXX 
+    {response.choices[0].message.content}
+    XXX 
+    
+    Work through each of the comments provided by the expert reviewer. You should start by understanding "Non-Promotional Material Guidelines" guidelines. Next you should verify that the expert's suggested change adheres to every single one of the guidelines. If there can be an improvement to the expert's suggested change or is inadequate with regards to the "Non-Promotional Material Guidelines", please create a new suggested change which better adhere's to all of the guidelines, this can be a completely new sentence if needed. 
+    
+    Please provide the following response for each of the comments you've improved upon: 
+        - The original source sentence
+        - The deviation from the guidelines originally provided by the expert reviewer
+        - The expert reviewer's original suggested change 
+        - An explanation for the reason behind your new suggested change 
+        - Your new suggested sentence
+        - In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response (i.e. "According to [Source - Communicate With Care Pocket Guide] the information suggests that [write your deviations here])
+    
+    Comments which you have not improved upon can be left out of your response 
+    
+    In your review you should make sure that your suggested changes are not just copies of the source sentence nor a copy of the expert reviewer's sentence and they adhere to the guidelines 
+    
+    Take your time to work through the comments systematically in a step-by-step process. 
+ 
+    Double check that you've examined every comment provided by the expert reviewer, if there are any you missed on your initial check, please go back and review them in the same manner as previously defined. If a suggestion by the expert reviewer is correct and adheres to the guidelines, you should skip it and do not mention it in your response. 
+    Be careful, because this text will be saved as txt file, so do NOT use any weird characters. Just do a plain text.
+    """
+
+    url = f"data:image/jpeg;base64,{base64_image}"
+    response = client.chat.completions.create(
+    model="gpt-4o",
+    messages=[
+        {"role":"assistant","content":"Your role is to review an image."},
+        {
+        
+        "role": "user",
+        "content": [
+            {"type": "text", "text": f"{final_non_promotional_review_prompt_template_jpg}"},
+            {
+            "type": "image_url",
+            "image_url": {
+                "url": url,
+            },
+            },
+        ],
+        }
+        
+    ],
+    max_tokens=1500,
+    )
+    
+    with open("Non-prom/output_jpg.txt", "w") as f:
+        f.write(response.choices[0].message.content)
+
+jpg_review()

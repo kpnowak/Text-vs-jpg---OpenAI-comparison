@@ -1,45 +1,85 @@
-### Comment 1: 
+### Corrections and Justifications:
 
-- **Original Source Sentence:**
-  According to [EFPIA Chapter 3], LLH activities must have content that is fair, balanced, and objective.
-  
-- **Deviation from the Guidelines:**
-  The expert's suggested change provides additional guidance on discussing treatment options to ensure fairness, balance, and objectivity but lacks specific alignment with the LLH guidelines.
-  
-- **Expert Reviewer's Original Suggested Change:**
-  "When discussing treatment options, ensure the information presented is fair, balanced, and objective to align with LLH guidelines."
-  
-- **Explanation for the New Suggested Change:**
-  The suggested change by the expert reviewer lacks a direct connection to the LLH guidelines outlined in [EFPIA Chapter 3]. To improve alignment with the guidelines and provide clear direction, the new sentence should focus explicitly on ensuring that the content of LLH activities meets the criteria specified in the guideline.
-  
-- **New Suggested Sentence:**
-  "LLH activities must ensure that all information presented regarding treatment options is fair, balanced, and objective as per the guidelines in [EFPIA Chapter 3]."
-  
-  - **Influence of Non-Promotional Material Guidelines:**
-    According to [EFPIA Chapter 3], LLH activities must have content that is fair, balanced, and objective.
+#### 1. Missing Disclaimers
 
----
+**Source Sentence:**
+(There is no disclaimer at the beginning of the document)
 
-### Comment 2:
+**Deviations:**
+According to [Disclaimer Texts for Non-promotional Material], Article 1 states that any materials used for internal communication or local distribution should contain a disclaimer indicating their intended use and confidentiality.
 
-- **Original Source Sentence:**
-  According to [EFPIA Chapter 4], financial and non-financial support provided by Member Companies to POs must always be clearly acknowledged.
-  
-- **Deviation from the Guidelines:**
-  The expert's suggested change emphasizes transparency in disclosing support but lacks a clear direct link to the guidelines provided by [EFPIA Chapter 4].
-  
-- **Expert Reviewer's Original Suggested Change:**
-  "When seeking collaborations, it's essential to transparently acknowledge any financial or non-financial support provided by Member Companies to maintain ethical standards."
-  
-- **Explanation for the New Suggested Change:**
-  While the expert's suggested change touches on the importance of acknowledging support, the new sentence should be more explicit in directly referencing the guidelines from [EFPIA Chapter 4] to ensure adherence to the specified regulations.
-  
-- **New Suggested Sentence:**
-  "Member Companies must ensure that any financial or non-financial support provided to POs is clearly acknowledged as required by the guidelines outlined in [EFPIA Chapter 4]."
-  
-  - **Influence of Non-Promotional Material Guidelines:**
-    According to [EFPIA Chapter 4], financial and non-financial support provided by Member Companies to POs must always be clearly acknowledged.
+**Expert Reviewer's Suggested Change:**
+"This is a DRAFT, for preparatory use in NN only. Affiliates are responsible for compliance with local procedures and for review of such non-promotional material, e.g., against more stringent local legislation, and if relevant local code of conduct before distribution."
 
----  
+**Explanation for New Change:**
+While the expert's suggestion is correct, it lacks a note for confidentiality when relevant and instructions for final documents.
 
-Ensure that you consistently reference and align with the specified guidelines in your suggested changes to maintain accuracy and compliance with the "Non-Promotional Material Guidelines."
+**New Suggested Sentence:**
+"This material is for preparatory use in NN only. Affiliates are responsible for ensuring compliance with local procedures and reviewing this non-promotional material against more stringent local legislation and relevant codes of conduct before distribution. Mark as 'DRAFT' if not final and/or 'CONFIDENTIAL' if required."
+
+**Deviations:**
+According to [Disclaimer Texts for Non-promotional Material, Article 1], internal communications should include disclaimers regarding their preparatory nature and confidentiality. Also, it should indicate DRAFT and/or CONFIDENTIAL as needed.
+
+#### 4. Off-Label Information Clarification
+
+**Source Sentence:**
+“Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available).”
+
+**Deviations:**
+According to [Global Legal & Compliance Pocket Guide Semaglutide portfolio, Article 1.ii], it is critical to avoid implying off-label use or treatment preferences that are not supported by clinical evidence.
+
+**Expert Reviewer's Suggested Change:**
+"Discuss any difficulties you’ve experienced with your current treatment—such as side effects, and explore available treatment options under your doctor’s guidance."
+
+**Explanation for New Change:**
+Further clarification is needed to emphasize evidence-based guidance rather than just stating “available treatment options.”
+
+**New Suggested Sentence:**
+"Discuss any difficulties you’ve experienced with your current treatment, such as side effects, and consult your doctor to explore available evidence-based treatment options."
+
+**Deviations:**
+According to [Global Legal & Compliance Pocket Guide Semaglutide portfolio, Article 1.ii], factual information must be communicated correctly, avoiding implications of off-label use and focusing on evidence-based options.
+
+#### 6. Consistency and Compliance
+
+**Source Sentence:**
+“Remember, this conversation is about working together with your doctor to find the best treatment option for you.”
+
+**Deviations:**
+According to [EFPIA Chapter 3, Article 16.i], Educational materials should promote fair, balanced, and objective scientific information.
+
+**Expert Reviewer's Suggested Change:**
+“Remember, collaborating with your doctor helps find the most appropriate treatment option based on evidenced-based medical guidance.”
+
+**Explanation for New Change:**
+The new sentence can emphasize the importance of scientific evidence and a balanced perspective.
+
+**New Suggested Sentence:**
+"Remember, working together with your doctor ensures that treatment choices are based on balanced and evidence-based medical guidance."
+
+**Deviations:**
+According to [EFPIA Chapter 3, Article 16.i], LLH activities must introduce fair, balanced, and objective educational content.
+
+#### 7. Unbiased Non-Promotional Stance
+
+**Source Sentence:**
+“Ask questions or share concerns you have about trying a new medication. This means talking through and understanding how it works, and the kind of side effects you could potentially experience.”
+
+**Deviations:**
+According to [EFPIA Chapter 3, Article 17.iii], materials should not serve as an inducement to prescribe or promote specific medications.
+
+**Expert Reviewer's Suggested Change:**
+“Engage in discussions with your doctor about how different medications work and their potential side effects, ensuring you make informed choices.”
+
+**Explanation for New Change:**
+Further specifying the unbiased approach without suggesting new medications.
+
+**New Suggested Sentence:**
+"Engage in discussions with your doctor to understand how different medications work and their potential side effects, ensuring informed decisions without bias."
+
+**Deviations:**
+According to [EFPIA Chapter 3, Article 17.iii], materials must not act as an inducement to recommend specific Medicinal Products. 
+
+### Summary:
+
+By refining the suggested changes from the expert, we've ensured the materials now better align with "Non-Promotional Material Guidelines," promoting ethical standards, compliance, and clarity without suggesting any indirect promotions or off-label uses.
