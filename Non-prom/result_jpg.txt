@@ -1,0 +1,11 @@
+According to [EFPIA Chapter 3], LLH activities must have content that is fair, balanced, and objective.
+- The original document provides general advice on discussing treatment options but lacks specific guidance on ensuring the content is fair, balanced, and objective.
+- The deviation is related to maintaining fairness, balance, and objectivity in discussing treatment options.
+- "When discussing treatment options, ensure the information presented is fair, balanced, and objective to align with LLH guidelines."
+- This new sentence ensures that the information presented to patients about treatment options is in line with the LLH guidelines, promoting fairness, balance, and objectivity in the communication.
+
+According to [EFPIA Chapter 4], financial and non-financial support provided by Member Companies to POs must always be clearly acknowledged.
+- The original document advises openly discussing concerns, but it does not emphasize the need for clear acknowledgment of support.
+- The deviation is related to ensuring transparency in disclosing financial and non-financial support to third parties.
+- "When seeking collaborations, it's essential to transparently acknowledge any financial or non-financial support provided by Member Companies to maintain ethical standards."
+- This new sentence addresses the deviation by underscoring the importance of transparent acknowledgment of support, aligning with the guidelines to maintain ethical conduct in collaborations.
