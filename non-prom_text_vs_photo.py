@@ -1,7 +1,7 @@
 from openai import OpenAI
 import base64
 
-client = OpenAI(api_key = 'sk-proj-Jt4lv2p6LLqhcweW7E2RT3BlbkFJY7He1gNW7TTMEypdw5Z7')
+client = OpenAI(api_key = 'PUT YOUR KEY HERE')
 
 NON_PROMOTIONAL_GUIDELINES = """
 Source - EFPIA Chapter 3:
