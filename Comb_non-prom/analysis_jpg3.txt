@@ -1,0 +1,47 @@
+Mistake 'It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial.': 
+- True Positive: 0
+- False Negative: 10
+- False Positive: 0
+- True Negative: 0
+
+Mistake '[Source - EFPIA Chapter 3: Article 20], content must focus on communication without suggesting treatment adjustments.': 
+- True Positive: 0
+- False Negative: 10
+- False Positive: 0
+- True Negative: 0
+
+Mistake 'Use of casual phrases like "like you're doing right now!" which might undermine the professional tone.': 
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+Mistake '[Source - Communicate With Care Pocket Guide] Use polite language, avoid sarcasm and humor.': 
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+Mistake 'Acknowledge that follow-up schedules may vary based on individual circumstances.': 
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+Mistake 'Emphasize a partnership approach, focusing on personalized care and collaboration.': 
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+Mistake 'By actively participating in the decision-making process with your doctor, including asking questions and expressing your needs, you can help create a personalized treatment plan that empowers you to better manage your health.': 
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+### Summary Confusion Matrix:
+- True Positive: 50
+- False Negative: 20
+- False Positive: 0
+- True Negative: 0

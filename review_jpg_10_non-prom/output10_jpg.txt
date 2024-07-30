@@ -1,24 +1,37 @@
-### Review of Image Using "Non-Promotional Material Guidelines"
+- The original source sentence:
+"Your doctor is the medical expert, but you are the one living with type 2 diabetes."
 
-**Guideline source:** Source - EFPIA Chapter 3, Article 18 - Non-Interventional Studies
-1. **Original source sentence:** "It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment."
-2. **Deviation:** According to [Source - Communicate With Care Pocket Guide], casual encouragement phrases like “like you’re doing right now!” might undermine the professional tone.
-3. **Expert reviewer's original suggested change:** "It can be challenging to begin these conversations, but having your treatment goals clear and becoming more informed about type 2 diabetes will help you discuss your treatment options more effectively with your doctor."
-4. **Explanation for the reason behind your new suggested change:** The expert reviewer's suggestion is generally good but can maintain a more formal tone that aligns strictly with professionalism.
-5. **New suggested sentence:** "Starting these conversations can be challenging, but being clear on your treatment goals and well-informed about type 2 diabetes can help facilitate more effective discussions with your doctor."
+- The deviation from the guidelines originally provided by the expert reviewer:
+According to [Source - Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional], the tone could be perceived as undermining the professional advice of healthcare providers.
 
-**Guideline source:** Source - Disclaimers for Non-promotional Material
-1. **Original source sentence:** "Ask questions or share concerns you have about trying a new medication."
-2. **Deviation:** According to [Source - Global Legal & Compliance Pocket Guide], this statement could be interpreted as promoting new medications, which goes against non-promotional material guidelines.
-3. **Expert reviewer's original suggested change:** "Discuss any questions or concerns with your doctor regarding new treatment options."
-4. **Explanation for the reason behind your new suggested change:** The expert reviewer's suggestion is good but can be made slightly more precise to ensure it emphasizes a broader consultative approach without the implication of trying new medications specifically.
-5. **New suggested sentence:** "Discuss any questions or concerns with your doctor about potential treatment options."
+- The expert reviewer's original suggested change:
+"While your doctor is the medical expert, you play a crucial role in managing your type 2 diabetes."
 
-**Guideline source:** Source - Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional
-1. **Original source sentence:** "For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don’t have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals."
-2. **Deviation:** According to [Source - Communicate With Care Pocket Guide], the phrase implies a preference or promotion towards specific types of medication, which compromises clarity and neutrality.
-3. **Expert reviewer's original suggested change:** "For example, if you travel frequently or have limited time for exercise, discuss with your doctor how a new treatment plan can help manage your weight and fit better into your lifestyle."
-4. **Explanation for the reason behind your new suggested change:** While good, the expert reviewer's suggestion can maintain a better professional tone and ensure no implication towards specific treatments.
-5. **New suggested sentence:** "For example, if you travel frequently and have limited time for exercise, discuss with your doctor how a treatment plan can support your weight management goals and align with your lifestyle."
+- An explanation for the reason behind your new suggested change:
+The expert reviewer's suggestion maintains professionalism but can be further improved by emphasizing shared responsibility without diminishing the expertise of the healthcare provider. It also adheres more closely to the principle of maintaining a professional tone in communication.
 
-By making these adjustments, we ensure that the revisions better align with the Non-Promotional Material Guidelines, maintaining a professional, clear, and non-promotional tone.
+- Your new suggested sentence:
+"Your doctor is the medical expert and you, as the individual living with type 2 diabetes, are an essential partner in managing your condition."
+
+- In the deviations, write which source and key point from "Non-Promotional Material Guidelines" influenced the response:
+According to [Source - Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional], it is vital to ensure clarity and avoid any tone that might be misconstrued as undermining professional expertise while recognizing the patient's critical role in managing their health.
+
+---
+
+- The original source sentence:
+"Discuss how you should follow-up on how your new treatment is working. Typically, type 2 diabetes patients should see their doctor every 3-6 months."
+
+- The deviation from the guidelines originally provided by the expert reviewer:
+According to [Source - Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers], the need for a general disclaimer about the patient example to avoid it being seen as specific medical advice.
+
+- The expert reviewer's original suggested change:
+"Discuss with your healthcare provider how you should follow-up on your new treatment to see if it is working effectively. Typically, type 2 diabetes patients should see their doctor every 3-6 months. The character and its description are for representation purposes only and do not reflect real patient experiences."
+
+- An explanation for the reason behind your new suggested change:
+The expert reviewer's suggestion can be improved to more explicitly clarify the view that patient visits are general recommendations and encourage personalized discussions with healthcare providers.
+
+- Your new suggested sentence:
+"Consult your healthcare provider on follow-up procedures for your new treatment to evaluate its effectiveness. For general guidance, patients with type 2 diabetes typically see their doctor every 3-6 months. This information is intended for educational purposes only and should not replace professional medical advice."
+
+- In the deviations, write which source and key point from "Non-Promotional Material Guidelines" influenced the response:
+According to [Source - Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers], it is important to avoid providing general advice that could be mistaken for specific patient instructions, ensuring a clear distinction between general guidance and personalized medical advice.

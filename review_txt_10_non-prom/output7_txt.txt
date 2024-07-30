@@ -1,0 +1,137 @@
+### Review of "How to talk about treatment options"
+
+#### 1. Opening Paragraph
+- The original source sentence:
+"How to talk about treatment options"
+
+- The deviation from the guidelines:
+The original sentence does not put a focus on the educational aspect directly linked to patient care.
+
+- The expert reviewer's original suggested change:
+"Empowering Conversations About Type 2 Diabetes Treatment Options"
+
+- An explanation for the reason behind my new suggested change:
+The Expert's suggested title is close but could better emphasize both the empowerment and direct benefit to patient care by making sure it's explicitly clear. 
+
+- My new suggested sentence:
+"Empowering Patients in Discussing Type 2 Diabetes Treatment Options"
+
+- Deviation influenced by:
+According to [Source – EFPIA Chapter 3, Article 17.i], the material provided should be directly beneficial to the care of patients.
+
+#### 2. Informative Content
+- The original source sentence:
+"It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+- The deviation from the guidelines:
+The sentence lacks a clear reference to enhancing the patient’s scientific knowledge and understanding of their treatment.
+
+- The expert reviewer's original suggested change:
+"It's crucial to feel empowered and informed, ready to discuss with your doctor, backed by scientific knowledge on how changes in treatment can benefit your health outcomes."
+
+- An explanation for the reason behind my new suggested change:
+The expert's sentence emphasizes scientific knowledge but needs a clearer link to patient outcomes and engagement enhancement.
+
+- My new suggested sentence:
+"It's crucial to feel empowered and informed by scientific knowledge, so you can effectively discuss with your doctor how changes in treatment can improve your health outcomes."
+
+- Deviation influenced by:
+According to [Source – EFPIA Chapter 3, Article 16.i], LLH activities should enhance scientific knowledge and improve patient outcomes.
+
+#### 3. Advocacy
+- The original source sentence:
+"You know your mind and body, and it's important to advocate for your needs and preferences during your discussion."
+
+- The deviation from the guidelines:
+The sentence does not appropriately stress the necessity of information being non-product-branded.
+
+- The expert reviewer's original suggested change:
+"You know your mind and body best, so it's important to discuss your needs and preferences with evidence-based, non-product-branded information."
+
+- An explanation for the reason behind my new suggested change:
+While the expert uses "evidence-based," the sentence should further emphasize the need for balanced, non-product-specific information.
+
+- My new suggested sentence:
+"You know your body and mind best, so it is important to discuss your needs and preferences using balanced, evidence-based information that is non-product-branded."
+
+-Deviation influenced by:
+According to [Source – EFPIA Chapter 3, Article 17.iv], educational materials must not be product branded unless necessary for patient use.
+
+#### 4. Topics to Consider
+- The original source sentence:
+"Share your personal goals, whether it's better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective."
+
+- The deviation from the guidelines:
+The sentence lacks clear reference to the scientific basis for treatment decisions.
+
+- The expert reviewer's original suggested change:
+"Share your personal health goals, such as improved blood sugar control, weight management, or reduced cardiovascular risk, and engage your doctor in discussing the scientific basis for adjusting your current treatment towards achieving these goals."
+
+- An explanation for the reason behind my new suggested change:
+The new sentence could be even clearer by emphasizing scientific evidence as the basis for medical discussions.
+
+- My new suggested sentence:
+"Discuss your personal health goals, like better blood sugar control, weight management, or lowering cardiovascular risk, and use scientific evidence as the basis when talking to your doctor about adjusting your treatment."
+
+-Deviation influenced by:
+According to [Source – EFPIA Chapter 3, Article 18.i], the emphasis should be on the scientific purpose and evidence.
+
+#### 5. Side Effects Discussion
+- The original source sentence:
+"This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
+
+- The deviation from the guidelines:
+The sentence might not explicitly address avoiding exaggerations or speculations about side effects.
+
+- The expert reviewer's original suggested change:
+"This involves discussing and objectively understanding how the medication works and the potential side effects based on current scientific evidence."
+
+- An explanation for the reason behind my new suggested change:
+Adding language that highlights objective understanding might better meet the guideline for clarity and avoiding generalizations.
+
+- My new suggested sentence:
+"This involves a clear, objective discussion about how the medication works and what side effects may arise, all based on current scientific evidence."
+
+-Deviation influenced by:
+According to [Source – Communicate With Care Pocket Guide, Article 2.i], communications should stick to facts and avoid exaggerations or speculations.
+
+#### 6. Proper Follow-Up
+- The original source sentence:
+"Discuss when you should follow-up on how your new treatment is working."
+
+- The deviation from the guidelines:
+The suggestion lacks detailed guidance on ensuring ongoing educational value and scientific evaluation.
+
+- The expert reviewer's original suggested change:
+"Discuss an evidence-based follow-up schedule to assess how your new treatment is working, allowing for continuous scientific evaluation and adjustment."
+
+- An explanation for the reason behind my new suggested change:
+Explicitly highlighting the importance of ongoing scientific assessment within a follow-up can emphasize the educational aspect more strongly.
+
+- My new suggested sentence:
+"Establish an evidence-based follow-up plan to evaluate the effectiveness of your new treatment, enabling ongoing scientific assessment and necessary adjustments."
+
+-Deviation influenced by:
+According to [Source – EFPIA Chapter 3, Article 16.i], ongoing educational needs and scientific evaluation should be considered in patient care.
+
+#### 7. Concluding Note
+- The original source sentence:
+"By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health."
+
+- The deviation from the guidelines:
+The final sentence lacks a reminder to consult the patient information leaflet and report side effects.
+
+- The expert reviewer's original suggested change:
+"By speaking up, asking questions, and being part of the decision-making process, you can create a personalized plan for better health. Always refer to the patient information leaflet for detailed guidance and report any side effects to your healthcare provider."
+
+- An explanation for the reason behind my new suggested change:
+Including specific language about consulting provided materials and reporting side effects can better align with compliance standards.
+
+- My new suggested sentence:
+"Engage in the decision-making process by asking questions and creating a personalized health plan. Always refer to your patient information leaflet for detailed guidance and promptly report any side effects to your healthcare provider."
+
+-Deviation influenced by:
+According to [Source – Disclaimer Texts for Non-promotional Material, Article 3.v], patient material should always include reminders to consult the leaflet and report side effects.
+
+### Conclusion
+The reviewed document has been carefully aligned with the Non-Promotional Material Guidelines, emphasizing education, scientific accuracy, and adherence to ethical standards, making it more compliant and beneficial for patients.

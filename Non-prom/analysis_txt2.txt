@@ -1,0 +1,43 @@
+# Analysis and Confusion Matrixes
+
+### Mistake: "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+- True Positive: 1
+- False Negative: 9
+- False Positive: 0
+- True Negative: 0
+
+### Mistake: "like you're doing right now!"
+- True Positive: 1
+- False Negative: 9
+- False Positive: 0
+- True Negative: 0
+
+### Mistake: "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+- True Positive: 1
+- False Negative: 9
+- False Positive: 0
+- True Negative: 0
+
+### Mistake: "ask if there might find a better alternative that addresses these challenges."
+- True Positive: 1
+- False Negative: 9
+- False Positive: 0
+- True Negative: 0
+
+### Mistake: "how a new treatment might be better suited for you."
+- True Positive: 1
+- False Negative: 9
+- False Positive: 0
+- True Negative: 0
+
+### Mistake: "Typically, type 2 diabetes patients should see their doctor every 3-6 months."
+- True Positive: 1
+- False Negative: 9
+- False Positive: 0
+- True Negative: 0
+
+### Summary Confusion Matrix:
+- True Positive: 6
+- False Negative: 54
+- False Positive: 0
+- True Negative: 0

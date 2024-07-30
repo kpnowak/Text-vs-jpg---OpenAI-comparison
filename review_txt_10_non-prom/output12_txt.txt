@@ -1,0 +1,36 @@
+### Review
+
+#### Sentence 1:
+- **Original Sentence**: "It can be difficult to start these conversations, but with your treatment goals in mind – and by educating yourself more about type 2 diabetes (like you're doing right now!) – you'll be able to communicate with your doctor more openly about treatment."
+- **Deviation**: 
+  - **According to [Source - Communicate With Care Pocket Guide]** the information suggests that the use of casual language like "like you're doing right now!" can be viewed as unprofessional and condescending. It violates Article 2.i. Maintain Professional Tone.
+- **Expert Reviewer’s Suggested Change**: "It can be challenging to start these conversations, but with your treatment goals in mind and by educating yourself more about type 2 diabetes, you will be able to communicate more effectively with your doctor about treatment."
+- **Reason for New Suggested Change**: The expert reviewer’s revised sentence is clear and removes casual language, but it could be rephrased to simplify understanding and enhance clarity further.
+- **New Suggested Sentence**: "Starting these conversations can be challenging, but keeping your treatment goals in mind and educating yourself more about type 2 diabetes will help you communicate more effectively with your doctor about treatment."
+
+#### Sentence 2:
+- **Original Sentence**: "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+- **Deviation**:
+  - **According to [Source - Communicate With Care Pocket Guide]** the information suggests that the statement lacks context about the importance of the patient's role, violating Article 2.ii. Provide Context.
+- **Expert Reviewer’s Suggested Change**: "While your doctor is the medical expert, it is essential to acknowledge that you, as a patient living with type 2 diabetes, understand your own body and experience."
+- **Reason for New Suggested Change**: The expert reviewer’s revised sentence is effective but can be streamlined for readability and emphasis on shared decision-making.
+- **New Suggested Sentence**: "Although your doctor is the medical expert, as a patient living with type 2 diabetes, you bring vital personal experience and understanding of your condition."
+
+#### Sentence 3:
+- **Original Sentence**: "Discuss any difficulties you've experienced with your current treatment – such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high – and ask if there might be a better alternative that addresses these challenges."
+- **Deviation**:
+  - **According to [Source - Disclaimer Texts for Non-promotional Material]** the information suggests that suggesting treatment alternatives without a disclaimer might imply promotional intent, violating Article 3.iii. Stick to Facts.
+- **Expert Reviewer’s Suggested Change**: "Discuss any difficulties you've experienced with your current treatment, such as side effects, method of administration, lifestyle compatibility, or cost, and ask your doctor if there might be a better alternative that addresses these challenges."
+- **Reason for New Suggested Change**: The expert reviewer’s suggestion is suitable but can be enhanced for clarity and ensuring it aligns with the non-promotional intent explicitly.
+- **New Suggested Sentence**: "Discuss any difficulties you've experienced with your current treatment, such as side effects, method of administration, lifestyle compatibility, or cost, and consult with your doctor regarding potential alternatives that might better address these challenges."
+
+#### Sentence 4:
+- **Original Sentence**: "Your doctor should have useful strategies that can help you manage them or decide if you should switch to something else."
+- **Deviation**:
+  - **According to [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio]** the information suggests that suggesting switching without context can imply off-label promotion, violating Article 1.ii. Off-Label Information.
+- **Expert Reviewer’s Suggested Change**: "Your doctor should have useful strategies to help you manage side effects or discuss if an alternative treatment might be appropriate."
+- **Reason for New Suggested Change**: The expert reviewer’s change is effective, but the sentence can further avoid any implication of off-label promotion by focusing more on patient-doctor communication.
+- **New Suggested Sentence**: "Your doctor can provide useful strategies to help manage side effects and discuss whether an alternative treatment may be suitable for your situation."
+
+### Summary
+The revised sentences ensure that the content stays professional, factual, and aligned with the Non-Promotional Material Guidelines. This ensures the information is communicated in a balanced and objective manner, fitting the context without implying any unintended promotional perspectives.

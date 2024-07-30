@@ -1,0 +1,53 @@
+### Review Points:
+
+#### 1. Clarity and Sensitivity:
+**Guideline Source:** Communicate With Care Pocket Guide  
+**Source Sentence:** "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."  
+**Deviations:** According to the Communicate With Care Pocket Guide, legal implications and clarity should always be considered. The suggestive nature of "change your treatment" could be misinterpreted as medical advice.  
+**New Sentence:** "When living with type 2 diabetes, it's important to regularly consult with your doctor to discuss if any adjustments to your treatment plan are needed to address your changing personal health needs."  
+**Reason:** This change ensures clarity, avoids the potential of being interpreted as direct medical advice, and emphasizes consultation with a healthcare provider.
+
+#### 2. Avoiding Exaggeration and Speculation:
+**Guideline Source:** Communicate With Care Pocket Guide  
+**Source Sentence:** "Educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment."  
+**Deviations:** The inclusion of "like you’re doing right now!" could be perceived as informal and exaggerative.  
+**New Sentence:** "By educating yourself more about type 2 diabetes, you will be better equipped to communicate with your doctor about your treatment options."  
+**Reason:** Simplifies the sentence, removes informal language, sticks to the facts, and maintains a professional tone.
+
+#### 3. Compliance with Informational Materials Guideline:
+**Guideline Source:** EFPIA Chapter 3, Article 17 - Informational or Educational Materials  
+**Source Sentence:** "Share your personal goals, whether it’s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective."  
+**Deviations:** The sentence should be more neutral and focused on consultation rather than implying change.  
+**New Sentence:** "Discuss your personal goals with your doctor, such as better blood sugar control, weight management, or reducing the risk of cardiovascular events, and assess together how these goals could be achieved effectively."  
+**Reason:** Ensures the material is perceived as educational, not promotional, and emphasizes collaborative discussion.
+
+#### 4. Content Balance and Objectivity:
+**Guideline Source:** EFPIA Chapter 3, Article 16 - Lifelong Learning in Healthcare  
+**Source Sentence:** "If the cost is too high—and ask if there might find a better alternative that addresses these challenges."  
+**Deviations:** The sentence could provide potential misinterpretation about advocating for cost-related treatment changes rather than balanced discussions.  
+**New Sentence:** "If cost is a concern, discuss with your doctor to explore all available treatment options that address these challenges effectively."  
+**Reason:** Ensures a balanced and objective approach, highlighting the importance of comprehensive discussions without promoting a specific change.
+
+#### 5. Professional Tone and Clarity:
+**Guideline Source:** Communicate With Care Pocket Guide  
+**Source Sentence:** "Understanding what to expect can help you stay motivated and evaluate if your medicine is working."  
+**Deviations:** Simplifies the ending to avoid speculative language.  
+**New Sentence:** "Understanding what to expect from your treatment helps maintain motivation and allows for proper evaluation of its effectiveness."  
+**Reason:** Clarifies the expected outcomes professionally, avoiding any speculative language.
+
+#### 6. Necessary Disclaimer:
+**Guideline Source:** Disclaimer Texts for Non-promotional Material  
+**Source Sentence:** Absence of necessary disclaimer.  
+**Deviations:** The document lacks compliance with the disclaimer guideline.  
+**New Sentence:** "The image shown is a model and not a real patient."  
+**Reason:** Ensures the disclaimer is appropriately included as per guidelines to avoid any misinterpretation regarding the subjects depicted.
+
+#### 7. Encouraging Patient-Doctor Collaboration:
+**Guideline Source:** Communicate With Care Pocket Guide  
+**Source Sentence:** "By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that’ll empower you on your journey towards better health."  
+**Deviations:** The sentence could appear overly promotive without emphasizing enough the collaborative nature.  
+**New Sentence:** "By actively engaging in discussions with your doctor, asking questions, and collaborating in the decision-making process, you can help create a personalized treatment plan that supports your journey towards better health."  
+**Reason:** Emphasizes the role of collaboration in creating a treatment plan, maintaining a professional tone and neutrality.
+
+### Summary
+The above changes were made to ensure that the document adheres to the Non-Promotional Material Guidelines comprehensively, correcting any potential deviations and maintaining high standards of clarity, professionalism, and compliance.

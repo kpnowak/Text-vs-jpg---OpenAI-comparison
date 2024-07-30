@@ -1,0 +1,65 @@
+### Review and Correction:
+
+#### Comment 1:
+
+1. **Guideline Source:** Communicate With Care Pocket Guide
+2. **Source Sentence:** “When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs.”
+3. **Deviations:** The original sentence is clear but could provide a more professional tone and factuality statement, as per Article 2 - Do Not Ignore Inappropriate Writing.
+4. **New Sentence:** “As someone living with type 2 diabetes, regular evaluation of your treatment plan can help address your evolving health needs.”
+5. **Reason for Replacement:** The new sentence maintains a professional tone and clarity, emphasizing ongoing treatment evaluation without implying ease or commonality in practice.
+
+#### Comment 2:
+
+1. **Guideline Source:** Communicate With Care Pocket Guide
+2. **Source Sentence:** “You’ll be able to communicate with your doctor more openly about treatment.”
+3. **Deviations:** This sentence lacks specificity and does not fully adhere to the guideline of providing clear and professional context.
+4. **New Sentence:** "This knowledge will enable you to have more informed discussions with your doctor regarding your treatment options."
+5. **Reason for Replacement:** The new sentence provides a clearer context of the benefits of increased knowledge and maintains professionalism.
+
+#### Comment 3:
+
+1. **Guideline Source:** EFPIA Chapter 3, Article 16
+2. **Source Sentence:** “Your doctor is the medical expert, but you are the one living with type 2 diabetes.”
+3. **Deviations:** The sentence needs a more balanced approach between patient and doctor roles.
+4. **New Sentence:** “While your doctor provides expert medical advice, you bring valuable personal experience living with type 2 diabetes.”
+5. **Reason for Replacement:** This sentence aligns with the requirement for fair, balanced, and objective content.
+
+#### Comment 4:
+
+1. **Guideline Source:** Communicate With Care Pocket Guide
+2. **Source Sentence:** “It’s important to advocate for your needs and preferences during your discussion.”
+3. **Deviations:** Provides specific advice but lacks a tailored approach to individual patient needs.
+4. **New Sentence:** “Advocating for your personal needs and preferences during discussions ensures tailored treatment recommendations.”
+5. **Reason for Replacement:** This provides clear and actionable steps, tailored to individual circumstances.
+
+#### Comment 5:
+
+1. **Guideline Source:** EFPIA Chapter 3, Article 17
+2. **Source Sentence:** “Ask questions or share concerns you have about trying a new medication.”
+3. **Deviations:** The sentence needs more specificity in terms of patient empowerment and providing factual context.
+4. **New Sentence:** "Express any concerns or queries about new medication, including its mechanism of action and potential side effects."
+5. **Reason for Replacement:** This modification adds clarity and relevance, ensuring that the interactions remain objective and informative.
+
+#### Comment 6:
+
+1. **Guideline Source:** Disclaimer Texts for Non-Promotional Material
+2. **Source Sentence:** “Please see patient information leaflet in the package for additional information.”
+3. **Deviations:** Needs alignment with the disclaimer guidelines for completeness.
+4. **New Sentence:** “Please refer to the patient information leaflet included in the packaging for comprehensive guidelines.”
+5. **Reason for Replacement:** This covers comprehensiveness and aligns with the disclaimer guidelines for non-promotional material.
+
+#### Comment 7:
+
+1. **Guideline Source:** EFPIA Chapter 3, Article 19
+2. **Source Sentence:** “Ask if there might find a better alternative that addresses these challenges.”
+3. **Deviations:** Requires professional tone and specific focus on non-inducement.
+4. **New Sentence:** “Discuss potential alternative treatments that may better address these challenges.”
+5. **Reason for Replacement:** Ensures the advice remains balanced and avoids suggesting inducements.
+
+#### Comment 8:
+
+1. **Guideline Source:** Communicate With Care Pocket Guide
+2. **Source Sentence:** “Set realistic expectations with your doctor regarding the timeline and outcomes of your new treatment.”
+3. **Deviations:** Enhancement for professional tone and clarity.
+4. **New Sentence:** “Collaborate with your doctor to establish realistic timelines and expected outcomes for your new treatment.”
+5. **Reason for Replacement:** The modified sentence maintains professionalism and clear communication.

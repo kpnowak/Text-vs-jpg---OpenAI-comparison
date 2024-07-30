@@ -1,0 +1,43 @@
+### Detailed Review Analysis
+
+#### Mistake 'It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial.':
+- True Positive: 2
+- False Negative: 7
+- False Positive: 1
+- True Negative: 0
+
+#### Mistake 'When you're living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs.':
+- True Positive: 2
+- False Negative: 4
+- False Positive: 4
+- True Negative: 0
+
+#### Mistake 'Your doctor is the medical expert, but you are the one living with type 2 diabetes.':
+- True Positive: 5
+- False Negative: 1
+- False Positive: 3
+- True Negative: 1
+
+#### Mistake 'For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don't have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals (in addition to healthy eating and exercise).':
+- True Positive: 0
+- False Negative: 8
+- False Positive: 2
+- True Negative: 0
+
+#### Mistake 'This means talking through and understanding how it works, and the kind of side effects you could potentially experience.':
+- True Positive: 2
+- False Negative: 4
+- False Positive: 4
+- True Negative: 0
+
+#### Mistake 'The information on this website is intended for education purposes only and should not be substituted for medical advice from your doctor.':
+- True Positive: 3
+- False Negative: 5
+- False Positive: 2
+- True Negative: 0
+
+### Summary Confusion Matrix:
+- True Positive: 14
+- False Negative: 29
+- False Positive: 16
+- True Negative: 1

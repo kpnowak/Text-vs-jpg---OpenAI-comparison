@@ -1,0 +1,80 @@
+---
+
+#### Opening Introduction:
+**Original Sentence:** "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+**Deviation from Guideline:** According to [Source - EFPIA Chapter 3, Article 17 (Informational or Educational Materials)] the sentence lacks a direct mention of patient benefit and relevance to medical practice.
+
+**Expert Reviewer's Suggested Change:** "It's important that you feel empowered and ready to consult your healthcare provider whenever you believe a change in your treatment plan would directly benefit your health."
+
+**Reason for New Suggested Change:** The expert's suggestion is professional but can be more concise and avoid repetitive language.
+
+**New Suggested Sentence:** "It's important to feel confident and ready to consult your doctor when a change could directly benefit your health."
+
+**Explanation:** This revised sentence adheres to the guidelines by emphasizing direct patient benefit and includes a call to action without redundant phrasing.
+
+---
+
+#### Patient Advocacy:
+**Original Sentence:** "You know your mind and body, and it's important to advocate for your needs and preferences during your discussion."
+
+**Deviation from Guideline:** According to [Source - EFPIA Chapter 4, Article 21 (Interactions with POs)] the sentence does not prevent potential inadvertent promotion or ensure mutual respect.
+
+**Expert Reviewer's Suggested Change:** "You understand your health best, and it is crucial to advocate for your needs and preferences to ensure respectful and mutual decision-making with your doctor."
+
+**Reason for New Suggested Change:** The expert's suggestion is suitable but can be streamlined for clarity.
+
+**New Suggested Sentence:** "You best understand your health, so advocate for your needs and preferences to ensure a respectful and mutual decision-making process with your doctor."
+
+**Explanation:** The new sentence maintains adherence to the guidelines, focusing on mutual respect and avoiding potential promotion while being succinct.
+
+---
+
+#### Challenges:
+**Original Sentence:** "Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
+
+**Deviation from Guideline:** According to [Source - Communicate With Care Pocket Guide, Article 2 (Be Clear and Professional)] the sentence is lengthy and lacks clarity.
+
+**Expert Reviewer's Suggested Change:** "Share any difficulties with your current treatment, such as side effects, preference for pill or injection, lifestyle compatibility, or cost concerns, and inquire about alternatives that might better address these issues."
+
+**Reason for New Suggested Change:** The expert's suggestion is apt but could be made more concise.
+
+**New Suggested Sentence:** "Discuss difficulties with your current treatment, like side effects, administration preference, lifestyle fit, or cost, and ask about alternative options."
+
+**Explanation:** The revised sentence is concise, enhancing clarity and maintaining adherence to the guidelines.
+
+---
+
+#### Side Effects:
+**Original Sentence:** "Ask questions or share concerns you have about trying a new medication. This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
+
+**Deviation from Guideline:** According to [Source - Disclaimer Texts for Non-promotional Material] lacks necessary disclaimers and advises for consulting with healthcare providers.
+
+**Expert Reviewer's Suggested Change:** "Discuss any questions or concerns about a new medication, including how it works and potential side effects. Remember to consult your healthcare provider for personalized advice and report any adverse effects."
+
+**Reason for New Suggested Change:** The expert's suggestion is suitable but can be streamlined for clarity.
+
+**New Suggested Sentence:** "Discuss questions or concerns about a new medication, including its workings and potential side effects. Always consult your healthcare provider for personalized advice and report any adverse effects."
+
+**Explanation:** The new sentence maintains clear, non-promotional content while incorporating necessary disclaimers.
+
+---
+
+#### Follow-up:
+**Original Sentence:** "Discuss when you should follow-up on how your new treatment is working. Typically, type 2 diabetes patients should see their doctor every 3–6 months."
+
+**Deviation from Guideline:** According to [Source - Global Legal & Compliance Pocket Guide, Article 1 (Non-Promotional Material)] the sentence needs more context to avoid appearing promotional.
+
+**Expert Reviewer's Suggested Change:** "Discuss the appropriate follow-up schedule to monitor your new treatment’s progress, typically recommended every 3–6 months for type 2 diabetes patients. This helps ensure the treatment's effectiveness and manage your health better."
+
+**Reason for New Suggested Change:** The expert's suggestion is apt but can be streamlined for clarity.
+
+**New Suggested Sentence:** "Discuss the follow-up schedule to monitor your treatment, typically every 3–6 months for type 2 diabetes, to ensure effectiveness and better health management."
+
+**Explanation:** The revised sentence maintains adherence to the guidelines by focusing on scientific and factual information while being more concise.
+
+---
+
+### Conclusion:
+
+Each revision ensures that the material "How to talk about treatment options" complies with the "Non-Promotional Material Guidelines" by correcting deviations, enhancing communication clarity, and maintaining a non-promotional and informative tone.

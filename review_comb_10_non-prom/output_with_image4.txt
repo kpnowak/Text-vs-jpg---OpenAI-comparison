@@ -1,0 +1,88 @@
+### Combined Review - "How to talk about treatment options"
+
+#### Sentence-wise Review and Corrections
+
+**1. Sentence: "When you're living with type 2 diabetes, it's common to reevaluate and change 
+your treatment to adjust to your changing personal health needs."**
+
+- **Guideline source**: Communicate With Care Pocket Guide, Article 2
+- **Original Sentence**: "When you're living with type 2 diabetes, it's common to reevaluate and 
+change your treatment to adjust to your changing personal health needs."
+- **Deviations corrected**: Lacks clarity about what recommendations apply to treatment changes and 
+implies personal advice.
+  - **Key Points**:
+    - Maintain Professional Tone: Use polite language, avoid sarcasm and humor.
+    - Stick to Facts: Avoid exaggerations and speculations.
+- **New sentence**: "As a type 2 diabetes patient, it's common to frequently review and adjust your 
+treatment plan under the guidance of your healthcare provider to address changing health needs."
+- **Reason for replacement**: Clarifies the need to work with a healthcare provider and maintains a 
+professional tone while avoiding exaggeration.
+
+**2. Sentence: "It can be difficult to start these conversations, but with your treatment goals in mind�and by educating yourself more about type 2 diabetes (like you're doing right now!)�you'll be able to communicate with your doctor more openly about treatment."**
+
+- **Guideline source**: Communicate With Care Pocket Guide, Article 2
+- **Original Sentence**: "It can be difficult to start these conversations, but with your treatment goals in mind�and by educating yourself more about type 2 diabetes (like you're doing right now!)�you'll be able to communicate with your doctor more openly about treatment."
+- **Deviations corrected**: Uses casual language and exclamations.
+  - **Key Points**:
+    - Maintain Professional Tone: Use polite language, avoid sarcasm and humor.
+- **New sentence**: "Initiating these conversations can be challenging, but keeping your treatment goals in mind and increasing your understanding of type 2 diabetes will better equip you to ask questions and communicate openly with your doctor about your treatment."
+- **Reason for replacement**: Uses a professional tone and encourages active questioning, which is key for open communication.
+
+**3. Sentence: "Here are some topics to consider if you want to speak up about your type 2 diabetes treatment:"**
+
+- **Guideline source**: Communicate With Care Pocket Guide, Article 2
+- **Original Sentence**: "Here are some topics to consider if you want to speak up about your type 2 diabetes treatment:"
+- **Deviations corrected**: Lacks context and can potentially mislead suggestions as therapeutic recommendations.
+  - **Key Points**:
+    - Provide Context: Ensure clarity to prevent misunderstandings.
+- **New sentence**: "Below are some discussion points to help you engage in a collaborative discussion with your doctor about your type 2 diabetes treatment:"
+- **Reason for replacement**: Provides context for collaborative discussions with the healthcare provider, emphasizing joint decision-making.
+
+**4. Sentence: "This means talking through and understanding how it works, and the kind of side effects you could potentially experience."**
+
+- **Guideline source**: Communicate With Care Pocket Guide, Article 2
+- **Original Sentence**: "This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
+- **Deviations corrected**: Lacks clarity on who provides the information about potential side effects and uses conditional language.
+  - **Key Points**:
+    - Stick to Facts: Avoid exaggerations and speculations.
+  - **Provide Context**: Ensure clarity to prevent misunderstandings.
+- **New sentence**: "This involves discussing with your doctor to understand how the medication works and the possible side effects you may experience."
+- **Reason for replacement**: Maintains a clear and factual communication, specifying that discussions about medication and side effects should be with the doctor.
+
+**5. Sentence: "Typically, type 2 diabetes patients should see their doctor every 3�6 months."**
+
+- **Guideline source**: Communicate With Care Pocket Guide, Article 2
+- **Original Sentence**: "Typically, type 2 diabetes patients should see their doctor every 3�6 months."
+- **Deviations corrected**: Lacks acknowledgment that follow-up schedules may vary based on individual circumstances.
+  - **Key Points**:
+    - Stick to Facts: Avoid exaggerations and speculations.
+- **New sentence**: "Generally, type 2 diabetes patients should see their doctor every 3 to 6 months; however, this schedule may vary based on individual health needs to ensure continuous and effective care."
+- **Reason for replacement**: Adds context that follow-up intervals may vary for individual patients, providing more accurate and balanced information, and ensures continuity in care.
+
+**6. Sentence: "Remember, this conversation is about working together with your doctor to find the best treatment option for you."**
+
+- **Guideline source**: Communicate With Care Pocket Guide, Article 2
+- **Original Sentence**: "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+- **Deviations corrected**: Ensures clarity and collaboration in patient-doctor interaction.
+  - **Key Points**:
+    - Provide Context: Ensure clarity to prevent misunderstandings.
+- **New sentence**: "Remember, this conversation is about building a partnership with your doctor to tailor the best treatment option to your specific needs."
+- **Reason for replacement**: Provides a clearer emphasis on personalized care and collaboration, highlighting the importance of the doctor-patient partnership.
+
+**7. Sentence: "By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health."**
+
+- **Guideline source**: Communicate With Care Pocket Guide, Article 2
+- **Original Sentence**: "By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health."
+- **Deviations corrected**: Encourages an empowering and factual approach.
+  - **Key Points**:
+    - Stick to Facts: Avoid exaggerations and speculations.
+- **New sentence**: "By actively participating in the decision-making process with your doctor, including asking questions and expressing your needs, you can help create a personalized treatment plan that empowers you to better manage your health."
+- **Reason for replacement**: Better emphasizes active participation and collaboration in creating a personalized treatment plan, maintaining a professional and factual tone.
+
+### Overall Document Compliance:
+- **Professional Tone**: The revised sentences ensure the document maintains a polite, professional tone, free of casual language, sarcasm, or humor, aligning with guidelines.
+- **Clarity and Context**: Additional context has been provided where necessary to prevent misunderstandings, ensuring that all information is clear, especially for those unfamiliar with the topic.
+- **Fact-Based Communication**: The revisions stick strictly to factual information, avoiding any exaggerations or speculations, making the document reliable and trustworthy.
+- **Collaboration with HCPs**: Emphasizes the importance of collaborating with healthcare professionals, ensuring the significance of professional interaction in medical care and patient education.
+
+These changes collectively ensure that the document adheres to the Non-Promotional Material Guidelines, maintaining high standards of ethical communication and compliance.

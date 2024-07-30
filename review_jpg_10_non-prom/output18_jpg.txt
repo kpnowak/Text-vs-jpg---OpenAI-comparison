@@ -1,0 +1,77 @@
+#### 1. Review Section:
+**Source Sentence:**
+> It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial.
+
+**Deviation Identified:**
+According to Article 16 - Lifelong Learning in Healthcare, the content should be "fair, balanced, and objective" and avoid any form of inducement.
+
+**Expert Reviewer's Original Suggested Change:**
+> It’s crucial to discuss any potential treatment changes with your doctor based on your evolving health needs.
+
+**New Suggested Change Explanation:** 
+The new suggested change maintains the objective tone and avoids subjective language that could induce feelings rather than focus on clinical needs.
+
+**New Suggested Sentence:**
+> It’s important to discuss any potential treatment changes with your doctor based on your evolving health needs.
+
+**Deviations Influenced by 'Non-Promotional Material Guidelines':**
+According to Article 16 - Lifelong Learning in Healthcare, the information should be fair and balanced, ensuring that the suggested change reflects this standard by avoiding inducement.
+
+#### 3. Review Section: 
+**Source Sentence:**
+> Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion.
+
+**Deviation Identified:**
+According to Article 2 - Be Clear and Professional (Global Legal & Compliance Pocket Guide), ensure clarity to prevent misunderstandings.
+
+**Expert Reviewer's Original Suggested Change:**
+> While your doctor is the medical expert, you hold the experience of living with type 2 diabetes. It’s important to communicate your needs and preferences during consultations to ensure a collaborative approach to your treatment plan.
+
+**New Suggested Change Explanation:** 
+The new sentence should simplify the language and ensure an equally clear depiction of the collaborative relationship between patient and doctor.
+
+**New Suggested Sentence:**
+> As the medical expert, your doctor has critical knowledge, but you have the experience of living with type 2 diabetes. Communicating your needs and preferences to your doctor is essential for effective collaboration on your treatment plan.
+
+**Deviations Influenced by 'Non-Promotional Material Guidelines':**
+According to Article 2 - Be Clear and Professional (Global Legal & Compliance Pocket Guide), clarity is paramount, ensuring there is no misunderstanding between the roles of patient and doctor.
+
+#### 5. Review Section:
+**Source Sentence:**
+> This material is for preparatory use in NN only.
+
+**Deviation Identified:**
+According to Article 1 - Internal Communication (Disclaimer Texts for Non-promotional Material), ensure appropriate disclaimers are in place.
+
+**Expert Reviewer's Original Suggested Change:**
+> This material is intended for preparatory use within the organization only.
+
+**New Suggested Change Explanation:** 
+Further specifying that the material is not for public distribution enhances clarity and compliance with disclaimers.
+
+**New Suggested Sentence:**
+> This material is for internal preparatory use only within the organization and not for public distribution.
+
+**Deviations Influenced by 'Non-Promotional Material Guidelines':**
+According to Article 1 - Internal Communication (Disclaimer Texts for Non-promotional Material), adequate disclaimers should firmly state internal usage.
+
+#### 6. Review Section:
+**Source Sentence:**
+> If you experience any side effects while using [insert NN medicinal product], talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in the package leaflet.
+
+**Deviation Identified:**
+According to Article 3 - General Disclaimers (Disclaimer Texts for Non-promotional Material), ensure proper disclaimers are in place to guide patients.
+
+**Expert Reviewer's Original Suggested Change:**
+> If you experience any side effects while managing your diabetes, contact your doctor, pharmacist, or nurse. This includes any possible effects that may not be listed in the informational leaflet.
+
+**New Suggested Change Explanation:** 
+Generalizing the statement while maintaining a clear directive ensures compliance without unintended promotion.
+
+**New Suggested Sentence:**
+> If you experience any side effects related to your diabetes treatment, contact your doctor, pharmacist, or nurse. This includes any effects not listed in your treatment information leaflet.
+
+**Deviations Influenced by 'Non-Promotional Material Guidelines':**
+According to Article 3 - General Disclaimers (Disclaimer Texts for Non-promotional Material), the disclaimer must guide patients accurately without promoting any specific product.
+
+In summary, the revised corrections provided ensure adherence to the "Non-Promotional Material Guidelines," maintain clear and professional language, and avoid any potential promotional content.

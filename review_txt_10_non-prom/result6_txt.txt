@@ -1,0 +1,103 @@
+## Review Based on Non-Promotional Material Guidelines
+
+### 1. Introduction Sentence Adjustments
+
+- **Guideline Source**: EFPIA Chapter 3 Article 17 (i) (b)
+- **Source Sentence**: "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+- **Deviations**:
+  - The sentence can be seen as encouraging specific actions without clear evidence or factual basis which might be considered indirect promotion.
+  - According to [Source - EFPIA Chapter 3], [key point]: Informational content should be fair, balanced, and objective.
+- **New Sentence**: "It's helpful to feel informed and prepared when discussing potential changes to your treatment with your doctor so that you can collaboratively tailor your healthcare plan."
+- **Reason for Replacement**: This adjustment ensures a balanced and non-promotional tone by focusing on the idea of collaborative tailoring of treatment rather than implying a change should be self-initiated.
+
+### 2. Addressing Subjectivity in Patient and Doctor Roles
+
+- **Guideline Source**: Communicate With Care Pocket Guide Article 2 (iii) & Article 1 (ii)
+- **Source Sentence**: "Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it's important to advocate for your needs and preferences during your discussion."
+- **Deviations**:
+  - Some subjective elements can be viewed as speculative and suggest it is the patient's responsibility to "advocate," which could mislead or put undue pressure on them.
+  - According to [Source - Communicate With Care Pocket Guide], [key point]: Stick to facts and avoid exaggerated expressions.
+- **New Sentence**: "While your doctor has the medical expertise to guide your treatment, sharing your experiences can ensure your care plan aligns well with your personal health needs."
+- **Reason for Replacement**: This maintains a professional tone and emphasizes collaboration based on factual experiences rather than implying advocacy is necessary.
+
+### 3. Detailed, Informative Content on Conversation Topics
+
+- **Guideline Source**: Communicate With Care Pocket Guide Article 2 (ii), EFPIA Chapter 3 Article 17 (i)
+- **Source Sentence**: "Here are some topics to consider if you want to speak up about your type 2 diabetes treatment:"
+- **Deviations**:
+  - The current segmentation needs more specificity and it could be clearer to help patients understand the importance of these topics.
+  - According to [Source - Communicate With Care Pocket Guide], [key point]: Provide context for clarity.
+- **New Sentence**: "Consider discussing the following aspects with your doctor to better tailor your type 2 diabetes treatment:"
+- **Reason for Replacement**: This provides clearer context and aligns with the goal of informative, non-promotional material by outlining specific conversation areas.
+
+### 4. Goal Setting with Evidence-Based Support
+
+- **Guideline Source**: EFPIA Chapter 3 Article 16
+- **Source Sentence**: "Share your personal goals, whether it's better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective."
+- **Deviations**:
+  - The sentence implies treatment change based solely on personal goals which might be considered promotional without balanced scientific evidence.
+  - According to [Source - EFPIA Chapter 3], LLH activities must express diverse evidence-based science.
+- **New Sentence**: "Discuss your personal health goals like better blood sugar control, weight management, or reducing cardiovascular risks with your doctor to explore how your current treatment aligns with these objectives based on scientific evidence."
+- **Reason for Replacement**: This emphasizes evidence-based discussion and avoids the suggestion of simply adjusting treatment based on goals alone, ensuring balanced content.
+
+### 5. Balancing Challenge Discussions
+
+- **Guideline Source**: Global Legal & Compliance Pocket Guide Semaglutide Article 1 (ii), Communicate With Care Pocket Guide Article 2 (iii)
+- **Source Sentence**: "Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
+- **Deviations**:
+  - Contains speculative and potentially promotional elements when discussing preference of treatment forms and cost.
+  - According to [Source - Communicate With Care Pocket Guide], [key point]: Stick to facts and avoid speculation.
+- **New Sentence**: "Discuss any difficulties experienced with your current treatment, such as side effects, lifestyle fit, or cost considerations, to collaboratively explore potential alternatives with your doctor based on your medical needs."
+- **Reason for Replacement**: Balances facts with a non-promotional tone by emphasizing collaboration for potential alternatives based on medical needs.
+
+### 6. Lifestyle Discussion for Suitability
+
+- **Guideline Source**: EFPIA Chapter 3 Article 17 (i) (b)
+- **Source Sentence**: "Talk about your lifestyle and how a new treatment might be better suited for you."
+- **Deviations**:
+  - The sentence is slightly speculative about the necessity for a new treatment.
+  - According to [Source - Communicate With Care Pocket Guide], [key point]: Avoid speculation.
+- **New Sentence**: "Discuss your lifestyle with your doctor to understand how your treatment can be optimized to suit your daily activities and overall health goals."
+- **Reason for Replacement**: This focuses on optimizing current treatment within the context of lifestyle, aligning with non-promotional and evidence-based communication principles.
+
+### 7. Providing Context for Concerns
+
+- **Guideline Source**: Communicate With Care Pocket Guide Article 2 (ii), EFPIA Chapter 3 Article 18
+- **Source Sentence**: "Ask questions or share concerns you have about trying a new medication. This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
+- **Deviations**:
+  - The language can suggest speculation about new medications without context.
+  - According to [Source - Communicate With Care Pocket Guide], [key point]: Provide context to prevent misunderstandings.
+- **New Sentence**: "Share any questions or concerns about current or new medications with your doctor to fully understand their mechanisms, potential side effects, and how they align with your treatment goals."
+- **Reason for Replacement**: Provides balanced information and context, supporting informed discussions without implying speculative encouragement to try new medications.
+
+### 8. Setting Realistic Treatment Expectations
+
+- **Guideline Source**: EFPIA Chapter 4 Article 21 (iv)
+- **Source Sentence**: "Set realistic expectations with your doctor regarding the timeline and outcomes of your new treatment."
+- **Deviations**:
+  - The sentence implies a change to new treatment without balanced discussion of current treatment efficacy.
+  - According to [Source - EFPIA Chapter 4], Member Companies must not influence patient organization’s text in a favorable way.
+- **New Sentence**: "Discuss realistic expectations with your doctor concerning the timelines and outcomes of your treatment plan to better understand the process and evaluate progress."
+- **Reason for Replacement**: Removes implied promotion of new treatments and ensures guidelines for realistic, balanced discussions.
+
+### 9. Follow-up Discussions for Progress
+
+- **Guideline Source**: EFPIA Chapter 3 Article 18 (iii)
+- **Source Sentence**: "Typically, type 2 diabetes patients should see their doctor every 3-6 months."
+- **Deviations**:
+  - Suggests a fixed follow-up period without evidence-based flexibility.
+  - According to [Source - EFPIA Chapter 3], Member Companies are encouraged to comply with the scientific purpose of NIS.
+- **New Sentence**: "Follow-up discussions with your doctor are important to track your treatment progress and should be scheduled as recommended, which may typically be every 3-6 months, according to your personal health needs."
+- **Reason for Replacement**: Provides a more flexible, evidence-based recommendation for follow-up, aligning with individual health needs.
+
+### 10. Reminder of Collaborative Efforts
+
+- **Guideline Source**: EFPIA Chapter 3 Article 16
+- **Source Sentence**: "By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health."
+- **Deviations**:
+  - Can be perceived as encouraging independence in decision-making over professional guidance.
+  - According to [Source - EFPIA Chapter 3], HLH activities should allow diverse evidence-based science participation.
+- **New Sentence**: "By actively engaging in discussions, asking questions, and being involved in the decision-making process, you and your doctor can collaboratively create a personalized treatment plan to support your health journey."
+- **Reason for Replacement**: This maintains a focus on collaboration and professional guidance, ensuring balanced and supported efforts towards better health.
+
+By making these changes, the material aligns better with the non-promotional guidelines and maintains a professional, factual, and balanced tone, enhancing its efficacy and compliance.

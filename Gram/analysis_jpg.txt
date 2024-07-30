@@ -1,0 +1,68 @@
+### Mistake Analysis
+
+#### Mistake: "gone" -> "went"
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+#### Mistake: "study" -> "studies"
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+#### Mistake: "english" -> "English"
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+#### Mistake: "wo" -> "who"
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+#### Mistake: "satt" -> "sat"
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+#### Mistake: "didn't making" -> "didn't make"
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+#### Mistake: "taked" -> "took"
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+#### Mistake: "wincked" -> "winked"
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+#### Mistake: "embarassed" -> "embarrassed"
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+#### Mistake: "a little seconds" -> "a few seconds"
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+### Summary Confusion Matrix
+
+- True Positive: 100
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0

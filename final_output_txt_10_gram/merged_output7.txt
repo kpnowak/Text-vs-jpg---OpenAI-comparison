@@ -1,0 +1,113 @@
+I will review the text for grammatical accuracy now. Let's start with the first sentence:
+
+"Yesterday, I gone to a party with my friend David."
+- Deviations: The incorrect verb form "gone" should be corrected to "went."
+- Correction: "Yesterday, I went to a party with my friend David."
+
+Moving on to the next sentence:
+
+"He study english with me at university."
+- Deviations: The subject-verb agreement error where "study" should be corrected to "studies."
+- Correction: "He studies English with me at university."
+
+Next sentence:
+
+"He wanted to be introduced to Lucy wo he fancied."
+- Deviations: Typo "wo" should be corrected to "who."
+- Correction: "He wanted to be introduced to Lucy who he fancied."
+
+Continuing with the following sentence:
+
+"David and I satt in the corner of the room."
+- Deviations: The verb should be in the past tense, so "satt" needs to be corrected to "sat."
+- Correction: "David and I sat in the corner of the room."
+
+Moving on to the next sentence:
+
+"He didn't making the first move to go and see her."
+- Deviations: The incorrect verb form "making" should be replaced with "make."
+- Correction: "He didn't make the first move to go and see her."
+
+Continuing with the next sentence:
+
+"He waited for so long to tell her that he had a crush on her."
+- Deviations: The preposition "for" is missing after "waited."
+- Correction: "He waited for so long to tell her that he had a crush on her."
+
+Next sentence:
+
+"He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+- Deviations: The incorrect verb form "taked" should be replaced with "took."
+- Correction: "He took a drink to get some energy, and after a few minutes of endless hesitation, he walked to her."
+
+Continuing with the next sentence:
+
+"David remained mute."
+- Deviations: This sentence is correct.
+- No corrections needed.
+
+Next sentence:
+
+"She gave a hint of a smile, noticing David blushing."
+- Deviations: The article "a" is missing before "hint."
+- Correction: "She gave a hint of a smile, noticing David blushing."
+
+Moving on to the following sentence:
+
+"She asked him if he enjoyed the party."
+- Deviations: This sentence is correct.
+- No corrections needed. 
+
+Continuing with the next sentence:
+
+"He whispered 'Yes' and had a glance at me."
+- Deviations: The punctuation should be inside the quotation marks. 
+- Correction: "He whispered 'Yes' and had a glance at me."
+
+Next sentence:
+
+"I wincked at him."
+- Deviations: Typo "wincked" should be corrected to "winked."
+- Correction: "I winked at him."
+
+Moving on to the next sentence:
+
+"That was it."
+- Deviations: This sentence is correct.
+- No corrections needed.
+
+Continuing with the following sentence:
+
+"Feeling reassured and confident, he told her which feelings he was experiencing."
+- Deviations: The word order is incorrect; "which feelings he was experiencing" should be rephrased to "the feelings he was experiencing."
+- Correction: "Feeling reassured and confident, he told her the feelings he was experiencing."
+
+Next sentence:
+
+"She suddenly looked sullen."
+- Deviations: This sentence is correct.
+- No corrections needed.
+
+Final sentence:
+
+"David fainted: 'a friend in need is a friend inded'!!"
+- Deviations: Typo "inded" should be corrected to "indeed." Additionally, the double exclamation marks should be reduced to one for correct punctuation.
+- Correction: "David fainted: 'a friend in need is a friend indeed!'"
+
+This completes the grammatical review of the provided text.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+Unfortunately, since the document language is not specified, I cannot provide a response tailored to that specific language. However, I can still outline a generic example of how to respond to an expert reviewer's comment based on the guidelines provided.
+
+Original sentence:
+"He waited for so long to tell her that he had a crush on her."
+Deviation: The preposition "for" is missing after "waited."
+Expert reviewer's original suggested change:
+"He waited for so long to tell her that he had a crush on her."
+Explanation for the reason behind your new suggested change in the same language as the issue.
+New suggested sentence:
+"He waited so long to tell her about his crush."
+In this new suggested sentence, I rephrased the sentence to make it more concise and easy to read while still conveying the same meaning. By removing the unnecessary repetition of "for," the sentence becomes more direct and to the point, aligning better with the guidelines for clarity and readability.

@@ -1,0 +1,53 @@
+1. **Original Source Sentence:**
+   - "You know your mind and body, and it's important to advocate for your needs and preferences during your discussion."
+
+   **Deviation from the Guidelines:**
+   - According to [Source - Communicate With Care Pocket Guide Article 2 (ii)], clear context is needed; "advocate for your needs and preferences" could be clearer.
+
+   **Expert Reviewer's Suggested Change:**
+   - "As a patient, you have intimate knowledge of your own mind and body, and it is crucial to communicate your needs and preferences clearly to your healthcare provider."
+
+   **Explanation for the New Suggested Change:**
+   - The expert reviewer's suggested sentence still uses the term "intimate knowledge," which may not align perfectly with the professional tone guidelines. Additionally, the phrase "it is crucial to communicate your needs and preferences clearly" is slightly redundant.
+
+   **New Suggested Sentence:**
+   - "As a patient, you have the best understanding of your own mind and body, so it is important to express your needs and preferences clearly to your healthcare provider."
+
+   **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response:**
+   - According to [Source - Communicate With Care Pocket Guide Article 2 (ii)], clarity and contextual understanding are necessary to ensure the message is professional and easy to understand.
+
+2. **Original Source Sentence:**
+   - "Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high— and ask if there might find a better alternative that addresses these challenges."
+
+   **Deviation from the Guidelines:**
+   - According to [Source - Global Legal & Compliance Pocket Guide, any off-label discussion should be factual and not promotional].
+
+   **Expert Reviewer's Suggested Change:**
+   - "Discuss any difficulties you've experienced with your current treatment, including side effects, preferences for different forms of medication, lifestyle compatibility, and treatment costs. Ask your healthcare provider if there are alternative options that could better address these challenges."
+
+   **Explanation for the New Suggested Change:**
+   - While the expert reviewer's change is appropriate, it still implies there might be alternative options available, which could be promotional. Rephrasing to focus on gathering factual guidance from the healthcare provider would be better.
+
+   **New Suggested Sentence:**
+   - "Discuss any problems you've encountered with your current treatment, such as side effects, preferences for medication forms, fit with your lifestyle, and cost. Seek your healthcare provider's advice on how to manage these challenges."
+
+   **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response:**
+   - According to [Source - Global Legal & Compliance Pocket Guide, any off-label discussion should be factual and not promotional].
+
+3. **Original Source Sentence:**
+   - "This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
+
+   **Deviation from the Guidelines:**
+   - According to [Source - Disclaimer Texts for Non-promotional Material, it should guide patients to the prescription and side effect information in proper material].
+
+   **Expert Reviewer's Suggested Change:**
+   - "This includes discussing and understanding the medication's mechanisms and any potential side effects. Please see the patient information leaflet in the package for additional information or talk to your healthcare provider."
+
+   **Explanation for the New Suggested Change:**
+   - The expert reviewer's sentence is clear and factual. However, including a specific direction to review the patient information leaflet and consult a healthcare provider for further details strengthens the guidance.
+
+   **New Suggested Sentence:**
+   - "This entails understanding how the medication works and the potential side effects. Always refer to the patient information leaflet provided in the package for more detailed information or consult your healthcare provider."
+
+   **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response:**
+   - According to [Source - Disclaimer Texts for Non-promotional Material, it should guide patients to the prescription and side effect information in proper material].

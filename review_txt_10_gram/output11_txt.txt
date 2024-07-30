@@ -1,0 +1,51 @@
+Sure, I will review the expert’s comments and corrections based on the provided guidelines.
+
+**Source sentence:** "David and I satt in the corner of the room."
+**Deviations corrected:** "satt" should be "sat"
+**Reason:** Corrected for proper past tense spelling.
+**New sentence:** "David and I sat in the corner of the room."
+
+**My review:**
+- The original sentence: "David and I satt in the corner of the room."
+- The deviation from the guidelines originally provided by the expert reviewer: The expert reviewer’s correction is correct in content, but lacks consideration of clarity and readability improvements as required by the guidelines.
+- The expert reviewer's original suggested change: "David and I sat in the corner of the room."
+- An explanation for the reason behind your new suggested change in the same language as the issue: While the expert's correction is accurate, enhancing readability can make the text flow better.
+- Your new suggested sentence: "David and I took seats in the corner of the room."
+
+**Source sentence:** "He didn 't making the first move to go and see her."
+**Deviations corrected:** Replace "making" with "make"
+**Reason:** Corrected verb form to match "did not" (negative past simple).
+**New sentence:** "He didn't make the first move to go and see her."
+
+**My review:**
+- The original sentence: "He didn 't making the first move to go and see her."
+- The deviation from the guidelines originally provided by the expert reviewer: The expert reviewer’s suggestion does not completely address readability.
+- The expert reviewer's original suggested change: "He didn't make the first move to go and see her."
+- An explanation for the reason behind your new suggested change in the same language as the issue: Enhancing readability while maintaining grammatical accuracy.
+- Your new suggested sentence: "He didn’t take the first step to go and see her."
+
+**Source sentence:** "She could hardly say a word but after a little seconds, she said : ' I' m sorry to deceive you but actually I fancy Sebastian '."
+**Deviations corrected:** Replace "a little seconds" with "a few seconds", Correct spacing around quotes
+**Reason:** Corrected phrase for grammatical accuracy and adjusted punctuation for stylistic consistency.
+**New sentence:** "She could hardly say a word, but after a few seconds, she said: 'I'm sorry to deceive you, but actually I fancy Sebastian'."
+
+**My review:**
+- The original sentence: "She could hardly say a word but after a little seconds, she said : ' I' m sorry to deceive you but actually I fancy Sebastian '."
+- The deviation from the guidelines originally provided by the expert reviewer: The expert’s suggestion is correct; however, adding clarity will improve the readability.
+- The expert reviewer's original suggested change: "She could hardly say a word, but after a few seconds, she said: 'I'm sorry to deceive you, but actually I fancy Sebastian'."
+- An explanation for the reason behind your new suggested change in the same language as the issue: Improving clarity and readability.
+- Your new suggested sentence: "She could hardly say a word, but after a few seconds, she said, 'I'm sorry to disappoint you, but I actually fancy Sebastian.'"
+
+**Source sentence:** "David fainted : ' a friend in need is a friend inded ' !!"
+**Deviations corrected:** Adjust spacing around quotes, correct "inded" to "indeed"
+**Reason:** Corrected spelling error and adjusted punctuation for stylistic consistency.
+**New sentence:** "David fainted: 'A friend in need is a friend indeed'!"
+
+**My review:**
+- The original sentence: "David fainted : ' a friend in need is a friend inded ' !!"
+- The deviation from the guidelines originally provided by the expert reviewer: The expert’s suggestion doesn’t fully capture the requirement for consistency and clarity.
+- The expert reviewer's original suggested change: "David fainted: 'A friend in need is a friend indeed'!"
+- An explanation for the reason behind your new suggested change in the same language as the issue: Ensuring consistency with punctuation and capitalization.
+- Your new suggested sentence: "David fainted and muttered, 'A friend in need is a friend indeed!'"
+
+The expert reviewer’s corrections were largely accurate, but could be improved in some cases to better adhere to the clarity and readability guidelines.

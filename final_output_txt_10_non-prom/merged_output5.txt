@@ -1,0 +1,396 @@
+Certainly, I will review the document provided using the “Non-Promotional Material Guidelines” to ensure compliance with the required standards. Please find my analysis below:
+
+### Review of "How to talk about treatment options"
+
+**Original Sentence:**
+`When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.`
+
+**Guideline Source:**
+[Source - Global Legal & Compliance Pocket Guide]
+
+**Deviations:**
+- According to Article 1, Section i of “Global Legal & Compliance Pocket Guide,” non-promotional material should share scientific information in a balanced and objective way without promoting specific products. The original sentence is acceptable as it provides general advice on managing type 2 diabetes without promoting any specific medication.
+
+**Replacement Sentence:**
+No replacement needed.
+
+---
+
+**Original Sentence:**
+`It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you're doing right now!)—you'll be able to communicate with your doctor more openly about treatment.`
+
+**Guideline Source:**
+[Source - Communicate With Care Pocket Guide]
+
+**Deviations:**
+- According to Article 2, Section i "Maintain Professional Tone," avoid using casual phrases like "like you're doing right now!" which might undermine the professional tone.
+
+**Replacement Sentence:**
+`It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. Starting these conversations can be challenging, but by keeping your treatment goals in mind and educating yourself more about type 2 diabetes, you'll be able to communicate with your doctor more openly about treatment.`
+
+**Reason for Replacement:**
+Ensures the text maintains a professional tone and avoids casual or colloquial language, adhering to proper communication standards.
+
+---
+
+**Original Sentence:**
+`Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it's important to advocate for your needs and preferences during your discussion.`
+
+**Guideline Source:**
+[Source - Communicate With Care Pocket Guide]
+
+**Deviations:**
+- According to Article 2, Section iii "Stick to Facts," ensure the statement is objective and based on facts.
+
+**Replacement Sentence:**
+`Your doctor is the medical expert, but as someone living with type 2 diabetes, you understand your own health experiences and it is essential to discuss your needs and preferences during your consultations.`
+
+**Reason for Replacement:**
+This statement remains professional and factual, emphasizing the collaborative aspect of patient-doctor communication without speculative language.
+
+---
+
+**Original Sentence:**
+`Come to every appointment prepared to talk, ask questions and find solutions together.`
+
+**Guideline Source:**
+[Source - Communicate With Care Pocket Guide]
+
+**Deviations:**
+- According to Article 2, Section ii, "Provide Context," ensure the clarity to prevent misunderstandings.
+
+**Replacement Sentence:**
+`Arrive at each appointment prepared with questions and ready to discuss potential solutions for managing your type 2 diabetes.`
+
+**Reason for Replacement:**
+Provides clearer instructions that patients can easily follow, reducing potential ambiguity.
+
+---
+
+**Original Sentence:**
+`Goals Share your personal goals, whether it's better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective.`
+
+**Guideline Source:**
+[Source - Communicate With Care Pocket Guide]
+
+**Deviations:**
+- According to Article 2, Section ii "Provide Context," the sentence needs better context to ensure clarity.
+
+**Replacement Sentence:**
+`Goals: Share your personal objectives, such as improving blood sugar control, managing your weight, or lowering the risk of cardiovascular events. Discuss with your doctor how your current treatment regimen might be adjusted to achieve these goals more effectively.`
+
+**Reason for Replacement:**
+Provides detailed context for what patients should discuss with their doctors, ensuring better communication.
+
+---
+
+**Original Sentence:**
+`Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges.`
+
+**Guideline Source:**
+[Source - Communicate With Care Pocket Guide]
+
+**Deviations:**
+- According to Article 2, Section ii "Provide Context," ensure sentences are clear and free from ambiguity.
+
+**Replacement Sentence:**
+`Challenges: Mention any difficulties with your current treatment, such as side effects, preferences for pill or injection forms, lifestyle compatibility, or high costs. Ask your doctor about potential alternatives that could better address these challenges.`
+
+**Reason for Replacement:**
+Improves clarity and readability, making the instructions more straightforward for patients.
+
+---
+
+**Original Sentence:**
+`Talk about your lifestyle and how a new treatment might be better suited for you. For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don't have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals (in addition to healthy eating and exercise).`
+
+**Guideline Source:**
+[Source - Communicate With Care Pocket Guide]
+
+**Deviations:**
+- According to Article 2, Section iii "Stick to Facts," the statement should be objective, clear, and fact-based.
+
+**Replacement Sentence:**
+`Lifestyle: Discuss your lifestyle considerations that could influence your treatment. For example, if you travel frequently and need a convenient medication or if your schedule limits your exercise time, you might prefer a treatment that supports weight management along with a healthy diet and exercise.`
+
+**Reason for Replacement:**
+Ensures factual and clear presentation of how lifestyle factors could impact treatment choices.
+
+---
+
+**Original Sentence:**
+`Ask questions or share concerns you have about trying a new medication. This means talking through and understanding how it works, and the kind of side effects you could potentially experience. Your doctor should have useful strategies that can help you manage them or decide if you should switch to something else.`
+
+**Guideline Source:**
+[Source - Communicate With Care Pocket Guide]
+
+**Deviations:**
+- According to Article 2, Section iii "Stick to Facts," replace speculative language with factual information.
+
+**Replacement Sentence:**
+`Concerns and side effects: Ask questions or express any concerns about new medications. Understand how these medications work and their potential side effects. Your doctor can provide strategies to manage side effects or decide if a different treatment is necessary.`
+
+**Reason for Replacement:**
+Ensures the language remains factual and helps the patient understand the importance of discussing side effects and management strategies with their doctor.
+
+---
+
+**Original Sentence:**
+`Set realistic expectations with your doctor regarding the timeline and outcomes of your new treatment. Understanding what to expect can help you stay motivated and evaluate if your medicine is working.`
+
+**Guideline Source:**
+[Source - Communicate With Care Pocket Guide]
+
+**Deviations:**
+- According to Article 2, Section ii "Provide Context," ensure detailed and clear information is conveyed.
+
+**Replacement Sentence:**
+`Treatment expectations: Set realistic treatment goals and timelines with your doctor. Understanding what to expect can help you stay motivated and assess the effectiveness of your medication.`
+
+**Reason for Replacement:**
+Provides a more comprehensive context about discussing treatment expectations, which aids in maintaining patient motivation and evaluation.
+
+---
+
+**Original Sentence:**
+`Discuss when you should follow-up on how your new treatment is working. Typically, type 2 diabetes patients should see their doctor every 3–6 months.`
+
+**Guideline Source:**
+[Source - Communicate With Care Pocket Guide]
+
+**Deviations:**
+- According to Article 2, Section iii "Stick to Facts," ensure the statement is fact-based and clear.
+
+**Replacement Sentence:**
+`Follow-up: Discuss appropriate follow-up intervals to evaluate the effectiveness of your new treatment. Generally, type 2 diabetes patients should have appointments with their doctor every 3–6 months.`
+
+**Reason for Replacement:**
+Ensures clarity by outlining the general follow-up schedule distinctly.
+
+---
+
+**Original Sentence:**
+`Remember, this conversation is about working together with your doctor to find the best treatment option for you. By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health.`
+
+**Guideline Source:**
+[Source - Communicate With Care Pocket Guide]
+
+**Deviations:**
+- According to Article 2, Section i "Maintain Professional Tone," and Section iii "Stick to Facts," ensure the language remains professional and factual.
+
+**Replacement Sentence:**
+`Remember, the goal is to work collaboratively with your doctor to identify the most suitable treatment options for you. By actively participating in discussions and asking questions, you can help create a personalized plan that supports your journey towards better health.`
+
+**Reason for Replacement:**
+Improves professionalism and factual integrity while maintaining an empowering message for the patient.
+
+---
+
+### Final Notes:
+- The document overall is quite compliant with the guidelines, focusing on empowering and educating patients.
+- All the replacements made ensure clarity, adherence to factual information, and professional tone while avoiding promotional language.
+
+If any elements require further attention or specific guidelines were overlooked in my replacements, please notify me, and I will promptly amend the review accordingly.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Review of Expert's Comments and Suggested Improvements
+
+**1. Original Sentence:**
+`It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you're doing right now!)—you'll be able to communicate with your doctor more openly about treatment.`
+
+**Deviation from Guidelines (Originally Provided):**
+The sentence uses casual language like "like you're doing right now!" which undermines the professional tone.
+
+**Expert Reviewer's Original Suggested Change:**
+`It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. Starting these conversations can be challenging, but by keeping your treatment goals in mind and educating yourself more about type 2 diabetes, you'll be able to communicate with your doctor more openly about treatment.`
+
+**Explanation for New Suggested Change:**
+The expert reviewer's suggestion is good but could further improve clarity and professionalism.
+
+**New Suggested Sentence:**
+`It's crucial to feel empowered and ready to discuss potential treatment changes with your doctor when a change may be beneficial. While initiating these conversations can be challenging, focusing on your treatment goals and educating yourself about type 2 diabetes will enable more open communication with your healthcare provider.`
+
+**Deviations:**
+According to [Source - Communicate With Care Pocket Guide], using a professional tone is essential, and providing a clear and context-appropriate message is crucial (Article 2, Section i and ii).
+
+
+**2. Original Sentence:**
+`Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it's important to advocate for your needs and preferences during your discussion.`
+
+**Deviation from Guidelines (Originally Provided):**
+The sentence needs to ensure it is based on facts and remains objective.
+
+**Expert Reviewer's Original Suggested Change:**
+`Your doctor is the medical expert, but as someone living with type 2 diabetes, you understand your own health experiences, and it is essential to discuss your needs and preferences during your consultations.`
+
+**Explanation for New Suggested Change:**
+To maintain objectivity while emphasizing the importance of patient input.
+
+**New Suggested Sentence:**
+`While your doctor is the medical expert, your understanding of your own health experiences as a person living with type 2 diabetes is invaluable. It is essential to voice your needs and preferences during consultations.`
+
+**Deviations:**
+According to [Source - Communicate With Care Pocket Guide], it is necessary to stick to facts and maintain objectivity (Article 2, Section iii).
+
+
+**3. Original Sentence:**
+`Come to every appointment prepared to talk, ask questions and find solutions together.`
+
+**Deviation from Guidelines (Originally Provided):**
+The sentence should ensure clarity to prevent misunderstandings.
+
+**Expert Reviewer's Original Suggested Change:**
+`Arrive at each appointment prepared with questions and ready to discuss potential solutions for managing your type 2 diabetes.`
+
+**Explanation for New Suggested Change:**
+To provide a clear and precise instruction.
+
+**New Suggested Sentence:**
+`Attend each appointment prepared with questions and an open mind to discuss and find solutions for managing your type 2 diabetes together with your doctor.`
+
+**Deviations:**
+According to [Source - Communicate With Care Pocket Guide], providing clear and context-appropriate information is crucial (Article 2, Section ii).
+
+
+**4. Original Sentence:**
+`Goals Share your personal goals, whether it's better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective.`
+
+**Deviation from Guidelines (Originally Provided):**
+The sentence requires better context to ensure clarity.
+
+**Expert Reviewer's Original Suggested Change:**
+`Goals: Share your personal objectives, such as improving blood sugar control, managing your weight, or lowering the risk of cardiovascular events. Discuss with your doctor how your current treatment regimen might be adjusted to achieve these goals more effectively.`
+
+**Explanation for New Suggested Change:**
+The context needs to be more comprehensive and specific.
+
+**New Suggested Sentence:**
+`Goals: Discuss your personal health objectives with your doctor, like stabilizing blood sugar levels, weight management, or reducing the risk of cardiovascular diseases. Explore how adjustments to your current treatment plan can help in achieving these goals more effectively.`
+
+**Deviations:**
+According to [Source - Communicate With Care Pocket Guide], it is essential to provide appropriate context to prevent misunderstandings (Article 2, Section ii).
+
+
+**5. Original Sentence:**
+`Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges.`
+
+**Deviation from Guidelines (Originally Provided):**
+The sentence needs better clarity and should be free from ambiguity.
+
+**Expert Reviewer's Original Suggested Change:**
+`Challenges: Mention any difficulties with your current treatment, such as side effects, preferences for pill or injection forms, lifestyle compatibility, or high costs. Ask your doctor about potential alternatives that could better address these challenges.`
+
+**Explanation for New Suggested Change:**
+To improve clarity and usability of the information provided to patients.
+
+**New Suggested Sentence:**
+`Challenges: Share any issues you've had with your current treatment, such as side effects, a preference for pills or injections, lifestyle compatibility, or cost concerns. Ask your doctor to discuss potential alternatives that might better address these challenges.`
+
+**Deviations:**
+According to [Source - Communicate With Care Pocket Guide], ensure information is clear and free from ambiguity (Article 2, Section ii).
+
+
+**6. Original Sentence:**
+`Talk about your lifestyle and how a new treatment might be better suited for you. For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don't have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals (in addition to healthy eating and exercise).`
+
+**Deviation from Guidelines (Originally Provided):**
+The statement should be objective, clear, and fact-based.
+
+**Expert Reviewer's Original Suggested Change:**
+`Lifestyle: Discuss your lifestyle considerations that could influence your treatment. For example, if you travel frequently and need a convenient medication or if your schedule limits your exercise time, you might prefer a treatment that supports weight management along with a healthy diet and exercise.`
+
+**Explanation for New Suggested Change:**
+To ensure the clarity of the instructions and make it more precise.
+
+**New Suggested Sentence:**
+`Lifestyle: Describe your lifestyle factors that might impact your treatment choices, such as frequent travel requiring a convenient medication or limited time for exercise, which might necessitate a treatment supporting weight management in addition to a healthy diet and exercise.`
+
+**Deviations:**
+According to [Source - Communicate With Care Pocket Guide], stick to facts and provide clear, objective information (Article 2, Section iii).
+
+
+**7. Original Sentence:**
+`Ask questions or share concerns you have about trying a new medication. This means talking through and understanding how it works, and the kind of side effects you could potentially experience. Your doctor should have useful strategies that can help you manage them or decide if you should switch to something else.`
+
+**Deviation from Guidelines (Originally Provided):**
+The statement should be objective and avoid speculative language.
+
+**Expert Reviewer's Original Suggested Change:**
+`Concerns and side effects: Ask questions or express any concerns about new medications. Understand how these medications work and their potential side effects. Your doctor can provide strategies to manage side effects or decide if a different treatment is necessary.`
+
+**Explanation for New Suggested Change:**
+To ensure the sentence is entirely based on factual information.
+
+**New Suggested Sentence:**
+`Concerns and side effects: Ask your doctor questions about any new medications you are considering. Understand how these medications work and what side effects they may have. Your doctor can provide strategies to manage these side effects or decide if another treatment would be more appropriate.`
+
+**Deviations:**
+According to [Source - Communicate With Care Pocket Guide], all information should be fact-based and free from speculation (Article 2, Section iii).
+
+
+
+**8. Original Sentence:**
+`Set realistic expectations with your doctor regarding the timeline and outcomes of your new treatment. Understanding what to expect can help you stay motivated and evaluate if your medicine is working.`
+
+**Deviation from Guidelines (Originally Provided):**
+The sentence should ensure detailed and clear information is conveyed.
+
+**Expert Reviewer's Original Suggested Change:**
+`Treatment expectations: Set realistic treatment goals and timelines with your doctor. Understanding what to expect can help you stay motivated and assess the effectiveness of your medication.`
+
+**Explanation for New Suggested Change:**
+To improve the clarity of the instructions and provide actionable context.
+
+**New Suggested Sentence:**
+`Treatment expectations: Discuss realistic treatment goals and set timelines with your doctor. By understanding what to expect, you can remain motivated and better evaluate the effectiveness of your medication.`
+
+**Deviations:**
+According to [Source - Communicate With Care Pocket Guide], provide clear, detailed information to prevent misunderstandings (Article 2, Section ii).
+
+
+**9. Original Sentence:**
+`Discuss when you should follow-up on how your new treatment is working. Typically, type 2 diabetes patients should see their doctor every 3–6 months.`
+
+**Deviation from Guidelines (Originally Provided):**
+The sentence needs to be fact-based and clear.
+
+**Expert Reviewer's Original Suggested Change:**
+`Follow-up: Discuss appropriate follow-up intervals to evaluate the effectiveness of your new treatment. Generally, type 2 diabetes patients should have appointments with their doctor every 3–6 months.`
+
+**Explanation for New Suggested Change:**
+To enhance the factual clarity and usability of the instructions.
+
+**New Suggested Sentence:**
+`Follow-up: Discuss with your doctor when to schedule follow-up appointments to evaluate your new treatment's effectiveness. Generally, it's recommended for type 2 diabetes patients to visit their healthcare provider every 3-6 months.`
+
+**Deviations:**
+According to [Source - Communicate With Care Pocket Guide], ensure all statements are fact-based and clear (Article 2, Section iii).
+
+
+**10. Original Sentence:**
+`Remember, this conversation is about working together with your doctor to find the best treatment option for you. By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health.`
+
+**Deviation from Guidelines (Originally Provided):**
+The language should remain professional and factual.
+
+**Expert Reviewer's Original Suggested Change:**
+`Remember, the goal is to work collaboratively with your doctor to identify the most suitable treatment options for you. By actively participating in discussions and asking questions, you can help create a personalized plan that supports your journey towards better health.`
+
+**Explanation for New Suggested Change:**
+To maintain a professional tone while ensuring the message is clear and empowering.
+
+**New Suggested Sentence:**
+`Remember, the goal is to collaborate with your doctor to find the most suitable treatment options for you. By actively engaging in discussions and asking questions, you can help develop a personalized plan that supports your journey towards better health.`
+
+**Deviations:**
+According to [Source - Communicate With Care Pocket Guide], maintain a professional tone and ensure the information is fact-based and empowering (Article 2, Section i and iii).
+
+---
+
+### Final Notes:
+- All suggested changes have been individually tailored to align better with the "Non-Promotional Material Guidelines."
+- These changes ensure clarity, professionalism, factual accuracy, and adherence to the specified guidelines.
+- The review ensures that the instructions and information are presented clearly and understandably for the intended audience.

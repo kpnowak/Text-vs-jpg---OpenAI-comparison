@@ -1,0 +1,220 @@
+### Review of Expert Comments:
+
+#### Original Sentence:
+Yesterday, I gone to a party with my friend David.
+
+#### Deviation from Expert's Correction:
+None. The expert corrected the sentence properly by changing "gone" to "went".
+
+#### Expert's Suggested Change:
+Yesterday, I went to a party with my friend David.
+
+#### New Sentence:
+No further changes needed as the expert's correction adheres to the guidelines.
+
+---
+
+#### Original Sentence:
+He study english with me at university.
+
+#### Deviation from Expert's Correction:
+None. The expert corrected "study" to "studies" and "english" to "English".
+
+#### Expert's Suggested Change:
+He studies English with me at university.
+
+#### New Sentence:
+No further changes needed as the expert's correction adheres to the guidelines.
+
+---
+
+#### Original Sentence:
+He wanted to be introduced to Lucy wo he fancied.
+
+#### Deviation from Expert's Correction:
+None. The expert corrected the typographical error "wo" to "who".
+
+#### Expert's Suggested Change:
+He wanted to be introduced to Lucy who he fancied.
+
+#### New Sentence:
+No further changes needed as the expert's correction adheres to the guidelines.
+
+---
+
+#### Original Sentence:
+David and I satt in the corner of the room.
+
+#### Deviation from Expert's Correction:
+None. The expert corrected the typographical error "satt" to "sat".
+
+#### Expert's Suggested Change:
+David and I sat in the corner of the room.
+
+#### New Sentence:
+No further changes needed as the expert's correction adheres to the guidelines.
+
+---
+
+#### Original Sentence:
+He didn ' t making the first move to go and see her.
+
+#### Deviation from Expert's Correction:
+None. The expert correctly changed "making" to "make" and adjusted the contraction "didn't".
+
+#### Expert's Suggested Change:
+He didn't make the first move to go and see her.
+
+#### New Sentence:
+No further changes needed as the expert's correction adheres to the guidelines.
+
+---
+
+#### Original Sentence:
+He waited for so long to tell her that he had a crush on her.
+
+#### Comment:
+No correction needed. This sentence is grammatically correct. The expert reviewed correctly by omitting any changes.
+
+---
+
+#### Original Sentence:
+He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her.
+
+#### Deviation from Expert's Correction:
+None. The expert corrected "taked" to "took".
+
+#### Expert's Suggested Change:
+He took a drink to get some energy, and after a few minutes of endless hesitation, he walked to her.
+
+---
+
+#### Original Sentence:
+David remained mute.
+
+#### Comment:
+No correction needed. This sentence is grammatically correct. The expert reviewed correctly by omitting any changes.
+
+---
+
+#### Original Sentence:
+She gave a hint of a smile, noticing David blushing.
+
+#### Comment:
+No correction needed. This sentence is grammatically correct. The expert reviewed correctly by omitting any changes.
+
+---
+
+#### Original Sentence:
+She asked him if he enjoyed the party.
+
+#### Comment:
+No correction needed. This sentence is grammatically correct. The expert reviewed correctly by omitting any changes.
+
+---
+
+#### Original Sentence:
+He whispered ' Yes ' and had a glance at me.
+
+#### Deviation from Expert's Correction:
+Suggested improved punctuation but introduced unnecessary quotations.
+
+#### Expert's Suggested Change:
+He whispered, "Yes," and glanced at me.
+
+#### Reasoning:
+Correct use of quotation marks but did not address the overall flow and spacing around the dialogue properly.
+
+**New Suggested Sentence:**
+He whispered, “Yes,” and glanced at me.
+
+---
+
+#### Original Sentence:
+I wincked at him.
+
+#### Deviation from Expert's Correction:
+None. The expert corrected the typographical error "wincked" to "winked".
+
+#### Expert's Suggested Change:
+I winked at him.
+
+#### New Sentence:
+No further changes needed as the expert's correction adheres to the guidelines.
+
+---
+
+#### Original Sentence:
+That was it.
+
+#### Comment:
+No correction needed. This sentence is grammatically correct. The expert reviewed correctly by omitting any changes.
+
+---
+
+#### Original Sentence:
+Feeling reassured and confident, he told her which feelings he was experiencing.
+
+#### Deviation from Expert's Correction:
+None. The expert improved clarity by changing "which feelings" to "the feelings".
+
+#### Expert's Suggested Change:
+Feeling reassured and confident, he told her the feelings he was experiencing.
+
+#### New Sentence:
+No further changes needed as the expert's correction adheres to the guidelines.
+
+---
+
+#### Original Sentence:
+She suddenly looked sullen.
+
+#### Comment:
+No correction needed. This sentence is grammatically correct. The expert reviewed correctly by omitting any changes.
+
+---
+
+#### Original Sentence:
+She looked embaarsed.
+
+#### Deviation from Expert's Correction:
+None. The expert corrected the typographical error "embaarsed" to "embarrassed".
+
+#### Expert's Suggested Change:
+She looked embarrassed.
+
+#### New Sentence:
+No further changes needed as the expert's correction adheres to the guidelines.
+
+---
+
+#### Original Sentence:
+She could hardly say a word but after a little seconds, she said : ' I ' m sorry to deceive you but actually I fancy Sebastian ' .
+
+#### Deviation from Expert's Correction:
+None. The expert corrected punctuation and improved readability.
+
+#### Expert's Suggested Change:
+She could hardly say a word, but after a few seconds, she said, "I'm sorry to deceive you, but actually, I fancy Sebastian."
+
+#### New Sentence:
+No further changes needed as the expert's correction adheres to the guidelines.
+
+---
+
+#### Original Sentence:
+David fainted : ' a friend in need is a friend indeed ' !!
+
+#### Deviation from Expert's Correction:
+None. The expert corrected punctuation and added clarity by using proper emphasis.
+
+#### Expert's Suggested Change:
+David fainted: "A friend in need is a friend indeed!"
+
+#### New Sentence:
+No further changes needed as the expert's correction adheres to the guidelines.
+
+---
+
+### Final Document:
+Yesterday, I went to a party with my friend David. He studies English with me at university. He wanted to be introduced to Lucy who he fancied. David and I sat in the corner of the room. He didn't make the first move to go and see her. He waited for so long to tell her that he had a crush on her. He took a drink to get some energy, and after a few minutes of endless hesitation, he walked to her. David remained mute. She gave a hint of a smile, noticing David blushing. She asked him if he enjoyed the party. He whispered, "Yes," and glanced at me. I winked at him. That was it. Feeling reassured and confident, he told her the feelings he was experiencing. She suddenly looked sullen. She looked embarrassed. She could hardly say a word, but after a few seconds, she said, "I'm sorry to deceive you, but actually, I fancy Sebastian." David fainted: "A friend in need is a friend indeed!"

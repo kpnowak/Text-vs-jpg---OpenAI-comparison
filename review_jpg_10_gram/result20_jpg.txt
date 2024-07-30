@@ -1,0 +1,73 @@
+[document_language]: English
+
+### Sentence Reviews and Corrections:
+
+1. **Source Sentence**: "Yesterday, I gone to a party with my friend David."
+   - **Deviation**: Incorrect verb form "gone" should be "went".
+   - **Reason**: Correcting verb tense for grammatical accuracy.
+   - **Corrected Sentence**: "Yesterday, I went to a party with my friend David."
+
+2. **Source Sentence**: "He study english with me at university."
+   - **Deviation**: Incorrect verb tense "study" should be "studies" and capitalization of "english".
+   - **Reason**: Subject-verb agreement and proper noun capitalization.
+   - **Corrected Sentence**: "He studies English with me at university."
+
+3. **Source Sentence**: "He wanted to be introduced to Lucy wo he fancied."
+   - **Deviation**: Typographical error "wo" should be "who".
+   - **Reason**: Correcting spelling error for readability.
+   - **Corrected Sentence**: "He wanted to be introduced to Lucy who he fancied."
+
+4. **Source Sentence**: "David and I satt in the corner of the room."
+   - **Deviation**: Typographical error "satt" should be "sat".
+   - **Reason**: Correcting spelling error for readability.
+   - **Corrected Sentence**: "David and I sat in the corner of the room."
+
+5. **Source Sentence**: "He didn ' t making the first move to go and see her."
+   - **Deviation**: Improper verb formation, "didn ' t making" should be "didn't make".
+   - **Reason**: Correcting grammatical error for better sentence structure.
+   - **Corrected Sentence**: "He didn't make the first move to go and see her."
+
+6. **Source Sentence**: "He waited for so long to tell her that he had a crush on her."
+   - **Deviation**: No deviation noted. [Note: the sentence has no grammatical errors to correct.]
+   - **Reason**: No change necessary.
+
+7. **Source Sentence**: "He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+   - **Deviation**: Incorrect verb tense "taked" should be "took".
+   - **Reason**: Incorrect past tense of "take".
+   - **Corrected Sentence**: "He took a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+
+8. **Source Sentence**: "She asked him if he enjoyed the party. He whispered ' Yes ' and had a glance at me."
+   - **Deviation**: No significant deviation noted other than typographical formatting.
+   - **Reason**: Minor format correction for quotation consistency.
+   - **Corrected Sentence**: "She asked him if he enjoyed the party. He whispered 'Yes' and had a glance at me."
+
+9. **Source Sentence**: "I wincked at him."
+   - **Deviation**: Typographical error "wincked" should be "winked".
+   - **Reason**: Correcting spelling error.
+   - **Corrected Sentence**: "I winked at him."
+
+10. **Source Sentence**: "Feeling reassured and confident, he told her which feelings he was experiencing."
+    - **Deviation**: No deviation noted. [Note: the sentence has no grammatical errors to correct.]
+    - **Reason**: No change necessary.
+
+11. **Source Sentence**: "She suddendly looked sullen."
+    - **Deviation**: Typographical error "suddendly" should be "suddenly".
+    - **Reason**: Correcting spelling error.
+    - **Corrected Sentence**: "She suddenly looked sullen."
+
+12. **Source Sentence**: "She looked emarased."
+    - **Deviation**: Typographical error "emarased" should be "embarrassed".
+    - **Reason**: Correcting spelling error.
+    - **Corrected Sentence**: "She looked embarrassed."
+
+13. **Source Sentence**: "She could hardly say a word but after a little seconds, she said: ' I ' m sorry to deceive you but actually I fancy Sebastian '."
+    - **Deviation**: Typographical errors and punctuation issues. "after a little seconds" should be "after a few seconds", and improper quotation spacing.
+    - **Reason**: Improving readability and conforming to proper punctuation.
+    - **Corrected Sentence**: "She could hardly say a word but after a few seconds, she said: 'I'm sorry to deceive you but actually I fancy Sebastian'."
+
+14. **Source Sentence**: "David fainted : ' a friend in need is a friend inded ' !!"
+    - **Deviation**: Typographical error "inded" should be "indeed".
+    - **Reason**: Correcting spelling error for readability.
+    - **Corrected Sentence**: "David fainted: 'a friend in need is a friend indeed'!"
+
+By correcting the above issues, the document's grammatical accuracy, readability, and clarity are significantly enhanced.

@@ -1,11 +1,98 @@
-According to [EFPIA Chapter 3], LLH activities must have content that is fair, balanced, and objective.
-- The original document provides general advice on discussing treatment options but lacks specific guidance on ensuring the content is fair, balanced, and objective.
-- The deviation is related to maintaining fairness, balance, and objectivity in discussing treatment options.
-- "When discussing treatment options, ensure the information presented is fair, balanced, and objective to align with LLH guidelines."
-- This new sentence ensures that the information presented to patients about treatment options is in line with the LLH guidelines, promoting fairness, balance, and objectivity in the communication.
+### Review and Corrections
 
-According to [EFPIA Chapter 4], financial and non-financial support provided by Member Companies to POs must always be clearly acknowledged.
-- The original document advises openly discussing concerns, but it does not emphasize the need for clear acknowledgment of support.
-- The deviation is related to ensuring transparency in disclosing financial and non-financial support to third parties.
-- "When seeking collaborations, it's essential to transparently acknowledge any financial or non-financial support provided by Member Companies to maintain ethical standards."
-- This new sentence addresses the deviation by underscoring the importance of transparent acknowledgment of support, aligning with the guidelines to maintain ethical conduct in collaborations.
+#### Clause: "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+**Guideline Source which influenced your response:**  
+Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication, Article 1 - Non-Promotional Material.
+
+**The source sentence your new sentence replaces:**  
+"When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+**The deviations your new sentence corrects:**  
+Non-Promotional Material must avoid any implication of endorsement of unapproved uses of a product or suggest changes without a physician's explicit recommendation. According to Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication, the sharing of scientific information about products must be balanced and objective.
+
+**Your new sentence:**  
+"When you're living with type 2 diabetes, discussing your changing personal health needs with your healthcare provider is essential for ongoing management."
+
+**The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**  
+This sentence emphasizes the need for consultation with a healthcare provider rather than independently deciding to change treatment, thereby ensuring compliance with non-promotional guidelines and maintaining objectivity.
+
+---
+
+#### Clause: "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+**Guideline Source which influenced your response:**  
+Source - Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional.
+
+**The source sentence your new sentence replaces:**  
+"It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+**The deviations your new sentence corrects:**  
+This sentence potentially promotes patient-initiated changes without specifying the need for a professional healthcare assessment. According to Source - Communicate With Care Pocket Guide, clarity and avoiding misleading suggestions are important.
+
+**Your new sentence:**  
+"It's important to talk to your doctor about any changes you believe might be beneficial to your treatment plan."
+
+**The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**  
+The revised sentence underscores the role of the doctor in evaluating and implementing any changes, ensuring a professional and balanced approach.
+
+---
+
+#### Clause: "Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it's important to advocate for your needs and preferences during your discussion."
+
+**Guideline Source which influenced your response:**  
+Source - Communicate With Care Pocket Guide, Article 3 - Do Not Ignore Inappropriate Writing.
+
+**The source sentence your new sentence replaces:**  
+"Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it's important to advocate for your needs and preferences during your discussion."
+
+**The deviations your new sentence corrects:**  
+This sentence could inadvertently suggest patient autarky, downplaying the necessity for medical oversight. According to Source - Communicate With Care Pocket Guide, professional and fact-oriented communication is critical.
+
+**Your new sentence:**  
+"Your doctor is the medical expert, and you can provide valuable insights about your daily management of type 2 diabetes. It's important to discuss your needs and preferences thoroughly during your consultations."
+
+**The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**  
+The new sentence reinforces the collaborative nature of patient-doctor interactions, ensuring that medical advice remains central while acknowledging patient experience.
+
+---
+
+#### Clause: "Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
+
+**Guideline Source which influenced your response:**  
+Source - EFPIA Article 16.i (Lifelong Learning in Healthcare).
+
+**The source sentence your new sentence replaces:**  
+"Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
+
+**The deviations your new sentence corrects:**  
+This sentence could inadvertently steer patients towards specific treatment preferences without adequate medical supervision. According to Source - EFPIA Article 16.i, educational content must be fair, balanced, and designed to allow expression of diverse evidence-based options.
+
+**Your new sentence:**  
+"Discuss any difficulties you've experienced with your current treatment, such as side effects, lifestyle compatibility, or cost concerns, and ask your doctor about potential alternatives that could address these challenges."
+
+**The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**  
+The new sentence encourages discussion without implicit endorsement of specific treatments, ensuring a balanced and fair dialogue in line with non-promotional educational standards.
+
+---
+
+#### Clause: "Set realistic expectations with your doctor regarding the timeline and outcomes of your new treatment."
+
+**Guideline Source which influenced your response:**  
+Source - Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional.
+
+**The source sentence your new sentence replaces:**  
+"Set realistic expectations with your doctor regarding the timeline and outcomes of your new treatment."
+
+**The deviations your new sentence corrects:**  
+This sentence could be perceived as setting therapeutic expectations without sufficient medical context. According to Source - Communicate With Care Pocket Guide, context and factual clarity are essential.
+
+**Your new sentence:**  
+"Work with your doctor to understand the realistic timeline and expected outcomes of any new treatment."
+
+**The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**  
+The revised sentence better aligns with the need for collaborative and medically guided discussions, ensuring a clear and professional tone that articulates the importance of medical advice.
+
+---
+
+By making the changes above, the document will adhere to the "Non-Promotional Material Guidelines" effectively, ensuring ethical, precise, and professional communication in line with high standards.

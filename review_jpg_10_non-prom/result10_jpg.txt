@@ -1,45 +1,93 @@
-### Review of Image Using "Non-Promotional Material Guidelines"
+Based on the "Non-Promotional Material Guidelines," here's the review of the text provided in the image. Each deviation from the guidelines has been addressed by providing corrected sentences with appropriate justifications:
 
-**Guideline source:** Source - EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility
-1. **Source sentence:** "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
-2. **Deviations:** The original sentence implies an on-going change in treatment, which might suggest inducement to modify medication use.
-3. **New sentence:** "When managing type 2 diabetes, it’s important to periodically reassess your treatment plan with your healthcare provider to ensure it meets your evolving health needs."
-4. **Justification:** This revision ensures that the sentence reflects an educational tone about regular reassessment rather than suggesting frequent changes, aligning with the guidelines to avoid inducing specific treatment modifications.
+---
 
-**Guideline source:** Source - EFPIA Chapter 3, Article 18 - Non-Interventional Studies
-1. **Source sentence:** "It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment."
-2. **Deviations:** The original sentence includes a casual encouragement (“like you’re doing right now!”) that may undermine the professional tone.
-3. **New sentence:** "It can be challenging to begin these conversations, but having your treatment goals clear and becoming more informed about type 2 diabetes will help you discuss your treatment options more effectively with your doctor."
-4. **Justification:** This revised sentence maintains a professional tone while encouraging patient education, complying with the guidelines to maintain clarity and professionalism in communication.
+**Source Sentence 1:**
+"When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
 
-**Guideline source:** Source - EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility
-1. **Source sentence:** "Share your personal goals, whether it’s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective."
-2. **Deviations:** The original sentence suggests discussing treatment effectiveness, which may indirectly promote specific therapies.
-3. **New sentence:** "Share your personal health goals, such as managing blood sugar levels, weight management, or reducing cardiovascular risk, and consult with your doctor about how to achieve these goals."
-4. **Justification:** This sentence revision focuses on patient health goals and situates the doctor as the primary source for advice, avoiding indirect promotion of treatments.
+**Deviations:**
+- Lack of professional disclaimer indicating the information provided is not a replacement for medical advice.
+- Missing guidance that aligns with Article 1, Disclaimer Texts for Non-promotional Material.
+  
+**Guideline Source:**
+- According to [Source - Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers],
 
-**Guideline source:** Source - Disclaimers for Non-promotional Material
-1. **Source sentence:** "Ask questions or share concerns you have about trying a new medication."
-2. **Deviations:** The original sentence might be interpreted as promoting new medications.
-3. **New sentence:** "Discuss any questions or concerns with your doctor regarding new treatment options."
-4. **Justification:** By substituting “new medication” with “new treatment options,” the revised sentence avoids promotion and adheres to the guideline that emphasizes non-promotional communication.
+**New Sentence:**
+"When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs. Please see patient information leaflet in the package for additional information."
 
-**Guideline source:** Source - Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional
-1. **Source sentence:** "For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don’t have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals."
-2. **Deviations:** The phrase can be seen as preferential towards specific medications and lacks professional clarity.
-3. **New sentence:** "For example, if you travel frequently or have limited time for exercise, discuss with your doctor how a new treatment plan can help manage your weight and fit better into your lifestyle."
-4. **Justification:** This version maintains a clear and professional tone while ensuring the patient’s needs are discussed in a way that aligns with fair, balanced, and non-promotional guidelines.
+**Reason for Change:**
+Adding a disclaimer ensures readers understand this information should not substitute for professional medical advice, aligning with guidelines for providing clear and non-promotional content.
 
-**Guideline source:** Source - EFPIA Chapter 3, Article 19 - Medical Samples
-1. **Source sentence:** "Set realistic expectations with your doctor regarding the timeline and outcomes of your new treatment."
-2. **Deviations:** The sentence could suggest starting a new treatment without medical consultation.
-3. **New sentence:** "Discuss realistic expectations with your doctor about the timeline and outcomes of any treatment plan."
-4. **Justification:** This revision emphasizes consultation with the doctor before any changes in treatment, ensuring compliance with the guidelines to not promote direct changes without professional oversight.
+---
 
-**Guideline source:** Source - Global Legal & Compliance Pocket Guide, Article 1 - Non-Promotional Material
-1. **Source sentence:** "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
-2. **Deviations:** This statement might be perceived as indirectly promoting special or new treatments.
-3. **New sentence:** "Remember, this conversation is about collaborating with your doctor to identify the most suitable treatment strategy for your health needs."
-4. **Justification:** This sentence reinforces the idea of partnership and personalized care without implying promotion of new treatments, thus complying with the non-promotional material guideline.
+**Source Sentence 2:**
+"Your doctor is the medical expert, but you are the one living with type 2 diabetes."
 
-By addressing these deviations and ensuring that replacements align with the Non-Promotional Material Guidelines, the document can maintain its integrity and purpose without crossing into promotional territory. The careful revision ensures compliance with EFPIA and other relevant guidelines.
+**Deviations:**
+- The tone could be perceived as undermining the professional advice of healthcare providers.
+- Missing professional context adherence as per Communicate With Care standards.
+  
+**Guideline Source:**
+- According to [Source - Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional], 
+
+**New Sentence:**
+"While your doctor is the medical expert, you play a crucial role in managing your type 2 diabetes."
+
+**Reason for Change:**
+Ensures respect and acknowledgment of both the patient's role and the physician’s expertise, maintaining professionalism and clarity.
+
+---
+
+**Source Sentence 3:**
+"Talk about your lifestyle and how a new treatment might be better suited for you."
+
+**Deviations:**
+- Needs a more explicit explanation to help patients understand the context better.
+- According to the guidelines, ensuring clarity and avoiding vague instructions is necessary.
+  
+**Guideline Source:**
+- According to [Source - Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional],
+
+**New Sentence:**
+"Discuss your lifestyle with your healthcare provider to identify if a new treatment might be better suited for you."
+
+**Reason for Change:**
+Provides clear guidance on involving healthcare providers in treatment decisions, thereby adhering to the guideline of maintaining professional communication.
+
+---
+
+**Source Sentence 4:**
+"By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that’ll empower you on your journey towards better health."
+
+**Deviations:**
+- Missing general disclaimer about not replacing professional medical advice.
+  
+**Guideline Source:**
+- According to [Source - Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers],
+
+**New Sentence:**
+"By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that’ll empower you on your journey towards better health. This information is intended to support discussions with your healthcare provider and should not substitute for professional medical advice."
+
+**Reason for Change:**
+To ensure that the information is used in conjunction with professional medical advice and not as a standalone guide, adhering to compliance requirements.
+
+---
+
+**Source Sentence 5:**
+"Discuss how you should follow-up on how your new treatment is working. Typically, type 2 diabetes patients should see their doctor every 3-6 months."
+
+**Deviations:**
+- Need for a general disclaimer about the patient example to avoid it being seen as specific medical advice.
+  
+**Guideline Source:**
+- According to [Source - Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers],
+
+**New Sentence:**
+"Discuss with your healthcare provider how you should follow-up on your new treatment to see if it is working effectively. Typically, type 2 diabetes patients should see their doctor every 3-6 months. The character and its description are for representation purposes only and do not reflect real patient experiences."
+
+**Reason for Change:**
+Adding a disclaimer prevents the content from being interpreted as specific medical advice and highlights its representational nature, aligning with the guidelines.
+
+---
+
+Each replacement ensures adherence to the Non-Promotional Material Guidelines by providing clear context, professional disclaimers, and maintaining the integrity and professionalism required in non-promotional communication.

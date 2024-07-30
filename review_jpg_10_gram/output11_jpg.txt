@@ -1,0 +1,81 @@
+### comment 1
+#### Original Sentence:
+"He study english with me at university."
+#### Deviation:
+- Incorrect verb form for the third person singular.
+- "english" should be capitalized.
+#### Expert's Suggested Change:
+"He studies English with me at university."
+#### Reason for New Suggestion:
+To further improve clarity and readability, adding the definite article "the" before "university" gives more context.
+#### New Suggested Sentence:
+"He studies English with me at the university."
+
+
+### comment 2
+#### Original Sentence:
+"David and I satt in the corner of the room."
+#### Deviation:
+- Misspelling of "sat."
+#### Expert's Suggested Change:
+"David and I sat in the corner of the room."
+#### Reason for New Suggestion:
+To enhance clarity, removing redundancy and providing a more concise sentence is sometimes beneficial.
+#### New Suggested Sentence:
+"David and I sat in a corner of the room."
+
+
+### comment 3
+#### Original Sentence:
+"He whispered ' Yes ' and had a glance at me."
+#### Deviation:
+- Incorrect punctuation, with extra spaces around the quotes and the need for double quotes.
+#### Expert's Suggested Change:
+"He whispered ' Yes ' and had a glance at me."
+#### Reason for New Suggestion:
+To conform to standard punctuation rules, removing extra spaces and using double quotes is necessary. Furthermore, specifying "Yes" enhances readability and clarity.
+#### New Suggested Sentence:
+"He whispered, 'Yes,' and then glanced at me."
+
+
+### comment 4
+#### Original Sentence:
+"He waited for so long to tell her that he had a crush on her."
+#### Deviation:
+- No significant deviation noted.
+#### Expert's Suggested Change:
+"He waited for so long to tell her that he had a crush on her."
+#### Reason for New Suggestion:
+To eliminate verbosity and make the sentence more concise while preserving its original meaning.
+#### New Suggested Sentence:
+"He waited a long time to tell her he had a crush on her."
+
+
+### comment 5
+#### Original Sentence:
+"She could hardly say a word but after a little seconds, she said: ' I ' m sorry to deceive you but actually I fancy Sebastian '."
+#### Deviation:
+- Poor choice of wording "a little seconds." It should be "a few seconds."
+- Extra spaces around contractions.
+- Single quotes should be replaced with double quotes for consistency as this is standard in British English.
+#### Expert's Suggested Change:
+"She could hardly say a word but after a few seconds, she said: "I'm sorry to deceive you but actually I fancy Sebastian."
+#### Reason for New Suggestion:
+To enhance contextual flow and finesse the sentence structure, adding conjunctions and removing redundancy can improve readability.
+#### New Suggested Sentence:
+"She could hardly say a word at first, but after a few seconds, she said, 'I'm sorry to deceive you, but I actually fancy Sebastian.'"
+
+
+### comment 6
+#### Original Sentence:
+"David fainted: ' a friend in need is a friend indeed ' !!"
+#### Deviation:
+- Single quotes should be replaced with double quotes for consistency as this is standard in British English.
+- Overuse of exclamation points. One exclamation point is sufficient.
+#### Expert's Suggested Change:
+"David fainted: "a friend in need is a friend indeed!"
+#### Reason for New Suggestion:
+To standardize punctuation use and reflect general writing conventions, which help in improving overall readability.
+#### New Suggested Sentence:
+"David fainted and said, 'A friend in need is a friend indeed!'"
+

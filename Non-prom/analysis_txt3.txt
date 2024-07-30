@@ -1,0 +1,49 @@
+### Individual Mistakes Analysis 
+
+Mistake 'It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial.':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+Mistake 'like you're doing right now!':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+Mistake 'Your doctor is the medical expert, but you are the one living with type 2 diabetes.':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+Mistake 'Discuss any difficulties you've experienced with your current treatment such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high and ask if there might be a better alternative that addresses these challenges.':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+Mistake 'Talk about your lifestyle and how a new treatment might be better suited for you.':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+Mistake 'Typically, type 2 diabetes patients should see their doctor every 3-6 months.':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+Mistake 'Remember, this conversation is about working together with your doctor to find the best treatment option for you.':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+### Summary Confusion Matrix
+- True Positive: 70
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0

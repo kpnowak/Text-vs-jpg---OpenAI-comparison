@@ -1,0 +1,146 @@
+### Review of the Document "How to talk about treatment options"
+
+#### Sentence 1:
+- **Guideline Source:** Source - Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional
+- **Source Sentence:** "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- **Deviations:** The original sentence lacks clarity on the medical implications. According to Source - Communicate With Care Pocket Guide: Article 2 (ii), it's essential to provide context to prevent misunderstandings.
+- **New Sentence:** "When you are living with type 2 diabetes, it may become necessary to periodically reevaluate your treatment to ensure it continues to meet your evolving health needs."
+- **Reason for Replacement:** This revised sentence provides clearer context, detailing the need for reevaluation due to evolving health needs. It mitigates the potential misunderstanding about the frequency and necessity of such reevaluation.
+
+#### Sentence 2:
+- **Guideline Source:** Source - Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional
+- **Source Sentence:** "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+- **Deviations:** The original sentence could be misinterpreted and lacks explicit encouragement to consult a healthcare professional. According to Communicate With Care Pocket Guide: Article 2 (iii), it's important to avoid speculation.
+- **New Sentence:** "It's crucial to feel confident and prepared to discuss with your doctor any changes you think could benefit your health."
+- **Reason for Replacement:** This sentence emphasizes consulting a healthcare professional while avoiding speculation, aligning with the principle of providing clear and factual information.
+
+#### Sentence 3:
+- **Guideline Source:** Source - Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional
+- **Source Sentence:** "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+- **Deviations:** The original statement might come off as dismissive of the doctor's expertise. According to Source - Communicate With Care Pocket Guide: Article 2 (i), it's important to maintain a professional and collaborative tone.
+- **New Sentence:** "While your doctor provides medical expertise, you bring invaluable personal experience of living with type 2 diabetes."
+- **Reason for Replacement:** The revised sentence fosters a more collaborative tone, highlighting the complementary roles of the healthcare provider and the patient.
+
+#### Sentence 4:
+- **Guideline Source:** Source - Communicate With Care Pocket Guide: Article 1 - Be Mindful; Article 2 - Be Clear and Professional
+- **Source Sentence:** "Come to every appointment prepared to talk, ask questions and find solutions together."
+- **Deviations:** The original sentence lacks specificity and may inadvertently pressure patients. Using specific and clear instructions is essential as per Communicate With Care Pocket Guide: Article 2 (ii).
+- **New Sentence:** "Prepare for each appointment by listing questions and concerns, enabling you and your doctor to find the best solutions together."
+- **Reason for Replacement:** This revised sentence provides actionable advice, maintaining a clear and professional tone while avoiding any unintended pressure on patients.
+
+#### Sentence 5:
+- **Guideline Source:** Source - EFPIA Chapter 3: Article 17 - Informational or Educational Materials and Items of Medical Utility
+- **Source Sentence:** "Share your personal goals, whether it's better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective."
+- **Deviations:** This sentence must avoid promoting specific treatments. Following EFPIA Chapter 3: Article 17, the material should provide general educational information.
+- **New Sentence:** "Share your personal health goals, such as improved blood sugar control, weight management, or reduced cardiovascular risk, and discuss with your doctor how to achieve these goals more effectively."
+- **Reason for Replacement:** The revised sentence avoids any implication of promoting specific treatments and aligns with the guideline for providing unbiased, general educational material.
+
+#### Sentence 6:
+- **Guideline Source:** Source - Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers
+- **Source Sentence:** "This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
+- **Deviations:** The sentence should avoid providing detailed medical advice without disclaimers. According to Disclaimer Texts for Non-promotional Material: Article 3, appropriate disclaimers should accompany such information.
+- **New Sentence:** "This means discussing and understanding how a new medication works and the potential side effects, noting that any medical decision should be made based on a doctor's advice."
+- **Reason for Replacement:** This revised sentence adds a necessary disclaimer, reinforcing that detailed medical decisions should be made based on professional medical advice.
+
+#### Sentence 7:
+- **Guideline Source:** Source - Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional
+- **Source Sentence:** "Your doctor should have useful strategies that can help you manage them or decide if you should switch to something else."
+- **Deviations:** The original text lacks specific context about managing side effects. According to Communicate With Care Pocket Guide: Article 2 (ii), it is important to provide context to prevent misunderstandings.
+- **New Sentence:** "Your doctor can offer strategies to help manage side effects or advise if switching to a different treatment is necessary."
+- **Reason for Replacement:** The revised sentence provides clearer context, indicating that consulting the doctor is essential for professional advice on managing side effects.
+
+#### Sentence 8:
+- **Guideline Source:** Source - Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional
+- **Source Sentence:** "Understanding what to expect can help you stay motivated and evaluate if your medicine is working."
+- **Deviations:** The original sentence lacks clarity about the importance of monitoring treatment effectiveness. Communicate With Care Pocket Guide: Article 2 (ii) emphasizes providing clear information.
+- **New Sentence:** "Understanding the expected outcomes can help you stay motivated and assess whether your treatment is effective."
+- **Reason for Replacement:** This replacement sentence offers more precise guidance on monitoring treatment effectiveness, adhering to the principle of clear and accurate communication.
+
+#### Sentence 9:
+- **Guideline Source:** Source - Communicate With Care Pocket Guide: Article 1 - Be Mindful
+- **Source Sentence:** "Typically, type 2 diabetes patients should see their doctor every 3–6 months."
+- **Deviations:** The original sentence lacks a cautionary note that follow-up intervals may vary. According to Communicate With Care Pocket Guide: Article 1 (ii), content sensitivity and appropriateness should be considered.
+- **New Sentence:** "Typically, patients with type 2 diabetes should see their doctor every 3 to 6 months, but follow-up intervals may vary based on individual needs."
+- **Reason for Replacement:** The revised sentence accommodates individual variations in medical follow-up, making the guidance more comprehensive and mindful of differing patient conditions.
+
+#### Sentence 10:
+- **Guideline Source:** Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication: Article 1 - Non-Promotional Material
+- **Source Sentence:** "By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health."
+- **Deviations:** The original sentence could imply promotional content without proper clarity. According to Global Legal & Compliance Pocket Guide Semaglutide portfolio, factual information without promotional intent is key.
+- **New Sentence:** "By actively participating in the discussion, asking questions, and being part of the decision-making process, you can help create a personalized health plan that empowers you towards better management of type 2 diabetes."
+- **Reason for Replacement:** The revised sentence eliminates any implied promotional tone and emphasizes collaborative involvement in creating a health plan.
+
+By making these revisions, we ensure that the document adheres to the "Non-Promotional Material Guidelines" and maintains a high standard of clarity, professionalism, and ethical communication.
+
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Review of the Document "How to Talk About Treatment Options"
+
+#### Sentence 1:
+- **Original Source Sentence:** "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- **Deviation from Guidelines:** The original sentence lacks clarity on the medical implications and context for the necessity of reevaluation.
+- **Expert's Suggested Change:** "When you are living with type 2 diabetes, it may become necessary to periodically reevaluate your treatment to ensure it continues to meet your evolving health needs."
+- **Reason for New Suggested Change:** While the expert's version improves clarity, it can be further enhanced by emphasizing the patient-doctor collaboration required for treatment reevaluation.
+- **New Suggested Sentence:** "Living with type 2 diabetes often requires periodic treatment reevaluations with your doctor to accommodate your evolving health needs."
+- **Deviations:** According to [Source - Communicate With Care Pocket Guide], clarity and context are essential to prevent misunderstandings (Article 2 - Be Clear and Professional).
+
+#### Sentence 2:
+- **Original Source Sentence:** "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+- **Deviation from Guidelines:** The original sentence is overly vague and lacks direct encouragement to consult a healthcare professional.
+- **Expert's Suggested Change:** "It's crucial to feel confident and prepared to discuss with your doctor any changes you think could benefit your health."
+- **Reason for New Suggested Change:** The revised sentence overall can be balanced slightly better to stress the empowerment aspect without losing the importance of consulting a doctor.
+- **New Suggested Sentence:** "It's important to feel empowered and confident to discuss potential beneficial changes to your health with your doctor."
+- **Deviations:** According to [Source - Communicate With Care Pocket Guide], avoiding speculation and maintaining clarity are key (Article 2 - Be Clear and Professional).
+
+#### Sentence 4:
+- **Original Source Sentence:** "Come to every appointment prepared to talk, ask questions and find solutions together."
+- **Deviation from Guidelines:** The original sentence is somewhat vague and may unintentionally pressure patients.
+- **Expert's Suggested Change:** "Prepare for each appointment by listing questions and concerns, enabling you and your doctor to find the best solutions together."
+- **Reason for New Suggested Change:** To ensure the tone remains encouraging yet non-pressuring, and to provide specific actionable advice.
+- **New Suggested Sentence:** "Before each appointment, prepare a list of questions and concerns to discuss, so you and your doctor can find the best solutions together."
+- **Deviations:** According to [Source - Communicate With Care Pocket Guide], specificity and clarity are necessary to avoid misunderstandings (Article 2 - Be Clear and Professional).
+
+#### Sentence 5:
+- **Original Source Sentence:** "Share your personal goals, whether it's better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective."
+- **Deviation from Guidelines:** This sentence must avoid promoting specific treatments and provide general educational information instead.
+- **Expert's Suggested Change:** "Share your personal health goals, such as improved blood sugar control, weight management, or reduced cardiovascular risk, and discuss with your doctor how to achieve these goals more effectively."
+- **Reason for New Suggested Change:** To ensure the neutrality of the tone and avoid any implication of promoting specific treatments.
+- **New Suggested Sentence:** "Discuss your personal health goals, like better blood sugar control, weight management, or lowering cardiovascular risks, and talk with your doctor about how to better achieve these goals."
+- **Deviations:** According to [Source - EFPIA Chapter 3], the material should provide unbiased, factual information (Article 17 - Informational or Educational Materials and Items of Medical Utility).
+
+#### Sentence 6:
+- **Original Source Sentence:** "This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
+- **Deviation from Guidelines:** This sentence should avoid giving detailed medical advice without proper disclaimers.
+- **Expert's Suggested Change:** "This means discussing and understanding how a new medication works and the potential side effects, noting that any medical decision should be made based on a doctor's advice."
+- **Reason for New Suggested Change:** To stress the importance of professional medical advice while indicating the need for discussing potential side effects.
+- **New Suggested Sentence:** "This involves talking through how a new medication works and understanding its potential side effects, with all medical decisions being made in consultation with your doctor."
+- **Deviations:** According to [Source - Disclaimer Texts for Non-promotional Material], medical advice must be accompanied by appropriate disclaimers (Article 3 - General Disclaimers).
+
+#### Sentence 7:
+- **Original Source Sentence:** "Your doctor should have useful strategies that can help you manage them or decide if you should switch to something else."
+- **Deviation from Guidelines:** The original text is vague regarding the context of managing side effects.
+- **Expert's Suggested Change:** "Your doctor can offer strategies to help manage side effects or advise if switching to a different treatment is necessary."
+- **Reason for New Suggested Change:** To provide clearer context and stress the importance of professional medical advice.
+- **New Suggested Sentence:** "Your doctor can provide strategies for managing side effects and advise if switching treatments is necessary."
+- **Deviations:** According to [Source - Communicate With Care Pocket Guide], providing context prevents misunderstandings (Article 2 - Be Clear and Professional).
+
+#### Sentence 8:
+- **Original Source Sentence:** "Understanding what to expect can help you stay motivated and evaluate if your medicine is working."
+- **Deviation from Guidelines:** The original sentence lacks clear guidance on the importance of monitoring treatment effectiveness.
+- **Expert's Suggested Change:** "Understanding the expected outcomes can help you stay motivated and assess whether your treatment is effective."
+- **Reason for New Suggested Change:** Ensure the importance of monitoring treatment effectiveness is emphasized clearly.
+- **New Suggested Sentence:** "Knowing what to expect can help you stay motivated and evaluate whether your treatment is achieving its goals."
+- **Deviations:** According to [Source - Communicate With Care Pocket Guide], clarity and accuracy in communication are crucial (Article 2 - Be Clear and Professional).
+
+#### Sentence 9:
+- **Original Source Sentence:** "Typically, type 2 diabetes patients should see their doctor every 3–6 months."
+- **Deviation from Guidelines:** The original sentence does not account for individual variations in follow-up intervals.
+- **Expert's Suggested Change:** "Typically, patients with type 2 diabetes should see their doctor every 3 to 6 months, but follow-up intervals may vary based on individual needs."
+- **Reason for New Suggested Change:** While accurate, it can further emphasize the need for personalized medical advice.
+- **New Suggested Sentence:** "Patients with type 2 diabetes typically should see their doctor every 3 to 6 months, although your doctor may recommend different follow-up intervals based on individual needs."
+- **Deviations:** According to [Source - Communicate With Care Pocket Guide], content should be sensitive and appropriate to individual situations (Article 1 - Be Mindful).
+
+By making these revisions, we ensure that the document adheres to the "Non-Promotional Material Guidelines" and maintains a high standard of clarity, professionalism, and ethical communication.

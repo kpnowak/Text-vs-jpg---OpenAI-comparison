@@ -1,73 +1,31 @@
-### Review of Non-Promotional Material Document
+### Review for the Expert's Suggested Changes
 
-#### Guideline Source: EFPIA Chapter 3, Article 17
-- **The original source sentence**:
-  "It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
-- **The deviation from the guidelines originally provided by the expert reviewer**:
-  The original text may unintentionally imply direct consumer recommendation of initiating treatment conversations, which should be neutral and informational.
-- **The expert reviewer's original suggested change**:
-  "It’s important that you stay informed and prepared to discuss treatment options with your doctor whenever appropriate."
-- **An explanation for the reason behind your new suggested change**:
-  The expert reviewer's change is adequate but could be improved for enhanced clarity and focus on the patient's role in the discussion.
-- **Your new suggested sentence**:
-  "It’s vital to stay informed and be prepared to discuss your treatment options with your healthcare provider whenever needed."
-- **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**:
-  According to [Source - Communicate With Care Pocket Guide] the information suggests that language should be clear, professional, and should maintain neutrality without encouraging specific actions directly.
+1. **Source Sentence**: "This information is intended for education purpose only and should not be substituted for medical advice from your doctor."
+   - **Deviation by Expert**: According to "Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication", it is essential to include a disclaimer stating that the information is not a substitute for medical advice and is intended for educational purposes only.
+   - **Expert's Suggested Change**: "This information is intended for educational purposes only and should not be substituted for medical advice from your doctor."
+   - **Explanation**: The expert's suggested change aligns closely with the guidelines focused on being clear about non-promotional and educational intent.
+   - **New Sentence**: "This information is intended solely for educational purposes and should not replace professional medical advice from your doctor."
+   - **Deviations**: According to "Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication: Article 1 - Non-Promotional Material", the information suggests that it's important to ensure non-promotional and educational intent and emphasize that it should not replace professional medical advice. 
 
-#### Guideline Source: EFPIA Chapter 4, Article 21
-- **The original source sentence**:
-  "Share your personal goals, whether it’s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and ask if your doctor how your current treatment could be more effective."
-- **The deviation from the guidelines originally provided by the expert reviewer**:
-  The sentence may appear to offer treatment suggestions or pose direct medical advice.
-- **The expert reviewer's original suggested change**:
-  "Discuss your personal goals, such as improving blood sugar control, managing weight, or reducing cardiovascular risks, and explore with your doctor whether your current treatment meets these goals."
-- **An explanation for the reason behind your new suggested change**:
-  The expert improvement is good but can be refined to enhance clarity and precision.
-- **Your new suggested sentence**:
-  "Discuss your personal health goals, such as controlling blood sugar, managing weight, or reducing cardiovascular risks, and evaluate with your doctor if your current treatment aligns with these goals."
-- **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**:
-  According to [Source - Communicate With Care Pocket Guide], it’s essential to inform without implying direct medical advice and to maintain a neutral, professional, and collaborative tone.
+2. **Source Sentence**: Missing disclaimer required by guideline: “The image shown is a model and not a real patient.”
+   - **Deviation by Expert**: According to "Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers include in all pages”, each document should include the disclaimer that images are of models and not real patients.
+   - **Expert's Suggested Change**: “The image shown is a model and not a real patient.”
+   - **Explanation**: The expert’s suggested disclaimer is appropriate, but a slight modification can improve it for better clarity.
+   - **New Sentence**: “The images used in this material show models and do not depict real patients.”
+   - **Deviations**: According to "Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers include in all pages", it’s essential to clarify that the images are of models to ensure transparency and compliance.
 
-#### Guideline Source: Communicate With Care Pocket Guide, Article 2
-- **The original source sentence**:
-  "This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
-- **The deviation from the guidelines originally provided by the expert reviewer**:
-  The original text could be seen as informal and lacking in professionalism.
-- **The expert reviewer's original suggested change**:
-  "This involves discussing and understanding how the medication works, including potential side effects."
-- **An explanation for the reason behind your new suggested change**:
-  The expert’s change is suitable but can be made even more straightforward to ensure clarity and precision.
-- **Your new suggested sentence**:
-  "This involves discussing and comprehending how the medication functions as well as potential side effects."
-- **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**:
-  According to [Source - Communicate With Care Pocket Guide], the language should remain professional and articulate, avoiding ambiguity and ensuring clarity.
+3. **Source Sentence**: Missing clarification on the cost and utility of informational materials: "This material is provided for informational purposes and is not intended to promote any specific product."
+   - **Deviation by Expert**: According to "EFPIA Chapter 3: Article 17 - Informational or Educational Materials and Items of Medical Utility", informational materials must be inexpensive and directly relevant to medical practice, without promoting specific products.
+   - **Expert's Suggested Change**: "This material is provided for informational purposes only, is inexpensive, and is not intended to promote any specific product."
+   - **Explanation**: The expert’s suggested change is adequate, but adding clarity about the utility can enhance adherence to the guideline.
+   - **New Sentence**: "This material is provided for informational purposes only, is inexpensive, and is not intended to promote any specific product but to support medical practice."
+   - **Deviations**: According to "EFPIA Chapter 3: Article 17 - Informational or Educational Materials and Items of Medical Utility", the information should be clear about the cost, purpose, and relevance to medical practice without promoting products.
 
-#### Guideline Source: EFPIA Chapter 4, Article 21
-- **The original source sentence**:
-  "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
-- **The deviation from the guidelines originally provided by the expert reviewer**:
-  Lacks a general disclaimer about patient-doctor discussions and prescribed treatments.
-- **The expert reviewer's original suggested change**:
-  "This information is intended for educational purposes only and should not be substituted for medical advice from your doctor."
-- **An explanation for the reason behind your new suggested change**:
-  The expert reviewer’s change correctly aligns with the guideline requirements; however, slight modification can enhance the clarity.
-- **Your new suggested sentence**:
-  "This content is intended to inform and should not replace medical advice from your doctor."
-- **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**:
-  According to [Source - Disclaimer Texts for Non-promotional Material], it’s crucial that any material aimed at patients should clarify its educational intent and not substitute professional medical advice.
+4. **Source Sentence**: "By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health."
+   - **Deviation by Expert**: According to "Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional", the language should be clear and professional, avoiding any informal contractions.
+   - **Expert's Suggested Change**: "By speaking up, asking questions, and being part of the decision-making process, you can create a personalized plan that will empower you on your journey towards better health."
+   - **Explanation**: The expert’s revision aligns well with the requirement for professional language but can be slightly improved for better flow.
+   - **New Sentence**: "By speaking up, asking questions, and participating in the decision-making process, you can develop a personalized plan to empower you on your journey towards better health."
+   - **Deviations**: According to "Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional", the information suggests avoiding informal contractions (e.g., "that'll") and maintaining a clear and professional tone.
 
-#### Guideline Source: EFPIA Chapter 4, Article 21
-- **The original source sentence**:
-  "By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that’ll empower you on your journey towards better health."
-- **The deviation from the guidelines originally provided by the expert reviewer**:
-  The original phrasing may promise empowerment, which could be considered as promotional language.
-- **The expert reviewer's original suggested change**:
-  "By actively participating in discussions and asking questions, you can collaborate with your doctor to develop a personalized plan that supports your health journey."
-- **An explanation for the reason behind your new suggested change**:
-  The expert’s suggestion is valid but can be improved for enhanced clarity and non-promotional tone.
-- **Your new suggested sentence**:
-  "By engaging in discussions and asking questions, you can work with your doctor to create a personalized plan that supports your health journey."
-- **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**:
-  According to [Source - Communicate With Care Pocket Guide], maintaining a collaborative approach without implying specific outcomes is important to avoid any promotional undertones.
-
-By correcting these deviations, we ensure that the reviewed material adheres more stringently to the Non-Promotional Material Guidelines, ensuring legal compliance and maintaining professional integrity.
+The remaining comments provided by the expert were satisfactory and aligned with the guidelines, so no further improvements were necessary.

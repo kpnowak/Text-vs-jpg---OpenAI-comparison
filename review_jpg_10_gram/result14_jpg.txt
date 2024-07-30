@@ -1,0 +1,113 @@
+**[document_language]: English**
+
+**Source Sentence:** Yesterday, I gone to a party with my friend David.  
+**Deviation Corrected:** Incorrect past tense usage "gone".  
+**Reason for Change:** The correct past tense form should be "went".  
+**New Sentence:** Yesterday, I went to a party with my friend David.
+
+---
+
+**Source Sentence:** He study english with me at university.  
+**Deviation Corrected:** Incorrect verb form "study"; incorrect capitalization "english".  
+**Reason for Change:** Corrected to past tense "studied"; "English" should be capitalized as it is a proper noun.  
+**New Sentence:** He studied English with me at university.
+
+---
+
+**Source Sentence:** He wanted to be introduced to Lucy wo he fancied.  
+**Deviation Corrected:** Typo "wo" should be "who".  
+**Reason for Change:** Corrected to the proper relative pronoun "who".  
+**New Sentence:** He wanted to be introduced to Lucy who he fancied.
+
+---
+
+**Source Sentence:** David and I satt in the corner of the room.  
+**Deviation Corrected:** Typo "satt" should be "sat".  
+**Reason for Change:** Corrected to the proper form "sat".  
+**New Sentence:** David and I sat in the corner of the room.
+
+---
+
+**Source Sentence:** He didn’t making the first move to go and see her.  
+**Deviation Corrected:** Incorrect form "didn't making"; corrected the verb form.  
+**Reason for Change:** Correct usage is "didn’t make".  
+**New Sentence:** He didn’t make the first move to go and see her.
+
+---
+
+**Source Sentence:** He waited for so long to tell her that he had a crush on her.  
+**Deviation Corrected:** None.  
+**Reason for Change:** No change needed.  
+**New Sentence:** He waited for so long to tell her that he had a crush on her.
+
+---
+
+**Source Sentence:** He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her.  
+**Deviation Corrected:** Incorrect past tense form "taked".  
+**Reason for Change:** Corrected to the proper past tense "took".  
+**New Sentence:** He took a drink to get some energy and after a few minutes of endless hesitation, he walked to her.
+
+---
+
+**Source Sentence:** David remained mute.  
+**Deviation Corrected:** None.  
+**Reason for Change:** No change needed.  
+**New Sentence:** David remained mute.
+
+---
+
+**Source Sentence:** She gave a hint of a smile, noticing David blushing.  
+**Deviation Corrected:** None.  
+**Reason for Change:** No change needed.  
+**New Sentence:** She gave a hint of a smile, noticing David blushing.
+
+---
+
+**Source Sentence:** She asked him if he enjoyed the party.  
+**Deviation Corrected:** None.  
+**Reason for Change:** No change needed.  
+**New Sentence:** She asked him if he enjoyed the party.
+
+---
+
+**Source Sentence:** He whispered ' Yes ' and had a glance at me.  
+**Deviation Corrected:** None.  
+**Reason for Change:** No change needed.  
+**New Sentence:** He whispered ' Yes ' and had a glance at me.
+
+---
+
+**Source Sentence:** I wincked at him.  
+**Deviation Corrected:** Typo "wincked" to "winked".  
+**Reason for Change:** Corrected spelling.  
+**New Sentence:** I winked at him.
+
+---
+
+**Source Sentence:** He told her which feelings he was experiencing.  
+**Deviation Corrected:** None.  
+**Reason for Change:** No change needed.  
+**New Sentence:** He told her which feelings he was experiencing.
+
+---
+
+**Source Sentence:** She suddenly looked sullen. She looked emabarased.  
+**Deviation Corrected:** Typo "emabarased" to "embarrassed".  
+**Reason for Change:** Corrected spelling.  
+**New Sentence:** She suddenly looked sullen. She looked embarrassed.
+
+---
+
+**Source Sentence:** She could hardly say a word but after a little seconds, she said: ' I'm sorry to deceive you but actually I fancy Sebastian '.  
+**Deviation Corrected:** Phrase correction "a little seconds" to "a few seconds"; punctuation before quotes.  
+**Reason for Change:** Correct phrases and punctuation.  
+**New Sentence:** She could hardly say a word but after a few seconds, she said: 'I'm sorry to deceive you but actually I fancy Sebastian.'
+
+---
+
+**Source Sentence:** David fainted: 'a friend in need is a friend indeed ' !!  
+**Deviation Corrected:** Punctuation error for quotation and exclamation marks.  
+**Reason for Change:** Proper punctuation.  
+**New Sentence:** David fainted: 'a friend in need is a friend indeed'!
+
+This concludes the review of the provided document.

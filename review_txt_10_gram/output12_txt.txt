@@ -1,0 +1,22 @@
+### Sentence 5
+- **Original sentence**: "He didn 't making the first move to go and see her."
+- **Deviation from guidelines**: The expert reviewer noted the error in verb form and spacing before the apostrophe but did not fully address clarity and readability as per the guidelines. The sentence’s structure could be made clearer.
+- **Expert's suggested change**: "He didn't make the first move to go and see her."
+- **Reason for new suggested change**: Improving clarity and readability, simplifying the sentence.
+- **New suggested sentence**: "He didn't make the first move to go see her."
+
+### Sentence 16
+- **Original sentence**: "She looked embaressed."
+- **Deviation from guidelines**: The expert reviewer correctly identified the spelling error but did not consider improving readability through a minor rephrase.
+- **Expert's suggested change**: "She looked embarrassed."
+- **Reason for new suggested change**: Improving clarity and readability, ensuring the sentence reads smoothly.
+- **New suggested sentence**: "She appeared embarrassed."
+
+### Sentence 18
+- **Original sentence**: "David fainted : ' a friend in need is a friend inded ' !!"
+- **Deviation from guidelines**: The expert reviewer notes punctuation and spelling issues but does not address capitalization for quotations and redundant punctuation.
+- **Expert's suggested change**: "David fainted: 'A friend in need is a friend indeed!'"
+- **Reason for new suggested change**: Proper punctuation and spacing for direct quotes are essential for clarity and readability. Remove the redundant punctuation.
+- **New suggested sentence**: "David fainted: 'A friend in need is a friend indeed.'"
+
+By considering all guidelines, the suggestions now fully align with the standards required for "Grammar & Spelling Guidelines".

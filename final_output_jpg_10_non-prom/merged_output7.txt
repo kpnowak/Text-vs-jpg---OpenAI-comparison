@@ -1,0 +1,45 @@
+Guideline Source: Source - Communicate With Care Pocket Guide
+Source Sentence: “It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial.”
+Deviations: According to Source - Communicate With Care Pocket Guide: Article 2, point iii, it is essential to avoid exaggerations and speculations.
+New Sentence: "It’s important to discuss with your doctor whenever you feel a change in your treatment plan might be necessary."
+Reason for Replacement: The new sentence avoids the speculative term "feel empowered" and focuses on the factual act of discussing treatment changes with the doctor, aligning with the guidelines.
+
+Guideline Source: Source - Disclaimer Texts for Non-promotional Material
+Source Sentence: “Typically, type 2 diabetes patients should see their doctor every 3–6 months.”
+Deviations: According to Source - Disclaimer Texts for Non-promotional Material: Article 3, clinical advice must include disclaimers where applicable.
+New Sentence: “Typically, type 2 diabetes patients should see their doctor every 3–6 months. Please consult your doctor for personalized advice.”
+Reason for Replacement: The addition of a disclaimer ensures that the general recommendation is accompanied by a note suggesting personalized consultation, aligning with the guidelines.
+
+Guideline Source: Source - EFPIA Chapter 3, Article 17
+Source Sentence: “Your doctor is the medical expert, but you are the one living with type 2 diabetes.”
+Deviations: According to Source - EFPIA Chapter 3, Article 17, materials should be directly relevant to the practice of medicine or pharmacy and directly beneficial to patient care.
+New Sentence: “While your doctor is the medical expert, you play a crucial role in managing your type 2 diabetes.”
+Reason for Replacement: The new sentence highlights the collaborative nature of patient care, emphasizing the importance of patient involvement in their health management, in line with Article 17.
+
+Guideline Source: Source - Disclaimer Texts for Non-promotional Material
+Source Sentence: “The information on this website is intended for education purposes only and should not be substituted for medical advice from your doctor.”
+Deviations: According to Source - Disclaimer Texts for Non-promotional Material: Article 3, more specific disclaimers can improve clarity.
+New Sentence: “The information on this website is intended for educational purposes only and should not be substituted for medical advice from your doctor. Please consult your healthcare provider for personalized medical advice.”
+Reason for Replacement: The new sentence includes a more detailed disclaimer, specifically advising users to consult their healthcare providers for personalized advice, thereby enhancing the clarity and purpose of the disclaimer.
+
+Guideline Source: Source - Communicate With Care Pocket Guide
+Source Sentence: “This means talking through and understanding how it works, and the kind of side effects you could potentially experience.”
+Deviations: According to Source - Communicate With Care Pocket Guide: Article 2, points i and ii, the language should be professional, and context should be provided clearly.
+New Sentence: “This involves discussing and comprehensively understanding the mechanism of the medication, and the potential side effects you might experience.”
+Reason for Replacement: The new sentence maintains a more professional tone and clearly explains the necessity of understanding the medication’s mechanism and potential side effects, ensuring clarity and professionalism.
+
+By implementing these corrections, the non-promotional document now adheres more closely to the provided "Non-Promotional Material Guidelines," ensuring that information is conveyed clearly, accurately, and ethically.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+**Guideline Source: Source - Communicate With Care Pocket Guide**
+**Source Sentence:** “This means talking through and understanding how it works, and the kind of side effects you could potentially experience.”
+**Deviations:** According to Source - Communicate With Care Pocket Guide: Article 2, points i and ii, the language should be professional, and context should be provided clearly.
+**Expert Reviewer's Suggested Change:** “This involves discussing and comprehensively understanding the mechanism of the medication, and the potential side effects you might experience.”
+**Explanation for the Reason Behind Your New Suggested Change:** The expert reviewer's suggested change certainly maintains a professional tone; however, it still introduces some redundancy and could be made more concise while ensuring clarity.
+**Your New Suggested Sentence:** “This involves discussing and clearly understanding how the medication works and its potential side effects.”
+**Deviations:** According to Source - Communicate With Care Pocket Guide, the information suggests that the language should be professional, concise, and clear, avoiding redundancy and providing necessary context.
+
+Other comments by the expert reviewer adhered to the guidelines correctly.

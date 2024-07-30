@@ -1,0 +1,59 @@
+### Sentence 5
+
+#### Original Sentence:
+"Come to every appointment prepared to talk, ask questions and find solutions together."
+
+#### Deviation:
+According to [Source - Disclaimer Texts for Non-promotional Material] statements should provide general advice without specific directives and respects patient individuality.
+
+#### Expert Reviewer's Suggested Change:
+"Prepare for each appointment by thinking about your questions and being ready to discuss potential solutions collaboratively."
+
+#### Explanation for New Suggested Change:
+The expert’s suggested change does improve the original sentence by making it more general and less directive; however, further revision can offer clearer differentiation from the original while still maintaining general advice suitable for non-promotional material.
+
+#### New Suggested Sentence:
+"Approach each appointment with prepared thoughts and questions, ready to explore potential solutions with your doctor."
+
+#### Deviation:
+According to [Source - Disclaimer Texts for Non-promotional Material], information should respect patient individuality and avoid giving strict directives, ensuring that the advice remains general and respects patient autonomy.
+
+### Sentence 8
+
+#### Original Sentence:
+"Talk about your lifestyle and how a new treatment might be better suited for you. For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don't have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals (in addition to healthy eating and exercise)."
+
+#### Deviation:
+According to [Source - Communicate With Care Pocket Guide] the information should avoid overly casual language and ensure clarity.
+
+#### Expert Reviewer's Suggested Change:
+"Discuss how a new treatment might be more compatible with your lifestyle. For instance, if frequent travel makes adherence challenging, you may prefer a more convenient medication, or if limited time for exercise affects weight management, seek treatments that can support your goals."
+
+#### Explanation for New Suggested Change:
+The expert’s suggestion improves the tone and clarity; however, it can be simplified further to better ensure clarity and conciseness while removing any potential ambiguities.
+
+#### New Suggested Sentence:
+"Discuss with your doctor how a new treatment might match your lifestyle needs. If travel complicates taking medication or limited exercise time affects weight management, seek options that support these aspects."
+
+#### Deviation:
+According to [Source - Communicate With Care Pocket Guide], communication should avoid overly casual language and ensure clarity for the reader.
+
+### Sentence 11
+
+#### Original Sentence:
+"Discuss when you should follow-up on how your new treatment is working. Typically, type 2 diabetes patients should see their doctor every 3–6 months."
+
+#### Deviation:
+According to [Source - Communicate With Care Pocket Guide] the information should avoid giving stringent directives and provide general advice instead.
+
+#### Expert Reviewer's Suggested Change:
+"Discuss with your doctor the appropriate timing for follow-up appointments to review the effectiveness of your new treatment. Regular check-ups, often every 3–6 months, can be essential for managing type 2 diabetes."
+
+#### Explanation for New Suggested Change:
+The revised sentence sufficiently generalizes the advice; however, it can be enhanced to ensure it remains purely advisory without implying strict timelines.
+
+#### New Suggested Sentence:
+"Consult with your doctor about the best timing for follow-up appointments to assess your new treatment. Regular check-ups can be crucial for effectively managing type 2 diabetes."
+
+#### Deviation:
+According to [Source - Communicate With Care Pocket Guide], the information should avoid giving stringent directives and be general in nature to allow for individual patient needs.

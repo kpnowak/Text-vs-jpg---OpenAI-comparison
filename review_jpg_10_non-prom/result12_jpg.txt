@@ -1,0 +1,118 @@
+### Guideline Source & Influences:
+**Non-Promotional Material Guidelines:**
+- **Source:** Disclaimer Texts for Non-promotional Material
+- **Guideline:** General Disclaimers include in all pages: “The information is intended for educational purposes only and should not be substituted for medical advice from your doctor.”
+
+**Current Source Sentence:**
+- “When you're living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs.”
+
+**Deviations Corrected:**
+- The current statement does not include the required disclaimer that the information is for educational purposes and should not substitute medical advice.
+  
+**New Sentence:**
+- “When you're living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs. The information on this website is intended for education purposes only and should not be substituted for medical advice from your doctor.”
+
+**Reason for Replacement:**
+- The addition of the disclaimer ensures the material adheres to the guidelines, informing users that the information should not replace professional medical advice.
+
+---
+
+### Guideline Source & Influences:
+**Non-Promotional Material Guidelines:**
+- **Source:** Communicate With Care Pocket Guide
+- **Guideline:** Be Clear and Professional: Maintain Professional Tone and Avoid Exaggerations–Stick to Facts.
+  
+**Current Source Sentence:**
+- “Talk about your lifestyle and how a new treatment might be better suited for you.”
+
+**Deviations Corrected:**
+- The current sentence lacks a detailed explanation and may be perceived as speculative about the suitability of a new treatment.
+  
+**New Sentence:**
+- “Discuss your daily routines, such as travel or physical activity, and evaluate how a new treatment could specifically fit within these aspects of your lifestyle.”
+
+**Reason for Replacement:**
+- This new sentence provides clarity and avoids speculation, aligning with the directive to be clear and factual.
+
+---
+
+### Guideline Source & Influences:
+**Non-Promotional Material Guidelines:**
+- **Source:** EFPIA Chapter 3, Article 17, Section iv
+- **Guideline:** Informational materials must not be product branded unless necessary for correct use by the patient.
+  
+**Current Source Sentence:**
+- “If the cost is too high—and ask if there might find a better alternative.”
+
+**Deviations Corrected:**
+- The phrase is incomplete and lacks context.
+  
+**New Sentence:**
+- “If the cost of your current medication is too high, discuss with your doctor about any alternatives that might fit your financial situation better.”
+
+**Reason for Replacement:**
+- The sentence is now complete and fact-based, providing a specific context that aligns with the guideline about keeping neutrality in informational content.
+
+---
+
+### Guideline Source & Influences:
+**Non-Promotional Material Guidelines:**
+- **Source:** Communicate With Care Pocket Guide
+- **Guideline:** Provide Context: Ensure clarity and avoid misunderstandings.
+  
+**Current Source Sentence:**
+- “Typically, type 2 diabetes patients should see their doctor every 3–6 months.”
+
+**Deviations Corrected:**
+- The statement is too generalized and might not be accurate for all patients.
+  
+**New Sentence:**
+- “Generally, patients with type 2 diabetes are advised to schedule follow-up appointments with their doctor every 3–6 months, based on their individual medical needs.”
+
+**Reason for Replacement:**
+- This new sentence introduces context-based language that specifies individual variation and avoids overgeneralization, ensuring clear and accurate communication.
+
+---
+
+### Guideline Source & Influences:
+**Non-Promotional Material Guidelines:**
+- **Source:** EFPIA Chapter 3, Article 16, Section i
+- **Guideline:** Lifelong learning in healthcare aims to increase HCPs’ scientific knowledge and competence to enhance medical practice and improve patient outcomes.
+  
+**Current Source Sentence:**
+- “Your doctor is the medical expert, but you are the one living with type 2 diabetes.”
+
+**Deviations Corrected:**
+- The statement is simplistic and does not emphasize the collaborative approach between doctor and patient.
+  
+**New Sentence:**
+- “While your doctor brings medical expertise, you play an essential role by sharing insights into your daily experience with type 2 diabetes, ensuring a collaborative approach towards effective management of the condition.”
+
+**Reason for Replacement:**
+- This revision emphasizes collaboration between the doctor and patient, reflecting the educational and supportive dynamic in healthcare.
+
+---
+
+### Guideline Source & Influences:
+**Non-Promotional Material Guidelines:**
+- **Source:** Disclaimer Texts for Non-promotional Material
+- **Guideline:** General Disclaimers (ii) “The prescription is based on a patient example and not a real patient.”
+  
+**Current Source Sentence:**
+- “Ask questions or share concerns you have about trying a new medication.”
+
+**Deviations Corrected:**
+- The statement lacks clarity and the required disclaimer.
+  
+**New Sentence:**
+- “Discuss any questions or concerns you might have about trying a new medication with your doctor, ensuring you understand the risks and benefits. The prescription mentioned is based on a patient example and not a real patient.”
+
+**Reason for Replacement:**
+- The new sentence incorporates the required disclaimer, hence adhering to the guidelines and providing clearer information.
+
+### Image-Based Deviations Correction:
+- The informational material does not contain medical imagery in this specific segment requiring additional disclaimers related to images. However, adherence to other content-based guidelines has been ensured.
+
+---
+
+By these corrections, the document aligns better with the Non-Promotional Material Guidelines, ensuring educational purpose, clarity, factual information, and inclusion of necessary disclaimers. This careful review guarantees compliance and enhances trust and safety for the intended audience.

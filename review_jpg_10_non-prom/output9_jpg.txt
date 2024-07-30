@@ -1,14 +1,57 @@
-- The original source sentence: "The information on this website is intended for education purposes only and should not be substituted for medical advice from your doctor."
+- The original source sentence:
+   "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
 
-- The deviation from the guidelines originally provided by the expert reviewer: The tagline does not comply with the disclaimer requirement for general non-promotional material. According to [Source - Disclaimer Texts for Non-promotional Material], it suggests that a specific disclaimer be included.
+- The deviation from the guidelines originally provided by the expert reviewer:
+   According to the EFPIA Chapter 3, Article 16 - Lifelong Learning in Healthcare, the sentence needs to ensure that the information provided is fair, balanced, and objective, as well as clearly acknowledging the importance of professional medical guidance.
 
-- The expert reviewer's original suggested change: "This information is intended for diabetes patients who have been prescribed [insert NN medicinal product] and should not be substituted for medical advice from your doctor."
+- The expert reviewer's original suggested change:
+   "When managing type 2 diabetes, it is common to reassess and modify treatment plans under your doctor's guidance to address evolving health needs."
 
-- An explanation for the reason behind your new suggested change: While the expert's suggested change improves compliance with the disclaimer requirements, it assumes that the material is intended solely for diabetes patients on a specific prescribed medicinal product. However, the general nature of the webpage indicates a broader audience. The guideline from the [Source - Disclaimer Texts for Non-promotional Material] also provides multiple general disclaimers for use. Therefore, I have chosen a more appropriate general disclaimer from the source to keep the material non-promotional and compliant.
+- An explanation for the reason behind your new suggested change:
+   The expert's revision aligns well with the guidelines but could be slightly improved by emphasizing the importance of ongoing professional medical advice.
 
-- Your new suggested sentence: "This information is intended for educational purposes for all patients and should not replace medical advice from your healthcare provider."
+- Your new suggested sentence:
+   "When managing type 2 diabetes, it is common to reassess and modify treatment plans with your doctor’s guidance to address your evolving health needs."
 
-- In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response: According to [Source - Disclaimer Texts for Non-promotional Material], general disclaimers include statements that ensure the non-promotional nature of the material and maintain the educational objective.
+- In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response:
+   According to EFPIA Chapter 3, Article 16, ensuring the information is fair, balanced, and objective while acknowledging the role of professional medical advice is essential.
 
+---
 
-Note: The expert's review covered multiple points, but for this exercise, only one point needed improvement after review. Thus, other comments which adhered to the guidelines as given were left unmentioned.
+- The original source sentence:
+   "Talk about your lifestyle and how a new treatment might be better suited for you."
+
+- The deviation from the guidelines originally provided by the expert reviewer:
+   According to EFPIA Chapter 3, Article 17, the sentence needs to ensure the relevance and necessity of professional medical advice for patient care and should emphasize the consultation aspect.
+
+- The expert reviewer's original suggested change:
+   "Discuss your lifestyle with your doctor to determine how a new treatment might better suit your needs."
+
+- An explanation for the reason behind your new suggested change:
+   The expert's suggested change is on point but can be enhanced to specify consultations and evaluations.
+
+- Your new suggested sentence:
+   "Discuss your lifestyle with your doctor to evaluate how a new treatment might better suit your specific health needs."
+
+- In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response:
+   According to EFPIA Chapter 3, Article 17, the sentence must ensure relevance to the practice of medicine and patient care through professional consultation.
+
+---
+
+- The original source sentence:
+   "Ask questions or share concerns you have about trying a new medication."
+
+- The deviation from the guidelines originally provided by the expert reviewer:
+   According to EFPIA Chapter 3, Article 17, the original statement should be framed to encourage discussions based on medical advice to ensure the relevance to patient care.
+
+- The expert reviewer's original suggested change:
+   "Share any questions or concerns you have about trying a new medication with your doctor."
+
+- An explanation for the reason behind your new suggested change:
+   The expert's change is effective but can be refined to connect more closely with discussions facilitated by medical professionals.
+
+- Your new suggested sentence:
+   "Share with your doctor any questions or concerns you have about starting a new medication."
+
+- In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response:
+   According to EFPIA Chapter 3, Article 17, the revised sentence emphasizes the importance of having such discussions with a healthcare professional for patient care relevance.

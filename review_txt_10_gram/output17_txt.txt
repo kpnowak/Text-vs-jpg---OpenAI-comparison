@@ -1,0 +1,66 @@
+### Review of Expert Comments
+
+---
+
+#### Sentence 1:
+- **Original sentence**: Yesterday, I gone to a party with my friend David.
+- **Deviation**: Incorrect verb tense. "gone" should be "went".
+- **Expert Reviewer Suggested Change**: Yesterday, I went to a party with my friend David.
+- **New Suggested Change**: None. The expert reviewer's suggestion adheres to the guidelines correctly.
+
+#### Sentence 2:
+- **Original sentence**: He study english with me at university.
+- **Deviation**: Incorrect verb tense and capitalization error. "study" should be "studies" and "english" should be "English".
+- **Expert Reviewer Suggested Change**: He studies English with me at university.
+- **New Suggested Change**: None. The expert reviewer's suggestion adheres to the guidelines correctly.
+
+#### Sentence 3:
+- **Original sentence**: He wanted to be introduced to Lucy wo he fancied.
+- **Deviation**: Spelling error. "wo" should be "who".
+- **Expert Reviewer Suggested Change**: He wanted to be introduced to Lucy who he fancied.
+- **New Suggested Change**: None. The expert reviewer's suggestion adheres to the guidelines correctly.
+
+#### Sentence 4:
+- **Original sentence**: David and I satt in the corner of the room.
+- **Deviation**: Spelling error. "satt" should be "sat".
+- **Expert Reviewer Suggested Change**: David and I sat in the corner of the room.
+- **New Suggested Change**: None. The expert reviewer's suggestion adheres to the guidelines correctly.
+
+#### Sentence 5:
+- **Original sentence**: He didn 't making the first move to go and see her.
+- **Deviation**: Incorrect verb form. "making" should be "make".
+- **Expert Reviewer Suggested Change**: He didn't make the first move to go and see her.
+- **Reason**: The usage of "didn't" requires the base form "make".
+- **New Suggested Sentence**: He didn't make the first move to go and see her.
+
+---
+
+#### Sentence 11:
+- **Original sentence**: He whispered ' Yes ' and had a glance at me.
+- **Deviation**: Punctuation spacing. Spaces inside the quotation marks.
+- **Expert Reviewer Suggested Change**: He whispered 'Yes' and had a glance at me.
+- **New Suggested Change**: The original sentence had spaces and did not follow standard quotation punctuation rules fully.
+- **New Suggested Sentence**: He whispered, "Yes," and glanced at me.
+- **Reason**: Applying appropriate punctuation for dialogue in English, including proper comma usage.
+
+---
+
+#### Sentence 17:
+- **Original sentence**: She could hardly say a word but after a little seconds, she said : ' I' m sorry to deceive you but actually I fancy Sebastian '.
+- **Deviation**: Misuse of "little". "little" should be "few". Punctuation spacing.
+- **Expert Reviewer Suggested Change**: She could hardly say a word but after a few seconds, she said: 'I'm sorry to deceive you but actually, I fancy Sebastian'.
+- **New Suggested Change**: The expert reviewer fixed major issues, but additional punctuation and format changes improve clarity.
+- **New Suggested Sentence**: She could hardly say a word, but after a few seconds, she said, "I'm sorry to deceive you, but actually, I fancy Sebastian."
+- **Reason**: Correct punctuation and dialogue formatting, including commas and proper spacing within quotation marks.
+
+---
+
+#### Sentence 18:
+- **Original sentence**: David fainted : ' a friend in need is a friend inded ' !!
+- **Deviation**: Spelling error and punctuation spacing. "inded" should be "indeed".
+- **Expert Reviewer Suggested Change**: David fainted: 'A friend in need is a friend indeed!'
+- **New Suggested Change**: Adjusted for clarity and proper punctuation.
+- **New Suggested Sentence**: David fainted and said, "A friend in need is a friend indeed!"
+- **Reason**: Better conveys the action of fainting and speaking, ensuring the quotation is properly formatted.
+
+This covers all improvements upon the expert reviewer's suggested changes.

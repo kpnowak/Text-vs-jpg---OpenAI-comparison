@@ -1,0 +1,285 @@
+### Corrected Excerpt
+
+**1. Original:** 
+"Yesterday, I gone to a party with my friend David."
+
+**Correction:** 
+"Yesterday, I went to a party with my friend David."
+
+**Deviations Corrected:**
+- Incorrect verb form "gone" corrected to "went".
+
+**Reason:**
+To ensure grammatical accuracy, the past tense form of "go" is "went".
+
+**New Sentence:**
+"Yesterday, I went to a party with my friend David."
+
+---
+
+**2. Original:** 
+"He study english with me at university."
+
+**Correction:** 
+"He studies English with me at university."
+
+**Deviations Corrected:**
+- Subject-verb agreement: "study" changed to "studies."
+- Capitalization: "english" changed to "English."
+
+**Reason:**
+The verb should be in the third person singular form. 
+
+**New Sentence:**
+"He studies English with me at university."
+
+---
+
+**3. Original:**
+"He wanted to be introduced to Lucy wo he fancied."
+
+**Correction:**
+"He wanted to be introduced to Lucy, whom he fancied."
+
+**Deviations Corrected:**
+- Spelling error "wo" corrected to "whom."
+- Added comma for clarity.
+
+**Reason:**
+Correct spelling and punctuation enhance readability and grammatical accuracy.
+
+**New Sentence:**
+"He wanted to be introduced to Lucy, whom he fancied."
+
+---
+
+**4. Original:**
+"David and I satt in the corner of the room."
+
+**Correction:** 
+"David and I sat in the corner of the room."
+
+**Deviations Corrected:**
+- Spelling error "satt" corrected to "sat."
+
+**Reason:**
+Ensured correct verb form: "sat" is the past tense of "sit".
+
+**New Sentence:**
+"David and I sat in the corner of the room."
+
+---
+
+**5. Original:** 
+"He didn 't making the first move to go and see her."
+
+**Correction:** 
+"He didn't make the first move to go and see her."
+
+**Deviations Corrected:**
+- Incorrect verb form "making" corrected to "make."
+- Corrected spacing in contraction "didn't."
+
+**Reason:**
+Accuracy in verb usage is critical for grammatical correctness.
+
+**New Sentence:**
+"He didn't make the first move to go and see her."
+
+---
+
+**6. Original:** 
+"He waited for so long to tell her that he had a crush on her."
+
+**Correction:** 
+"He waited so long to tell her that he had a crush on her."
+
+**Deviations Corrected:**
+- Removed unnecessary preposition "for."
+
+**Reason:**
+Streamlined sentence for better readability and correct syntax.
+
+**New Sentence:**
+"He waited so long to tell her that he had a crush on her."
+
+---
+
+**7. Original:** 
+"He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+
+**Correction:** 
+"He took a drink to get some energy, and after a few minutes of endless hesitation, he walked to her."
+
+**Deviations Corrected:**
+- Incorrect verb form "taked" corrected to "took."
+- Added comma for clarity.
+
+**Reason:**
+Ensured proper verb usage and sentence clarity.
+
+**New Sentence:**
+"He took a drink to get some energy, and after a few minutes of endless hesitation, he walked to her."
+
+---
+
+**8. Original:** 
+"David remained mute."
+
+**Correction:** 
+"David remained silent."
+
+**Deviations Corrected:**
+- Changed "mute" to "silent" for better context.
+
+**Reason:**
+"Silent" is more commonly used in this context.
+
+**New Sentence:**
+"David remained silent."
+
+---
+
+**9. Original:** 
+"She gave a hint of a smile, noticing David blushing."
+
+**Correction:** 
+"She gave a hint of a smile, noticing David was blushing."
+
+**Deviations Corrected:**
+- Added verb "was" for completeness.
+
+**Reason:**
+Ensured sentence completeness and clarity.
+
+**New Sentence:**
+"She gave a hint of a smile, noticing David was blushing."
+
+---
+
+**10. Original:** 
+"She asked him if he enjoyed the party."
+
+**Correction:** 
+"She asked him if he was enjoying the party."
+
+**Deviations Corrected:**
+- Corrected verb tense to match context.
+
+**Reason:**
+The continuous tense "was enjoying" fits the context better.
+
+**New Sentence:**
+"She asked him if he was enjoying the party."
+
+---
+
+**11. Original:** 
+"He whispered ' Yes ' and had a glance at me."
+
+**Correction:** 
+"He whispered 'Yes' and glanced at me."
+
+**Deviations Corrected:**
+- Removed unnecessary spaces around "Yes."
+- Changed "had a glance" to "glanced" for better clarity.
+
+**Reason:**
+Improved punctuation and readability.
+
+**New Sentence:**
+"He whispered 'Yes' and glanced at me."
+
+---
+
+**12. Original:** 
+"I wincked at him."
+
+**Correction:** 
+"I winked at him."
+
+**Deviations Corrected:**
+- Corrected spelling "wincked" to "winked."
+
+**Reason:**
+Ensured correct spelling.
+
+**New Sentence:**
+"I winked at him."
+
+---
+
+**13. Original:** 
+"That was it. Feeling reassured and confident, he told her which feelings he was experiencing."
+
+**Correction:** 
+"That was it. Feeling reassured and confident, he told her what feelings he was experiencing."
+
+**Deviations Corrected:**
+- Changed "which" to "what" for better clarity.
+
+**Reason:**
+"Which" is typically used for choices; "what" fits better in this context.
+
+**New Sentence:**
+"That was it. Feeling reassured and confident, he told her what feelings he was experiencing."
+
+---
+
+**14. Original:** 
+"She suddenly looked sullen. She looked embaressed."
+
+**Correction:** 
+"She suddenly looked sullen. She looked embarrassed."
+
+**Deviations Corrected:**
+- Corrected spelling "embaressed" to "embarrassed."
+
+**Reason:**
+Ensured correct spelling.
+
+**New Sentence:**
+"She suddenly looked sullen. She looked embarrassed."
+
+---
+
+**15. Original:** 
+"She could hardly say a word but after a little seconds, she said : ' I' m sorry to deceive you but actually I fancy Sebastian '."
+
+**Correction:** 
+"She could hardly say a word, but after a few seconds, she said: 'I'm sorry to disappoint you, but actually I fancy Sebastian.'"
+
+**Deviations Corrected:**
+- Changed "a little seconds" to "a few seconds."
+- Corrected space issue in "I' m" to "I'm."
+- Replaced "deceive" with "disappoint" for better context.
+- Adjusted punctuation for clarity.
+
+**Reason:**
+Improved readability and corrected contextual usage errors.
+
+**New Sentence:**
+"She could hardly say a word, but after a few seconds, she said: 'I'm sorry to disappoint you, but actually I fancy Sebastian.'"
+
+---
+
+**16. Original:** 
+"David fainted : ' a friend in need is a friend inded ' !!"
+
+**Correction:** 
+"David fainted: 'A friend in need is a friend indeed!'"
+
+**Deviations Corrected:**
+- Corrected spacing and punctuation.
+- Capitalized "A" at the beginning of the quote.
+- Corrected spelling "inded" to "indeed."
+
+**Reason:**
+Corrected punctuation, capitalization, and spelling for clarity and readability.
+
+**New Sentence:**
+"David fainted: 'A friend in need is a friend indeed!'"
+
+---
+
+This a thorough review and correction process to ensure the final document is grammatically accurate, consistent, and easy to read.

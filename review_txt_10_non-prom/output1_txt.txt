@@ -1,0 +1,45 @@
+### Document: How to talk about treatment options
+
+### Evaluation and Rewriting of Sentences:
+
+1. **The original source sentence**: "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+   - **The deviation from the guidelines originally provided by the expert reviewer**: The current sentence might inadvertently imply the need for a specific medical product thereby constituting a form of promotion.
+   - **The expert reviewer's original suggested change**: "It's important that you feel empowered and ready to talk to your doctor to ensure that your treatment aligns with your personal health goals and needs."
+   - **An explanation for the reason behind your new suggested change**: This change further eliminates any implicit suggestion of product change and emphasizes the collaborative nature of the patient-doctor relationship in determining treatment.
+   - **Your new suggested sentence**: "It's important that you feel empowered and ready to discuss your health goals and treatment needs with your doctor."
+   - **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to [Source - EFPIA Chapter 3, Article 17, Clause iv] the new sentence ensures balanced and non-promotional language.
+
+2. **The original source sentence**: "Share your personal goals, whether it's better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective."
+   - **The deviation from the guidelines originally provided by the expert reviewer**: Prevents the implication of any specific medicinal product as a solution.
+   - **The expert reviewer's original suggested change**: "Share your personal goals, such as better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how different approaches could help you achieve these objectives."
+   - **An explanation for the reason behind your new suggested change**: Enhances patient autonomy by focusing on individualized health goals and broader treatment options without implying the necessity of a specific medicinal product.
+   - **Your new suggested sentence**: "Discuss your personal health goals, such as blood sugar control, weight management, or reducing cardiovascular risks, with your doctor to explore various treatment options."
+   - **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to [Source - EFPIA Chapter 3, Article 17, Clause iv] the revised sentence promotes a balanced discussion of treatment options.
+
+3. **The original source sentence**: "Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might be a better alternative that addresses these challenges."
+   - **The deviation from the guidelines originally provided by the expert reviewer**: The mention of specific treatment forms (pills or injections) might be seen as a promotional style, and the sentence lacks clarity on broader treatment alternatives.
+   - **The expert reviewer's original suggested change**: "Discuss any difficulties you've experienced with your current treatment—such as side effects, ease of administration, compatibility with your lifestyle, or cost implications—and inquire about possible alternatives that could address these challenges."
+   - **An explanation for the reason behind your new suggested change**: Emphasizes patient challenges in a non-specific, non-promotional manner, and encourages a discussion of holistic treatment options.
+   - **Your new suggested sentence**: "Discuss any issues you’ve encountered with your current treatment, such as side effects, ease of administration, lifestyle compatibility, or cost, and ask about alternatives that might better address your needs."
+   - **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to [Source - Communicate With Care Pocket Guide, Article 2, Clause ii & iii] the revised sentence removes specific treatment forms and emphasizes a balanced discussion of alternatives.
+
+4. **The original source sentence**: "Talk about your lifestyle and how a new treatment might be better suited for you."
+   - **The deviation from the guidelines originally provided by the expert reviewer**: Reduces the promotional tone by avoiding direct suggestion of a "new treatment."
+   - **The expert reviewer's original suggested change**: "Talk about your lifestyle and how different treatment options might be better suited for you."
+   - **An explanation for the reason behind your new suggested change**: Ensures the focus remains on treatment options rather than suggesting the necessity of change, maintaining a non-promotional tone.
+   - **Your new suggested sentence**: "Discuss your lifestyle with your doctor to identify which treatment options may best suit your needs."
+   - **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to [Source - EFPIA Chapter 3, Article 17, Clause iv] the revised sentence maintains an objective stance on treatment options.
+
+5. **The original source sentence**: "Ask questions or share concerns you have about trying a new medication."
+   - **The deviation from the guidelines originally provided by the expert reviewer**: Avoids the direct mention of "new medication," which could be interpreted as promoting change.
+   - **The expert reviewer's original suggested change**: "Ask questions or share concerns you have about adjusting your treatment plan."
+   - **An explanation for the reason behind your new suggested change**: Highlights patient concerns about their treatment plan without suggesting a change to new medications, ensuring non-promotional language.
+   - **Your new suggested sentence**: "Share any questions or concerns you have regarding changes to your treatment plan with your doctor."
+   - **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to [Source - Communicate With Care Pocket Guide, Article 2, Clause ii & iii] the new sentence refines the focus on the patient's communication with their doctor about their treatment plan.
+
+6. **The original source sentence**: "This conversation is about working together with your doctor to find the best treatment option for you."
+   - **The deviation from the guidelines originally provided by the expert reviewer**: Avoids promotion and includes a disclaimer for medical advice.
+   - **The expert reviewer's original suggested change**: "This conversation is about working together with your doctor to find the most appropriate treatment plan. Always seek medical advice from your healthcare provider regarding your specific condition."
+   - **An explanation for the reason behind your new suggested change**: Provides clear, non-promotional communication while underlining the importance of professional medical advice.
+   - **Your new suggested sentence**: "This conversation is about collaborating with your doctor to find the most appropriate treatment plan. Remember to seek medical advice from your healthcare provider regarding your specific condition."
+   - **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to [Source - Disclaimer Texts for Non-promotional Material, Article 3, Clause v] the revised sentence emphasizes seeking professional medical advice and maintains non-promotional language.

@@ -1,0 +1,33 @@
+Here are the improvements on the comments provided by the expert reviewer:
+
+1. **Source Sentence:** He wanted to be introduced to Lucy wo he fancied.
+   - **Deviation from the guidelines:** Correcting "wo" to "whom" for grammatical accuracy.
+   - **Expert Reviewer Suggested Change:** He wanted to be introduced to Lucy whom he fancied.
+   - **Reason for New Suggested Change:** "Whom" is correctly used, but enhancing readability by simplifying the sentence structure makes it clearer.
+   - **New Suggested Sentence:** He wanted to be introduced to Lucy, whom he liked.
+
+2. **Source Sentence:** He didn 't making the first move to go and see her.
+   - **Deviation from the guidelines:** Correcting "making" to "make."
+   - **Expert Reviewer Suggested Change:** He didn’t make the first move to go and see her.
+   - **Reason for New Suggested Change:** Improving readability by addressing unnecessary spacing and correcting verb form.
+   - **New Suggested Sentence:** He didn't make the first move to approach her.
+
+3. **Source Sentence:** He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her.
+   - **Deviation from the guidelines:** Correcting "taked" to "took" and addressing punctuation.
+   - **Expert Reviewer Suggested Change:** He took a drink to get some energy, and after a few minutes of endless hesitation, he walked to her.
+   - **Reason for New Suggested Change:** Clarify sentence by restructuring the second part for better flow.
+   - **New Suggested Sentence:** He took a drink to gather some energy. After a few minutes of endless hesitation, he walked toward her.
+
+4. **Source Sentence:** He whispered ' Yes ' and had a glance at me.
+   - **Deviation from the guidelines:** Correcting quotation marks and spacing.
+   - **Expert Reviewer Suggested Change:** He whispered "Yes" and glanced at me.
+   - **Reason for New Suggested Change:** Correcting punctuation formatting and rephrasing for clarity.
+   - **New Suggested Sentence:** He whispered, "Yes," and glanced at me.
+
+5. **Source Sentence:** She could hardly say a word but after a little seconds, she said : ' I' m sorry to deceive you but actually I fancy Sebastian '.
+   - **Deviation from the guidelines:** Correcting punctuation and phrasing.
+   - **Expert Reviewer Suggested Change:** She could hardly say a word, but after a few seconds, she said: "I’m sorry to deceive you, but actually, I fancy Sebastian."
+   - **Reason for New Suggested Change:** Improving punctuation and clarifying phrasing for better readability.
+   - **New Suggested Sentence:** She could hardly speak, but after a few seconds, she said, "I'm sorry to lead you on, but I actually fancy Sebastian."
+
+By adhering to these improvements, the grammatical accuracy and overall readability of the text are further enhanced while maintaining the original meaning of the sentences.

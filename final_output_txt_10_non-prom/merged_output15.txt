@@ -1,0 +1,208 @@
+### 1. Maintain Professional Tone and Relevance
+
+#### Guideline Source
+- **Source:** Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional
+
+#### Source Sentence
+- **Original:** "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+#### Deviations
+- **Source Deviations:** Communicate With Care Pocket Guide: "Maintain Professional Tone: Use polite language, avoid sarcasm and humor."
+  - The above sentence implies that the reader might not feel empowered, which can be unprofessional and patronizing.
+
+#### New Sentence
+- **Corrected Sentence:** "Feeling empowered to discuss your treatment with your doctor when you believe a change could be beneficial is essential."
+
+#### Reason for Replacement
+- **Reason:** The new sentence maintains a professional tone and avoids implying that the patient needs empowerment, thereby resolving the potential patronizing deviation.
+
+### 2. Avoid Exaggerations and Maintain Factual Information
+
+#### Guideline Source
+- **Source:** Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional
+
+#### Source Sentence
+- **Original:** "It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you're doing right now!)—you'll be able to communicate with your doctor more openly about treatment."
+
+#### Deviations
+- **Source Deviations:** Communicate With Care Pocket Guide: "Stick to Facts: Avoid exaggerations and speculations."
+  - The phrase "like you're doing right now!" could be seen as speculative and unnecessary.
+
+#### New Sentence
+- **Corrected Sentence:** "While it can be challenging to start these conversations, focusing on your treatment goals and educating yourself about type 2 diabetes can help you communicate more openly with your doctor."
+
+#### Reason for Replacement
+- **Reason:** The replacement sentence removes speculation and ensures the communication is clear and factual.
+
+
+### 3. Use Polite Language and Maintain Professionalism
+
+#### Guideline Source
+- **Source:** Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional
+
+#### Source Sentence
+- **Original:** "Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
+
+#### Deviations
+- **Source Deviations:** Communicate With Care Pocket Guide: "Maintain Professional Tone: Use polite language, avoid sarcasm and humor."
+  - The phrase "if the cost is too high" may come off as informal and impolite.
+
+#### New Sentence
+- **Corrected Sentence:** "Discuss any challenges you've faced with your current treatment—such as side effects, your preference for a pill or injection (if available), lifestyle fit, or cost concerns—and inquire about possible alternatives that could address these issues."
+
+#### Reason for Replacement
+- **Reason:** This version maintains a professional tone and ensures clarity, addressing the guidelines of using polite and non-sarcastic language.
+
+### 4. Ensure Clarity and Professional Tone
+
+#### Guideline Source
+- **Source:** Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional
+
+#### Source Sentence
+- **Original:** "Talk about your lifestyle and how a new treatment might be better suited for you. For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don't have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals (in addition to healthy eating and exercise)."
+
+#### Deviations
+- **Source Deviations:** Communicate With Care Pocket Guide: "Provide Context: Ensure clarity to prevent misunderstandings, especially for those unfamiliar with the topic."
+  - The sentence structure and added details may come off as disorganized and lead to misunderstandings.
+
+#### New Sentence
+- **Corrected Sentence:** "Describe your lifestyle and how a different treatment might better accommodate your needs. For instance, if you travel frequently for work and require a more convenient medication, or if limited time for exercise means you need a treatment that aids in weight management alongside healthy eating and exercise."
+
+#### Reason for Replacement
+- **Reason:** This sentence is clearer and more organized, preventing possible misunderstandings and adhering to the guidelines of providing context and clear communication.
+
+### 5. Emphasize Professional and Evidence-based Communication
+
+#### Guideline Source
+- **Source:** Global Legal & Compliance Pocket Guide: Article 1 - Non-Promotional Material
+
+#### Source Sentence
+- **Original:** "Set realistic expectations with your doctor regarding the timeline and outcomes of your new treatment."
+
+#### Deviations
+- **Source Deviations:** Global Legal & Compliance Pocket Guide: "Sharing of scientific information about products is allowed to keep the medical community informed about new developments and product safety."
+  - The phrase "set realistic expectations" needs more emphasis on factual and evidence-based discussion.
+
+#### New Sentence
+- **Corrected Sentence:** "Discuss with your doctor evidence-based expectations concerning the timeline and outcomes of your new treatment."
+
+#### Reason for Replacement
+- **Reason:** This sentence highlights the importance of relying on scientific evidence in medical discussions, thereby aligning with non-promotional material guidelines on factual, evidence-based communication.
+
+### 6. Adherence to Addiction of Fair and Balanced Scientific Perspective
+
+#### Guideline Source
+- **Source:** EFPIA Chapter 3: Article 16 - Lifelong Learning in Healthcare
+
+#### Source Sentence
+- **Original:** "Ask questions or share concerns you have about trying a new medication. This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
+
+#### Deviations
+- **Source Deviations:** EFPIA Chapter 3: "LLH activities must have content that is fair, balanced and objective, designed to allow the expression of diverse evidence-based science and fulfill unmet educational needs in healthcare."
+  - The original sentence needs to emphasize a balanced and evidence-based approach.
+
+#### New Sentence
+- **Corrected Sentence:** "Share any questions or concerns you have about a new medication, including discussing its mechanism and understanding potential side effects based on scientific evidence."
+
+#### Reason for Replacement
+- **Reason:** This new sentence maintains a balanced and objective tone, emphasizing evidence-based science which aligns with the non-promotional material guidelines.
+
+### 7. Compliance with Ethical Principles and Legal Considerations
+
+#### Guideline Source
+- **Source:** Communicate With Care Pocket Guide: Article 1 - Be Mindful
+
+#### Source Sentence
+- **Original:** "Your doctor should have useful strategies that can help you manage them or decide if you should switch to something else."
+
+#### Deviations
+- **Source Deviations:** Communicate With Care Pocket Guide: "Consider Legal Implications: Remember that written communications may become evidence in legal matters."
+  - The sentence "Your doctor should have useful strategies” can hold a tone of expectation which may lead to disputes.
+
+#### New Sentence
+- **Corrected Sentence:** "Your doctor can provide strategies to help manage these side effects or advise if a different treatment might be more suitable."
+
+#### Reason for Replacement
+- **Reason:** This sentence shows that while the doctor is there to guide, there’s no undue pressure or expectation placed on them, which is essential for legal reasons.
+
+---
+
+By reviewing the document thoroughly and adhering to the guidelines from multiple relevant sources, we ensure that the material is compliant, professional, and ethically sound. Each point addressed aligns with the higher standards expected in non-promotional educational healthcare materials.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### 1. Maintain Professional Tone and Relevance
+
+- **Original Source Sentence:**
+   "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+  
+- **Deviation from Guidelines:**
+  According to [Source - Communicate With Care Pocket Guide - Article 2] the information suggests maintaining a professional tone and avoiding language that could be perceived as patronizing. The original sentence implies that the reader might not feel empowered, which could be unprofessional and condescending.
+  
+- **Expert Reviewer's Suggested Change:**
+  "Feeling empowered to discuss your treatment with your doctor when you believe a change could be beneficial is essential."
+
+- **Reason for New Suggested Change:**
+  The expert reviewer's sentence maintains a professional tone but could be made even clearer and more patient-centric. It's crucial to emphasize that patients should always feel comfortable discussing their treatment without sounding condescending.
+
+- **New Suggested Sentence:**
+  "It's essential to feel confident in discussing your treatment with your doctor whenever a change could be beneficial."
+
+### 2. Avoid Exaggerations and Maintain Factual Information
+
+- **Original Source Sentence:**
+  "It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you're doing right now!)—you'll be able to communicate with your doctor more openly about treatment."
+
+- **Deviation from Guidelines:**
+  According to [Source - Communicate With Care Pocket Guide - Article 2] the guide advises avoiding exaggerations and maintaining factual information. The phrase "like you're doing right now!" could be seen as speculative and unnecessary.
+
+- **Expert Reviewer's Suggested Change:**
+  "While it can be challenging to start these conversations, focusing on your treatment goals and educating yourself about type 2 diabetes can help you communicate more openly with your doctor."
+
+- **Reason for New Suggested Change:**
+  The expert reviewer's change is nearly aligned, but it can be improved by further eliminating any speculative tone and ensuring the message remains strictly factual and professional.
+
+- **New Suggested Sentence:**
+  "Although starting these conversations can be challenging, focusing on your treatment goals and increasing your understanding of type 2 diabetes can help facilitate more open communication with your doctor."
+
+### 3. Use Polite Language and Maintain Professionalism
+
+- **Original Source Sentence:**
+  "Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
+
+- **Deviation from Guidelines:**
+  According to [Source - Communicate With Care Pocket Guide - Article 2] the guideline emphasizes using polite language and avoiding any phrase that may seem impolite. The phrase "if the cost is too high" could be perceived as informal and less professional.
+
+- **Expert Reviewer's Suggested Change:**
+  "Discuss any challenges you've faced with your current treatment—such as side effects, your preference for a pill or injection (if available), lifestyle fit, or cost concerns—and inquire about possible alternatives that could address these issues."
+
+- **Reason for New Suggested Change:**
+  While the expert reviewer’s suggestion is closely aligned, it can be refined to ensure it thoroughly adheres to a polite and professional tone throughout.
+
+- **New Suggested Sentence:**
+  "Discuss any challenges you've encountered with your current treatment, such as side effects, preferences for administration method (pill or injection), lifestyle compatibility, or cost considerations, and ask about potential alternatives that could better address these concerns."
+
+### 4. Ensure Clarity and Professional Tone
+
+- **Original Source Sentence:**
+  "Talk about your lifestyle and how a new treatment might be better suited for you. For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don't have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals (in addition to healthy eating and exercise)."
+
+- **Deviation from Guidelines:**
+  According to [Source - Communicate With Care Pocket Guide - Article 2] the guide emphasizes providing context to ensure clarity and avoid misunderstandings. The original sentence structure is somewhat disorganized and may lead to misunderstandings.
+
+- **Expert Reviewer's Suggested Change:**
+  "Describe your lifestyle and how a different treatment might better accommodate your needs. For instance, if you travel frequently for work and require a more convenient medication, or if limited time for exercise means you need a treatment that aids in weight management alongside healthy eating and exercise."
+
+- **Reason for New Suggested Change:**
+  The expert reviewer's suggestion is nearly aligned; however, it can be refined further to avoid repetition and ensure clarity.
+
+- **New Suggested Sentence:**
+  "Describe your lifestyle and how a different treatment might better suit your needs. For instance, if you travel frequently and need a convenient medication, or if you have limited time for exercise and need a treatment that supports weight management."
+
+---
+
+### Summary
+
+By meticulously applying the guidelines from various sources, the revised sentences ensure clear, factual, and professional communication, aligning perfectly with the "Non-Promotional Material Guidelines." This nuanced approach guarantees compliance, avoids misunderstandings, and upholds the highest professional standards.

@@ -1,0 +1,104 @@
+Here is a detailed review of the provided document based on the "Non-Promotional Material Guidelines."
+
+1. **Review Point**: Disclaimer on the page.
+   - **Guideline Source**: Source - Disclaimer Texts for Non-promotional Material
+   - **Source Sentence**: Not present in the document
+   - **Deviations**: Missing statement that "The image shown is a model and not a real patient."
+      - According to [Source - Disclaimer Texts for Non-promotional Material], general disclaimers should include the note, "The image shown is a model and not a real patient."
+   - **New Sentence**: "The image shown is a model and not a real patient."
+   - **Reason**: Including the disclaimer ensures that the material is compliant with the guidelines and avoids misleading the audience that the images depict real patients. This meets the requirement of maintaining the integrity and accuracy of non-promotional materials.
+
+2. **Review Point**: Disclaimer on page.
+   - **Guideline Source**: Source - Disclaimer Texts for Non-promotional Material
+   - **Source Sentence**: Not present in the document.
+   - **Deviations**: Missing statement that "This information is intended for diabetes patients who have been prescribed [insert NN medicinal product] and should not be substituted for medical advice from your doctor."
+      - According to [Source - Disclaimer Texts for Non-promotional Material], general disclaimers should include the note. 
+   - **New Sentence**: "This information is intended for diabetes patients who have been prescribed [insert NN medicinal product] and should not be substituted for medical advice from your doctor."
+   - **Reason**: Adding this sentence ensures the material aligns with guidelines, emphasizing that the provided information should not replace professional medical advice, thus avoiding potential misuse.
+
+3. **Review Point**: Usage of educational materials.
+   - **Guideline Source**: Source - EFPIA Chapter 3, Article 17
+   - **Source Sentence**: "By educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment."
+   - **Deviations**: Educational materials should not constitute promotion and must be beneficial to patient care.
+      - According to [Source - EFPIA Chapter 3, Article 17], "the provision of Informational or Educational Materials is permitted provided it is (a) 'inexpensive'; (b) directly relevant to the practice of medicine or pharmacy; and (c) directly beneficial to the care of patients."
+   - **New Sentence**: "By accessing validated educational materials about type 2 diabetes, you’ll gain the knowledge needed to have informed discussions with your doctor about treatment options."
+   - **Reason**: This revision ensures the sentence aligns with the guideline’s requirements and avoids implying the material is a promotional tool, focusing on its educational purpose.
+
+4. **Review Point**: Tone and clarity.
+   - **Guideline Source**: Source - Communicate With Care Pocket Guide, Article 2.
+   - **Source Sentence**: "It can be difficult to start these conversations..."
+   - **Deviations**: The sentence needs a clear and professional tone.
+      - According to [Source - Communicate With Care Pocket Guide, Article 2], "Use polite language, avoid sarcasm and humor."
+   - **New Sentence**: "Initiating these discussions can be challenging..."
+   - **Reason**: This revision uses a more formal and clear language, removing any ambiguity and maintaining a professional tone.
+
+5. **Review Point**: Clarification of content.
+   - **Guideline Source**: Source - Communicate With Care Pocket Guide, Article 2.
+   - **Source Sentence**: "and ask if there might find a better alternative that addresses these challenges"
+   - **Deviations**: Lack of clarity.
+      - According to [Source - Communicate With Care Pocket Guide, Article 2], Ensure clarity to prevent misunderstandings.
+   - **New Sentence**: "and inquire if there might be a better alternative available that addresses these challenges."
+   - **Reason**: The revised sentence enhances clarity, ensuring the communication remains professional and easily understood.
+
+6. **Review Point**: Context and consistency.
+   - **Guideline Source**: Source - Communicate With Care Pocket Guide, Article 2.
+   - **Source Sentence**: "Together, identify strategies that can help you manage them or decide if you should switch to something else."
+   - **Deviations**: Lack of context provision.
+      - According to [Source - Communicate With Care Pocket Guide, Article 2], provide context to prevent misunderstandings.
+   - **New Sentence**: "Together, identify strategies to help you manage potential side effects or decide if switching to a different treatment might be necessary."
+   - **Reason**: Including additional context makes the statement clearer and more informative, aligning with professional communication standards.
+
+In summary, these changes ensure the document complies with the given "Non-Promotional Material Guidelines," maintaining clarity, objectivity, and professionalism while ensuring the material's non-promotional nature.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+Here's the detailed feedback considering the "Non-Promotional Material Guidelines":
+
+### Review Point 1:
+- **Original Source Sentence**: "The image shown is a model and not a real patient."
+- **Deviation from Guidelines**: The original document is missing this disclaimer.
+- **Expert Reviewer's Suggested Change**: "The image shown is a model and not a real patient."
+- **Explanation for New Suggested Change**: Agree with the expert reviewer that this disclaimer is necessary, as it ensures clarity that the image does not mislead about real patients.
+- **New Suggested Sentence**: No replacement needed as the expert reviewer's suggested change follows the guideline appropriately.
+
+### Review Point 2:
+- **Original Source Sentence**: "This information is intended for diabetes patients who have been prescribed [insert NN medicinal product] and should not be substituted for medical advice from your doctor."
+- **Deviation from Guidelines**: The original document is missing this disclaimer.
+- **Expert Reviewer's Suggested Change**: "This information is intended for diabetes patients who have been prescribed [insert NN medicinal product] and should not be substituted for medical advice from your doctor."
+- **Explanation for New Suggested Change**: No improvement necessary as this disclaimer emphasizes that provided information should not replace professional medical advice, adhering to the guidelines.
+- **New Suggested Sentence**: No replacement needed as the expert reviewer's suggested change follows the guideline appropriately.
+
+### Review Point 3:
+- **Original Source Sentence**: "By educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment."
+- **Deviation from Guidelines**: Overly casual and the insert "(like you’re doing right now!)" implies promotional tone.
+- **Expert Reviewer's Suggested Change**: "By accessing validated educational materials about type 2 diabetes, you’ll gain the knowledge needed to have informed discussions with your doctor about treatment options."
+- **Explanation for New Suggested Change**: The expert's sentence works well, but could be made even more formal and directly relevant.
+- **New Suggested Sentence**: "By consulting reliable educational resources on type 2 diabetes, you’ll enhance your knowledge and communicate more effectively with your doctor regarding treatment options."
+- **Deviations**: According to EFPIA Chapter 3, Article 17, "Educational materials must be objectively designed and beneficial to patient care."
+
+### Review Point 4:
+- **Original Source Sentence**: "It can be difficult to start these conversations..."
+- **Deviation from Guidelines**: Needs clearer and more professional language.
+- **Expert Reviewer's Suggested Change**: "Initiating these discussions can be challenging..."
+- **Explanation for New Suggested Change**: The expert's suggestion still vaguely implies difficulty; emphasizing the importance of preparedness could improve clarity.
+- **New Suggested Sentence**: "Starting these conversations might seem challenging, but being well-prepared can make a significant difference."
+- **Deviations**: According to Communicate With Care Pocket Guide, Article 2.ii, "Ensure clarity to prevent misunderstandings."
+
+### Review Point 5:
+- **Original Source Sentence**: "and ask if there might find a better alternative that addresses these challenges"
+- **Deviation from Guidelines**: Lacks clarity and structure.
+- **Expert Reviewer's Suggested Change**: "and inquire if there might be a better alternative available that addresses these challenges."
+- **Explanation for New Suggested Change**: The expert's suggestion could benefit from a stronger focus on clarity and readability.
+- **New Suggested Sentence**: "and ask your doctor if there are better alternatives that address these specific challenges."
+- **Deviations**: According to Communicate With Care Pocket Guide, Article 2, "Ensure clarity to prevent misunderstandings."
+
+### Review Point 6:
+- **Original Source Sentence**: "Together, identify strategies that can help you manage them or decide if you should switch to something else."
+- **Deviation from Guidelines**: Needs context and clear articulation.
+- **Expert Reviewer's Suggested Change**: "Together, identify strategies to help you manage potential side effects or decide if switching to a different treatment might be necessary."
+- **Explanation for New Suggested Change**: The expert's suggestion is clear and provides the necessary context.
+- **New Suggested Sentence**: No replacement needed as the expert reviewer's suggested change follows the guideline appropriately.
+
+In summary, these changes ensure the document complies with the given "Non-Promotional Material Guidelines," maintaining clarity, objectivity, and professionalism while ensuring the material's non-promotional nature.

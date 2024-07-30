@@ -1,0 +1,190 @@
+### Review of Document: How to talk about treatment options
+
+#### Overall Assessment:
+The document portrays itself as an educational resource for patients with type 2 diabetes, providing advice on discussing treatment options with healthcare professionals. We will review the content based on the "Non-Promotional Material Guidelines."
+
+#### Detailed Comments and Corrections:
+
+1. **Source Sentence:**
+   - "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+   **Deviations:**
+   - This statement can be perceived as indirect promotion of treatment changes.
+   - According to **[Source - EFPIA Chapter 3, Article 16]**, the content must be "fair, balanced and objective."
+
+   **New Sentence:**
+   - "When living with type 2 diabetes, it is essential to continually monitor your condition and discuss any necessary treatment adjustments with your healthcare provider."
+
+   **Reason for Replacement:**
+   - The modification ensures the sentence remains an objective encouragement of dialogue rather than suggesting specific changes to treatment.
+   
+2. **Source Sentence:**
+   - "Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+
+   **Deviations:**
+   - The tone could be perceived as undermining the authority of healthcare providers.
+   - According to **[Source - Communicate With Care Pocket Guide, Article 2]**, content should have a professional tone and avoid any statements that could be interpreted as undermining professional advice.
+
+   **New Sentence:**
+   - "While your doctor is the medical expert, your input about your daily experiences and preferences is valuable in making informed treatment decisions."
+
+   **Reason for Replacement:**
+   - The sentence now respects the professional authority of HCPs while emphasizing the importance of patient input.
+
+3. **Source Sentence:**
+   - "Talk about your lifestyle and how a new treatment might be better suited for you."
+
+   **Deviations:**
+   - This sentence might appear to advocate for changing treatments without professional input.
+   - According to **[Source - EFPIA Chapter 3, Article 17]**, materials must not serve as an inducement to change treatment.
+
+   **New Sentence:**
+   - "Discuss your lifestyle with your doctor to ensure your current treatment aligns with your daily routines and preferences."
+
+   **Reason for Replacement:**
+   - The sentence ensures conversation about aligning treatment with lifestyle without suggesting a change in treatment.
+
+4. **Source Sentence:**
+   - "Ask questions or share concerns you have about trying a new medication."
+
+   **Deviations:**
+   - The statement may indirectly suggest changing to a new medication.
+   - According to **[Source - EFPIA Chapter 4, Article 21]**, communications should not prompt patients to seek new medications.
+
+   **New Sentence:**
+   - "Share any concerns or questions you have regarding your current medication and its effects."
+
+   **Reason for Replacement:**
+   - Focuses on concerns with current medication, avoiding prompts for new medications.
+   
+5. **Source Sentence:**
+   - "Typically, type 2 diabetes patients should see their doctor every 3-6 months."
+
+   **Deviations:**
+   - This might be seen as providing medical advice.
+   - According to **[Source - Disclaimer Texts for Non-promotional Material, Article 3, General Disclaimers]**, medical advice should be left to healthcare professionals.
+
+   **New Sentence:**
+   - "It is important to follow your doctor's recommendations on the frequency of follow-up visits."
+
+   **Reason for Replacement:**
+   - Keeps advice in line with recommendations from healthcare providers without suggesting specific intervals.
+
+6. **Source Inclusion:**
+   - **Disclaimer Text:** The document lacks a disclaimer that clarifies the educational purpose of the content and that it should not substitute for professional medical advice.
+
+   **New Sentence:**
+   - "This information is intended for educational purposes only and should not be substituted for medical advice from your doctor. Please see the patient information leaflet for additional details."
+
+   **Reason for Inclusion:**
+   - Important to ensure there is no confusion about the document’s purpose.
+
+### Conclusion
+By making the adjustments and ensuring adherence to the guidelines, the document can effectively serve its purpose of educating patients without veering into the realm of indirect promotion or providing explicit medical advice. Each change ensures clarity, professionalism, and alignment with ethical standards.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+1. **Original source sentence:**
+   - "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+   **Deviation:**
+   - The statement can be perceived as indirect promotion of treatment changes.
+   - According to **[Source - EFPIA Chapter 3, Article 16]**, the content must be "fair, balanced and objective."
+
+   **Expert reviewer's original suggested change:**
+   - "When living with type 2 diabetes, it is essential to continually monitor your condition and discuss any necessary treatment adjustments with your healthcare provider."
+
+   **New suggested change:**
+   - The expert reviewer's suggestion is a good improvement, however, it could be made even more cautiously.
+
+   **Reason for new suggested change:**
+   - This further ensures the focus on dialogue without any implicit suggestion of changing treatments frequently.
+
+   **New suggested sentence:**
+   - "When living with type 2 diabetes, it is important to regularly monitor your condition and consult with your healthcare provider about any adjustments to your treatment plan."
+
+   **Deviation:**
+   - According to **[Source - EFPIA Chapter 3, Article 16]**, the content should be balanced and objective, and not constitute promotion of treatment changes.
+
+2. **Original source sentence:**
+   - "Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+
+   **Deviation:**
+   - The tone could be perceived as undermining the authority of healthcare providers.
+   - According to **[Source - Communicate With Care Pocket Guide, Article 2]**, content should have a professional tone and avoid any statements that could be interpreted as undermining professional advice.
+
+   **Expert reviewer's original suggested change:**
+   - "While your doctor is the medical expert, your input about your daily experiences and preferences is valuable in making informed treatment decisions."
+
+   **New suggested change:**
+   - More emphasis on mutual decision-making could further improve the balance.
+
+   **Reason for new suggested change:**
+   - This ensures respect for professional authority while valuing the patient's input.
+
+   **New suggested sentence:**
+   - "Your doctor is the medical expert, and your experiences and preferences are valuable in making informed decisions together."
+
+   **Deviation:**
+   - According to **[Source - Communicate With Care Pocket Guide, Article 2]**, the content should maintain a professional tone and balance between respecting expert advice and acknowledging patient input.
+
+3. **Original source sentence:**
+   - "Talk about your lifestyle and how a new treatment might be better suited for you."
+
+   **Deviation:**
+   - This sentence might appear to advocate for changing treatments without professional input.
+   - According to **[Source - EFPIA Chapter 3, Article 17]**, materials must not serve as an inducement to change treatment.
+
+   **Expert reviewer's original suggested change:**
+   - "Discuss your lifestyle with your doctor to ensure your current treatment aligns with your daily routines and preferences."
+
+   **New suggested change:**
+   - The expert's suggestion is appropriate, enhancing focus on alignment with current treatment.
+
+   **Reason for new suggested change:**
+   - Ensures conversation without suggesting treatment changes.
+
+   **New suggested sentence:**
+   - "Discuss your lifestyle with your doctor to ensure your treatment supports your daily routines and health goals."
+
+   **Deviation:**
+   - According to **[Source - EFPIA Chapter 3, Article 17]**, content should encourage balanced discussion without promoting treatment changes.
+
+4. **Original source sentence:**
+   - "Ask questions or share concerns you have about trying a new medication."
+
+   **Deviation:**
+   - The statement may indirectly suggest changing to a new medication.
+   - According to **[Source - EFPIA Chapter 4, Article 21]**, communications should not prompt patients to seek new medications.
+
+   **Expert reviewer's original suggested change:**
+   - "Share any concerns or questions you have regarding your current medication and its effects."
+
+   **New suggested change:**
+   - Adding emphasis on the long-term effectiveness of the current treatment can be beneficial.
+
+   **Reason for new suggested change:**
+   - This further ensures focus on the current treatment.
+
+   **New suggested sentence:**
+   - "Share any concerns or questions you have about your current medication, including its long-term effectiveness and any side effects."
+
+   **Deviation:**
+   - According to **[Source - EFPIA Chapter 4, Article 21]**, content should avoid suggesting changes to new medications.
+
+5. **Original source sentence:**
+   - "Typically, type 2 diabetes patients should see their doctor every 3-6 months."
+
+   **Deviation:**
+   - This might be seen as providing medical advice.
+   - According to **[Source - Disclaimer Texts for Non-promotional Material, Article 3, General Disclaimers]**, medical advice should be left to healthcare professionals.
+
+   **Expert reviewer's original suggested change:**
+   - "It is important to follow your doctor's recommendations on the frequency of follow-up visits."
+
+   **New suggested change:**
+   - The expert's change is suitable and does not need further modification.
+
+By following these steps, I ensured each change adheres to the guidelines and provides clear, balanced, and objective information without promoting specific treatments or providing direct medical advice.

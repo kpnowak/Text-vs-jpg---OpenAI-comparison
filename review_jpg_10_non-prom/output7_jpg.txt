@@ -1,84 +1,9 @@
-**1. First Paragraph**
+**Guideline Source: Source - Communicate With Care Pocket Guide**
+**Source Sentence:** “This means talking through and understanding how it works, and the kind of side effects you could potentially experience.”
+**Deviations:** According to Source - Communicate With Care Pocket Guide: Article 2, points i and ii, the language should be professional, and context should be provided clearly.
+**Expert Reviewer's Suggested Change:** “This involves discussing and comprehensively understanding the mechanism of the medication, and the potential side effects you might experience.”
+**Explanation for the Reason Behind Your New Suggested Change:** The expert reviewer's suggested change certainly maintains a professional tone; however, it still introduces some redundancy and could be made more concise while ensuring clarity.
+**Your New Suggested Sentence:** “This involves discussing and clearly understanding how the medication works and its potential side effects.”
+**Deviations:** According to Source - Communicate With Care Pocket Guide, the information suggests that the language should be professional, concise, and clear, avoiding redundancy and providing necessary context.
 
-- **Original source sentence:**
-  "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust your changing personal health needs."
-
-- **Deviation from the guidelines:**
-  According to [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication], the information should emphasize balanced and objective communication.
-
-- **Expert reviewer's original suggested change:**
-  "When managing type 2 diabetes, it's important to continuously consult with your healthcare provider to discuss adjustments to your treatment based on evolving scientific evidence and changing personal health needs."
-
-- **Reason for replacement and resolution:**
-  The new sentence should ensure an emphasis on personalized medical advice while maintaining objectivity and balance in the communication.
-
-- **New suggested sentence:**
-  "When managing type 2 diabetes, ongoing consultation with your healthcare provider is crucial to discuss adjustments based on evolving scientific evidence and your changing health needs."
-
-**2. "Empowered and Ready" Paragraph**
-
-- **Original source sentence:**
-  "It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
-
-- **Deviation from the guidelines:**
-  According to [Source - Communicate With Care Pocket Guide], the information should maintain a professional tone and avoid any potentially disempowering language.
-
-- **Expert reviewer's original suggested change:**
-  "It’s essential to discuss with your healthcare provider whenever adjustments to your treatment plan could be beneficial."
-
-- **Reason for replacement and resolution:**
-  The revised sentence should ensure clarity, a professional tone, and avoid any language that may create a dichotomy between empowered and disempowered patients.
-
-- **New suggested sentence:**
-  "It's important to communicate with your healthcare provider whenever changes to your treatment plan might be needed."
-
-**3. "Set Realistic Expectations" in the "Follow-up" Section**
-
-- **Original source sentence:**
-  "Set realistic expectations with your doctor regarding the timeline and outcomes of your new treatment."
-
-- **Deviation from the guidelines:**
-  According to [Source - Disclaimer Texts for Non-promotional Material], the information should provide context and disclaimers to avoid misinterpretations.
-
-- **Expert reviewer's original suggested change:**
-  "Set realistic expectations with your healthcare provider regarding the timeline and outcomes of your new treatment, and ensure all information is tailored to your specific medical needs."
-
-- **Reason for replacement and resolution:**
-  The replacement should emphasize the importance of personalized medical advice and include necessary disclaimers.
-
-- **New suggested sentence:**
-  "Discuss with your healthcare provider the realistic timeline and expected outcomes of your new treatment, ensuring the information is specific to your medical condition."
-
-**4. Lifestyle Section**
-
-- **Original source sentence:**
-  "Talk about your lifestyle and how a new treatment might be better suited for you."
-
-- **Deviation from the guidelines:**
-  According to [Source - EFPIA Chapter 3, Article 16, Lifelong Learning in Healthcare], the information should be fair, balanced, and objective.
-
-- **Expert reviewer's original suggested change:**
-  "Discuss with your healthcare provider how various treatments might align with your lifestyle and medical needs."
-
-- **Reason for replacement and resolution:**
-  The replacement should maintain a neutral and balanced discussion, without suggesting one treatment might be better suited over another.
-
-- **New suggested sentence:**
-  "Discuss with your healthcare provider how different treatment options can fit your lifestyle and medical needs."
-
-**5. "Discuss your challenges" Paragraph**
-
-- **Original source sentence:**
-  "Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
-
-- **Deviation from the guidelines:**
-  According to [Source - Communicate With Care Pocket Guide], the information should be factual and avoid speculative language.
-
-- **Expert reviewer's original suggested change:**
-  "Discuss any difficulties you've experienced with your current treatment and explore if alternative treatments may address your challenges more effectively."
-
-- **Reason for replacement and resolution:**
-  The replacement should adhere to clear and factual language, without unnecessary details or speculations.
-
-- **New suggested sentence:**
-  "Share any difficulties you’ve faced with your current treatment and discuss potential alternatives with your healthcare provider."
+Other comments by the expert reviewer adhered to the guidelines correctly.

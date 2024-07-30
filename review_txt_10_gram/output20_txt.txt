@@ -1,0 +1,41 @@
+### Reviewer Feedback on Expert's Comments:
+
+#### Sentence 1:
+- **Original Sentence**: "Yesterday, I gone to a party with my friend David."
+- **Deviation from the Guidelines**: None.
+- **Expert Reviewer's Suggested Change**: "Yesterday, I went to a party with my friend David."
+- **Reason for New Change**: The suggested change by the expert reviewer is correct as per the guidelines. No improvement needed.
+
+#### Sentence 2:
+- **Original Sentence**: "He study english with me at university."
+- **Deviation from the Guidelines**: None.
+- **Expert Reviewer's Suggested Change**: "He studies English with me at university."
+- **Reason for New Change**: The suggested change by the expert reviewer is correct as per the guidelines. No improvement needed.
+
+#### Sentence 5:
+- **Original Sentence**: "He didn 't making the first move to go and see her."
+- **Deviation from the Guidelines**: None.
+- **Expert Reviewer's Suggested Change**: "He didn't make the first move to go and see her."
+- **Reason for New Change**: The suggested change by the expert reviewer is correct as per the guidelines. No improvement needed.
+
+#### Sentence 11:
+- **Original Sentence**: "He whispered ' Yes ' and had a glance at me."
+- **Deviation from the Guidelines**: Correction required for coherence.
+- **Expert Reviewer's Suggested Change**: "He whispered ' Yes ' and glanced at me."
+- **Reason for New Change**: The expert reviewer correctly identified a grammatical error. However, additional punctuation errors should also be addressed, as follows: the spaces around quotation marks.
+- **Your New Suggested Sentence**: "He whispered 'Yes' and glanced at me."
+
+#### Sentence 14:
+- **Original Sentence**: "Feeling reassured and confident, he told her which feelings he was experiencing."
+- **Deviation from the Guidelines**: None.
+- **Expert Reviewer's Suggested Change**: "Feeling reassured and confident, he told her what feelings he was experiencing."
+- **Reason for New Change**: The suggested change by the expert reviewer is correct as per the guidelines. No improvement needed.
+
+#### Sentence 17:
+- **Original Sentence**: "She could hardly say a word but after a little seconds, she said : ' I' m sorry to deceive you but actually I fancy Sebastian '."
+- **Deviation from the Guidelines**: Correction required for punctuation, word choice, and spellings.
+- **Expert Reviewer's Suggested Change**: "She could hardly say a word but after a few seconds, she said: 'I'm sorry to disappoint you but actually, I fancy Sebastian.'"
+- **Reason for New Change**: The punctuation and word choice corrections are appropriate. However, additional punctuation consistency around the quoted speech would improve the sentence.
+- **Your New Suggested Sentence**: "She could hardly say a word but after a few seconds, she said: 'I'm sorry to disappoint you, but actually I fancy Sebastian.'"
+
+By following these steps, the review ensures that the document aligns with the English Grammar & Spelling Guidelines accurately and comprehensively.

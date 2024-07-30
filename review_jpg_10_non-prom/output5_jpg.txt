@@ -1,31 +1,48 @@
-### Revision of Expert Reviewer Comments
+### Review of Document
 
-**Original Source Sentence**: "Share your personal goals, whether it’s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective."
-**Deviations**: The instruction here assumes a discussion around efficacies of "current treatment" which could indicate a promotional bias without necessarily containing factual, non-branded educational information. According to [Source - EFPIA Chapter 3, Article 17(iv)] the information should not constitute an inducement.
-**Expert Reviewer's Original Suggested Change**: "Share your personal goals, such as better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss general strategies for managing diabetes more effectively."
-**Reason**: This replacement ensures the focus remains on general healthcare improvement rather than potentially implying the promotion of a specific treatment.
-**My New Suggested Sentence**: "Share your personal goals, such as better blood sugar control, weight management, or reducing the risk of cardiovascular events, and explore with your doctor general healthcare strategies for managing diabetes more effectively."
-**Reason**: This ensures neutrality by focusing on health improvement strategies without implying specific treatment efficacy, aligning with non-promotional guidelines.
+#### Expert's Comments and Corrections
 
-**Original Source Sentence**: "Ask questions or share concerns you have about trying a new medication."
-**Deviations**: Directly mentioning new medication could be interpreted as promotional. According to [Source - EFPIA Chapter 3, Article 17(i)] the focus should be on general healthcare improvement rather than specific treatment.
-**Expert Reviewer's Original Suggested Change**: "Ask questions or share concerns you have about your diabetes management and treatment options."
-**Reason**: This rephrases the sentence to keep attention on general patient care rather than new product promotion.
-**My New Suggested Sentence**: "Ask questions or share concerns you have regarding your diabetes management and the variety of available treatment options."
-**Reason**: This revision shifts focus to broader diabetes management conversations without suggesting the promotion of new medication, ensuring compliance with non-promotional guidelines.
+1. **Guideline Source**: Disclaimer Texts for Non-promotional Material - Article 3 (v).
+   - **Original Source Sentence**: "The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor."
+   - **Deviation**: According to [Disclaimer Texts for Non-promotional Material - Article 3 (v)], the disclaimer must clearly specify its intent for prescribed patients and mention consultation with a doctor.
+   - **Expert Reviewer's Suggested Change**: “This information is intended for diabetes patients who have been prescribed [insert NN medicinal product] and should not be substituted for medical advice from your doctor.”
+   - **My New Suggested Change**: The expert's suggested change adheres well to the guideline. No further improvement needed.
 
-**Original Source Sentence**: "It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
-**Deviations**: The term "beneficial" needs clearer definition as it may be interpreted as promotional without specifying medical utility. According to [Source - EFPIA Chapter 3, Article 17(ii)] the information should directly benefit patient care without suggesting inducement.
-**Expert Reviewer's Original Suggested Change**: "It’s important that you feel empowered and ready to talk to your doctor about your treatment options and when adjustments may be necessary for your health."
-**Reason**: This revision clarifies the focus on health improvements through discussion, ensuring non-promotional integrity by avoiding ambiguous terms.
-**My New Suggested Sentence**: "It’s important that you feel empowered to discuss with your doctor any changes to your treatment plan that might better support your health needs."
-**Reason**: This ensures the message is clear and focused on collaborative healthcare discussion without implying specific treatment benefits, adhering to non-promotional guidelines.
+2. **Guideline Source**: Communicate With Care Pocket Guide - Article 2 (ii).
+   - **Original Source Sentence**: "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+   - **Deviation**: According to [Communicate With Care Pocket Guide - Article 2 (ii)], the language should be clear to avoid ambiguity.
+   - **Expert Reviewer's Suggested Change**: "If you have type 2 diabetes, it's common to reevaluate and adjust your treatment as your personal health needs change."
+   - **Explanation for My Change**: The expert's suggestion is clear but can be refined to better maintain a professional and clear tone focusing on the need for clarity and avoiding ambiguity.
+   - **My New Suggested Sentence**: "For individuals with type 2 diabetes, it's essential to regularly reassess and adjust their treatment plans to align with evolving personal health requirements."
 
-**Original Source Sentence**: "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
-**Deviations**: "Best treatment option" could inadvertently convey promotional undertones. According to [Source - EFPIA Chapter 3, Article 16] the content must be fair, balanced, and objective, not focusing on a single "best" option.
-**Expert Reviewer's Original Suggested Change**: "Remember, this conversation is about working together with your doctor to find a suitable treatment plan for you."
-**Reason**: The revised phrasing is more neutral, aligning with non-promotional intent by implying personalization rather than superiority.
-**My New Suggested Sentence**: "Remember, this conversation is about collaborating with your doctor to identify a treatment plan that is appropriate for you."
-**Reason**: This refines the focus on partnership and suitability without implying promotional superiority, in line with non-promotional guidelines.
+3. **Guideline Source**: Communicate With Care Pocket Guide - Article 2 (iii). 
+   - **Original Source Sentence**: "It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment."
+   - **Deviation**: According to [Communicate With Care Pocket Guide - Article 2 (iii)], language should avoid unnecessary exaggerations and speculation.
+   - **Expert Reviewer's Suggested Change**: "It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself about type 2 diabetes—you’ll be able to communicate with your doctor more openly about your treatment."
+   - **Explanation for My Change**: The expert's suggestion removes informal language but still ends with a conversational phrase. It can be further improved to maintain a completely professional tone.
+   - **My New Suggested Sentence**: "Starting these conversations can be challenging, but keeping your treatment goals in mind and educating yourself about type 2 diabetes will help you communicate more openly with your doctor about your treatment."
 
-By carefully examining and revising the sentences in question, the adjustments ensure adherence to the "Non-Promotional Material Guidelines", maintaining a clear, neutral, and informative tone without any promotional undertones.
+4. **Guideline Source**: Disclaimer Texts for Non-promotional Material - Article 3 (i).
+   - **Original Source Sentence**: "The prescription is based on a patient example and not a real patient."
+   - **Deviation**: According to [Disclaimer Texts for Non-promotional Material - Article 3 (i)], it should include a standard disclaimer ensuring clarity that the example is fictional.
+   - **Expert Reviewer's Suggested Change**: “The prescription is based on a patient example and not a real patient.”
+   - **Explanation for My Change**: The expert's suggested change repeats the source sentence verbatim.
+   - **My New Suggested Sentence**: "The prescription represents a patient example for illustrative purposes only and does not reflect a real patient."
+
+5. **Guideline Source**: Communicate With Care Pocket Guide - Article 2 (i).
+   - **Original Source Sentence**: "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+   - **Deviation**: According to [Communicate With Care Pocket Guide - Article 2 (i)], the tone should remain professional and avoid a conversational style.
+   - **Expert Reviewer's Suggested Change**: "While your doctor is the medical expert, you are the one living with type 2 diabetes."
+   - **Explanation for My Change**: The expert's suggestion still maintains a conversational style. A more professional tone can be employed.
+   - **My New Suggested Sentence**: "Although your doctor is the medical expert, you are ultimately the one managing life with type 2 diabetes."
+
+6. **Guideline Source**: Informational or Educational Materials and Items of Medical Utility - Article 17 (i).
+   - **Original Source Sentence**: "Ask questions or share concerns you have about trying a new medication.”
+   - **Deviation**: According to [Informational or Educational Materials and Items of Medical Utility - Article 17 (i)], the information should focus on aspects directly relevant to patient care and practice.
+   - **Expert Reviewer's Suggested Change**: "Ask your doctor any questions or share concerns you have about trying a new medication.”
+   - **Explanation for My Change**: The expert's suggestion is specific about addressing questions to the doctor, but it could be improved to emphasize the patient's active role in their care.
+   - **My New Suggested Sentence**: "Consult your doctor with any questions or concerns you may have about starting a new medication."
+
+### Summary
+
+The reviewed document has been thoroughly checked and refined based on the guidelines provided in the "Non-Promotional Material Guidelines." The expert's corrections have been further enhanced to ensure clarity, accuracy, and adherence to professional standards. The recommendations ensure the document remains informative without crossing into promotional content, aligning well with the guidelines.

@@ -1,108 +1,75 @@
-**Review of Promotional Material**
+Sure, I'll meticulously review the provided document according to the "Non-Promotional Material Guidelines." Here's my analysis and recommended changes:
 
-### 1. Sentence: "It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+1. **Section: "How to talk about treatment options"**
+   - **Guideline source which influenced your response:**
+     Source - Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional.
+   - **The source sentence your new sentence replaces:**
+     "When you're living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+   - **The deviations your new sentence corrects:**
+     According to [Source - Communicate With Care Pocket Guide], the information suggests that the sentence should provide context with more specificity.
+   - **Your new sentence:**
+     "When you're living with type 2 diabetes, it’s common to periodically reevaluate and possibly change your treatment plan to better address your evolving personal health needs."
+   - **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+     This change ensures that the text is clear and specific about what is meant by "changing personal health needs."
 
-**Guideline Source**: [Source - Communicate With Care Pocket Guide: Article 1 - Be Mindful, Article 2 - Be Clear and Professional]
+2. **Section: "Challenges"**
+   - **Guideline source which influenced your response:**
+     Source - Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers.
+   - **The source sentence your new sentence replaces:**
+     "Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
+   - **The deviations your new sentence corrects:**
+     According to [Disclaimer Texts for Non-promotional Material], the material should not inadvertently provide unfounded assurances or implications of efficacy.
+   - **Your new sentence:**
+     "Discuss any difficulties you’ve encountered with your current treatment—such as side effects, preferences for a pill or injection if available, how it fits into your lifestyle, or if the cost is prohibitive—and ask if there might be a better alternative that addresses these challenges."
+   - **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+     This revised sentence maintains a neutral tone and avoids implying direct efficacy or suitability.
 
-**Source Sentence**: "It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+3. **Section: "Concerns and side effects"**
+   - **Guideline source which influenced your response:**
+     Source - EFPIA Chapter 3, Article 17.i.iii.
+   - **The source sentence your new sentence replaces:**
+     "Ask questions or share concerns you have about trying a new medication. This means talking through and understanding how it works, and the kinds of side effects you could potentially experience."
+   - **The deviations your new sentence corrects:**
+     According to [Source - EFPIA Chapter 3], educational content must not be promotional or intended to induce the consumption of a drug.
+   - **Your new sentence:**
+     "Express any questions or concerns about trying a new medication. This includes discussing how the medication works and understanding the potential side effects."
+   - **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+     This revision maintains an informative tone without suggesting promotional intent or inducement.
 
-**Deviations and Corrections**:
-1. The sentence implies a broad empowerment which may be construed as promotional.
-2. It does not provide clarity on how to prepare for the conversation.
-3. It lacks the necessary professional context.
+4. **Section: "Treatment expectations"**
+   - **Guideline source which influenced your response:**
+     Source - Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional.
+   - **The source sentence your new sentence replaces:**
+     "Set realistic expectations with your doctor regarding the timeline and outcomes of your new treatment."
+   - **The deviations your new sentence corrects:**
+     According to [Source - Communicate With Care Pocket Guide], the language should be professional and context should be clear.
+   - **Your new sentence:**
+     "Discuss and set realistic expectations with your doctor regarding the timeframe and likely outcomes of your new treatment."
+   - **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+     This ensures clarity and professionalism in discussing treatment expectations.
 
-**New Sentence**:
-"To discuss potential changes in treatment, ensure you are informed about your health situation and prepare specific questions to ask your doctor for an effective conversation."
+5. **Section: "Follow-up"**
+   - **Guideline source which influenced your response:**
+     Source - Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers.
+   - **The source sentence your new sentence replaces:**
+     "Discuss when you should follow-up on how your new treatment is working."
+   - **The deviations your new sentence corrects:**
+     According to [Source - Disclaimer Texts for Non-promotional Material], the content should not suggest self-management without clear medical advice.
+   - **Your new sentence:**
+     "Discuss with your doctor the appropriate follow-up schedule to assess the effectiveness of your new treatment."
+   - **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+     This emphasizes the need for medical consultation in determining follow-up schedules.
 
-**Reason for Replacement**:
-This sentence maintains a professional tone, focusing on informed and prepared patient interactions without implying promotional encouragement. This approach aligns with Article 2 of the Communicate With Care Pocket Guide to ensure clarity and context while avoiding exaggeration.
+6. **Footer Disclosure**
+   - **Guideline source which influenced your response:**
+     Source - Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers.
+   - **The source sentence your new sentence replaces:**
+     "The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor."
+   - **The deviations your new sentence corrects:**
+     According to [Source - Disclaimer Texts for Non-promotional Material], the disclaimer should ensure the reader is aware that the content does not replace professional advice.
+   - **Your new sentence:**
+     "The information on this website is intended for educational purposes only and should not replace medical advice from your healthcare provider."
+   - **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:**
+     This provides clearer separation between educational content and professional medical advice, adhering to ethical guidelines.
 
----
-
-### 2. Sentence: "Share your personal goals, whether it’s better blood sugar control, weight management, or reducing the risk of cardiovascular events."
-
-**Guideline Source**: [Source - EFPIA Chapter 3: Article 17 - Informational or Educational Materials and Items of Medical Utility]
-
-**Source Sentence**: "Share your personal goals, whether it’s better blood sugar control, weight management, or reducing the risk of cardiovascular events."
-
-**Deviations and Corrections**:
-1. The sentence encourages discussion of personal goals which could imply commercial interest by focusing on specific health improvements.
-2. It may lack the necessary professional and non-promotional context.
-
-**New Sentence**:
-"Discuss your health priorities with your doctor, such as maintaining appropriate blood sugar levels, managing weight, or addressing cardiovascular risk."
-
-**Reason for Replacement**:
-This sentence focuses on general health priorities rather than suggesting specific goals. It maintains a non-promotional, informational stance in line with Article 17, which emphasizes informative material without inducing specific product use.
-
----
-
-### 3. Sentence: "Talk about how your current treatment could be more effective."
-
-**Guideline Source**: [Source - EFPIA Chapter 3: Article 16 - Lifelong Learning in Healthcare]
-
-**Source Sentence**: "Talk about how your current treatment could be more effective."
-
-**Deviations and Corrections**:
-1. The sentence simplifies treatment effectiveness discussion, thus risking an oversimplified view of medical efficacy.
-2. It lacks balanced scientific context.
-
-**New Sentence**:
-"Discuss evidence-based ways to possibly enhance the effectiveness of your current treatment with your healthcare provider."
-
-**Reason for Replacement**:
-This revision emphasizes discussing evidence-based improvements, promoting a balanced science-based dialogue that adheres to lifelong learning principles while avoiding promotional content.
-
----
-
-### 4. Sentence: "Discuss any difficulties you’ve experienced with your current treatment—such as side effects."
-
-**Guideline Source**: [Source - EFPIA Chapter 3: Article 17 - Informational or Educational Materials and Items of Medical Utility]
-
-**Source Sentence**: "Discuss any difficulties you’ve experienced with your current treatment—such as side effects."
-
-**Deviations and Corrections**:
-1. The sentence focuses extensively on difficulties, which could implicitly discourage use of current treatments.
-2. It requires a broader perspective on patient-provider discussion.
-
-**New Sentence**:
-"Share any challenges you face with your current treatment with your healthcare provider, including side effects or other concerns."
-
-**Reason for Replacement**:
-This sentence broadens the discussion to include any challenges rather than focusing solely on difficulties, promoting balanced and informative interaction consistent with Article 17 guidelines.
-
----
-
-### 5. Sentence: "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
-
-**Guideline Source**: [Source - EFPIA Chapter 4: Article 21 - Interactions with POs]
-
-**Source Sentence**: "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
-
-**Deviations and Corrections**:
-1. The sentence implies subjective judgment in finding the "best" treatment, which might indicate favoritism.
-2. It should emphasize evidence-based and patient-specific decisions.
-
-**New Sentence**:
-"Remember, the goal of this conversation is to collaborate with your healthcare provider to determine the most appropriate treatment based on your specific health needs."
-
-**Reason for Replacement**:
-This revision emphasizes collaboration and specificity, ensuring discussions are evidence-based and patient-specific. It maintains neutrality and avoids suggesting any treatment preference aligned with Article 21 principles.
-
----
-
-### 6. Sentence: "Discuss how you should follow-up on how your new treatment is working—typically, type 2 diabetes patients should see their doctor every 3–6 months."
-
-**Guideline Source**: [Source - Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers]
-
-**Source Sentence**: "Discuss how you should follow-up on how your new treatment is working—typically, type 2 diabetes patients should see their doctor every 3–6 months."
-
-**Deviations and Corrections**:
-1. The sentence provides a specific follow-up period, which might not apply universally.
-2. It should include a disclaimer to refer to personal healthcare advice.
-
-**New Sentence**:
-"Discuss with your healthcare provider the appropriate follow-up schedule to monitor how your new treatment is working, keeping in mind that individual needs may vary."
-
-**Reason for Replacement**:
-This revision advises a customized follow-up schedule discussion, adding flexibility and including a reference to individual health needs, which aligns with providing general disclaimers to avoid prescriptive statements.
+By implementing these revisions, the document will better align with the "Non-Promotional Material Guidelines" and ensure it maintains the necessary standards of professionalism, clarity, and ethical compliance.

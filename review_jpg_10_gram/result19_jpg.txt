@@ -1,0 +1,183 @@
+The language of the document is English. Here’s the meticulous review for grammatical accuracy:
+
+1. **Source Sentence:**
+   "Yesterday, I gone to a party with my friend David."
+
+   **Deviation Corrected:**
+   The past tense of "go" should be "went."
+
+   **Reason:**
+   "Gone" is the past participle and needs to be used with an auxiliary verb. The correct simple past form is "went."
+
+   **Corrected Sentence:**
+   "Yesterday, I went to a party with my friend David."
+
+2. **Source Sentence:**
+   "He study english with me at university."
+
+   **Deviation Corrected:**
+   "study" should be "studies." "english" should be capitalized.
+
+   **Reason:**
+   Subject-verb agreement requires "studies" for third-person singular. "English" is a proper noun and should be capitalized.
+
+   **Corrected Sentence:**
+   "He studies English with me at university."
+
+3. **Source Sentence:**
+   "He didn ' t making the first move to go and see her."
+
+   **Deviation Corrected:**
+   The structure should be "didn't make" instead of "didn ' t making."
+
+   **Reason:**
+   The auxiliary verb "didn't" should be followed by the base form "make."
+
+   **Corrected Sentence:**
+   "He didn't make the first move to go and see her."
+
+4. **Source Sentence:**
+   "David and I satt in the corner of the room."
+
+   **Deviation Corrected:**
+   "satt" should be "sat."
+
+   **Reason:**
+   The correct past tense of "sit" is "sat."
+
+   **Corrected Sentence:**
+   "David and I sat in the corner of the room."
+
+5. **Source Sentence:**
+   "He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+
+   **Deviation Corrected:**
+   "taked" should be "took."
+
+   **Reason:**
+   The correct past tense of "take" is "took."
+
+   **Corrected Sentence:**
+   "He took a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+
+6. **Source Sentence:**
+   "David remained mute."
+
+   **Deviation Corrected:**
+   No changes required.
+   
+   **Reason:**
+   The sentence is grammatically correct.
+
+   **Corrected Sentence:**
+   "David remained mute."
+
+7. **Source Sentence:**
+   "She gave a hint of a smile, noticing David blushing."
+
+   **Deviation Corrected:**
+   No changes required.
+
+   **Reason:**
+   The sentence is grammatically correct.
+
+   **Corrected Sentence:**
+   "She gave a hint of a smile, noticing David blushing."
+
+8. **Source Sentence:**
+   "She asked him if he enjoyed the party."
+
+   **Deviation Corrected:**
+   No changes required.
+
+   **Reason:**
+   The sentence is grammatically correct.
+
+   **Corrected Sentence:**
+   "She asked him if he enjoyed the party."
+
+9. **Source Sentence:**
+   "He whispered ' Yes ' and had a glance at me."
+
+   **Deviation Corrected:**
+   Quotes formatting around 'Yes' should be consistent.
+
+   **Reason:**
+   Consistent formatting improves readability.
+
+   **Corrected Sentence:**
+   "He whispered 'Yes' and had a glance at me."
+
+10. **Source Sentence:**
+   "I wincked at him."
+
+   **Deviation Corrected:**
+   "wincked" should be "winked."
+
+   **Reason:**
+   Correct spelling of "winked."
+
+   **Corrected Sentence:**
+   "I winked at him."
+
+11. **Source Sentence:**
+   "Feeling reassured and confident, he told her which feelings he was experiencing."
+
+   **Deviation Corrected:**
+   "which feelings" should be "what feelings."
+
+   **Reason:**
+   "What" is the correct pronoun to introduce the object.
+
+   **Corrected Sentence:**
+   "Feeling reassured and confident, he told her what feelings he was experiencing."
+
+12. **Source Sentence:**
+   "She suddenly looked sullen."
+
+   **Deviation Corrected:**
+   No changes required.
+
+   **Reason:**
+   The sentence is grammatically correct.
+
+   **Corrected Sentence:**
+   "She suddenly looked sullen."
+
+13. **Source Sentence:**
+   "She looked emba rased."
+
+   **Deviation Corrected:**
+   "emba rased" should be "embarrassed."
+
+   **Reason:**
+   Correct spelling of "embarrassed."
+
+   **Corrected Sentence:**
+   "She looked embarrassed."
+
+14. **Source Sentence:**
+   "She could hardly say a word but after a little seconds, she said: ' I ' m sorry to dece ive you but actually I fancy Sebas tian '."
+
+   **Deviation Corrected:**
+   "after a little seconds" should be "after a few seconds"; "I'm sorry to deceive you but actually, I fancy Sebastian."
+
+   **Reason:**
+   Correct word usage and quotes formatting.
+
+   **Corrected Sentence:**
+   "She could hardly say a word but after a few seconds, she said: 'I'm sorry to deceive you but actually, I fancy Sebastian.'"
+
+15. **Source Sentence:**
+   '' David fainted : ' a friend in need is a friend indeed ' !!''
+
+   **Deviation Corrected:**
+   "a friend in need is a friend indeed !!" should not have extra spaces or multiple exclamation marks.
+
+   **Reason:**
+   Simplifying the punctuation and spacing.
+
+   **Corrected Sentence:**:
+   "David fainted: 'a friend in need is a friend indeed!'"
+
+This review ensures grammatical accuracy in line with British English standards and improves the readability of the document while respecting the original meaning.

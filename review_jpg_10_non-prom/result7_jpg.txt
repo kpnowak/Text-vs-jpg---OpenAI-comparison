@@ -1,113 +1,31 @@
-Here is my review of the provided document in compliance with the "Non-Promotional Material Guidelines":
+Guideline Source: Source - Communicate With Care Pocket Guide
+Source Sentence: “It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial.”
+Deviations: According to Source - Communicate With Care Pocket Guide: Article 2, point iii, it is essential to avoid exaggerations and speculations.
+New Sentence: "It’s important to discuss with your doctor whenever you feel a change in your treatment plan might be necessary."
+Reason for Replacement: The new sentence avoids the speculative term "feel empowered" and focuses on the factual act of discussing treatment changes with the doctor, aligning with the guidelines.
 
----
+Guideline Source: Source - Disclaimer Texts for Non-promotional Material
+Source Sentence: “Typically, type 2 diabetes patients should see their doctor every 3–6 months.”
+Deviations: According to Source - Disclaimer Texts for Non-promotional Material: Article 3, clinical advice must include disclaimers where applicable.
+New Sentence: “Typically, type 2 diabetes patients should see their doctor every 3–6 months. Please consult your doctor for personalized advice.”
+Reason for Replacement: The addition of a disclaimer ensures that the general recommendation is accompanied by a note suggesting personalized consultation, aligning with the guidelines.
 
-**1. First Paragraph**
+Guideline Source: Source - EFPIA Chapter 3, Article 17
+Source Sentence: “Your doctor is the medical expert, but you are the one living with type 2 diabetes.”
+Deviations: According to Source - EFPIA Chapter 3, Article 17, materials should be directly relevant to the practice of medicine or pharmacy and directly beneficial to patient care.
+New Sentence: “While your doctor is the medical expert, you play a crucial role in managing your type 2 diabetes.”
+Reason for Replacement: The new sentence highlights the collaborative nature of patient care, emphasizing the importance of patient involvement in their health management, in line with Article 17.
 
-**Guideline source which influenced your response:**
-- Source: Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication
-- Key Point: Scientific Information Exchange
+Guideline Source: Source - Disclaimer Texts for Non-promotional Material
+Source Sentence: “The information on this website is intended for education purposes only and should not be substituted for medical advice from your doctor.”
+Deviations: According to Source - Disclaimer Texts for Non-promotional Material: Article 3, more specific disclaimers can improve clarity.
+New Sentence: “The information on this website is intended for educational purposes only and should not be substituted for medical advice from your doctor. Please consult your healthcare provider for personalized medical advice.”
+Reason for Replacement: The new sentence includes a more detailed disclaimer, specifically advising users to consult their healthcare providers for personalized advice, thereby enhancing the clarity and purpose of the disclaimer.
 
-**The source sentence your new sentence replaces:**
-- "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust your changing personal health needs."
+Guideline Source: Source - Communicate With Care Pocket Guide
+Source Sentence: “This means talking through and understanding how it works, and the kind of side effects you could potentially experience.”
+Deviations: According to Source - Communicate With Care Pocket Guide: Article 2, points i and ii, the language should be professional, and context should be provided clearly.
+New Sentence: “This involves discussing and comprehensively understanding the mechanism of the medication, and the potential side effects you might experience.”
+Reason for Replacement: The new sentence maintains a more professional tone and clearly explains the necessity of understanding the medication’s mechanism and potential side effects, ensuring clarity and professionalism.
 
-**The deviations your new sentence corrects:**
-- Reference to ongoing treatment adjustments without emphasizing balanced and objective information.
-
-**Your new sentence:**
-- "When managing type 2 diabetes, it's important to continuously consult with your healthcare provider to discuss adjustments to your treatment based on evolving scientific evidence and changing personal health needs."
-
-**Reason for replacement and resolution:**
-- This replacement ensures the sentence remains neutral and focuses on objective scientific consultation, aligning with the guideline's emphasis on balanced and objective communication.
-
----
-
-**2. "Empowered and Ready" Paragraph**
-
-**Guideline source which influenced your response:**
-- Source: Communicate With Care Pocket Guide
-- Key Point: Be Clear and Professional
-
-**The source sentence your new sentence replaces:**
-- "It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
-
-**The deviations your new sentence corrects:**
-- Language may lead to an empowered vs. disempowered dichotomy, lacking professional tone.
-
-**Your new sentence:**
-- "It’s essential to discuss with your healthcare provider whenever adjustments to your treatment plan could be beneficial."
-
-**Reason for replacement and resolution:**
-- The revised sentence maintains a clear, professional tone and removes any potentially disempowering language.
-
----
-
-**3. "Set Realistic Expectations" in the "Follow-up" Section**
-
-**Guideline source which influenced your response:**
-- Source: Disclaimer Texts for Non-promotional Material
-- Key Point: Provide context and disclaimers to avoid misinterpretations.
-
-**The source sentence your new sentence replaces:**
-- "Set realistic expectations with your doctor regarding the timeline and outcomes of your new treatment."
-
-**The deviations your new sentence corrects:**
-- Lacks explicit mention of medical advice and potential limitations.
-
-**Your new sentence:**
-- "Set realistic expectations with your healthcare provider regarding the timeline and outcomes of your new treatment, and ensure all information is tailored to your specific medical needs."
-
-**Reason for replacement and resolution:**
-- This replacement ensures that the reader understands the necessity of personalized medical advice, minimizing the risk of misinterpretation.
-
----
-
-**4. Lifestyle Section**
-
-**Guideline source which influenced your response:**
-- Source: EFPIA Chapter 3, Article 16, Lifelong Learning in Healthcare
-- Key Point: Content fairness, balance, and objectivity
-
-**The source sentence your new sentence replaces:**
-- "Talk about your lifestyle and how a new treatment might be better suited for you."
-
-**The deviations your new sentence corrects:**
-- Potentially promotional tone, lacks objectivity.
-
-**Your new sentence:**
-- "Discuss with your healthcare provider how various treatments might align with your lifestyle and medical needs."
-
-**Reason for replacement and resolution:**
-- This replacement promotes a neutral, balanced discussion focused on medical needs rather than suggesting one treatment might be better suited.
-
----
-
-**5. "Discuss your challenges" Paragraph**
-
-**Guideline source which influenced your response:**
-- Source: Communicate With Care Pocket Guide
-- Key Point: Stick to facts
-
-**The source sentence your new sentence replaces:**
-- "Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
-
-**The deviations your new sentence corrects:**
-- Speculative language, unnecessary detail.
-
-**Your new sentence:**
-- "Discuss any difficulties you've experienced with your current treatment and explore if alternative treatments may address your challenges more effectively."
-
-**Reason for replacement and resolution:**
-- This revision sticks to factual, non-speculative language, ensuring clarity and professional tone.
-
----
-
-Additionally, there are several general disclaimers from the "Disclaimer Texts for Non-promotional Material" that should be included at the bottom of the document:
-
-**General Disclaimers:**
-- "The image shown is a model and not a real patient."
-- "This information is intended for educational purposes only and should not be substituted for medical advice from your doctor." 
-- "Please see the patient information leaflet in the package for additional information." 
-- "If you experience any side effects while using [insert NN medicinal product], talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in the package leaflet. You can also report side effects directly via [insert the local customer contact function or local safety department]."
-
-By adding these disclaimers, the document would ensure transparency and adherence to non-promotional material guidelines, providing clear context on the use and representation of information.
+By implementing these corrections, the non-promotional document now adheres more closely to the provided "Non-Promotional Material Guidelines," ensuring that information is conveyed clearly, accurately, and ethically.

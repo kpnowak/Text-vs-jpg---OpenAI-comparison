@@ -1,0 +1,46 @@
+### Analysis and Results
+
+Here is the analysis of the provided 10 reviews, based on their adherence to the "Correct review rules":
+
+#### 1. Mistake: "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+- True Positive: 8
+- False Negative: 2
+- False Positive: 0
+- True Negative: 0
+
+#### 2. Mistake: "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- True Positive: 5
+- False Negative: 5
+- False Positive: 0
+- True Negative: 0
+
+#### 3. Mistake: "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+- True Positive: 7
+- False Negative: 3
+- False Positive: 0
+- True Negative: 0
+
+#### 4. Mistake: "For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don't have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals (in addition to healthy eating and exercise)."
+- True Positive: 6
+- False Negative: 4
+- False Positive: 0
+- True Negative: 0
+
+#### 5. Mistake: "This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
+- True Positive: 6
+- False Negative: 4
+- False Positive: 0
+- True Negative: 0
+
+#### 6. Mistake: "The information on this website is intended for education purposes only and should not be substituted for medical advice from your doctor."
+- True Positive: 4
+- False Negative: 6
+- False Positive: 0
+- True Negative: 0
+
+### Summary Confusion Matrix:
+
+- True Positive: 36
+- False Negative: 24
+- False Positive: 0
+- True Negative: 0

@@ -1,0 +1,102 @@
+### Correction 1:
+#### Original Source Sentence:
+- "It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you're doing right now!)—you'll be able to communicate with your doctor more openly about treatment."
+
+#### Deviation from Guidelines:
+- According to [Source - EFPIA Chapter 3, Article 16], the information suggests that materials must not constitute Promotion. The original sentence creates personal endorsement and may be seen as promotional or supportive of a particular intervention over another.
+
+#### Expert Reviewer's Original Suggested Change:
+- "It might be challenging to start these conversations, but by understanding your health condition and keeping your treatment goals in mind, you'll be better prepared to engage in constructive discussions with your doctor about your treatment options."
+
+#### Explanation for New Suggested Change:
+- The expert reviewer’s sentence is close but needs to ensure a fully non-promotional language and more emphasis on balanced education.
+
+#### New Suggested Sentence:
+- "Starting these discussions can be challenging, but by educating yourself about type 2 diabetes and considering your treatment goals, you will be better equipped to engage in meaningful conversations with your doctor about your medical care."
+
+#### Deviations:
+- According to [Source - EFPIA Chapter 3, Article 16], materials must emphasize fair, balanced, and objective content without any promotional language.
+
+---
+
+### Correction 2:
+#### Original Source Sentence:
+- "Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it's important to advocate for your needs and preferences during your discussion."
+
+#### Deviation from Guidelines:
+- According to [Source - Communicate With Care Pocket Guide, Article 2], the information suggests that the original text might inadvertently undermine the doctor's authority, and could be clearer.
+
+#### Expert Reviewer's Original Suggested Change:
+- "While your doctor has the medical expertise, it is essential for you, as someone managing type 2 diabetes daily, to communicate your experiences and preferences clearly during your discussions."
+
+#### Explanation for New Suggested Change:
+- The new sentence retains professionalism and avoids any potential undermining of the doctor’s authority while encouraging patient advocacy.
+
+#### New Suggested Sentence:
+- "While your doctor brings medical expertise, it is crucial for you, as someone managing type 2 diabetes, to clearly communicate your experiences and preferences to ensure a comprehensive discussion about your care."
+
+#### Deviations:
+- According to [Source - Communicate With Care Pocket Guide, Article 2], it is important to maintain a professional tone and respect the doctor’s authority while encouraging patient involvement.
+
+---
+
+### Correction 4:
+#### Original Source Sentence:
+- "Talk about your lifestyle and how a new treatment might be better suited for you."
+
+#### Deviation from Guidelines:
+- According to [Source - Disclaimer Texts for Non-promotional Material], the information suggests the lack of necessary disclaimers and clarity that this is not personalized medical advice.
+
+#### Expert Reviewer's Original Suggested Change:
+- "Discuss with your doctor how your lifestyle might intersect with potential new treatments, keeping in mind this information should complement your doctor's medical advice."
+
+#### Explanation for New Suggested Change:
+- The new sentence adds clarity that the conversation complements professional medical advice, which ensures it cannot be misconstrued as medical direction.
+
+#### New Suggested Sentence:
+- "Discuss how your lifestyle may align with potential new treatments, always ensuring that this discussion complements your doctor's medical advice."
+
+#### Deviations:
+- According to [Source - Disclaimer Texts for Non-promotional Material], disclaimers are necessary for clarity that the information complements professional advice.
+
+---
+
+### Correction 7:
+#### Original Source Sentence:
+- "This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
+
+#### Deviation from Guidelines:
+- According to [Source - Communicate With Care Pocket Guide, Article 1], the guideline suggests ensuring clear and precise language, especially regarding the understanding of side effects.
+
+#### Expert Reviewer's Original Suggested Change:
+- "This means discussing and understanding how the medication works and the potential side effects it may cause."
+
+#### Explanation for New Suggested Change:
+- Ensures precise and cautious language that avoids any suggestion of exhaustive understanding without professional guidance.
+
+#### New Suggested Sentence:
+- "This involves discussing and gaining a thorough understanding of how the medication works and the possible side effects it may cause."
+
+#### Deviations:
+- According to [Source - Communicate With Care Pocket Guide, Article 1], language must be precise and clear to avoid misinterpretation or downplaying the importance of professional advice.
+
+---
+
+### Correction 8:
+#### Original Source Sentence:
+- "Set realistic expectations with your doctor regarding the timeline and outcomes of your new treatment."
+
+#### Deviation from Guidelines:
+- According to [Source - EFPIA Chapter 3, Article 17], it's crucial that the content does not constitute promotional material and should emphasize patient education.
+
+#### Expert Reviewer's Original Suggested Change:
+- "Establish realistic expectations regarding the timeline and outcomes of your new treatment in consultation with your doctor."
+
+#### Explanation for New Suggested Change:
+- The new sentence maintains an emphasis on collaborative consultation and patient education.
+
+#### New Suggested Sentence:
+- "Work with your doctor to set realistic expectations about the timeline and outcomes of your new treatment."
+
+#### Deviations:
+- According to [Source - EFPIA Chapter 3, Article 17], the focus should be on educational aspects rather than promotional content.

@@ -1,0 +1,48 @@
+Here's the detailed feedback considering the "Non-Promotional Material Guidelines":
+
+### Review Point 1:
+- **Original Source Sentence**: "The image shown is a model and not a real patient."
+- **Deviation from Guidelines**: The original document is missing this disclaimer.
+- **Expert Reviewer's Suggested Change**: "The image shown is a model and not a real patient."
+- **Explanation for New Suggested Change**: Agree with the expert reviewer that this disclaimer is necessary, as it ensures clarity that the image does not mislead about real patients.
+- **New Suggested Sentence**: No replacement needed as the expert reviewer's suggested change follows the guideline appropriately.
+
+### Review Point 2:
+- **Original Source Sentence**: "This information is intended for diabetes patients who have been prescribed [insert NN medicinal product] and should not be substituted for medical advice from your doctor."
+- **Deviation from Guidelines**: The original document is missing this disclaimer.
+- **Expert Reviewer's Suggested Change**: "This information is intended for diabetes patients who have been prescribed [insert NN medicinal product] and should not be substituted for medical advice from your doctor."
+- **Explanation for New Suggested Change**: No improvement necessary as this disclaimer emphasizes that provided information should not replace professional medical advice, adhering to the guidelines.
+- **New Suggested Sentence**: No replacement needed as the expert reviewer's suggested change follows the guideline appropriately.
+
+### Review Point 3:
+- **Original Source Sentence**: "By educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment."
+- **Deviation from Guidelines**: Overly casual and the insert "(like you’re doing right now!)" implies promotional tone.
+- **Expert Reviewer's Suggested Change**: "By accessing validated educational materials about type 2 diabetes, you’ll gain the knowledge needed to have informed discussions with your doctor about treatment options."
+- **Explanation for New Suggested Change**: The expert's sentence works well, but could be made even more formal and directly relevant.
+- **New Suggested Sentence**: "By consulting reliable educational resources on type 2 diabetes, you’ll enhance your knowledge and communicate more effectively with your doctor regarding treatment options."
+- **Deviations**: According to EFPIA Chapter 3, Article 17, "Educational materials must be objectively designed and beneficial to patient care."
+
+### Review Point 4:
+- **Original Source Sentence**: "It can be difficult to start these conversations..."
+- **Deviation from Guidelines**: Needs clearer and more professional language.
+- **Expert Reviewer's Suggested Change**: "Initiating these discussions can be challenging..."
+- **Explanation for New Suggested Change**: The expert's suggestion still vaguely implies difficulty; emphasizing the importance of preparedness could improve clarity.
+- **New Suggested Sentence**: "Starting these conversations might seem challenging, but being well-prepared can make a significant difference."
+- **Deviations**: According to Communicate With Care Pocket Guide, Article 2.ii, "Ensure clarity to prevent misunderstandings."
+
+### Review Point 5:
+- **Original Source Sentence**: "and ask if there might find a better alternative that addresses these challenges"
+- **Deviation from Guidelines**: Lacks clarity and structure.
+- **Expert Reviewer's Suggested Change**: "and inquire if there might be a better alternative available that addresses these challenges."
+- **Explanation for New Suggested Change**: The expert's suggestion could benefit from a stronger focus on clarity and readability.
+- **New Suggested Sentence**: "and ask your doctor if there are better alternatives that address these specific challenges."
+- **Deviations**: According to Communicate With Care Pocket Guide, Article 2, "Ensure clarity to prevent misunderstandings."
+
+### Review Point 6:
+- **Original Source Sentence**: "Together, identify strategies that can help you manage them or decide if you should switch to something else."
+- **Deviation from Guidelines**: Needs context and clear articulation.
+- **Expert Reviewer's Suggested Change**: "Together, identify strategies to help you manage potential side effects or decide if switching to a different treatment might be necessary."
+- **Explanation for New Suggested Change**: The expert's suggestion is clear and provides the necessary context.
+- **New Suggested Sentence**: No replacement needed as the expert reviewer's suggested change follows the guideline appropriately.
+
+In summary, these changes ensure the document complies with the given "Non-Promotional Material Guidelines," maintaining clarity, objectivity, and professionalism while ensuring the material's non-promotional nature.

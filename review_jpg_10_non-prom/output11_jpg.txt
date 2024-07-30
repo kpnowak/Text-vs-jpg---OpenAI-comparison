@@ -1,0 +1,31 @@
+### Review Based on Non-Promotional Material Guidelines
+
+#### 1. "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+- **Original Source Sentence:** "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- **Deviation Identified:** According to [Source - Communicate With Care Pocket Guide], the information suggests that clear communication and context should be provided to prevent misunderstandings.
+- **Expert Reviewer's Suggested Change:** "When you are diagnosed with type 2 diabetes, it's essential to regularly evaluate and consider adjusting your treatment plan to better match your evolving personal health requirements."
+- **New Suggested Change:** 
+- **Reason for Change:** The new sentence provides more context and promotes clarity, but it could be more concise and still offer clarity.
+- **New Sentence:** "When living with type 2 diabetes, regularly evaluate your treatment to ensure it aligns with your evolving health needs."
+
+#### 5. "This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
+
+- **Original Source Sentence:** "This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
+- **Deviation Identified:** According to [Source - Communicate With Care Pocket Guide], the information should be factual and clear to avoid misunderstandings.
+- **Expert Reviewer's Suggested Change:** "Discuss the mechanism of the new medication and the potential side effects you might experience."
+- **New Suggested Change:** This phrase needs more detail while maintaining clarity.
+- **Reason for Change:** The revised sentence is straightforward and clear, but it can be more specific to further reduce the possibility of misunderstanding.
+- **New Sentence:** "Discuss how the medication works and the potential side effects you may experience with your doctor."
+
+### Disclaimers
+#### 6. "The information on this website is intended for education purposes only and should not be substituted for medical advice from your doctor."
+
+- **Original Source Sentence:** "The information on this website is intended for education purposes only and should not be substituted for medical advice from your doctor."
+- **Deviation Identified:** In accordance with the Disclaimer Texts for Non-promotional Material, ensure disclaimers are inclusive and appropriately placed.
+- **Expert Reviewer's Suggested Change:** "The information provided on this website is intended for educational purposes only and should not replace professional medical advice from your healthcare provider."
+- **New Suggested Change:** The original change is good, but "professional" can be omitted for conciseness.
+- **Reason for Change:** Simplified language while maintaining the inclusivity of healthcare providers.
+- **New Sentence:** "The information provided on this website is for educational purposes only and should not replace medical advice from your healthcare provider."
+
+These adjustments enhance clarity, professionalism, and factual integrity, fully adhering to the guidelines for non-promotional material.

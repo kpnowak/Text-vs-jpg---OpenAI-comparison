@@ -1,0 +1,135 @@
+Based on the "Non-Promotional Material Guidelines," here's the review of the text provided in the image. Each deviation from the guidelines has been addressed by providing corrected sentences with appropriate justifications:
+
+---
+
+**Source Sentence 1:**
+"When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+**Deviations:**
+- Lack of professional disclaimer indicating the information provided is not a replacement for medical advice.
+- Missing guidance that aligns with Article 1, Disclaimer Texts for Non-promotional Material.
+  
+**Guideline Source:**
+- According to [Source - Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers],
+
+**New Sentence:**
+"When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs. Please see patient information leaflet in the package for additional information."
+
+**Reason for Change:**
+Adding a disclaimer ensures readers understand this information should not substitute for professional medical advice, aligning with guidelines for providing clear and non-promotional content.
+
+---
+
+**Source Sentence 2:**
+"Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+
+**Deviations:**
+- The tone could be perceived as undermining the professional advice of healthcare providers.
+- Missing professional context adherence as per Communicate With Care standards.
+  
+**Guideline Source:**
+- According to [Source - Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional], 
+
+**New Sentence:**
+"While your doctor is the medical expert, you play a crucial role in managing your type 2 diabetes."
+
+**Reason for Change:**
+Ensures respect and acknowledgment of both the patient's role and the physician’s expertise, maintaining professionalism and clarity.
+
+---
+
+**Source Sentence 3:**
+"Talk about your lifestyle and how a new treatment might be better suited for you."
+
+**Deviations:**
+- Needs a more explicit explanation to help patients understand the context better.
+- According to the guidelines, ensuring clarity and avoiding vague instructions is necessary.
+  
+**Guideline Source:**
+- According to [Source - Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional],
+
+**New Sentence:**
+"Discuss your lifestyle with your healthcare provider to identify if a new treatment might be better suited for you."
+
+**Reason for Change:**
+Provides clear guidance on involving healthcare providers in treatment decisions, thereby adhering to the guideline of maintaining professional communication.
+
+---
+
+**Source Sentence 4:**
+"By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that’ll empower you on your journey towards better health."
+
+**Deviations:**
+- Missing general disclaimer about not replacing professional medical advice.
+  
+**Guideline Source:**
+- According to [Source - Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers],
+
+**New Sentence:**
+"By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that’ll empower you on your journey towards better health. This information is intended to support discussions with your healthcare provider and should not substitute for professional medical advice."
+
+**Reason for Change:**
+To ensure that the information is used in conjunction with professional medical advice and not as a standalone guide, adhering to compliance requirements.
+
+---
+
+**Source Sentence 5:**
+"Discuss how you should follow-up on how your new treatment is working. Typically, type 2 diabetes patients should see their doctor every 3-6 months."
+
+**Deviations:**
+- Need for a general disclaimer about the patient example to avoid it being seen as specific medical advice.
+  
+**Guideline Source:**
+- According to [Source - Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers],
+
+**New Sentence:**
+"Discuss with your healthcare provider how you should follow-up on your new treatment to see if it is working effectively. Typically, type 2 diabetes patients should see their doctor every 3-6 months. The character and its description are for representation purposes only and do not reflect real patient experiences."
+
+**Reason for Change:**
+Adding a disclaimer prevents the content from being interpreted as specific medical advice and highlights its representational nature, aligning with the guidelines.
+
+---
+
+Each replacement ensures adherence to the Non-Promotional Material Guidelines by providing clear context, professional disclaimers, and maintaining the integrity and professionalism required in non-promotional communication.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+- The original source sentence:
+"Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+
+- The deviation from the guidelines originally provided by the expert reviewer:
+According to [Source - Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional], the tone could be perceived as undermining the professional advice of healthcare providers.
+
+- The expert reviewer's original suggested change:
+"While your doctor is the medical expert, you play a crucial role in managing your type 2 diabetes."
+
+- An explanation for the reason behind your new suggested change:
+The expert reviewer's suggestion maintains professionalism but can be further improved by emphasizing shared responsibility without diminishing the expertise of the healthcare provider. It also adheres more closely to the principle of maintaining a professional tone in communication.
+
+- Your new suggested sentence:
+"Your doctor is the medical expert and you, as the individual living with type 2 diabetes, are an essential partner in managing your condition."
+
+- In the deviations, write which source and key point from "Non-Promotional Material Guidelines" influenced the response:
+According to [Source - Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional], it is vital to ensure clarity and avoid any tone that might be misconstrued as undermining professional expertise while recognizing the patient's critical role in managing their health.
+
+---
+
+- The original source sentence:
+"Discuss how you should follow-up on how your new treatment is working. Typically, type 2 diabetes patients should see their doctor every 3-6 months."
+
+- The deviation from the guidelines originally provided by the expert reviewer:
+According to [Source - Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers], the need for a general disclaimer about the patient example to avoid it being seen as specific medical advice.
+
+- The expert reviewer's original suggested change:
+"Discuss with your healthcare provider how you should follow-up on your new treatment to see if it is working effectively. Typically, type 2 diabetes patients should see their doctor every 3-6 months. The character and its description are for representation purposes only and do not reflect real patient experiences."
+
+- An explanation for the reason behind your new suggested change:
+The expert reviewer's suggestion can be improved to more explicitly clarify the view that patient visits are general recommendations and encourage personalized discussions with healthcare providers.
+
+- Your new suggested sentence:
+"Consult your healthcare provider on follow-up procedures for your new treatment to evaluate its effectiveness. For general guidance, patients with type 2 diabetes typically see their doctor every 3-6 months. This information is intended for educational purposes only and should not replace professional medical advice."
+
+- In the deviations, write which source and key point from "Non-Promotional Material Guidelines" influenced the response:
+According to [Source - Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers], it is important to avoid providing general advice that could be mistaken for specific patient instructions, ensuring a clear distinction between general guidance and personalized medical advice.

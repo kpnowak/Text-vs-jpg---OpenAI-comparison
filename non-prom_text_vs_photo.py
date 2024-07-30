@@ -1,7 +1,14 @@
-from openai import OpenAI
+from openai import OpenAI, AzureOpenAI
 import base64
+import os
 
-client = OpenAI(api_key = 'ADD YOUR KEY HERE')
+
+
+client = AzureOpenAI(
+    api_key=os.getenv("AZURE_OPENAI_API_KEY"),  
+    api_version=os.getenv("OPENAI_API_VERSION"),
+    azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT")
+)
 
 NON_PROMOTIONAL_GUIDELINES = """
 Source - EFPIA Chapter 3:
@@ -114,25 +121,25 @@ base64_image = encode_image(image_path)
 def jpg_to_text():
     url = f"data:image\\jpeg;base64,{base64_image}"
     response = client.chat.completions.create(
-    model="gpt-4o",
-    messages=[
-        {"role":"assistant","content":"Your role is to create a transcription of the text that is on the image."},
-        {
-        
-        "role": "user",
-        "content": [
-            {"type": "text", "text": "Transcribe the text that is on the image. Do it the best as you can. Be careful, because this text will be saved as txt file, so do NOT use any weird characters. Just do a plain text."},
+        model="gpt-4o",
+        messages=[
+            {"role":"assistant","content":"Your role is to create a transcription of the text that is on the image."},
             {
-            "type": "image_url",
-            "image_url": {
-                "url": url,
-            },
-            },
+            
+            "role": "user",
+            "content": [
+                {"type": "text", "text": "Transcribe the text that is on the image. Do it the best as you can. Be careful, because this text will be saved as txt file, so do NOT use any weird characters. Just do a plain text."},
+                {
+                "type": "image_url",
+                "image_url": {
+                    "url": url,
+                },
+                },
+            ],
+            }
+            
         ],
-        }
-        
-    ],
-    max_tokens=1500,
+        max_tokens=1500,
     )
     
     with open("jpg_to_txt.txt", "w") as f:
@@ -145,11 +152,11 @@ def jpg_to_text():
 def text_review():
     # first review code
     response = client.chat.completions.create(
-    model="gpt-3.5-turbo",
-    messages=[
-        {"role": "system", "content": "You are a helpful assistant that reviews the documents."},
-        {"role": "user", "content": f"{non_promotional_material_prompt_template_txt}"},
-    ]
+        model="gpt-3.5-turbo",
+        messages=[
+            {"role": "system", "content": "You are a helpful assistant that reviews the documents."},
+            {"role": "user", "content": f"{non_promotional_material_prompt_template_txt}"},
+        ]
     )
     with open("Non-prom/result_txt.txt", "w") as f:
         f.write(response.choices[0].message.content)
@@ -185,32 +192,32 @@ def text_review():
     Take your time to work through the comments systematically in a step-by-step process. 
  
     Double check that you've examined every comment provided by the expert reviewer, if there are any you missed on your initial check, please go back and review them in the same manner as previously defined. If a suggestion by the expert reviewer is correct and adheres to the guidelines, you should skip it and do not mention it in your response. 
-    Be careful, because this text will be saved as txt file, so do NOT use any weird characters. Just do a plain text.
+    Be careful, because this text will be saved as txt file, so do NOT use any weird characters. Just do a plain text. Don't use character '\x97'. It is very important so be careful. You cannot provoke this error in Python 'UnicodeEncodeError: 'charmap' codec can't encode character '\x97' in position 5210: character maps to <undefined>'.
     """
 
     # chef review code
     response = client.chat.completions.create(
-    model="gpt-3.5-turbo",
-    messages=[
-        {"role": "system", "content": "You are a helpful assistant that reviews the documents."},
-        {"role": "user", "content": f"{final_non_promotional_review_prompt_template_txt}"},
-    ]
+        model="gpt-3.5-turbo",
+        messages=[
+            {"role": "system", "content": "You are a helpful assistant that reviews the documents."},
+            {"role": "user", "content": f"{final_non_promotional_review_prompt_template_txt}"},
+        ]
     )
     with open("Non-prom/output_txt.txt", "w") as f:
         f.write(response.choices[0].message.content)
 
 
 def text_review_10():
-    for i in range(10):
+    for i in range(6, 10):
         # first review code
         response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
-        messages=[
-            {"role": "system", "content": "You are a helpful assistant that reviews the documents."},
-            {"role": "user", "content": f"{non_promotional_material_prompt_template_txt}"},
-        ]
+            model="gpt-4o",
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant that reviews the documents."},
+                {"role": "user", "content": f"{non_promotional_material_prompt_template_txt}"},
+            ]
         )
-        with open(f"review_txt_10_non-prom/result{i + 1}_txt.txt", "w") as f:
+        with open(f"review_txt_10_non-prom\\result{i + 11}_txt.txt", "w") as f:
             f.write(response.choices[0].message.content)
 
         # chef review instruction
@@ -244,18 +251,18 @@ def text_review_10():
         Take your time to work through the comments systematically in a step-by-step process. 
     
         Double check that you've examined every comment provided by the expert reviewer, if there are any you missed on your initial check, please go back and review them in the same manner as previously defined. If a suggestion by the expert reviewer is correct and adheres to the guidelines, you should skip it and do not mention it in your response. 
-        Be careful, because this text will be saved as txt file, so do NOT use any weird characters. Just do a plain text. PLease.
+        Be careful, because this text will be saved as txt file, so do NOT use any weird characters. Just do a plain text. PLease, don't use character '\x97'. It is very important so be careful. You cannot provoke this error in Python 'UnicodeEncodeError: 'charmap' codec can't encode character '\x97' in position 5210: character maps to <undefined>'.
         """
 
         # chef review code
         response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
-        messages=[
-            {"role": "system", "content": "You are a helpful assistant that reviews the documents."},
-            {"role": "user", "content": f"{final_non_promotional_review_prompt_template_txt}"},
-        ]
+            model="gpt-4o",
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant that reviews the documents."},
+                {"role": "user", "content": f"{final_non_promotional_review_prompt_template_txt}"},
+            ]
         )
-        with open(f"review_txt_10_non-prom/output{i + 1}_txt.txt", "w") as f:
+        with open(f"review_txt_10_non-prom\\output{i + 11}_txt.txt", "w") as f:
             f.write(response.choices[0].message.content)
 
 # --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -293,25 +300,25 @@ Do not provide duplicate comments. No two comments in your response should be th
 def jpg_review():
     url = f"data:image/jpeg;base64,{base64_image}"
     response = client.chat.completions.create(
-    model="gpt-4o",
-    messages=[
-        {"role":"assistant","content":"Your role is to review an image, which is a document."},
-        {
-        
-        "role": "user",
-        "content": [
-            {"type": "text", "text": f"{non_promotional_material_prompt_template_jpg}"},
+        model="gpt-4o",
+        messages=[
+            {"role":"assistant","content":"Your role is to review an image, which is a document."},
             {
-            "type": "image_url",
-            "image_url": {
-                "url": url,
-            },
-            },
+            
+            "role": "user",
+            "content": [
+                {"type": "text", "text": f"{non_promotional_material_prompt_template_jpg}"},
+                {
+                "type": "image_url",
+                "image_url": {
+                    "url": url,
+                },
+                },
+            ],
+            }
+            
         ],
-        }
-        
-    ],
-    max_tokens=1500,
+        max_tokens=1500,
     )
     
     with open("Non-prom/result_jpg.txt", "w") as f:
@@ -354,42 +361,14 @@ def jpg_review():
 
     url = f"data:image/jpeg;base64,{base64_image}"
     response = client.chat.completions.create(
-    model="gpt-4o",
-    messages=[
-        {"role":"assistant","content":"Your role is to review an image."},
-        {
-        
-        "role": "user",
-        "content": [
-            {"type": "text", "text": f"{final_non_promotional_review_prompt_template_jpg}"},
-            {
-            "type": "image_url",
-            "image_url": {
-                "url": url,
-            },
-            },
-        ],
-        }
-        
-    ],
-    max_tokens=1500,
-    )
-    
-    with open("Non-prom/output_jpg.txt", "w") as f:
-        f.write(response.choices[0].message.content)
-
-def jpg_review_10():
-    for i in range(10):
-        url = f"data:image/jpeg;base64,{base64_image}"
-        response = client.chat.completions.create(
         model="gpt-4o",
         messages=[
-            {"role":"assistant","content":"Your role is to review an image, which is a document."},
+            {"role":"assistant","content":"Your role is to review an image."},
             {
             
             "role": "user",
             "content": [
-                {"type": "text", "text": f"{non_promotional_material_prompt_template_jpg}"},
+                {"type": "text", "text": f"{final_non_promotional_review_prompt_template_jpg}"},
                 {
                 "type": "image_url",
                 "image_url": {
@@ -401,9 +380,36 @@ def jpg_review_10():
             
         ],
         max_tokens=1500,
+    )
+    
+    with open("Non-prom/output_jpg.txt", "w") as f:
+        f.write(response.choices[0].message.content)
+
+def jpg_review_10():
+    for i in range(10):
+        url = f"data:image/jpeg;base64,{base64_image}"
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=[
+                {"role":"assistant","content":"Your role is to review an image, which is a document."},
+                {
+                
+                "role": "user",
+                "content": [
+                    {"type": "text", "text": f"{non_promotional_material_prompt_template_jpg}"},
+                    {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": url,
+                    },
+                    },
+                ],
+                }
+                
+            ],
         )
         
-        with open(f"review_jpg_10_non-prom/result{i + 1}_jpg.txt", "w") as f:
+        with open(f"review_jpg_10_non-prom/result{i + 11}_jpg.txt", "w") as f:
             f.write(response.choices[0].message.content)
 
         # chef review instruction
@@ -443,32 +449,31 @@ def jpg_review_10():
 
         url = f"data:image/jpeg;base64,{base64_image}"
         response = client.chat.completions.create(
-        model="gpt-4o",
-        messages=[
-            {"role":"assistant","content":"Your role is to review an image."},
-            {
-            
-            "role": "user",
-            "content": [
-                {"type": "text", "text": f"{final_non_promotional_review_prompt_template_jpg}"},
+            model="gpt-4o",
+            messages=[
+                {"role":"assistant","content":"Your role is to review an image."},
                 {
-                "type": "image_url",
-                "image_url": {
-                    "url": url,
-                },
-                },
+                
+                "role": "user",
+                "content": [
+                    {"type": "text", "text": f"{final_non_promotional_review_prompt_template_jpg}"},
+                    {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": url,
+                    },
+                    },
+                ],
+                }
+                
             ],
-            }
-            
-        ],
-        max_tokens=1500,
         )
         
-        with open(f"review_jpg_10_non-prom/output{i + 1}_jpg.txt", "w") as f:
+        with open(f"review_jpg_10_non-prom/output{i + 11}_jpg.txt", "w") as f:
             f.write(response.choices[0].message.content)
 
 #jpg_to_text()
 #text_review()
-#text_review_10()
+text_review_10()
 #jpg_review()
 jpg_review_10()

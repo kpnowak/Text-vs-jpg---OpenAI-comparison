@@ -1,0 +1,106 @@
+Step 1: Identify the main language of the document.
+
+The document is in English.
+
+Step 2: Since the document language is English, I will continue with the review without translating any French content.
+
+Step 3 to Step 6: Review the comments provided by the expert reviewer.
+
+### Review and Corrections Analysis:
+
+1. **Source Sentence:** "Yesterday, I gone to a party with my friend David."
+   - **Deviation from guidelines:** Correct verb tense but the reviewer's suggestion is accurate.
+   - **Expert Reviewer's Suggested Change:** "Yesterday, I went to a party with my friend David."
+   - **Explanation:** The change adheres to the guidelines and no further corrections are needed.
+
+2. **Source Sentence:** "He study english with me at university."
+   - **Deviation from guidelines:** Correct verb tense and capitalization, and the expert reviewer's suggestion is accurate.
+   - **Expert Reviewer's Suggested Change:** "He studies English with me at university."
+   - **Explanation:** The change adheres to the guidelines and no further corrections are needed.
+
+3. **Source Sentence:** "He wanted to be introduced to Lucy wo he fancied."
+   - **Deviation from guidelines:** Fix spelling error for clarity and correct relative pronoun. The reviewer's suggestion is mostly accurate but "who" should be emphasized.
+   - **Expert Reviewer's Suggested Change:** "He wanted to be introduced to Lucy who he fancied."
+   - **New Suggested Change:** Include a brief explanation of the change.
+   - **Explanation:** The correct relative pronoun "who" should be used to refer to Lucy.
+   - **New Sentence:** "He wanted to be introduced to Lucy, who he fancied."
+
+4. **Source Sentence:** "David and I satt in the corner of the room."
+   - **Deviation from guidelines:** Correct spelling error.
+   - **Expert Reviewer's Suggested Change:** "David and I sat in the corner of the room."
+   - **Explanation:** The change adheres to the guidelines and no further corrections are needed.
+
+5. **Source Sentence:** "He didn 't making the first move to go and see her."
+   - **Deviation from guidelines:** Ensure correct verb form and remove spacing issues.
+   - **Expert Reviewer's Suggested Change:** "He didn't make the first move to go and see her."
+   - **Explanation:** The change adheres to the guidelines and no further corrections are needed.
+
+6. **Source Sentence:** "He waited for so long to tell her that he had a crush on her."
+   - **Deviation from guidelines:** No deviation noted.
+   - **Expert Reviewer's Suggested Change:** No change needed.
+   - **Explanation:** The sentence is correct as it stands.
+
+7. **Source Sentence:** "He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+   - **Deviation from guidelines:** Correct verb form.
+   - **Expert Reviewer's Suggested Change:** "He took a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+   - **Explanation:** The change adheres to the guidelines and no further corrections are needed.
+
+8. **Source Sentence:** "David remained mute."
+   - **Deviation from guidelines:** No deviation noted.
+   - **Expert Reviewer's Suggested Change:** No change needed.
+   - **Explanation:** The sentence is correct as it stands.
+
+9. **Source Sentence:** "She gave a hint of a smile, noticing David blushing."
+   - **Deviation from guidelines:** No deviation noted.
+   - **Expert Reviewer's Suggested Change:** No change needed.
+   - **Explanation:** The sentence is correct as it stands.
+
+10. **Source Sentence:** "She asked him if he enjoyed the party."
+     - **Deviation from guidelines:** No deviation noted.
+     - **Expert Reviewer's Suggested Change:** No change needed.
+     - **Explanation:** The sentence is correct as it stands.
+
+11. **Source Sentence:** "He whispered ' Yes ' and had a glance at me."
+    - **Deviation from guidelines:** Remove spacing issues around quotation.
+    - **Expert Reviewer's Suggested Change:** "He whispered 'Yes' and had a glance at me."
+    - **Explanation:** The change adheres to the guidelines and no further corrections are needed.
+
+12. **Source Sentence:** "I wincked at him."
+    - **Deviation from guidelines:** Correct spelling error.
+    - **Expert Reviewer's Suggested Change:** "I winked at him."
+    - **Explanation:** The change adheres to the guidelines and no further corrections are needed.
+
+13. **Source Sentence:** "That was it."
+    - **Deviation from guidelines:** No deviation noted.
+    - **Expert Reviewer's Suggested Change:** No change needed.
+    - **Explanation:** The sentence is correct as it stands.
+
+14. **Source Sentence:** "Feeling reassured and confident, he told her which feelings he was experiencing."
+    - **Deviation from guidelines:** Improve clarity by using "what" instead of "which."
+    - **Expert Reviewer's Suggested Change:** "Feeling reassured and confident, he told her what feelings he was experiencing."
+    - **Explanation:** The change adheres to the guidelines and no further corrections are needed.
+
+15. **Source Sentence:** "She suddenly looked sullen."
+    - **Deviation from guidelines:** No deviation noted.
+    - **Expert Reviewer's Suggested Change:** No change needed.
+    - **Explanation:** The sentence is correct as it stands.
+
+16. **Source Sentence:** "She looked embaressed."
+    - **Deviation from guidelines:** Correct spelling error.
+    - **Expert Reviewer's Suggested Change:** "She looked embarrassed."
+    - **Explanation:** The change adheres to the guidelines and no further corrections are needed.
+
+17. **Source Sentence:** "She could hardly say a word but after a little seconds, she said : ' I' m sorry to deceive you but actually I fancy Sebastian '."
+    - **Deviation from guidelines:** Correct punctuation, clarity, and grammar issues.
+    - **Expert Reviewer's Suggested Change:** "She could hardly say a word but after a few seconds, she said: 'I'm sorry to disappoint you but actually I fancy Sebastian.'"
+    - **Explanation:** The change adheres to the guidelines and no further corrections are needed.
+
+18. **Source Sentence:** "David fainted : ' a friend in need is a friend inded ' !!"
+    - **Deviation from guidelines:** Correct punctuation, capitalization, and spelling errors.
+    - **Expert Reviewer's Suggested Change:** "David fainted: 'A friend in need is a friend indeed!'"
+    - **Explanation:** The change adheres to the guidelines and no further corrections are needed.
+
+### Summary:
+- The majority of the expert reviewer's suggestions were accurate and adhered to the guidelines.
+- Improved explanations were provided for clarity in cases where changes were needed.
+- Where expert reviewer's suggestions were correct, they were acknowledged without additional changes.

@@ -1,0 +1,99 @@
+- **Source**: "Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication: Article 1 - Non-Promotional Material"
+- **Source sentence**: "This information is intended for education purpose only and should not be substituted for medical advice from your doctor."
+- **Deviations**: According to "Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication: Article 1 - Non-Promotional Material", it is essential to include a disclaimer stating that the information is not a substitute for medical advice and is intended for educational purposes only.
+- **New sentence**: "This information is intended for educational purposes only and should not be substituted for medical advice from your doctor."
+- **Reason for replacement**: This correction ensures that the disclaimer accurately reflects the guideline's emphasis on maintaining non-promotional and educational intent, clearly stating that it is not a substitute for professional medical advice.
+
+---
+
+- **Source**: "Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers include in all pages"
+- **Source sentence**: Missing disclaimer required by guideline: “The image shown is a model and not a real patient.”
+- **Deviations**: According to "Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers include in all pages", each document should include the disclaimer that images are of models and not real patients.
+- **New sentence**: “The image shown is a model and not a real patient.”
+- **Reason for replacement**: Adding this disclaimer aligns the document with the guideline requirement to clarify that represented individuals are models, hence maintaining transparency and compliance.
+
+---
+
+- **Source**: "EFPIA Chapter 3: Article 17 - Informational or Educational Materials and Items of Medical Utility"
+- **Source sentence**: Missing clarification on the cost and utility of informational materials: "This material is provided for informational purposes and is not intended to promote any specific product."
+- **Deviations**: According to "EFPIA Chapter 3: Article 17 - Informational or Educational Materials and Items of Medical Utility", informational materials must be inexpensive and directly relevant to medical practice, without promoting specific products.
+- **New sentence**: "This material is provided for informational purposes only, is inexpensive, and is not intended to promote any specific product."
+- **Reason for replacement**: This new sentence clarifies the cost aspect, ensuring compliance with the guideline that informational materials should not constitute a form of indirect promotion or inducement.
+
+---
+
+- **Source**: "Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional"
+- **Source sentence**: "By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health."
+- **Deviations**: According to "Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional", the language should be clear and professional, avoiding any informal contractions.
+- **New sentence**: "By speaking up, asking questions, and being part of the decision-making process, you can create a personalized plan that will empower you on your journey towards better health."
+- **Reason for replacement**: This adjustment removes the contraction "that'll" in favor of more formal and professional language, ensuring clarity and adherence to professional tone guidelines.
+
+---
+
+- **Source**: "EFPIA Chapter 3: Article 16 - Lifelong Learning in Healthcare"
+- **Source sentence**: "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+- **Deviations**: According to "EFPIA Chapter 3: Article 16 - Lifelong Learning in Healthcare", educational content should facilitate the expression of diverse evidence-based science and meet unmet educational needs.
+- **New sentence**: "Remember, this conversation aims to collaborate with your doctor to find the best evidence-based treatment option for you."
+- **Reason for replacement**: This adjustment ensures the sentence emphasizes collaboration based on evidence-based science, aligning with the guideline's focus on scientific knowledge and educational content.
+
+---
+
+- **Source**: "Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers include in all pages"
+- **Source sentence**: Missing disclaimer required by guideline: “Situations shown do not reflect models’ experience.”
+- **Deviations**: According to "Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers include in all pages", each document should include disclaimers stating that shown situations do not reflect the models' real experiences.
+- **New sentence**: “Situations shown do not reflect models’ experience.”
+- **Reason for replacement**: Adding this disclaimer ensures clear distinction that situations depicted in the material are fictional and do not represent real-life experiences, maintaining transparency.
+
+---
+
+- **Source**: "Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers include in all pages"
+- **Source sentence**: Missing disclaimer required by guideline: “The prescription is based on a patient example and not a real patient.”
+- **Deviations**: According to "Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers include in all pages", each document should clarify that specific prescriptions demonstrated are based on illustrative examples, not real patient cases.
+- **New sentence**: “The prescription is based on a patient example and not a real patient.”
+- **Reason for replacement**: Including this disclaimer ensures that any specific medical prescriptions shown are clearly identified as examples, which aligns with the guideline to maintain factual representation.
+
+---
+
+- **Source**: "Communicate With Care Pocket Guide: Article 1 - Be Mindful"
+- **Source sentence**: "Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+- **Deviations**: According to "Communicate With Care Pocket Guide: Article 1 - Be Mindful", the information should be legally appropriate, mindful of patient autonomy without undermining medical authority.
+- **New sentence**: "Your doctor is the medical expert, but as someone living with type 2 diabetes, it is important to discuss your needs and preferences during your consultation."
+- **Reason for replacement**: Revising the sentence to avoid implying medical self-management over professional advice ensures it aligns with promoting respectful and professional patient-doctor interactions.
+
+Each new sentence addresses a specific deviation, ensuring the document aligns with the provided "Non-Promotional Material Guidelines" and maintains the highest standards of accurate, professional, and transparent communication.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Review for the Expert's Suggested Changes
+
+1. **Source Sentence**: "This information is intended for education purpose only and should not be substituted for medical advice from your doctor."
+   - **Deviation by Expert**: According to "Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication", it is essential to include a disclaimer stating that the information is not a substitute for medical advice and is intended for educational purposes only.
+   - **Expert's Suggested Change**: "This information is intended for educational purposes only and should not be substituted for medical advice from your doctor."
+   - **Explanation**: The expert's suggested change aligns closely with the guidelines focused on being clear about non-promotional and educational intent.
+   - **New Sentence**: "This information is intended solely for educational purposes and should not replace professional medical advice from your doctor."
+   - **Deviations**: According to "Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication: Article 1 - Non-Promotional Material", the information suggests that it's important to ensure non-promotional and educational intent and emphasize that it should not replace professional medical advice. 
+
+2. **Source Sentence**: Missing disclaimer required by guideline: “The image shown is a model and not a real patient.”
+   - **Deviation by Expert**: According to "Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers include in all pages”, each document should include the disclaimer that images are of models and not real patients.
+   - **Expert's Suggested Change**: “The image shown is a model and not a real patient.”
+   - **Explanation**: The expert’s suggested disclaimer is appropriate, but a slight modification can improve it for better clarity.
+   - **New Sentence**: “The images used in this material show models and do not depict real patients.”
+   - **Deviations**: According to "Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers include in all pages", it’s essential to clarify that the images are of models to ensure transparency and compliance.
+
+3. **Source Sentence**: Missing clarification on the cost and utility of informational materials: "This material is provided for informational purposes and is not intended to promote any specific product."
+   - **Deviation by Expert**: According to "EFPIA Chapter 3: Article 17 - Informational or Educational Materials and Items of Medical Utility", informational materials must be inexpensive and directly relevant to medical practice, without promoting specific products.
+   - **Expert's Suggested Change**: "This material is provided for informational purposes only, is inexpensive, and is not intended to promote any specific product."
+   - **Explanation**: The expert’s suggested change is adequate, but adding clarity about the utility can enhance adherence to the guideline.
+   - **New Sentence**: "This material is provided for informational purposes only, is inexpensive, and is not intended to promote any specific product but to support medical practice."
+   - **Deviations**: According to "EFPIA Chapter 3: Article 17 - Informational or Educational Materials and Items of Medical Utility", the information should be clear about the cost, purpose, and relevance to medical practice without promoting products.
+
+4. **Source Sentence**: "By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health."
+   - **Deviation by Expert**: According to "Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional", the language should be clear and professional, avoiding any informal contractions.
+   - **Expert's Suggested Change**: "By speaking up, asking questions, and being part of the decision-making process, you can create a personalized plan that will empower you on your journey towards better health."
+   - **Explanation**: The expert’s revision aligns well with the requirement for professional language but can be slightly improved for better flow.
+   - **New Sentence**: "By speaking up, asking questions, and participating in the decision-making process, you can develop a personalized plan to empower you on your journey towards better health."
+   - **Deviations**: According to "Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional", the information suggests avoiding informal contractions (e.g., "that'll") and maintaining a clear and professional tone.
+
+The remaining comments provided by the expert were satisfactory and aligned with the guidelines, so no further improvements were necessary.

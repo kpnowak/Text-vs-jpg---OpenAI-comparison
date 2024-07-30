@@ -1,0 +1,29 @@
+[document_language]: English
+
+### Sentence Reviews and Corrections:
+
+1. **Source Sentence**: "He didn't making the first move to go and see her."
+   - **Deviation**: Improper verb formation and incorrect contraction spacing.
+   - **Expert's Suggested Change**: "He didn't make the first move to go and see her."
+   - **Reason for New Change**: Correcting the verb form and ensuring the sentence reads smoothly.
+   - **New Suggested Sentence**: "He didn’t make the first move to go and see her."
+
+2. **Source Sentence**: "She asked him if he enjoyed the party. He whispered ' Yes ' and had a glance at me."
+   - **Deviation**: Inconsistent quotation marks and unnecessary spaces.
+   - **Expert's Suggested Change**: "She asked him if he enjoyed the party. He whispered 'Yes' and had a glance at me."
+   - **Reason for New Change**: Adjusting spacing and punctuation for clarity and adherence to standard English punctuation rules.
+   - **New Suggested Sentence**: "She asked him if he enjoyed the party. He whispered, 'Yes,' and glanced at me."
+
+3. **Source Sentence**: "She could hardly say a word but after a little seconds, she said: ' I ' m sorry to deceive you but actually I fancy Sebastian '."
+   - **Deviation**: "after a little seconds" should be corrected for natural expression, and spacing/quotation marks need adjustment.
+   - **Expert's Suggested Change**: "She could hardly say a word but after a few seconds, she said: 'I'm sorry to deceive you but actually I fancy Sebastian'."
+   - **Reason for New Change**: Corrected phrase for natural expression and standardized quotation marks for better readability.
+   - **New Suggested Sentence**: "She could hardly say a word, but after a few seconds, she said, 'I'm sorry to deceive you, but actually I fancy Sebastian.'"
+
+4. **Source Sentence**: "David fainted : ' a friend in need is a friend inded ' !!"
+   - **Deviation**: Typographical error "inded" should be "indeed", incorrect punctuation/spacing.
+   - **Expert's Suggested Change**: "David fainted: 'a friend in need is a friend indeed'!"
+   - **Reason for New Change**: Correcting spacing and punctuation for readability and appropriateness.
+   - **New Suggested Sentence**: "David fainted: 'A friend in need is a friend indeed!'"
+
+By making these corrections, the grammatical accuracy, readability, and clarity of the document are improved significantly.

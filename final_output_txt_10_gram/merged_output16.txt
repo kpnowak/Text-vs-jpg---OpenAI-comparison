@@ -1,0 +1,205 @@
+**Source Sentence:** "Yesterday, I gone to a party with my friend David."
+
+**Deviations Corrected:** "Gone" should be "went," "study" should be in past tense, and "wo" should be "who."
+
+**Reason for Correction:** Correct tense and spelling for clarity and grammatical accuracy.
+
+**New Sentence:** "Yesterday, I went to a party with my friend David."
+
+---
+
+**Source Sentence:** "He study english with me at university."
+
+**Deviations Corrected:** "Study" should be "studies" (present tense agreement), "english" should be "English" (capitalization).
+
+**Reason for Correction:** Correct verb tense for current habits and capitalization for proper nouns.
+
+**New Sentence:** "He studies English with me at university."
+
+---
+
+**Source Sentence:** "He wanted to be introduced to Lucy wo he fancied."
+
+**Deviations Corrected:** "Wo" should be "who."
+
+**Reason for Correction:** Correct spelling mistake.
+
+**New Sentence:** "He wanted to be introduced to Lucy who he fancied."
+
+---
+
+**Source Sentence:** "David and I satt in the corner of the room."
+
+**Deviations Corrected:** "Satt" should be "sat."
+
+**Reason for Correction:** Correct spelling mistake.
+
+**New Sentence:** "David and I sat in the corner of the room."
+
+---
+
+**Source Sentence:** "He didn 't making the first move to go and see her."
+
+**Deviations Corrected:** "Didn 't" should be "didn't," "making" should be "make."
+
+**Reason for Correction:** Correct contraction and verb tense.
+
+**New Sentence:** "He didn't make the first move to go and see her."
+
+---
+
+**Source Sentence:** "He waited for so long to tell her that he had a crush on her."
+
+**Deviations Corrected:** None.
+
+**Reason for Correction:** No grammatical errors.
+
+**New Sentence:** "He waited for so long to tell her that he had a crush on her."
+
+---
+
+**Source Sentence:** "He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+
+**Deviations Corrected:** "Taked" should be "took."
+
+**Reason for Correction:** Correct verb form.
+
+**New Sentence:** "He took a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+
+---
+
+**Source Sentence:** "David remained mute."
+
+**Deviations Corrected:** None.
+
+**Reason for Correction:** No grammatical errors.
+
+**New Sentence:** "David remained mute."
+
+---
+
+**Source Sentence:** "She gave a hint of a smile, noticing David blushing."
+
+**Deviations Corrected:** None.
+
+**Reason for Correction:** No grammatical errors.
+
+**New Sentence:** "She gave a hint of a smile, noticing David blushing."
+
+---
+
+**Source Sentence:** "She asked him if he enjoyed the party."
+
+**Deviations Corrected:** None.
+
+**Reason for Correction:** No grammatical errors.
+
+**New Sentence:** "She asked him if he enjoyed the party."
+
+---
+
+**Source Sentence:** "He whispered ' Yes ' and had a glance at me."
+
+**Deviations Corrected:** " ' Yes ' " should be "'Yes'" (removing extra spaces).
+
+**Reason for Correction:** Proper usage of quotation marks.
+
+**New Sentence:** "He whispered 'Yes' and had a glance at me."
+
+---
+
+**Source Sentence:** "I wincked at him."
+
+**Deviations Corrected:** "Wincked" should be "winked."
+
+**Reason for Correction:** Correct spelling mistake.
+
+**New Sentence:** "I winked at him."
+
+---
+
+**Source Sentence:** "That was it. Feeling reassured and confident, he told her which feelings he was experiencing."
+
+**Deviations Corrected:** "Which" should be "what."
+
+**Reason for Correction:** Correct choice of relative pronoun to improve clarity.
+
+**New Sentence:** "That was it. Feeling reassured and confident, he told her what feelings he was experiencing."
+
+---
+
+**Source Sentence:** "She suddenly looked sullen. She looked embaressed."
+
+**Deviations Corrected:** "Embaressed" should be "embarrassed."
+
+**Reason for Correction:** Correct spelling mistake.
+
+**New Sentence:** "She suddenly looked sullen. She looked embarrassed."
+
+---
+
+**Source Sentence:** "She could hardly say a word but after a little seconds, she said : ' I' m sorry to deceive you but actually I fancy Sebastian '."
+
+**Deviations Corrected:** "A little seconds" should be "a few seconds," "deceive" should be "disappoint," " ' I' m sorry to deceive you but actually I fancy Sebastian ' " should be "'I'm sorry to disappoint you, but actually I fancy Sebastian.'" (removing extra spaces and punctuation correction).
+
+**Reason for Correction:** Correct choice of word and improve clarity.
+
+**New Sentence:** "She could hardly say a word but after a few seconds, she said: 'I'm sorry to disappoint you, but actually I fancy Sebastian.'"
+
+---
+
+**Source Sentence:** "David fainted : ' a friend in need is a friend inded ' !!"
+
+**Deviations Corrected:** "Fainted" should be "sighed," " ' a friend in need is a friend inded ' " should be "'A friend in need is a friend indeed.'" (correct spelling, capitalization).
+
+**Reason for Correction:** Improve idiomatic expression and spelling.
+
+**New Sentence:** "David sighed: 'A friend in need is a friend indeed!'"
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+Step 1: The language of the document is clearly English, as all the provided sentences and corrections are in English.
+
+Step 2: Since [document_language] equals English, proceed with the review.
+
+---
+
+1. **Original Sentence:** "Yesterday, I gone to a party with my friend David."
+   - **Deviation from Guidelines:** The correction comments incorrectly included references to errors that weren’t present in the sentence ("study" and "wo").
+   - **Expert Reviewer's Original Suggested Change:** "Yesterday, I went to a party with my friend David."
+   - **Reason for New Suggested Change:** There was confusion due to incorrect deviation mentions which do not apply to this sentence. The expert's suggested change is precise for the errors actually present in the sentence.
+   - **New Suggested Sentence:** "Yesterday, I went to a party with my friend David."
+
+2. **Original Sentence:** "He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+   - **Deviation from Guidelines:** The expert reviewer missed addressing punctuation to enhance clarity.
+   - **Expert Reviewer's Original Suggested Change:** "He took a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+   - **Reason for New Suggested Change:** Adding a comma after "energy" improves sentence clarity and readability.
+   - **New Suggested Sentence:** "He took a drink to get some energy, and after a few minutes of endless hesitation, he walked to her."
+
+3. **Original Sentence:** "She could hardly say a word but after a little seconds, she said : ' I' m sorry to deceive you but actually I fancy Sebastian '."
+   - **Deviation from Guidelines:** The expert reviewer correctly addressed multiple issues, but "a little seconds" was corrected to "a few seconds" for better idiomatic accuracy.
+   - **Expert Reviewer's Original Suggested Change:** "She could hardly say a word but after a few seconds, she said: 'I'm sorry to disappoint you, but actually I fancy Sebastian.'"
+   - **Reason for New Suggested Change:** The word choice change from "little" to "few" is necessary to adhere to idiomatic expressions in English, but ensuring a cleaner and accurately punctuated final sentence is critical.
+   - **New Suggested Sentence:** "She could hardly say a word but after a few seconds, she said: 'I'm sorry to disappoint you, but actually, I fancy Sebastian.'"
+
+4. **Original Sentence:** "That was it. Feeling reassured and confident, he told her which feelings he was experiencing."
+   - **Deviation from Guidelines:** The expert reviewer did not fully correct the improper relative pronoun "which" to "what" which is more appropriate in this context.
+   - **Expert Reviewer's Original Suggested Change:** "That was it. Feeling reassured and confident, he told her what feelings he was experiencing."
+   - **Reason for New Suggested Change:** The relative pronoun "which" needs to be corrected to "what" for accuracy and clarity.
+   - **New Suggested Sentence:** "That was it. Feeling reassured and confident, he told her what feelings he was experiencing."
+
+5. **Original Sentence:** "David fainted : ' a friend in need is a friend inded ' !!"
+   - **Deviation from Guidelines:** The expert reviewer corrected "fainted" to "sighed" and adjusted the idiomatic expression, but missed ensuring proper punctuation after the idiom.
+   - **Expert Reviewer's Original Suggested Change:** "David sighed: 'A friend in need is a friend indeed!'"
+   - **Reason for New Suggested Change:** The expert's change is accurate and adheres to guidelines, thus it remains unchanged.
+   - **New Suggested Sentence:** "David sighed: 'A friend in need is a friend indeed!'"
+
+6. **Original Sentence:** "He whispered ' Yes ' and had a glance at me."
+   - **Deviation from Guidelines:** The expert reviewer corrected the extra spaces within the quotation marks but did not address the spacing properly outside the quotation.
+   - **Expert Reviewer's Original Suggested Change:** "He whispered 'Yes' and had a glance at me."
+   - **Reason for New Suggested Change:** Ensuring the correct use of punctuation and spaces both inside and outside the quotes.
+   - **New Suggested Sentence:** "He whispered, 'Yes,' and had a glance at me."
+
+This concludes the reviewed suggestions for improving grammar and spelling based on the guidelines.

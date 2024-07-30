@@ -1,0 +1,95 @@
+Step 1: [document_language] == English
+
+Step 5: Let's review each sentence in the document for grammatical accuracy.
+
+1. **Source Sentence:** Yesterday, I gone to a party with my friend David.
+   - **Deviations Corrected:** Verb tense.
+   - **Reason for Replacement:** "Gone" is incorrect here; it should be "went" to correctly reflect past tense.
+   - **New Sentence:** Yesterday, I went to a party with my friend David.
+
+2. **Source Sentence:** He study english with me at university.
+   - **Deviations Corrected:** Verb tense, capitalization.
+   - **Reason for Replacement:** "Study" should be "studies" for correct subject-verb agreement. "english" should be capitalized.
+   - **New Sentence:** He studies English with me at university.
+
+3. **Source Sentence:** He wanted to be introduced to Lucy wo he fancied.
+   - **Deviations Corrected:** Spelling.
+   - **Reason for Replacement:** "wo" should be "whom."
+   - **New Sentence:** He wanted to be introduced to Lucy whom he fancied.
+
+4. **Source Sentence:** David and I satt in the corner of the room.
+   - **Deviations Corrected:** Spelling.
+   - **Reason for Replacement:** "satt" should be "sat."
+   - **New Sentence:** David and I sat in the corner of the room.
+
+5. **Source Sentence:** He didn 't making the first move to go and see her.
+   - **Deviations Corrected:** Grammar.
+   - **Reason for Replacement:** "making" should be "make" to maintain proper verb agreement.
+   - **New Sentence:** He didn’t make the first move to go and see her.
+
+6. **Source Sentence:** He waited for so long to tell her that he had a crush on her.
+   - **Deviations Corrected:** None.
+   - **Reason for Replacement:** The sentence is correct as it stands.
+   - **New Sentence:** He waited for so long to tell her that he had a crush on her.
+
+7. **Source Sentence:** He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her.
+   - **Deviations Corrected:** Verb tense.
+   - **Reason for Replacement:** "taked" should be "took."
+   - **New Sentence:** He took a drink to get some energy, and after a few minutes of endless hesitation, he walked to her.
+
+8. **Source Sentence:** David remained mute.
+   - **Deviations Corrected:** None.
+   - **Reason for Replacement:** The sentence is correct as it stands.
+   - **New Sentence:** David remained mute.
+
+9. **Source Sentence:** She gave a hint of a smile, noticing David blushing.
+   - **Deviations Corrected:** None.
+   - **Reason for Replacement:** The sentence is correct as it stands.
+   - **New Sentence:** She gave a hint of a smile, noticing David blushing.
+
+10. **Source Sentence:** She asked him if he enjoyed the party.
+    - **Deviations Corrected:** None.
+    - **Reason for Replacement:** The sentence is correct as it stands.
+    - **New Sentence:** She asked him if he enjoyed the party.
+
+11. **Source Sentence:** He whispered ' Yes ' and had a glance at me.
+    - **Deviations Corrected:** Quotation marks, punctuation.
+    - **Reason for Replacement:** Quotation marks should be corrected and spacing adjusted.
+    - **New Sentence:** He whispered "Yes" and glanced at me.
+
+12. **Source Sentence:** I wincked at him.
+    - **Deviations Corrected:** Spelling.
+    - **Reason for Replacement:** "wincked" should be "winked."
+    - **New Sentence:** I winked at him.
+
+13. **Source Sentence:** That was it.
+    - **Deviations Corrected:** None.
+    - **Reason for Replacement:** The sentence is correct as it stands.
+    - **New Sentence:** That was it.
+
+14. **Source Sentence:** Feeling reassured and confident, he told her which feelings he was experiencing.
+    - **Deviations Corrected:** Word choice.
+    - **Reason for Replacement:** "which" should be replaced with "what" for correct word usage.
+    - **New Sentence:** Feeling reassured and confident, he told her what feelings he was experiencing.
+
+15. **Source Sentence:** She suddenly looked sullen.
+    - **Deviations Corrected:** None.
+    - **Reason for Replacement:** The sentence is correct as it stands.
+    - **New Sentence:** She suddenly looked sullen.
+
+16. **Source Sentence:** She looked embaressed.
+    - **Deviations Corrected:** Spelling.
+    - **Reason for Replacement:** "embaressed" should be "embarrassed."
+    - **New Sentence:** She looked embarrassed.
+
+17. **Source Sentence:** She could hardly say a word but after a little seconds, she said : ' I' m sorry to deceive you but actually I fancy Sebastian '.
+    - **Deviations Corrected:** Punctuation, word choice.
+    - **Reason for Replacement:** Corrected punctuation, improved phrasing for clarity. Changed “a little seconds” to “a few seconds.”
+    - **New Sentence:** She could hardly say a word, but after a few seconds, she said: "I’m sorry to deceive you, but actually, I fancy Sebastian."
+
+18. **Source Sentence:** David fainted : ' a friend in need is a friend inded ' !!
+    - **Deviations Corrected:** Quotation marks, spelling.
+    - **Reason for Replacement:** "inded" should be "indeed", corrected punctuation for quotation marks.
+    - **New Sentence:** David fainted: "A friend in need is a friend indeed!"
+
+By adhering to these corrections, grammatical accuracy and overall readability are improved while maintaining the original meaning of the sentences.

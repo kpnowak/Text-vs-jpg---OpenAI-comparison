@@ -1,0 +1,139 @@
+[document_language] = English
+
+1. Source Sentence: "Yesterday, I gone to a party with my friend David."
+   Deviations Corrected: "gone" should be "went"
+   Reason for Replacement: Correct verb tense usage to ensure grammatical accuracy.
+   New Sentence: "Yesterday, I went to a party with my friend David."
+
+2. Source Sentence: "He study english with me at university."
+   Deviations Corrected: "study" should be "studies", "english" should be "English"
+   Reason for Replacement: Subject-verb agreement and capitalization of proper noun.
+   New Sentence: "He studies English with me at university."
+
+3. Source Sentence: "He wanted to be introduced to Lucy wo he fancied."
+   Deviations Corrected: "wo" should be "who"
+   Reason for Replacement: Correcting the spelling error.
+   New Sentence: "He wanted to be introduced to Lucy who he fancied."
+
+4. Source Sentence: "David and I satt in the corner of the room."
+   Deviations Corrected: "satt" should be "sat"
+   Reason for Replacement: Correcting the spelling error.
+   New Sentence: "David and I sat in the corner of the room."
+
+5. Source Sentence: "He didn 't making the first move to go and see her."
+   Deviations Corrected: "He didn 't making" should be "He didn't make"
+   Reason for Replacement: Correcting the incorrect verb form.
+   New Sentence: "He didn't make the first move to go and see her."
+
+6. Source Sentence: "He waited for so long to tell her that he had a crush on her."
+   Deviations Corrected: None
+   Reason for Replacement: No grammatical errors or deviations noted.
+   New Sentence: "He waited for so long to tell her that he had a crush on her."
+
+7. Source Sentence: "He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+   Deviations Corrected: "taked" should be "took"
+   Reason for Replacement: Correcting the incorrect verb form.
+   New Sentence: "He took a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+
+8. Source Sentence: "David remained mute."
+   Deviations Corrected: None
+   Reason for Replacement: No grammatical errors or deviations noted.
+   New Sentence: "David remained mute."
+
+9. Source Sentence: "She gave a hint of a smile, noticing David blushing."
+   Deviations Corrected: None
+   Reason for Replacement: No grammatical errors or deviations noted.
+   New Sentence: "She gave a hint of a smile, noticing David blushing."
+
+10. Source Sentence: "She asked him if he enjoyed the party."
+    Deviations Corrected: None
+    Reason for Replacement: No grammatical errors or deviations noted.
+    New Sentence: "She asked him if he enjoyed the party."
+
+11. Source Sentence: "He whispered ' Yes ' and had a glance at me."
+    Deviations Corrected: "had" should be "glanced"
+    Reason for Replacement: Correcting verb usage for coherence.
+    New Sentence: "He whispered ' Yes ' and glanced at me."
+
+12. Source Sentence: "I wincked at him."
+    Deviations Corrected: "wincked" should be "winked"
+    Reason for Replacement: Correcting the spelling error.
+    New Sentence: "I winked at him."
+
+13. Source Sentence: "That was it."
+    Deviations Corrected: None
+    Reason for Replacement: No grammatical errors or deviations noted.
+    New Sentence: "That was it."
+
+14. Source Sentence: "Feeling reassured and confident, he told her which feelings he was experiencing."
+    Deviations Corrected: "which feelings" should be "what feelings"
+    Reason for Replacement: Correcting word choice for coherence.
+    New Sentence: "Feeling reassured and confident, he told her what feelings he was experiencing."
+
+15. Source Sentence: "She suddenly looked sullen."
+    Deviations Corrected: None
+    Reason for Replacement: No grammatical errors or deviations noted.
+    New Sentence: "She suddenly looked sullen."
+
+16. Source Sentence: "She looked embaressed."
+    Deviations Corrected: "embaressed" should be "embarrassed"
+    Reason for Replacement: Correcting the spelling error.
+    New Sentence: "She looked embarrassed."
+
+17. Source Sentence: "She could hardly say a word but after a little seconds, she said : ' I' m sorry to deceive you but actually I fancy Sebastian '."
+    Deviations Corrected: "a little seconds" should be "a few seconds", "said :" should be "said:", "' I' m" should be "'I'm", "to deceive you" should be "to disappoint you"
+    Reason for Replacement: Correcting word choice, punctuation, and spelling errors.
+    New Sentence: "She could hardly say a word but after a few seconds, she said: 'I'm sorry to disappoint you but actually, I fancy Sebastian.'"
+
+18. Source Sentence: "David fainted : ' a friend in need is a friend inded ' !!"
+    Deviations Corrected: "fainted :" should be "fainted:", "inded" should be "indeed"
+    Reason for Replacement: Correcting punctuation and spelling errors.
+    New Sentence: "David fainted: 'a friend in need is a friend indeed!'"
+
+This concludes the review of the provided text. Each sentence has been meticulously reviewed for grammar, spelling, punctuation, and coherence, ensuring they align with British English standards.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Reviewer Feedback on Expert's Comments:
+
+#### Sentence 1:
+- **Original Sentence**: "Yesterday, I gone to a party with my friend David."
+- **Deviation from the Guidelines**: None.
+- **Expert Reviewer's Suggested Change**: "Yesterday, I went to a party with my friend David."
+- **Reason for New Change**: The suggested change by the expert reviewer is correct as per the guidelines. No improvement needed.
+
+#### Sentence 2:
+- **Original Sentence**: "He study english with me at university."
+- **Deviation from the Guidelines**: None.
+- **Expert Reviewer's Suggested Change**: "He studies English with me at university."
+- **Reason for New Change**: The suggested change by the expert reviewer is correct as per the guidelines. No improvement needed.
+
+#### Sentence 5:
+- **Original Sentence**: "He didn 't making the first move to go and see her."
+- **Deviation from the Guidelines**: None.
+- **Expert Reviewer's Suggested Change**: "He didn't make the first move to go and see her."
+- **Reason for New Change**: The suggested change by the expert reviewer is correct as per the guidelines. No improvement needed.
+
+#### Sentence 11:
+- **Original Sentence**: "He whispered ' Yes ' and had a glance at me."
+- **Deviation from the Guidelines**: Correction required for coherence.
+- **Expert Reviewer's Suggested Change**: "He whispered ' Yes ' and glanced at me."
+- **Reason for New Change**: The expert reviewer correctly identified a grammatical error. However, additional punctuation errors should also be addressed, as follows: the spaces around quotation marks.
+- **Your New Suggested Sentence**: "He whispered 'Yes' and glanced at me."
+
+#### Sentence 14:
+- **Original Sentence**: "Feeling reassured and confident, he told her which feelings he was experiencing."
+- **Deviation from the Guidelines**: None.
+- **Expert Reviewer's Suggested Change**: "Feeling reassured and confident, he told her what feelings he was experiencing."
+- **Reason for New Change**: The suggested change by the expert reviewer is correct as per the guidelines. No improvement needed.
+
+#### Sentence 17:
+- **Original Sentence**: "She could hardly say a word but after a little seconds, she said : ' I' m sorry to deceive you but actually I fancy Sebastian '."
+- **Deviation from the Guidelines**: Correction required for punctuation, word choice, and spellings.
+- **Expert Reviewer's Suggested Change**: "She could hardly say a word but after a few seconds, she said: 'I'm sorry to disappoint you but actually, I fancy Sebastian.'"
+- **Reason for New Change**: The punctuation and word choice corrections are appropriate. However, additional punctuation consistency around the quoted speech would improve the sentence.
+- **Your New Suggested Sentence**: "She could hardly say a word but after a few seconds, she said: 'I'm sorry to disappoint you, but actually I fancy Sebastian.'"
+
+By following these steps, the review ensures that the document aligns with the English Grammar & Spelling Guidelines accurately and comprehensively.

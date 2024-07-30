@@ -1,0 +1,53 @@
+I have noted the guidelines and will review the provided text accordingly. Let's start with the corrections:
+
+1. "Yesterday, I gone to a party with my friend David."
+   - Deviation: Incorrect verb form ("gone" should be "went").
+   - Correction: Yesterday, I went to a party with my friend David.
+
+2. "He study english with me at university."
+   - Deviation: Incorrect verb form ("study" should be "studies").
+   - Correction: He studies English with me at university.
+
+3. "He didn't making the first move to go and see her."
+   - Deviation: Incorrect verb form ("making" should be "make").
+   - Correction: He didn't make the first move to go and see her.
+
+4. "He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+   - Deviation: Incorrect verb form ("taked" should be "took").
+   - Correction: He took a drink to get some energy, and after a few minutes of endless hesitation, he walked to her.
+
+5. "David remained mute."
+   - No deviations noted.
+
+6. "She looked embaressed."
+   - Deviation: Misspelling of "embarrassed."
+   - Correction: She looked embarrassed.
+
+7. "He wincked at him."
+   - Deviation: Typo in "wincked" (should be "winked").
+   - Correction: He winked at him.
+
+8. "She could hardly say a word but after a little seconds, she said : 'I' m sorry to deceive you but actually I fancy Sebastian'."
+   - Deviation: Awkward word order and punctuation.
+   - Correction: She could hardly say a word, but after a few seconds, she said, "I'm sorry to deceive you, but actually I fancy Sebastian."
+
+I have reviewed the document as per the given guidelines and provided the necessary corrections. If you have any further sentences requiring review or clarifications, feel free to ask!
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+The original sentence:
+"He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+
+Deviation from the guidelines:
+Incorrect verb form ("taked" should be "took").
+
+The expert reviewer's original suggested change:
+Correction: He took a drink to get some energy, and after a few minutes of endless hesitation, he walked to her.
+
+Explanation for the reason behind your new suggested change in the same language as the issue:
+The verb "taked" is incorrect and should be replaced with the correct past form "took."
+
+Your new suggested sentence:
+He took a drink to get some energy, and after a few minutes of endless hesitation, he walked to her.

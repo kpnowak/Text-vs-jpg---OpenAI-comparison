@@ -1,0 +1,139 @@
+### Comment 1
+
+- **Original Sentence:**
+  "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+- **Deviation:**
+  According to [Source - Article 2: Be Clear and Professional], the original sentence might lead to misunderstandings about personal health needs and treatment changes without context.
+
+- **Expert Reviewer's Original Suggested Change:**
+  "When living with type 2 diabetes, it is essential to regularly consult your healthcare provider to reevaluate and adjust your treatment plan based on your evolving health needs."
+
+- **Reason for New Suggested Change:**
+  The expert reviewer's sentence implies that regular consultations are a necessity for all patients, which may not be practical or accurate. The emphasis should be on the importance of professional healthcare advice and making individualized decisions.
+
+- **New Suggested Sentence:**
+  "When living with type 2 diabetes, it's important to discuss with your healthcare provider the need to reevaluate and adjust your treatment plan based on changing health needs."
+
+- **Deviation:**
+  According to [Source - Article 2: Provide Context], it provides the crucial context of professional consultation while allowing for individualized frequency and necessity of reevaluations.
+
+### Comment 2
+
+- **Original Sentence:**
+  "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+- **Deviation:**
+  According to [Source - Article 2: Provide Context], the original sentence lacks context about the importance of professional medical advice.
+
+- **Expert Reviewer's Original Suggested Change:**
+  "It is crucial to feel empowered and prepared to discuss with your healthcare provider whenever you believe a change in treatment might be beneficial, guided by their medical expertise."
+
+- **Reason for New Suggested Change:**
+  The expert reviewer's sentence can be improved for clarity and brevity while still emphasizing the necessity of professional guidance.
+
+- **New Suggested Sentence:**
+  "It's important to feel empowered and prepared to discuss potential beneficial changes to your treatment with your healthcare provider, guided by their expertise."
+
+- **Deviation:**
+  According to [Source - Communicate With Care Pocket Guide], it maintains professional tone and provides needed context.
+
+### Comment 3
+
+- **Original Sentence:**
+  "You know your mind and body, and it's important to advocate for your needs and preferences during your discussion."
+
+- **Deviation:**
+  According to [Source - Article 2: Stick to Facts], the original statement could be seen as encouraging self-diagnosis, which may bypass professional advice.
+
+- **Expert Reviewer's Original Suggested Change:**
+  "You understand your experiences best; therefore, it is important to openly communicate your needs and preferences to your healthcare provider during discussions."
+
+- **Reason for New Suggested Change:**
+  The expert reviewer's sentence needs additional emphasis on involving professional insight to avoid any misunderstanding about self-diagnosis.
+
+- **New Suggested Sentence:**
+  "It's essential to communicate your experiences, needs, and preferences to your healthcare provider, who can then offer appropriate medical advice."
+
+- **Deviation:**
+  According to [Source - Article 2: Stick to Facts], this ensures the patient's role in communication is clear while reinforcing professional medical oversight.
+
+### Comment 4
+
+- **Original Sentence:**
+  "Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might be a better alternative that addresses these challenges."
+
+- **Deviation:**
+  According to [Source - Communicate With Care Pocket Guide], parts of the sentence may imply that patients have the same options as medical professionals.
+
+- **Expert Reviewer's Original Suggested Change:**
+  "Share any difficulties you have encountered with your current treatment, such as side effects, form of medication preference (pill or injection), lifestyle compatibility, or cost concerns, and ask your healthcare provider about possible alternatives that might address these challenges."
+
+- **Reason for New Suggested Change:**
+  The expert reviewer's sentence could be improved to minimize potential misunderstanding about patient versus professional roles.
+
+- **New Suggested Sentence:**
+  "Share any difficulties with your current treatment, such as side effects, medication form (pill or injection), lifestyle fit, or cost, and consult your healthcare provider about possible alternatives."
+
+- **Deviation:**
+  According to [Source - Article 2: Be Clear and Professional], this makes it clear that the healthcare provider is the decision-maker.
+
+### Comment 5
+
+- **Original Sentence:**
+  "Ask questions or share concerns you have about trying a new medication. This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
+
+- **Deviation:**
+  According to [Source - Communicate With Care Pocket Guide], the sentence might lead to self-management without proper medical oversight.
+
+- **Expert Reviewer's Original Suggested Change:**
+  "Ask questions or share concerns about trying new medications with your healthcare provider to understand their mechanisms and potential side effects."
+
+- **Reason for New Suggested Change:**
+  The expert reviewer's version could be enhanced by specifying the necessity of balanced and factual information provided by the healthcare provider.
+
+- **New Suggested Sentence:**
+  "Discuss any questions or concerns about new medications with your healthcare provider to gain balanced and factual understanding of their mechanisms and potential side effects."
+
+- **Deviation:**
+  According to [Source - Global Legal and Compliance Pocket Guide], it ensures clear, non-promotional, and factual information.
+
+### Comment 6
+
+- **Original Sentence:**
+  "Set realistic expectations with your doctor regarding the timeline and outcomes of your new treatment."
+
+- **Deviation:**
+  According to [Source - Article 2: Provide Context], it lacks detail on why these expectations need to be realistic.
+
+- **Expert Reviewer's Original Suggested Change:**
+  "Work with your healthcare provider to set realistic expectations regarding the timeline and outcomes of your new treatment, based on medical guidelines and your specific health profile."
+
+- **Reason for New Suggested Change:**
+  The expert reviewer's version can be tailored to make it more directive and actionable for the patient under professional guidance.
+
+- **New Suggested Sentence:**
+  "Consult with your healthcare provider to set realistic expectations for the timeline and outcomes of your new treatment, guided by medical guidelines and your health profile."
+
+- **Deviation:**
+  According to [Source - Article 2: Provide Context], it gives a more clear directive aligned with professional advice and medical guidelines.
+
+### Comment 7
+
+- **Original Sentence:**
+  "Discuss when you should follow-up on how your new treatment is working. Typically, type 2 diabetes patients should see their doctor every 3–6 months."
+
+- **Deviation:**
+  According to [Source - Article 2: Stick to Facts], generalized follow-up frequency may not be accurate for all patients.
+
+- **Expert Reviewer's Original Suggested Change:**
+  "Your healthcare provider will advise you on the appropriate follow-up schedule to monitor your new treatment's effectiveness, which is often recommended every 3–6 months for type 2 diabetes patients."
+
+- **Reason for New Suggested Change:**
+  The expert reviewer's sentence is generally appropriate but can be improved to avoid generalization and emphasize individualized care.
+
+- **New Suggested Sentence:**
+  "Consult your healthcare provider on the appropriate follow-up schedule for monitoring the effectiveness of your new treatment, which may typically be every 3–6 months for type 2 diabetes patients."
+
+- **Deviation:**
+  According to [Source - Article 2: Stick to Facts], it prevents generalization and emphasizes individualized care.

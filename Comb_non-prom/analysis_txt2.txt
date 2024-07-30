@@ -1,0 +1,47 @@
+#### Mistake 'When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+#### Mistake 'It can be difficult to start these conversations, but with your treatment goals in mind and by educating yourself more about type 2 diabetes (like you're doing right now!) you'll be able to communicate with your doctor more openly about treatment.':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+#### Mistake 'Here are some topics to consider if you want to speak up about your type 2 diabetes treatment:':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+#### Mistake 'This means talking through and understanding how it works, and the kind of side effects you could potentially experience.':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+#### Mistake 'Typically, type 2 diabetes patients should see their doctor every 3­6 months.':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+#### Mistake 'Remember, this conversation is about working together with your doctor to find the best treatment option for you.':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+#### Mistake 'By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health.':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+### Overall Confusion Matrix:
+- True Positive: 70
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0

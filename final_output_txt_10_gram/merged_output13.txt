@@ -1,0 +1,139 @@
+[document_language]: English
+
+### Sentence 1:
+- **Source Sentence**: Yesterday, I gone to a party with my friend David.
+- **Deviations Corrected**: "gone" should be "went".
+- **Reason**: "Gone" is incorrect in this context. The correct past tense form of "go" is "went".
+- **New Sentence**: Yesterday, I went to a party with my friend David.
+
+### Sentence 2:
+- **Source Sentence**: He study english with me at university.
+- **Deviations Corrected**: "study" should be "studies", "english" should be capitalized to "English".
+- **Reason**: The correct present tense form for "he" is "studies". "English" is a proper noun and should be capitalized.
+- **New Sentence**: He studies English with me at university.
+
+### Sentence 3:
+- **Source Sentence**: He wanted to be introduced to Lucy wo he fancied.
+- **Deviations Corrected**: "wo" should be "who".
+- **Reason**: The correct relative pronoun in this context is "who".
+- **New Sentence**: He wanted to be introduced to Lucy who he fancied.
+
+### Sentence 4:
+- **Source Sentence**: David and I satt in the corner of the room.
+- **Deviations Corrected**: "satt" should be "sat".
+- **Reason**: "Sat" is the correct past tense form of "sit".
+- **New Sentence**: David and I sat in the corner of the room.
+
+### Sentence 5:
+- **Source Sentence**: He didn 't making the first move to go and see her.
+- **Deviations Corrected**: "didn 't making" should be "didn't make".
+- **Reason**: The correct form after "didn't" should be the base form of the verb, which is "make".
+- **New Sentence**: He didn't make the first move to go and see her.
+
+### Sentence 6:
+- **Source Sentence**: He waited for so long to tell her that he had a crush on her.
+- **Deviations Corrected**: None.
+- **Reason**: The sentence is grammatically correct.
+- **New Sentence**: He waited for so long to tell her that he had a crush on her.
+
+### Sentence 7:
+- **Source Sentence**: He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her.
+- **Deviations Corrected**: "taked" should be "took".
+- **Reason**: "Took" is the correct past tense form of "take".
+- **New Sentence**: He took a drink to get some energy and after a few minutes of endless hesitation, he walked to her.
+
+### Sentence 8:
+- **Source Sentence**: David remained mute.
+- **Deviations Corrected**: None.
+- **Reason**: The sentence is grammatically correct.
+- **New Sentence**: David remained mute.
+
+### Sentence 9:
+- **Source Sentence**: She gave a hint of a smile, noticing David blushing.
+- **Deviations Corrected**: None.
+- **Reason**: The sentence is grammatically correct.
+- **New Sentence**: She gave a hint of a smile, noticing David blushing.
+
+### Sentence 10:
+- **Source Sentence**: She asked him if he enjoyed the party.
+- **Deviations Corrected**: None.
+- **Reason**: The sentence is grammatically correct.
+- **New Sentence**: She asked him if he enjoyed the party.
+
+### Sentence 11:
+- **Source Sentence**: He whispered ' Yes ' and had a glance at me.
+- **Deviations Corrected**: Remove spaces around quotation marks and replace "had a glance" with "glanced".
+- **Reason**: Correct punctuation for quotations and the appropriate verb form should be used.
+- **New Sentence**: He whispered 'Yes' and glanced at me.
+
+### Sentence 12:
+- **Source Sentence**: I wincked at him.
+- **Deviations Corrected**: "wincked" should be "winked".
+- **Reason**: "Winked" is the correct spelling.
+- **New Sentence**: I winked at him.
+
+### Sentence 13:
+- **Source Sentence**: That was it.
+- **Deviations Corrected**: None.
+- **Reason**: The sentence is grammatically correct.
+- **New Sentence**: That was it.
+
+### Sentence 14:
+- **Source Sentence**: Feeling reassured and confident, he told her which feelings he was experiencing.
+- **Deviations Corrected**: "which" should be "what".
+- **Reason**: "What" is the correct relative pronoun in this context.
+- **New Sentence**: Feeling reassured and confident, he told her what feelings he was experiencing.
+
+### Sentence 15:
+- **Source Sentence**: She suddenly looked sullen.
+- **Deviations Corrected**: None.
+- **Reason**: The sentence is grammatically correct.
+- **New Sentence**: She suddenly looked sullen.
+
+### Sentence 16:
+- **Source Sentence**: She looked embaressed.
+- **Deviations Corrected**: "embaressed" should be "embarrassed".
+- **Reason**: "Embarrassed" is the correct spelling.
+- **New Sentence**: She looked embarrassed.
+
+### Sentence 17:
+- **Source Sentence**: She could hardly say a word but after a little seconds, she said : ' I' m sorry to deceive you but actually I fancy Sebastian '.
+- **Deviations Corrected**: "a little seconds" should be "a few seconds", Correct placement of quotation marks and spaces, remove space after "said".
+- **Reason**: "A few seconds" is the grammatically correct phrase, and correct punctuation for direct speech.
+- **New Sentence**: She could hardly say a word but after a few seconds, she said: 'I'm sorry to deceive you but actually I fancy Sebastian'.
+
+### Sentence 18:
+- **Source Sentence**: David fainted : ' a friend in need is a friend inded ' !!
+- **Deviations Corrected**: Correct placement of punctuation, "inded" should be "indeed".
+- **Reason**: Correcting the spelling of "indeed" and appropriate punctuation.
+- **New Sentence**: David fainted: 'A friend in need is a friend indeed!'.
+
+### Notice:
+This text is a sample from a specific learning resource and may be copyrighted. The corrections will maintain the integrity of the original content while adhering to grammatical standards.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Sentence 3:
+- **Original Sentence**: He wanted to be introduced to Lucy wo he fancied.
+- **Deviation by Expert Reviewer**: The expert reviewer's suggestion to replace "wo" with "who" does not address the awkward phrasing of "who he fancied."
+- **Expert Reviewer's Suggested Change**: He wanted to be introduced to Lucy who he fancied.
+- **Reason for New Suggested Change**: To improve clarity and readability, rephrase the sentence while maintaining its meaning.
+- **New Suggested Sentence**: He wanted to be introduced to Lucy, whom he fancied.
+
+### Sentence 17:
+- **Original Sentence**: She could hardly say a word but after a little seconds, she said : ' I' m sorry to deceive you but actually I fancy Sebastian '.
+- **Deviation by Expert Reviewer**: The expert reviewer's correction is mostly adequate, but there can be further improvement by removing redundant spaces within the quotation marks.
+- **Expert Reviewer's Suggested Change**: She could hardly say a word but after a few seconds, she said: 'I'm sorry to deceive you but actually I fancy Sebastian'.
+- **Reason for New Suggested Change**: To adhere to the guidelines, remove the unnecessary spaces inside the quotation marks for better clarity.
+- **New Suggested Sentence**: She could hardly say a word, but after a few seconds, she said: 'I'm sorry to deceive you, but actually I fancy Sebastian'.
+
+### Sentence 18:
+- **Original Sentence**: David fainted : ' a friend in need is a friend inded ' !!
+- **Deviation by Expert Reviewer**: The expert reviewer's suggestion corrects "inded" to "indeed" and fixes the punctuation. However, the double exclamation marks can be simplified.
+- **Expert Reviewer's Suggested Change**: David fainted: 'A friend in need is a friend indeed!'.
+- **Reason for New Suggested Change**: To ensure proper punctuation and readability, use a single exclamation mark.
+- **New Suggested Sentence**: David fainted: 'A friend in need is a friend indeed!'.
+
+These changes align with the provided guidelines and improve the overall clarity and readability of the document.

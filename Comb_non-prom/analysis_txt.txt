@@ -1,0 +1,77 @@
+### Analysis of the Reviews
+
+#### Mistake 1)
+**Original Sentence:**
+"It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+1. Mistake `It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial.`:
+   - True Positive: 2
+   - False Negative: 8
+   - False Positive: 0
+   - True Negative: 0
+
+#### Mistake 2)
+**Original Sentence:**
+"It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you're doing right now!)—you'll be able to communicate with your doctor more openly about treatment."
+
+2. Mistake `It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you're doing right now!)—you'll be able to communicate with your doctor more openly about treatment.`:
+   - True Positive: 5
+   - False Negative: 3
+   - False Positive: 2
+   - True Negative: 0
+
+#### Mistake 3)
+**Original Sentence:**
+"Here are some topics to consider if you want to speak up about your type 2 diabetes treatment:"
+
+3. Mistake `Here are some topics to consider if you want to speak up about your type 2 diabetes treatment:`:
+   - True Positive: 3
+   - False Negative: 7
+   - False Positive: 0
+   - True Negative: 0
+
+#### Mistake 4)
+**Original Sentence:**
+"This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
+
+4. Mistake `This means talking through and understanding how it works, and the kind of side effects you could potentially experience.`:
+   - True Positive: 4
+   - False Negative: 4
+   - False Positive: 2
+   - True Negative: 0
+
+#### Mistake 5)
+**Original Sentence:**
+"Typically, type 2 diabetes patients should see their doctor every 3–6 months."
+
+5. Mistake `Typically, type 2 diabetes patients should see their doctor every 3–6 months.`:
+   - True Positive: 5
+   - False Negative: 3
+   - False Positive: 2
+   - True Negative: 0
+
+#### Mistake 6)
+**Original Sentence:**
+"Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+
+6. Mistake `Remember, this conversation is about working together with your doctor to find the best treatment option for you.`:
+   - True Positive: 4
+   - False Negative: 5
+   - False Positive: 1
+   - True Negative: 0
+
+#### Mistake 7)
+**Original Sentence:**
+"By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health."
+
+7. Mistake `By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health.`:
+   - True Positive: 6
+   - False Negative: 2
+   - False Positive: 2
+   - True Negative: 0
+
+### Summary Confusion Matrix
+- True Positive: 29
+- False Negative: 32
+- False Positive: 9
+- True Negative: 0

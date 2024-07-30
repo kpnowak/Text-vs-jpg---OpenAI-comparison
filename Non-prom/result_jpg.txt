@@ -1,115 +1,45 @@
-### Corrections and Justifications:
+**Review of Promotional Material:**
 
-#### 1. Missing Disclaimers
+1. **Guideline Source:** Disclaimer Texts for Non-promotional Material
+   - **Source Sentence to Replace:** “The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor.”
+   - **Deviations Corrected:** "The character and its description are for representation purposes only and does not reflect real patient." According to Disclaimer Texts for Non-promotional Material, the statement must include specific guideline disclaimers.
+   - **New Sentence:** "The information on this website is intended for educational purpose only and should not be substituted for medical advice from your doctor. The character and its description are for representation purposes only and do not reflect real patients."
+   - **Reason for Replacing:** This change ensures that a general disclaimer is clearly provided, as specified in the guidelines.
 
-**Source Sentence:**
-(There is no disclaimer at the beginning of the document)
+2. **Guideline Source:** EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility, Point iv
+   - **Source Sentence to Replace:** The first sentence under "Related Articles" section: "What should you expect from your type 2 diabetes treatment?"
+   - **Deviations Corrected:** "Informational or Educational Materials and Items of Medical Utility... must not be product branded, unless the Medicinal Product’s name is essential for the correct use of the material or item by the patient."
+   - **New Sentence:** "What should you expect from managing your type 2 diabetes treatment?"
+   - **Reason for Replacing:** Ensuring that the section heading is non-promotional and is not implicitly linked to a specific product.
 
-**Deviations:**
-According to [Disclaimer Texts for Non-promotional Material], Article 1 states that any materials used for internal communication or local distribution should contain a disclaimer indicating their intended use and confidentiality.
+3. **Guideline Source:** EFPIA Chapter 3, Article 18 - Non-Interventional Studies, Point ii
+   - **Source Sentence to Replace:** “Discuss any difficulties you’ve experienced with your current treatment—such as side effects...”
+   - **Deviations Corrected:** Statements must provide objective and factual information without promotional intent. The comment focuses specifically on side effects, which may implicitly emphasize a product's limitations.
+   - **New Sentence:** “Discuss any challenges you’ve experienced with your current treatment—such as managing side effects...”
+   - **Reason for Replacing:** Promotes a balanced view by referencing challenges more broadly, thereby aligning better with the non-promotional guidelines.
 
-**New Sentence:**
-"This is a DRAFT, for preparatory use in NN only. Affiliates are responsible for compliance with local procedures and for review of such non-promotional material, e.g., against more stringent local legislation, and if relevant local code of conduct before distribution."
+4. **Guideline Source:** Global Legal & Compliance Pocket Guide Semaglutide portfolio, Article 1 - Non-Promotional Material, Point ii
+   - **Source Sentence to Replace:** “Talk about your lifestyle and how a new treatment might be better suited for you.”
+   - **Deviations Corrected:** "Dissemination of factual information about unapproved products or new clinical data is permitted without promotional intent..."
+   - **New Sentence:** “Talk about your lifestyle and discuss with your doctor how different treatments might be better suited for you.”
+   - **Reason for Replacing:** This change ensures that discussions are focused on a variety of treatments, which provides a more balanced and non-promotional approach.
 
-**Justification:**
-Adding this disclaimer ensures that affiliates are aware of their responsibilities and comply with local regulations before distributing the material.
+5. **Guideline Source:** EFPIA Chapter 3, Article 16 - Lifelong Learning in Healthcare, Point i
+   - **Source Sentence to Replace:** “If you feel a change could be beneficial.”
+   - **Deviations Corrected:** Ensuring that educational material does not implicitly suggest the need for medication change, which can be interpreted as promotion.
+   - **New Sentence:** “If you feel adjustments to your management plan could be beneficial.”
+   - **Reason for Replacing:** This phrasing focuses on management adjustments in general and avoids implying a direct need for new or different medication.
+   
+6. **Guideline Source:** EFPIA Chapter 3, Article 16 - Lifelong Learning in Healthcare, Point i
+   - **Source Sentence to Replace:** "By educating yourself more about type 2 diabetes (like you’re doing right now!)"
+   - **Deviations Corrected:** LLH activities must be fair, balanced and objective and must not include exclamatory remarks that can seem promotional.
+   - **New Sentence:** "By gaining more knowledge about type 2 diabetes through credible sources."
+   - **Reason for Replacing:** Ensures that the statement remains professional, objective, and non-promotional.
 
------
+7. **Guideline Source:** Disclaimer Texts for Non-promotional Material
+   - **Source Sentence to Replace:** The second disclaimer at the bottom of the page.
+   - **Deviations Corrected:** More disclaimers are needed to cover all aspects of patient education and communication.
+   - **New Sentence:** "If you experience any side effects while using the prescribed medication, talk to your doctor, pharmacist, or nurse. This includes any possible side effects not listed in the package leaflet. You can also report side effects directly via the local customer contact function or local safety department."
+   - **Reason for Replacing:** Adds essential disclaimers ensuring full compliance with international standards for non-promotional educational material for patients.
 
-#### 2. Product Branding and Inducement Clause
-
-**Source Sentence:**
-(General text and mentions of treatment options without clear classification of the material type)
-
-**Deviations:**
-According to [EFPIA Chapter 3, Article 17.iv], Informational or Educational Materials must not be product branded unless the medicinal product’s name is essential for its use.
-
-**New Sentence:**
-"The information provided does not promote specific branded products and is for educational purposes only, aiming to increase awareness about general treatment options for managing diabetes."
-
-**Justification:**
-Clearly stating the non-promotional intent of the material ensures compliance with EFPIA regulations and prevents any interpretation of indirect promotion.
-
------
-
-#### 3. Use of Non-Promotional Context
-
-**Source Sentence:**
-"When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs.”
-
-**Deviations:**
-According to [Communicate With Care Pocket Guide, Article 1], it's important to make sure the tone remains educational and does not imply promotional intent.
-
-**New Sentence:**
-"When managing type 2 diabetes, regularly evaluating and adjusting your treatment under medical guidance can be beneficial."
-
-**Justification:**
-This rephrasing focuses on a more educational standpoint rather than a personal suggestion, preventing any unintended promotional tone.
-
------
-
-#### 4. Off-Label Information Clarification
-
-**Source Sentence:**
-“Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available).”
-
-**Deviations:**
-According to [Global Legal & Compliance Pocket Guide Semaglutide portfolio, Article 1.ii], it is critical to avoid implying off-label use or treatment preferences that are not supported by clinical evidence.
-
-**New Sentence:**
-"Discuss any difficulties you’ve experienced with your current treatment—such as side effects, and explore available treatment options under your doctor’s guidance."
-
-**Justification:**
-This correction ensures that the statement is factual and does not suggest off-label use, complying with non-promotional guidelines.
-
------
-
-#### 5. Clear and Professional Communication
-
-**Source Sentence:**
-“Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion.”
-
-**Deviations:**
-According to [Communicate With Care Pocket Guide, Article 2], the communication should maintain a neutral, factual tone to avoid exaggerations or misinterpretations.
-
-**New Sentence:**
-“While your doctor provides medical expertise, it is essential to communicate your needs and preferences regarding type 2 diabetes management during your discussions.”
-
-**Justification:**
-Ensures a professional tone, emphasizing collaborative care and maintaining clarity.
-
------
-
-#### 6. Consistency and Compliance
-
-**Source Sentence:**
-“Remember, this conversation is about working together with your doctor to find the best treatment option for you.”
-
-**Deviations:**
-According to [EFPIA Chapter 3, Article 16.i], Educational materials should promote fair, balanced and objective scientific information.
-
-**New Sentence:**
-“Remember, collaborating with your doctor helps find the most appropriate treatment option based on evidenced-based medical guidance.”
-
-**Justification:**
-Emphasizes evidence-based decisions, fostering compliance with educational content standards.
-
------
-
-#### 7. Unbiased Non-Promotional Stance
-
-**Source Sentence:**
-“Ask questions or share concerns about trying a new medication. This means talking through and understanding how it works, and the kind of side effects you could potentially experience.”
-
-**Deviations:**
-According to [EFPIA Chapter 3, Article 17.iii], materials should not serve as an inducement to prescribe or promote specific medications.
-
-**New Sentence:**
-“Engage in discussions with your doctor about how different medications work and their potential side effects, ensuring you make informed choices.”
-
-**Justification:**
-Promotes an unbiased viewpoint and underscores informed decision-making without suggesting a particular medication.
-
------
-
-These corrections ensure that the reviewed document aligns with the "Non-Promotional Material Guidelines," maintaining ethical standards, clarity, and compliance with all relevant regulations.
+By addressing these deviations, the material now aligns better with the Non-Promotional Material Guidelines, ensuring clarity, professionalism, and compliance with the ethical standards outlined in the guidelines.

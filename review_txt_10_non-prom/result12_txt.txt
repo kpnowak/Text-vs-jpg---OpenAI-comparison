@@ -1,0 +1,52 @@
+### Review
+
+#### Sentence 1:
+- **Original Sentence**: "It can be difficult to start these conversations, but with your treatment goals in mind – and by educating yourself more about type 2 diabetes (like you're doing right now!) – you'll be able to communicate with your doctor more openly about treatment."
+- **Guideline Source**: Communicate With Care Pocket Guide
+- **Deviations**:
+  - **Article 2.ii. Maintain Professional Tone**: The use of casual language like "like you're doing right now!" can be viewed as unprofessional and condescending.
+- **New Sentence**: "It can be challenging to start these conversations, but with your treatment goals in mind and by educating yourself more about type 2 diabetes, you will be able to communicate more effectively with your doctor about treatment."
+- **Reason**: Replacing the casual language with a professional tone enhances clarity and maintains a respectful tone, aligning with professional writing standards.
+
+#### Sentence 2:
+- **Original Sentence**: "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+- **Guideline Source**: Communicate With Care Pocket Guide
+- **Deviations**:
+  - **Article 2.ii. Provide Context**: The statement lacks additional context about the importance of the patient's role.
+- **New Sentence**: "While your doctor is the medical expert, it is essential to acknowledge that you, as a patient living with type 2 diabetes, understand your own body and experience."
+- **Reason**: This sentence provides a clearer context, emphasizing the patient's importance without downplaying the doctor's role.
+
+#### Sentence 3:
+- **Original Sentence**: "Discuss any difficulties you've experienced with your current treatment – such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high – and ask if there might be a better alternative that addresses these challenges."
+- **Guideline Source**: Disclaimer Texts for Non-promotional Material
+- **Deviations**:
+  - **Article 3.iii. Stick to Facts**: Suggesting treatment alternatives without a disclaimer might imply promotional intent.
+- **New Sentence**: "Discuss any difficulties you've experienced with your current treatment, such as side effects, method of administration, lifestyle compatibility, or cost, and ask your doctor if there might be a better alternative that addresses these challenges."
+- **Reason**: This revision places the responsibility on the doctor to suggest alternatives and remains factual, without implying any promotion.
+
+#### Sentence 4:
+- **Original Sentence**: "Your doctor should have useful strategies that can help you manage them or decide if you should switch to something else."
+- **Guideline Source**: Global Legal & Compliance Pocket Guide Semaglutide portfolio
+- **Deviations**:
+  - **Article 1.ii. Off-Label Information**: Suggesting switching without context can imply off-label promotion.
+- **New Sentence**: "Your doctor should have useful strategies to help you manage side effects or discuss if an alternative treatment might be appropriate."
+- **Reason**: This focuses on the general role of the doctor in providing medical advice without implying off-label promotion.
+
+#### Sentence 5:
+- **Original Sentence**: "Here are some topics to consider if you want to speak up about your type 2 diabetes treatment:"
+- **Guideline Source**: Communicate With Care Pocket Guide
+- **Deviations**:
+  - **Article 1.ii. Maintain Professional Tone**: The phrase "if you want to speak up" might be perceived as informal.
+- **New Sentence**: "Consider discussing the following topics regarding your type 2 diabetes treatment with your doctor:"
+- **Reason**: The revised sentence maintains a professional tone and provides clear guidance on content without sounding casual.
+
+#### Sentence 6:
+- **Original Sentence**: "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+- **Guideline Source**: Communicate With Care Pocket Guide
+- **Deviations**:
+  - **Article 2.ii. Provide Context**: The phrase "best treatment option" could imply a particular medical recommendation.
+- **New Sentence**: "Remember, this conversation aims to collaborate with your doctor to determine an appropriate treatment option tailored to your needs."
+- **Reason**: This revision avoids any implication of promoting a specific treatment and emphasizes a collaborative approach.
+
+### Summary
+The revised sentences adhere more closely to the professional tone, factual nature, and clear context required by the Non-Promotional Material Guidelines. This ensures the content is informative without being misconstrued as promotional or unprofessional.

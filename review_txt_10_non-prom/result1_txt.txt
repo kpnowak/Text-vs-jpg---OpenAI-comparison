@@ -1,0 +1,46 @@
+**Review of the Document:**
+
+The document to review is delimited by XXX:
+
+### Document: How to talk about treatment options
+
+### Evaluation and Rewriting of Sentences:
+
+1. **Guideline source which influenced your response**: Source - EFPIA Chapter 3, Article 17, Clause i(b) & Article 17, Clause iv
+   **The source sentence your new sentence replaces**: "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+   **The deviations your new sentence corrects**: The current sentence might inadvertently imply the need for a specific medical product thereby constituting a form of promotion.
+   **Your new sentence**: "It's important that you feel empowered and ready to talk to your doctor to ensure that your treatment aligns with your personal health goals and needs."
+   **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: Ensures that the emphasis is on aligning treatment with health goals rather than implying a need for product change, avoiding promotional language.
+
+2. **Guideline source which influenced your response**: Source - EFPIA Chapter 3, Article 17, Clause iv
+   **The source sentence your new sentence replaces**: "Share your personal goals, whether it's better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective."
+   **The deviations your new sentence corrects**: Prevents the implication of any specific medicinal product as a solution.
+   **Your new sentence**: "Share your personal goals, such as better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how different approaches could help you achieve these objectives."
+   **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: Focuses on discussing approaches rather than implying the use of specific medical products, adhering to non-promotional guidelines.
+
+3. **Guideline source which influenced your response**: Source - Communicate With Care Pocket Guide, Article 2, Clause ii & iii
+   **The source sentence your new sentence replaces**: "Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might be a better alternative that addresses these challenges."
+   **The deviations your new sentence corrects**: The mention of specific treatment forms (pills or injections) might be seen as a promotional style, and the sentence lacks clarity on broader treatment alternatives.
+   **Your new sentence**: "Discuss any difficulties you've experienced with your current treatment—such as side effects, ease of administration, compatibility with your lifestyle, or cost implications—and inquire about possible alternatives that could address these challenges."
+   **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: Removes references to specific forms of treatment and provides a more balanced context for discussing alternatives, in line with communication guidelines.
+
+4. **Guideline source which influenced your response**: Source - EFPIA Chapter 3, Article 17, Clause iv
+   **The source sentence your new sentence replaces**: "Talk about your lifestyle and how a new treatment might be better suited for you."
+   **The deviations your new sentence corrects**: Reduces the promotional tone by avoiding direct suggestion of a "new treatment."
+   **Your new sentence**: "Talk about your lifestyle and how different treatment options might be better suited for you."
+   **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: Maintains an objective stance on treatment options, ensuring communication is non-promotional.
+
+5. **Guideline source which influenced your response**: Source - Communicate With Care Pocket Guide, Article 2, Clause ii & iii
+   **The source sentence your new sentence replaces**: "Ask questions or share concerns you have about trying a new medication."
+   **The deviations your new sentence corrects**: Avoids the direct mention of "new medication," which could be interpreted as promoting change.
+   **Your new sentence**: "Ask questions or share concerns you have about adjusting your treatment plan."
+   **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: Focuses on the patient’s concerns about their treatment plan rather than suggesting they try new medications, aligning with non-promotional guidelines.
+
+6. **Guideline source which influenced your response**: Source - Disclaimer Texts for Non-promotional Material, Article 3, Clause v
+   **The source sentence your new sentence replaces**: "This conversation is about working together with your doctor to find the best treatment option for you."
+   **The deviations your new sentence corrects**: Avoids promotion and includes a disclaimer for medical advice.
+   **Your new sentence**: "This conversation is about working together with your doctor to find the most appropriate treatment plan. Always seek medical advice from your healthcare provider regarding your specific condition."
+   **The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: Ensures clarity and emphasizes the need for professional medical consultation, while avoiding promotion.
+
+### Conclusion:
+These replacements are devised to adhere strictly to the Non-Promotional Material Guidelines by eliminating language that could imply promotion of specific medicinal products, and ensuring communication maintains a balanced and objective tone. Each rewritten sentence improves compliance with the guiding principles and legal requirements outlined across the referenced sources.

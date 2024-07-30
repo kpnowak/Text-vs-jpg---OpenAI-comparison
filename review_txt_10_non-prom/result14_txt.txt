@@ -1,0 +1,62 @@
+### Review of the Document: "How to talk about treatment options"
+
+#### 1. Tone and Clarity
+**Source sentence:** "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."  
+**Deviations corrected:** 
+- According to [Source - Communicate With Care Pocket Guide] Article 2, maintaining a professional tone and providing context is essential.  
+**New sentence:** "For individuals living with type 2 diabetes, it is common to reevaluate and modify treatment plans to meet evolving personal health needs."  
+**Reason:** The new sentence maintains a professional and objective tone while clearly addressing the context.
+
+#### 2. Providing Context for Medical Advice
+**Source sentence:** "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."  
+**Deviations corrected:** 
+- According to [Source - Communicate With Care Pocket Guide] Article 2, providing context to prevent misunderstandings is vital.  
+**New sentence:** "It's crucial to feel confident and prepared to discuss your health condition with your doctor when you believe a change in treatment could be beneficial."  
+**Reason:** The revised sentence provides clear context that the discussion should be about the health condition specifically, ensuring no ambiguity.
+
+#### 3. Emphasizing HCP Role
+**Source sentence:** "Your doctor is the medical expert, but you are the one living with type 2 diabetes."  
+**Deviations corrected:** 
+- According to [Source - EFPIA Chapter 3] Article 16, the role of the healthcare professional (HCP) should be clearly acknowledged.  
+**New sentence:** "While your doctor is the medical expert, you have unique insights into living with type 2 diabetes."  
+**Reason:** The revision emphasizes the expertise of the doctor and maintains that the patient has personal insights into their daily experiences.
+
+#### 4. Balanced and Objective Content
+**Source sentence:** "Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."  
+**Deviations corrected:** 
+- According to [Source - EFPIA Chapter 3] Article 16, content must be fair, balanced, and objective; promotional content must be avoided.  
+**New sentence:** "Discuss any challenges you've experienced with your current treatment—such as side effects, the modality of administration (e.g., pill or injection), lifestyle fit, and cost—and inquire about other options that might better address these challenges."  
+**Reason:** This revised sentence is more balanced and objective, avoiding any implication of preference or promotion of one type of treatment over another.
+
+#### 5. Non-Promotional Intent
+**Source sentence:** "Talk about your lifestyle and how a new treatment might be better suited for you."  
+**Deviations corrected:** 
+- According to [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio] Article 1, non-promotional material should not imply a recommendation of one treatment over another.  
+**New sentence:** "Discuss your lifestyle and explore whether alternative treatments might be better suited for your needs."  
+**Reason:** The new sentence avoids implying a recommendation, thus aligning with non-promotional guidelines.
+
+#### 6. Ensuring Scientific Integrity
+**Source sentence:** "This means talking through and understanding how it works, and the kind of side effects you could potentially experience."  
+**Deviations corrected:** 
+- According to [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio] Article 1, dissemination must be balanced and scientific, not promotional.  
+**New sentence:** "This involves discussing the mechanism of action and potential side effects of the new medication."  
+**Reason:** The sentence is more technically accurate and maintains scientific integrity.
+
+#### 7. Encouraging Collaborative Efforts
+**Source sentence:** "Remember, this conversation is about working together with your doctor to find the best treatment option for you."  
+**Deviations corrected:** 
+- According to [Source - EFPIA Chapter 3] Article 16, encouraging collaboration without implying the superiority of any treatment is important.  
+**New sentence:** "Remember, the goal is to collaborate with your doctor to identify the most suitable treatment option for your unique needs."  
+**Reason:** The revision emphasizes the collaborative nature of the doctor-patient relationship without implying any particular treatment is superior.
+
+### Additional Disclaimers (Based on Content)
+**Addition:** "This information is intended for educational purposes and should not be substituted for medical advice from your healthcare professional."
+**Reason:** To ensure clarity and adherence to non-promotional guidelines, adding a disclaimer is essential.
+
+### References Addition
+The reference section should include:
+**New Disclaimer:** “Please see patient information leaflet in the package for additional information.”  
+**Reason:** This aligns with the [Source - Disclaimer Texts for Non-promotional Material] to remind patients to consult official documents for comprehensive information.
+
+### Conclusion
+By applying these revisions, the materials will better comply with the "Non-Promotional Material Guidelines," ensuring they are educational, scientifically balanced, and devoid of promotional intent.

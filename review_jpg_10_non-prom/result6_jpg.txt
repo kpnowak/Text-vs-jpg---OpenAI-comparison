@@ -1,105 +1,52 @@
-### Review and Recommendations
+### Review and Recommended Revisions:
 
-#### 1. **Header Title: "How to talk about treatment options"**
+#### Deviation 1:
+- **Guideline Source:** [Source - Communicate With Care Pocket Guide]
+- **Source Sentence:** "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- **Deviation:**
+  - The source sentence does not maintain a formal and professional tone in accordance with the guidelines, and lacks context which could prevent misunderstandings. 
+- **New Sentence:** "Living with type 2 diabetes necessitates periodic reevaluation and adjustment of your treatment plan to address your evolving personal health needs."
+- **Reason for Replacement:** This revision ensures the content maintains a professional tone and provides clearer context, thus adhering better to the guidelines provided in the Global Legal & Compliance Pocket Guide.
 
-**Guideline Source:**
-- Source - EFPIA Chapter 4: Article 21 - Interactions with POs.
+#### Deviation 2:
+- **Guideline Source:** [Source - EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility]
+- **Source Sentence:** "You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+- **Deviation:**
+  - The source sentence could be perceived as promoting the materials themselves rather than being purely educational or informational.
+- **New Sentence:** "Your awareness of your personal health needs is crucial for advocating appropriate medical treatments during discussions with your healthcare provider."
+- **Reason for Replacement:** This revision ensures the material remains informational and educational without suggesting a promotional bias.
 
-**Source Sentence Replacement:**
-- Original sentence: "How to talk about treatment options"
+#### Deviation 3:
+- **Guideline Source:** [Source - EFPIA Chapter 3, Article 18 - Non-Interventional Studies]
+- **Source Sentence:** "Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
+- **Deviation:**
+  - The sentence needs to be more scientifically driven and avoid inducing product-specific recommendations, thus remaining non-promotional.
+- **New Sentence:** "Share any challenges encountered with your current treatment, such as side effects, administration preferences, lifestyle compatibility, and cost considerations, and inquire about potential alternatives scientifically evaluated to address these concerns."
+- **Reason for Replacement:** This ensures the discussion remains non-promotional and scientifically focused.
 
-**Deviation:**
-- According to EFPIA Chapter 4, Article 21.ii: "EU and national laws and regulations prohibit the advertising of POM to the general public."
+#### Deviation 4:
+- **Guideline Source:** [Source - Disclaimer Texts for Non-promotional Material, Article 3 - General Disclaimers]
+- **Source Sentence:** "Typically, type 2 diabetes patients should see their doctor every 3–6 months."
+- **Deviation:**
+  - The source sentence suggests a clinical guideline without sufficient context on individual variances.
+- **New Sentence:** "It is generally recommended for patients with type 2 diabetes to have regular consultations with their healthcare provider at intervals such as every 3–6 months, though individual needs may vary."
+- **Reason for Replacement:** This correction includes a disclaimer which accounts for individual variability in treatment plans and consultations, aligning with non-promotional guidelines.
 
-**New Sentence:**
-- "How to discuss your diabetes management options with your healthcare professional"
+#### Deviation 5:
+- **Guideline Source:** [Source - Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional]
+- **Source Sentence:** "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+- **Deviation:**
+  - The sentence lacks clarity and could benefit from a more professional tone.
+- **New Sentence:** "While your doctor is the clinical expert, you possess unique insights into your daily experience managing type 2 diabetes."
+- **Reason for Replacement:** This revision clarifies roles and maintains a professional tone, as per the guidelines.
 
-**Reason for Replacement:**
-- The new title avoids any implication of promoting a particular product, ensuring compliance with non-promotional guidelines by focusing on general diabetes management instead of specific treatment options.
+#### Deviation 6:
+- **Guideline Source:** [Source - Disclaimer Texts for Non-promotional Material, Article 3 - General Disclaimers]
+- **Source Sentence:** "Go to every appointment prepared to talk, ask questions and find solutions together."
+- **Deviation:**
+  - The source sentence does not include a disclaimer and could mislead into assuming a generalized approach to all patients.
+- **New Sentence:** "Approach each appointment prepared to discuss, inquire, and collaboratively find solutions tailored to your specific health needs, recognizing that individual experiences may vary."
+- **Reason for Replacement:** This revision ensures a tailored approach and includes a disclaimer for individualized care, making the statement non-promotional and aligned with guidelines.
 
-#### 2. **First Paragraph: "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."**
-
-**Guideline Source:**
-- Source - Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional.
-
-**Source Sentence Replacement:**
-- Original sentence: "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
-
-**Deviation:**
-- EFPIA Chapter 3, Article 16 - LLH activities must have content that is fair, balanced and objective.
-
-**New Sentence:**
-- "Managing type 2 diabetes often involves reevaluating your treatment plan to meet your evolving health needs."
-
-**Reason for Replacement:**
-- This rephrasing maintains a professional tone and ensures the content is objective and balanced.
-
-#### 3. **Section: "Goals" Paragraph**
-
-**Guideline Source:**
-- Source - Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers.
-
-**Source Sentence Replacement:**
-- Original sentence: "Share your personal goals, whether it’s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective."
-
-**Deviation:**
-- According to EFPIA Chapter 3, Article 17.iv: Informational and Educational Materials must not be product branded, unless the Medicinal Product’s name is essential.
-
-**New Sentence:**
-- "Discuss your personal health goals with your doctor, such as managing blood sugar levels, achieving weight management, or reducing cardiovascular risk, and explore ways your current treatment plan can be optimized."
-
-**Reason for Replacement:**
-- This alternative phrasing avoids implying the use of a specific medicinal product, ensuring the content remains non-promotional and aligned with guidelines.
-
-#### 4. **Section: "Challenges" Paragraph**
-
-**Guideline Source:**
-- Source - Communicate With Care Pocket Guide: Article 1 - Be Mindful.
-
-**Source Sentence Replacement:**
-- Original sentence: "Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
-
-**Deviation:**
-- EFPIA Chapter 3, Article 18.i: Non-Interventional Studies must be conducted with a primarily scientific purpose and must not be disguised Promotion.
-
-**New Sentence:**
-- "Discuss any difficulties you’ve faced with your current treatment, including side effects, preferences for medication forms, lifestyle compatibility, and cost concerns, and ask your doctor about alternative options that may better address these issues."
-
-**Reason for Replacement:**
-- This rephrasing maintains a factual, non-promotional tone and ensures the content addresses a range of challenges without promoting specific products.
-
-#### 5. **Section: "Lifestyle" Paragraph**
-
-**Guideline Source:**
-- Source - Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional.
-
-**Source Sentence Replacement:**
-- Original sentence: "Talk about your lifestyle and how a new treatment might be better suited for you."
-
-**Deviation:**
-- According to EFPIA Chapter 3, Article 16 - LLH activities must have content that is fair, balanced and objective.
-
-**New Sentence:**
-- "Discuss how your lifestyle might impact your treatment choices and whether a different approach might better suit your needs."
-
-**Reason for Replacement:**
-- This change ensures the content remains balanced and objective, aligning with the guidelines for non-promotional educational materials.
-
-#### 6. **Section: "Concerns and side effects" Paragraph**
-
-**Guideline Source:**
-- Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication: Article 1 - Non-Promotional Material.
-
-**Source Sentence Replacement:**
-- Original sentence: "Ask questions or share concerns you have about trying a new medication."
-
-**Deviation:**
-- EFPIA Chapter 3, Article 16 - LLH activities must be evidence-based and designed to allow the expression of diverse evidence-based science.
-
-**New Sentence:**
-- "Share any concerns you have about your current treatment or potential new treatment options, including understanding their mechanisms and side effects."
-
-**Reason for Replacement:**
-- This rephrasing opens the conversation to a broader discussion of treatment options and ensures diverse evidence-based science is considered.
-
-By implementing these changes, the document will be more aligned with the Non-Promotional Material Guidelines, maintaining compliance and ensuring a high standard of educational content.
+### Final Note:
+The suggested revisions above address deviations from the provided guidelines by adhering to the ethical principles and maintaining high standards for non-promotional materials. Each revised sentence ensures clarity, professionalism, and educational value without constituting promotion.

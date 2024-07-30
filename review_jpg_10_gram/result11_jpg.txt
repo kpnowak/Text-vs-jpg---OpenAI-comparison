@@ -1,0 +1,221 @@
+Step 1: The prominent language of the document is English. 
+Step 2: According to the provided instructions, since [document_language] is English, proceed with reviewing the English content.
+Step 4 through Step 6: Review the document meticulously for grammatical accuracy.
+ 
+### Sentence-by-Sentence Review:
+
+1. **Source Sentence:**
+   "Yesterday, I gone to a party with my friend David."
+   
+   **Deviations:**
+   - Incorrect past tense usage.
+   
+   **Correction:**
+   - Use "went" instead of "gone" to conform to the past simple tense.
+   
+   **New Sentence:**
+   "Yesterday, I went to a party with my friend David."
+
+2. **Source Sentence:**
+   "He study english with me at university."
+   
+   **Deviations:**
+   - Incorrect verb form for the third person singular.
+   - "english" should be capitalized.
+   
+   **Correction:**
+   - Change "study" to "studies."
+   - Capitalize "English."
+   
+   **New Sentence:**
+   "He studies English with me at university."
+
+3. **Source Sentence:**
+   "He wanted to be introduced to Lucy wo he fancied."
+   
+   **Deviations:**
+   - Misspelling of "who."
+   
+   **Correction:**
+   - Correct "wo" to "who."
+   
+   **New Sentence:**
+   "He wanted to be introduced to Lucy who he fancied."
+
+4. **Source Sentence:**
+   "David and I satt in the corner of the room."
+   
+   **Deviations:**
+   - Misspelling of "sat."
+   
+   **Correction:**
+   - Correct "satt" to "sat."
+   
+   **New Sentence:**
+   "David and I sat in the corner of the room."
+
+5. **Source Sentence:**
+   "He didn ' t making the first move to go and see her."
+   
+   **Deviations:**
+   - Incorrect verb form.
+   - Extra spaces around the contraction.
+   
+   **Correction:**
+   - Change "making" to "make."
+   - Remove extra spaces around the contraction "didn’t."
+   
+   **New Sentence:**
+   "He didn't make the first move to go and see her."
+
+6. **Source Sentence:**
+   "He waited for so long to tell her that he had a crush on her."
+   
+   **Deviations:**
+   - No significant deviation noted.
+   
+   **New Sentence:**
+   "He waited for so long to tell her that he had a crush on her."
+
+7. **Source Sentence:**
+   "He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+   
+   **Deviations:**
+   - Incorrect past tense of "take."
+   
+   **Correction:**
+   - Correct "taked" to "took."
+   
+   **New Sentence:**
+   "He took a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+
+8. **Source Sentence:**
+   "David remained mute."
+   
+   **Deviations:**
+   - No significant deviation noted.
+   
+   **New Sentence:**
+   "David remained mute."
+
+9. **Source Sentence:**
+   "She gave a hint of a smile, noticing David blushing."
+   
+   **Deviations:**
+   - No significant deviation noted.
+   
+   **New Sentence:**
+   "She gave a hint of a smile, noticing David blushing."
+
+10. **Source Sentence:**
+    "She asked him if he enjoyed the party."
+    
+    **Deviations:**
+    - No significant deviation noted.
+    
+    **New Sentence:**
+    "She asked him if he enjoyed the party."
+
+11. **Source Sentence:**
+    "He whispered ' Yes ' and had a glance at me."
+    
+    **Deviations:**
+    - Incorrect punctuation. Single quotes should be replaced with double quotes for consistency as this is standard in British English.
+    
+    **Correction:**
+    - Use double quotes instead of single quotes.
+    
+    **New Sentence:**
+    "He whispered "Yes" and had a glance at me."
+
+12. **Source Sentence:**
+    "I wincked at him."
+    
+    **Deviations:**
+    - Misspelling of "winked."
+    
+    **Correction:**
+    - Correct "wincked" to "winked."
+    
+    **New Sentence:**
+    "I winked at him."
+
+13. **Source Sentence:**
+    "That was it."
+    
+    **Deviations:**
+    - No significant deviation noted.
+    
+    **New Sentence:**
+    "That was it."
+
+14. **Source Sentence:**
+    "Feeling reassured and confident, he told her which feelings he was experiencing."
+    
+    **Deviations:**
+    - No significant deviation noted.
+    
+    **New Sentence:**
+    "Feeling reassured and confident, he told her which feelings he was experiencing."
+
+15. **Source Sentence:**
+    "She suddenly looked sullen."
+    
+    **Deviations:**
+    - No significant deviation noted.
+    
+    **New Sentence:**
+    "She suddenly looked sullen."
+
+16. **Source Sentence:**
+    "She looked emarased."
+    
+    **Deviations:**
+    - Misspelling of "embarrassed."
+
+    **Correction:**
+    - Correct "emarased" to "embarrassed."
+
+    **New Sentence:**
+    "She looked embarrassed."
+
+17. **Source Sentence:**
+    "She could hardly say a word but after a little seconds, she said: ' I ' m sorry to deceive you but actually I fancy Sebastian '."
+
+    **Deviations:**
+    - Poor choice of wording "a little seconds." It should be "a few seconds."
+    - Extra spaces around contractions.
+    - Single quotes should be replaced with double quotes for consistency as this is standard in British English.
+   
+    **Correction:**
+    - Change "a little seconds" to "a few seconds."
+    - Remove extra spaces around contractions.
+    - Use double quotes instead of single quotes.
+    
+    **New Sentence:**
+    "She could hardly say a word but after a few seconds, she said: "I'm sorry to deceive you but actually I fancy Sebastian."
+
+18. **Source Sentence:**
+    "David fainted: ' a friend in need is a friend indeed ' !!"
+    
+    **Deviations:**
+    - Single quotes should be replaced with double quotes for consistency as this is standard in British English.
+    - Overuse of exclamation points. One exclamation point is sufficient.
+   
+    **Correction:**
+    - Use double quotes instead of single quotes.
+    - Reduce exclamation points to one.
+    
+    **New Sentence:**
+    "David fainted: "a friend in need is a friend indeed!"
+
+### Summary:
+
+- Corrected grammatical errors including verb forms, spelling, and use of quotations.
+- Ensured proper punctuation, especially in dialogue.
+- Improved readability and grammatical consistency throughout the document.
+
+- The source sentences with noted deviations.
+- The grammatical deviations identified.
+- The reasons for the corrections and how they resolve the deviations.
+- The new corrected sentences.

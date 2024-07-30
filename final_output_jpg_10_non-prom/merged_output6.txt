@@ -1,0 +1,103 @@
+### Review and Recommended Revisions:
+
+#### Deviation 1:
+- **Guideline Source:** [Source - Communicate With Care Pocket Guide]
+- **Source Sentence:** "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- **Deviation:**
+  - The source sentence does not maintain a formal and professional tone in accordance with the guidelines, and lacks context which could prevent misunderstandings. 
+- **New Sentence:** "Living with type 2 diabetes necessitates periodic reevaluation and adjustment of your treatment plan to address your evolving personal health needs."
+- **Reason for Replacement:** This revision ensures the content maintains a professional tone and provides clearer context, thus adhering better to the guidelines provided in the Global Legal & Compliance Pocket Guide.
+
+#### Deviation 2:
+- **Guideline Source:** [Source - EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility]
+- **Source Sentence:** "You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+- **Deviation:**
+  - The source sentence could be perceived as promoting the materials themselves rather than being purely educational or informational.
+- **New Sentence:** "Your awareness of your personal health needs is crucial for advocating appropriate medical treatments during discussions with your healthcare provider."
+- **Reason for Replacement:** This revision ensures the material remains informational and educational without suggesting a promotional bias.
+
+#### Deviation 3:
+- **Guideline Source:** [Source - EFPIA Chapter 3, Article 18 - Non-Interventional Studies]
+- **Source Sentence:** "Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
+- **Deviation:**
+  - The sentence needs to be more scientifically driven and avoid inducing product-specific recommendations, thus remaining non-promotional.
+- **New Sentence:** "Share any challenges encountered with your current treatment, such as side effects, administration preferences, lifestyle compatibility, and cost considerations, and inquire about potential alternatives scientifically evaluated to address these concerns."
+- **Reason for Replacement:** This ensures the discussion remains non-promotional and scientifically focused.
+
+#### Deviation 4:
+- **Guideline Source:** [Source - Disclaimer Texts for Non-promotional Material, Article 3 - General Disclaimers]
+- **Source Sentence:** "Typically, type 2 diabetes patients should see their doctor every 3–6 months."
+- **Deviation:**
+  - The source sentence suggests a clinical guideline without sufficient context on individual variances.
+- **New Sentence:** "It is generally recommended for patients with type 2 diabetes to have regular consultations with their healthcare provider at intervals such as every 3–6 months, though individual needs may vary."
+- **Reason for Replacement:** This correction includes a disclaimer which accounts for individual variability in treatment plans and consultations, aligning with non-promotional guidelines.
+
+#### Deviation 5:
+- **Guideline Source:** [Source - Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional]
+- **Source Sentence:** "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+- **Deviation:**
+  - The sentence lacks clarity and could benefit from a more professional tone.
+- **New Sentence:** "While your doctor is the clinical expert, you possess unique insights into your daily experience managing type 2 diabetes."
+- **Reason for Replacement:** This revision clarifies roles and maintains a professional tone, as per the guidelines.
+
+#### Deviation 6:
+- **Guideline Source:** [Source - Disclaimer Texts for Non-promotional Material, Article 3 - General Disclaimers]
+- **Source Sentence:** "Go to every appointment prepared to talk, ask questions and find solutions together."
+- **Deviation:**
+  - The source sentence does not include a disclaimer and could mislead into assuming a generalized approach to all patients.
+- **New Sentence:** "Approach each appointment prepared to discuss, inquire, and collaboratively find solutions tailored to your specific health needs, recognizing that individual experiences may vary."
+- **Reason for Replacement:** This revision ensures a tailored approach and includes a disclaimer for individualized care, making the statement non-promotional and aligned with guidelines.
+
+### Final Note:
+The suggested revisions above address deviations from the provided guidelines by adhering to the ethical principles and maintaining high standards for non-promotional materials. Each revised sentence ensures clarity, professionalism, and educational value without constituting promotion.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Review and Recommended Revisions:
+
+#### Deviation 1:
+- **Original Source Sentence:** "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- **Deviation:** The source sentence does not maintain a formal and professional tone in accordance with the guidelines, and lacks context which could prevent misunderstandings.
+- **Expert Reviewer's Suggested Change:** "Living with type 2 diabetes necessitates periodic reevaluation and adjustment of your treatment plan to address your evolving personal health needs."
+- **New Suggested Change Reason:** According to [Source - Communicate With Care Pocket Guide], the revised sentence needs to maintain a professional tone and provide clear context. The expert's suggested change was good, but it could be refined for better clarity and compliance with guidelines.
+- **New Suggested Sentence:** "Living with type 2 diabetes requires regular reassessment and modifications to your treatment plan to meet your changing personal health requirements."
+
+#### Deviation 2:
+- **Original Source Sentence:** "You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+- **Deviation:** The source sentence could be perceived as promoting the materials themselves rather than being purely educational or informational.
+- **Expert Reviewer's Suggested Change:** "Your awareness of your personal health needs is crucial for advocating appropriate medical treatments during discussions with your healthcare provider."
+- **New Suggested Change Reason:** According to [Source - EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility], the material should remain purely informational and educational without suggesting a promotional bias. The expert's revision was suitable but could be more precise.
+- **New Suggested Sentence:** "Understanding your personal health needs is essential for effective advocacy of appropriate treatments during discussions with your healthcare provider."
+
+#### Deviation 3:
+- **Original Source Sentence:** "Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
+- **Deviation:** The sentence needs to be more scientifically driven and avoid inducing product-specific recommendations, thus remaining non-promotional.
+- **Expert Reviewer's Suggested Change:** "Share any challenges encountered with your current treatment, such as side effects, administration preferences, lifestyle compatibility, and cost considerations, and inquire about potential alternatives scientifically evaluated to address these concerns."
+- **New Suggested Change Reason:** According to [Source - EFPIA Chapter 3, Article 18 - Non-Interventional Studies], the material should be scientific and unbiased. The expert's revision was effective but could be more structured for clarity.
+- **New Suggested Sentence:** "Communicate any difficulties with your current treatment, including side effects, administration mode preferences, lifestyle suitability, and cost issues, and ask about scientifically evaluated alternatives that address these specific challenges."
+
+#### Deviation 4:
+- **Original Source Sentence:** "Typically, type 2 diabetes patients should see their doctor every 3–6 months."
+- **Deviation:** The source sentence suggests a clinical guideline without sufficient context on individual variances.
+- **Expert Reviewer's Suggested Change:** "It is generally recommended for patients with type 2 diabetes to have regular consultations with their healthcare provider at intervals such as every 3–6 months, though individual needs may vary."
+- **New Suggested Change Reason:** According to [Source - Disclaimer Texts for Non-promotional Material, Article 3 - General Disclaimers], the content should include a disclaimer about individual variances. The expert's revision was suitable but needed a slight adjustment for better clarity.
+- **New Suggested Sentence:** "Patients with type 2 diabetes are generally advised to have regular consultations with their healthcare provider every 3–6 months, although individual needs can differ."
+
+#### Deviation 5:
+- **Original Source Sentence:** "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+- **Deviation:** The sentence lacks clarity and could benefit from a more professional tone.
+- **Expert Reviewer's Suggested Change:** "While your doctor is the clinical expert, you possess unique insights into your daily experience managing type 2 diabetes."
+- **New Suggested Change Reason:** According to [Source - Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional], the information should be clear and professional. The expert's suggestion was effective but could be made slightly more formal.
+- **New Suggested Sentence:** "Your doctor is the clinical expert, yet you hold unique insights into your daily management of type 2 diabetes."
+
+#### Deviation 6:
+- **Original Source Sentence:** "Go to every appointment prepared to talk, ask questions and find solutions together."
+- **Deviation:** The source sentence does not include a disclaimer and could mislead into assuming a generalized approach to all patients.
+- **Expert Reviewer's Suggested Change:** "Approach each appointment prepared to discuss, inquire, and collaboratively find solutions tailored to your specific health needs, recognizing that individual experiences may vary."
+- **New Suggested Change Reason:** According to [Source - Disclaimer Texts for Non-promotional Material, Article 3 - General Disclaimers], the content should account for individual differences. The expert's recommendation was adequate, but it could be refined for brevity.
+- **New Suggested Sentence:** "Prepare for each appointment by being ready to discuss, ask questions, and collaboratively seek solutions tailored to your individual health needs, recognizing variability in patient experiences."
+
+### Final Note:
+The suggested revisions above address deviations from the provided guidelines by adhering to the ethical principles and maintaining high standards for non-promotional materials. Each revised sentence ensures clarity, professionalism, and educational value without constituting promotion.

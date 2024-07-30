@@ -1,0 +1,131 @@
+Thank you for providing the document for review. I will now evaluate the provided text in accordance with the "Non-Promotional Material Guidelines". Here are my observations and necessary corrections:
+
+---
+
+### Original Sentence:
+"When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+#### Deviations:
+- [Source - Article 2: Be Clear and Professional]: The original sentence might lead to misunderstandings about personal health needs and treatment changes without context.
+
+### New Sentence:
+"When living with type 2 diabetes, it is essential to regularly consult your healthcare provider to reevaluate and adjust your treatment plan based on your evolving health needs."
+
+#### Reason:
+This new sentence provides context that reevaluation and changes are based on professional healthcare advice, aligning with clear and professional communication principles.
+
+---
+
+### Original Sentence:
+"It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+#### Deviations:
+- [Source - Article 2: Provide Context]: The original sentence lacks context about the importance of professional medical advice.
+
+### New Sentence:
+"It is crucial to feel empowered and prepared to discuss with your healthcare provider whenever you believe a change in treatment might be beneficial, guided by their medical expertise."
+
+#### Reason:
+This new sentence emphasizes the importance of consulting with a healthcare provider, aligning with the need for clear and professional guidance.
+
+---
+
+### Original Sentence:
+"You know your mind and body, and it's important to advocate for your needs and preferences during your discussion."
+
+#### Deviations:
+- [Source - Article 2: Stick to Facts]: The original statement could be seen as encouraging self-diagnosis which may bypass professional advice.
+
+### New Sentence:
+"You understand your experiences best; therefore, it is important to openly communicate your needs and preferences to your healthcare provider during discussions."
+
+#### Reason:
+This revision maintains the patient's role in communication while reinforcing the necessity of professional medical input.
+
+---
+
+### Original Sentence:
+"Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might be a better alternative that addresses these challenges."
+
+#### Deviations:
+- [Source - Communicate With Care Pocket Guide]: Parts of the sentence may imply that patients have the same options as medical professionals.
+
+### New Sentence:
+"Share any difficulties you have encountered with your current treatment, such as side effects, form of medication preference (pill or injection), lifestyle compatibility, or cost concerns, and ask your healthcare provider about possible alternatives that might address these challenges."
+
+#### Reason:
+This sentence clarifies that the patient should discuss these points with a healthcare provider, preserving the professional context.
+
+---
+
+### Original Sentence:
+"Ask questions or share concerns you have about trying a new medication. This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
+
+#### Deviations:
+- [Source - Communicate With Care Pocket Guide]: The sentence might lead to self-management without proper medical oversight.
+
+### New Sentence:
+"Ask questions or share concerns about trying new medications with your healthcare provider to understand their mechanisms and potential side effects."
+
+#### Reason:
+The revision ensures that all discussions occur within the framework of a healthcare provider's guidance, maintaining professional engagement.
+
+---
+
+### Original Sentence:
+"Set realistic expectations with your doctor regarding the timeline and outcomes of your new treatment."
+
+#### Deviations:
+- [Source - Article 2: Provide Context]: Lacks detail on why these expectations need to be realistic.
+
+### New Sentence:
+"Work with your healthcare provider to set realistic expectations regarding the timeline and outcomes of your new treatment, based on medical guidelines and your specific health profile."
+
+#### Reason:
+This version provides a clear rationale and context for realistic expectations, guided by medical advice.
+
+---
+
+### Original Sentence:
+"Discuss when you should follow-up on how your new treatment is working. Typically, type 2 diabetes patients should see their doctor every 3–6 months."
+
+#### Deviations:
+- [Source - Article 2: Stick to Facts]: Generalized follow-up frequency may not be accurate for all patients.
+
+### New Sentence:
+"Your healthcare provider will advise you on the appropriate follow-up schedule to monitor your new treatment's effectiveness, which is often recommended every 3–6 months for type 2 diabetes patients."
+
+#### Reason:
+Adding specificity and ensuring recommendations are based on professional advice, aligning with factual and context-based communication.
+
+---
+
+### Original Sentence:
+"Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+
+#### Deviations:
+- [Source - Article 2: Provide Context]: The sentence needs to emphasize collaboration.
+
+### New Sentence:
+"Always remember that maintaining open dialogue with your healthcare provider is key to determining the most suitable treatment option for you."
+
+#### Reason:
+This emphasizes the collaborative nature of the patient-provider relationship.
+
+---
+
+### Original Sentence:
+"HQ23GLP00004"
+
+#### Deviations:
+- [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication]: Document ID needs to clarify if it has compliance considerations.
+
+### New Sentence:
+"HQ23GLP00004. Disclaimer: This document adheres to non-promotional material guidelines and aims to provide balanced and factual information only."
+
+#### Reason:
+Ensures clarity that the document respects non-promotional guidelines.
+
+---
+
+I trust these revisions align with the "Non-Promotional Material Guidelines" and ensure ethical and clear communication. Please let me know if any further adjustments are needed.

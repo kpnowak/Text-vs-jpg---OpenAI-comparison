@@ -1,103 +1,72 @@
-Let's go through each of the expert reviewer's comments and make necessary improvements where needed.
+Below are the improvements I have made based on the expert reviews and the "Non-Promotional Material Guidelines":
 
-### 1. Section on "Important to feel empowered and ready to talk to your doctor"
+### Comment 1
+**The original source sentence**: N/A (additional disclaimer needed)
 
-- **Original Source Sentence:**
-  "It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+**The deviation from the guidelines originally provided by the expert reviewer**: Missing disclaimer
 
-- **Deviation from the Guidelines:**
-  Needs emphasis on mutual respect during interactions.
+**The expert reviewer's original suggested change**:
+"The image shown is a model and not a real patient. The character and its description are for representation purposes only and do not reflect real patient experiences."
 
-- **Expert Reviewer's Original Suggested Change:**
-  "It’s essential to feel empowered and ready to engage in respectful and informed discussions with your doctor whenever you believe a change could be beneficial."
+**An explanation for the reason behind your new suggested change**:
+The expert's addition of disclaimers is correct, but this can be improved for clarity and consistency with the guidelines.
 
-- **Explanation for the Reason Behind Your New Suggested Change:**
-  The revised sentence slightly changes the meaning by placing slightly more emphasis on mutual respect and communication, but it can be made more specific to align closer with the guideline.
+**Your new suggested sentence**:
+"The images and characters depicted are models and not real patients, and their descriptions are for representation purposes only."
 
-- **New Suggested Sentence:**
-  “It’s important that you feel empowered and ready to have respectful and informed discussions with your doctor whenever you think a change could be beneficial.”
+**Deviations**:
+According to [Source - Disclaimer Texts for Non-promotional Material], it is important to ensure that general disclaimers clarify the nature of the images and advice.
 
-- **Deviation Source and Key Point:**
-  According to EFPIA Chapter 4, Article 21.i, the sentence should emphasize mutual respect during interactions.
+### Comment 3
+**The original source sentence**:
+"Talk about your lifestyle and how a new treatment might be better suited for you."
 
-### 2. Section on "Discuss any difficulties you’ve experienced with your current treatment"
+**The deviation from the guidelines originally provided by the expert reviewer**: Does not provide medical utility directly relevant to patient care.
 
-- **Original Source Sentence:**
-  "Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might be a better alternative that addresses these challenges."
+**The expert reviewer's original suggested change**:
+"Discuss how your day-to-day lifestyle—including work, exercise, and diet—might be impacted by current or new treatment options."
 
-- **Deviation from the Guidelines:**
-  Needs to emphasize relevance to the practice of medicine and care of patients.
+**An explanation for the reason behind your new suggested change**:
+The expert's suggested change is good but can be further detailed for better alignment with the guideline’s intent.
 
-- **Expert Reviewer's Original Suggested Change:**
-  "Discuss any issues you’ve encountered with your current treatment, such as side effects, preferences for pills or injections, lifestyle fit, or cost concerns, and explore alternative options that may address these challenges and enhance patient care."
+**Your new suggested sentence**:
+"Discuss how your daily activities, including work, exercise, and diet, may be influenced by your current treatment or new treatment options that may better fit your lifestyle."
 
-- **Explanation for the Reason Behind Your New Suggested Change:**
-  The revision doesn't fully underscore the practice of medicine and the care of patients as needed by EFPIA guidelines. It can be more explicitly tied to patient care for relevance.
+**Deviations**:
+According to [Source - EFPIA Chapter 3: Article 17], educational and informational materials provided should be directly relevant to the practice of medicine and beneficial to patient care.
 
-- **New Suggested Sentence:**
-  “Discuss any challenges you’ve faced with your current treatment, such as side effects, the form of medication, how well it fits your lifestyle, or its cost, and ask if there are more suitable alternatives that could improve your treatment adherence and outcomes.”
+### Comment 4
+**The original source sentence**: Existing text for acknowledging support.
 
-- **Deviation Source and Key Point:**
-  According to EFPIA Chapter 3, Article 17.i, materials must be directly relevant to medicine practice and beneficial to patient care.
+**The deviation from the guidelines originally provided by the expert reviewer**: Lack of transparency in acknowledging supporter.
 
-### 3. Section on "Talk about your lifestyle and how a new treatment might be better suited for you"
+**The expert reviewer's original suggested change**:
+"This educational material has been supported by Novo Nordisk to enhance patient understanding of type 2 diabetes management."
 
-- **Original Source Sentence:**
-  "Talk about your lifestyle and how a new treatment might be better suited for you."
+**An explanation for the reason behind your new suggested change**:
+The expert's suggested change is appropriate but can be tightened for better alignment with the guidelines.
 
-- **Deviation from the Guidelines:**
-  Should avoid promotional undertones and remain factual, clear, and professional.
+**Your new suggested sentence**:
+"This educational material is supported by Novo Nordisk to enhance understanding and management of type 2 diabetes."
 
-- **Expert Reviewer's Original Suggested Change:**
-  "Discuss your lifestyle to determine how different treatment options might align with your daily routine and health objectives."
+**Deviations**:
+According to [Source - EFPIA Chapter 4: Article 21], transparency about the collaboration and support should be maintained.
 
-- **Explanation for the Reason Behind Your New Suggested Change:**
-  The expert reviewer’s revised sentence is mostly aligned with the guidelines but could be further refined to ensure it doesn’t imply promotional undertones.
+### Comment 5
+**The original source sentence**: N/A (additional disclaimer needed)
 
-- **New Suggested Sentence:**
-  "Share details about your lifestyle to evaluate how different treatment options could align with your daily routine and health goals."
+**The deviation from the guidelines originally provided by the expert reviewer**: Need for internal communication disclaimer.
 
-- **Deviation Source and Key Point:**
-  According to Global Legal & Compliance Pocket Guide Semaglutide portfolio, Article 1, materials must avoid promotional undertones and remain factual and clear.
+**The expert reviewer's original suggested change**:
+"This material is for preparatory use in NN only. DRAFT."
 
-### 4. Section on "Empowering through the decision-making process"
+**An explanation for the reason behind your new suggested change**:
+The expert's addition of disclaimers is correct but can be improved for clarity and consistency with the guidelines.
 
-- **Original Source Sentence:**
-  "By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that’ll empower you on your journey towards better health."
+**Your new suggested sentence**:
+"This material is for preparatory use within NN only. DRAFT."
 
-- **Deviation from the Guidelines:**
-  Needs to ensure clarity and avoid ambiguous language.
+**Deviations**:
+According to [Source - Disclaimer Texts for Non-promotional Material], internal documents should be marked accordingly to indicate their preparatory, draft, and confidential nature.
 
-- **Expert Reviewer's Original Suggested Change:**
-  "By actively engaging, asking questions, and participating in the decision-making process, you can develop a personalized plan that effectively supports your health journey."
-
-- **Explanation for the Reason Behind Your New Suggested Change:**
-  The expert reviewer’s revision is accurate but could further avoid trivial phrases and focus more on empowering patients in a clear manner.
-
-- **New Suggested Sentence:**
-  "By actively asking questions and participating in the decision-making process, you can help develop a personalized plan that supports your journey towards better health.”
-
-- **Deviation Source and Key Point:**
-  According to Communicate With Care Pocket Guide, Article 2, communications should maintain a clear and professional tone and avoid ambiguity.
-
-### 5. Disclaimer at the end of the document
-
-- **Original Source Sentence:**
-  "The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor."
-
-- **Deviation from the Guidelines:**
-  General disclaimers must be included to clearly delineate the nature of the information.
-
-- **Expert Reviewer's Original Suggested Change:**
-  "The information on this website is intended solely for educational purposes and should not replace medical advice from your doctor. Please refer to the patient information leaflet in the package for additional details."
-
-- **Explanation for the Reason Behind Your New Suggested Change:**
-  While largely compliant, the revised sentence can be slightly reworded to better match the guidelines.
-
-- **New Suggested Sentence:**
-  “The information on this website is solely for educational purposes and is not a substitute for medical advice from your doctor. For detailed information, please refer to the patient information leaflet included in the packaging.”
-
-- **Deviation Source and Key Point:**
-  According to Disclaimer Texts for Non-promotional Material, Article 3, general disclaimers must be sufficiently clear and comprehensive.
-
-By adhering to these suggestions, we ensure the document fully complies with the "Non-Promotional Material Guidelines".
+By incorporating these corrections and additions, the document better aligns with the provided "Non-Promotional Material Guidelines," maintaining clarity, compliance, and ethical standards.

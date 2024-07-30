@@ -1,0 +1,120 @@
+Step 1: Identify the prominent language of the document.
+The document is in English.
+
+Step 4: Study the prompt and "Grammar & Spelling Guidelines", "IMPORTANT CONSIDERATIONS WHILE REVIEWING".
+
+Step 5: Work through each sentence, one at a time. Only review, strictly, sentences in [document_language] language. Never translate anything.
+
+Step 6: Provide reviews and corrections for each sentence that meets the criteria. Only sentences in [document_language] language.
+
+### Reviews and Corrections:
+
+#### Sentence 1:
+- **Source sentence**: Yesterday, I gone to a party with my friend David.
+- **Deviations**: Incorrect verb tense. "gone" should be "went".
+- **Reason**: The verb "gone" is the past participle; the simple past form "went" is needed.
+- **New sentence**: Yesterday, I went to a party with my friend David.
+
+#### Sentence 2:
+- **Source sentence**: He study english with me at university.
+- **Deviations**: Incorrect verb tense and capitalization error. "study" should be "studies" and "english" should be "English".
+- **Reason**: "He" requires the third-person singular present form "studies". "English" should be capitalized as it is a proper noun.
+- **New sentence**: He studies English with me at university.
+
+#### Sentence 3:
+- **Source sentence**: He wanted to be introduced to Lucy wo he fancied.
+- **Deviations**: Spelling error. "wo" should be "who".
+- **Reason**: Correct spelling of the pronoun "who".
+- **New sentence**: He wanted to be introduced to Lucy who he fancied.
+
+#### Sentence 4:
+- **Source sentence**: David and I satt in the corner of the room.
+- **Deviations**: Spelling error. "satt" should be "sat".
+- **Reason**: Correct spelling of the past tense of "sit".
+- **New sentence**: David and I sat in the corner of the room.
+
+#### Sentence 5:
+- **Source sentence**: He didn 't making the first move to go and see her.
+- **Deviations**: Incorrect verb form. "making" should be "make".
+- **Reason**: The correct form after "didn't" is the base form "make".
+- **New sentence**: He didn't make the first move to go and see her.
+
+#### Sentence 6:
+- **Source sentence**: He waited for so long to tell her that he had a crush on her.
+- **Deviations**: No grammatical errors.
+- **Reason**: Sentence is correct.
+- **New sentence**: He waited for so long to tell her that he had a crush on her.
+
+#### Sentence 7:
+- **Source sentence**: He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her.
+- **Deviations**: Incorrect verb form. "taked" should be "took".
+- **Reason**: The correct past tense of "take" is "took".
+- **New sentence**: He took a drink to get some energy and after a few minutes of endless hesitation, he walked to her.
+
+#### Sentence 8:
+- **Source sentence**: David remained mute.
+- **Deviations**: No grammatical errors.
+- **Reason**: Sentence is correct.
+- **New sentence**: David remained mute.
+
+#### Sentence 9:
+- **Source sentence**: She gave a hint of a smile, noticing David blushing.
+- **Deviations**: No grammatical errors.
+- **Reason**: Sentence is correct.
+- **New sentence**: She gave a hint of a smile, noticing David blushing.
+
+#### Sentence 10:
+- **Source sentence**: She asked him if he enjoyed the party.
+- **Deviations**: No grammatical errors.
+- **Reason**: Sentence is correct.
+- **New sentence**: She asked him if he enjoyed the party.
+
+#### Sentence 11:
+- **Source sentence**: He whispered ' Yes ' and had a glance at me.
+- **Deviations**: Punctuation spacing. Spaces inside the quotation marks.
+- **Reason**: Correct punctuation. Remove spaces inside the quotation marks.
+- **New sentence**: He whispered 'Yes' and had a glance at me.
+
+#### Sentence 12:
+- **Source sentence**: I wincked at him.
+- **Deviations**: Spelling error. "wincked" should be "winked".
+- **Reason**: Correct spelling of the verb "wink".
+- **New sentence**: I winked at him.
+
+#### Sentence 13:
+- **Source sentence**: That was it.
+- **Deviations**: No grammatical errors.
+- **Reason**: Sentence is correct.
+- **New sentence**: That was it.
+
+#### Sentence 14:
+- **Source sentence**: Feeling reassured and confident, he told her which feelings he was experiencing.
+- **Deviations**: Incorrect word choice. "which" should be "what".
+- **Reason**: Correct word choice. "what feelings" is more appropriate.
+- **New sentence**: Feeling reassured and confident, he told her what feelings he was experiencing.
+
+#### Sentence 15:
+- **Source sentence**: She suddenly looked sullen.
+- **Deviations**: No grammatical errors.
+- **Reason**: Sentence is correct.
+- **New sentence**: She suddenly looked sullen.
+
+#### Sentence 16:
+- **Source sentence**: She looked embaressed.
+- **Deviations**: Spelling error. "embaressed" should be "embarrassed".
+- **Reason**: Correct spelling of the word "embarrassed".
+- **New sentence**: She looked embarrassed.
+
+#### Sentence 17:
+- **Source sentence**: She could hardly say a word but after a little seconds, she said : ' I' m sorry to deceive you but actually I fancy Sebastian '.
+- **Deviations**: Misuse of "little". "little" should be "few". Punctuation spacing.
+- **Reason**: Correct usage of "few" with countable nouns. Correct punctuation spacing.
+- **New sentence**: She could hardly say a word but after a few seconds, she said: 'I'm sorry to deceive you but actually, I fancy Sebastian'.
+
+#### Sentence 18:
+- **Source sentence**: David fainted : ' a friend in need is a friend inded ' !!
+- **Deviations**: Spelling error and punctuation spacing. "inded" should be "indeed".
+- **Reason**: Correct spelling of the word "indeed". Adjust formatting for consistency.
+- **New sentence**: David fainted: 'A friend in need is a friend indeed!'
+
+This covers all the sentences needing grammatical corrections within the provided text.

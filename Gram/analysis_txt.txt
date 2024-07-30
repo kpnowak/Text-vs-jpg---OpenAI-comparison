@@ -1,0 +1,77 @@
+Mistake "gone" -> "went": 
+- True Positive: 9
+- False Negative: 1
+- False Positive: 0
+- True Negative: 0
+
+Mistake "study" -> "studies": 
+- True Positive: 9
+- False Negative: 1
+- False Positive: 0
+- True Negative: 0
+
+Mistake "english" -> "English": 
+- True Positive: 9
+- False Negative: 1
+- False Positive: 0
+- True Negative: 0
+
+Mistake "wo" -> "who": 
+- True Positive: 7
+- False Negative: 3
+- False Positive: 0
+- True Negative: 0
+
+Mistake "satt" -> "sat": 
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+Mistake "didn 't making" -> "didn't make": 
+- True Positive: 9
+- False Negative: 1
+- False Positive: 0
+- True Negative: 0
+
+Mistake "taked" -> "took": 
+- True Positive: 7
+- False Negative: 2
+- False Positive: 1
+- True Negative: 0
+
+Mistake "wincked" -> "winked": 
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+Mistake "which" -> "what": 
+- True Positive: 8
+- False Negative: 2
+- False Positive: 0
+- True Negative: 0
+
+Mistake "embaressed" -> "embarrassed": 
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+Mistake "a little seconds" -> "a few seconds": 
+- True Positive: 9
+- False Negative: 1
+- False Positive: 0
+- True Negative: 0
+
+Mistake "inded" -> "indeed": 
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+### Summary
+- True Positive: 106
+- False Negative: 12
+- False Positive: 1
+- True Negative: 0

@@ -1,0 +1,84 @@
+1. - The original source sentence:
+     - "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+   - The deviation from the guidelines originally provided by the expert reviewer:
+     - "According to [Source - EFPIA Chapter 3, Article 17.iv], promotional or product-specific mentions are not allowed in non-promotional materials unless essential to proper usage by the patient."
+
+   - The expert reviewer's original suggested change:
+     - "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change in your type 2 diabetes management could be beneficial."
+
+   - An explanation for the reason behind your new suggested change:
+     - The suggested change by the expert reviewer adds specificity that may imply endorsement or focus on a specific treatment for type 2 diabetes. To ensure complete adherence to non-promotional guidelines, my revised sentence will focus on general empowerment and communication with healthcare professionals without any disease-specific or treatment-specific language.
+
+   - Your new suggested sentence:
+     - "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change in your health management could be beneficial."
+
+   - According to [Source - EFPIA Chapter 3, Article 17.iv] the provision of materials must not constitute an indirect promotion for a specific product or condition.
+
+2. - The original source sentence:
+     - "Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
+
+   - The deviation from the guidelines originally provided by the expert reviewer:
+     - "According to [Source - EFPIA Chapter 3, Article 17.i], materials provided must be directly relevant to practice and patient care without promoting any specific treatment forms or payment considerations."
+
+   - The expert reviewer's original suggested change:
+     - "Discuss any difficulties you've experienced with your current treatment, such as side effects, how it fits into your lifestyle, and other personal health goals."
+
+   - An explanation for the reason behind your new suggested change:
+     - The suggested change by the expert reviewer is a good improvement but still leans slightly toward discussing specific treatment forms. My new sentence will focus on general aspects without hinting at treatment forms or costs.
+
+   - Your new suggested sentence:
+     - "Discuss any difficulties you've experienced with your current treatment, including any side effects and how your treatment aligns with your overall health goals."
+
+   - According to [Source - EFPIA Chapter 3, Article 17.i] materials must not include promotional information connected to any specific remaining relevant to practice and care.
+
+3. - The original source sentence:
+     - "For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don't have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals (in addition to healthy eating and exercise)."
+     
+   - The deviation from the guidelines originally provided by the expert reviewer:
+     - "According to [Source - EFPIA Chapter 3, Article 17.i], materials must be inexpensive, directly relevant to medical practice or patient care, and not promotional."
+
+   - The expert reviewer's original suggested change:
+     - "For example, discuss how travel or busy schedules might affect your diabetes management and what strategies you can use to stay on track with your health goals."
+
+   - An explanation for the reason behind your new suggested change:
+     - The expert reviewer's change still slightly implies potential changes in treatment modality. My revised sentence avoids any such implication and focuses purely on lifestyle management.
+
+   - Your new suggested sentence:
+     - "For example, discuss how travel or a busy schedule might impact your health management and explore strategies to maintain your health goals."
+     
+   - According to [Source - EFPIA Chapter 3, Article 17.i] materials must be inexpensive, directly relevant to practice and patient care, and not suggest promotional avenues.
+
+4. - The original source sentence:
+     - "The document does not include this disclaimer."
+     
+   - The deviation from the guidelines originally provided by the expert reviewer:
+     - "According to [Source - Disclaimer Texts for Non-promotional Material], inclusion of disclaimers is necessary to ensure that non-promotional materials do not imply endorsements of specific treatments or represent patient experiences incorrectly."
+
+   - The expert reviewer's original suggested change:
+     - "The image shown is a model and not a real patient."
+
+   - An explanation for the reason behind your new suggested change:
+     - While the expert reviewer's change is correct in adding the disclaimer, my suggested sentence generalizes the disclaimer to ensure broad applicability.
+
+   - Your new suggested sentence:
+     - "The illustrations used are for representation purposes only and do not depict real patients."
+
+   - According to [Source - Disclaimer Texts for Non-promotional Material], the inclusion of general disclaimers prevents misinterpretations regarding patient depiction and promotes non-promotional integrity.
+
+6. - The original source sentence:
+     - "Here are some topics to consider if you want to speak up about your type 2 diabetes treatment:"
+
+   - The deviation from the guidelines originally provided by the expert reviewer:
+     - "According to [Source - Communicate With Care Pocket Guide], maintaining a professional tone and context is crucial for clear and accurate communication."
+
+   - The expert reviewer's original suggested change:
+     - "Here are some key topics to help you communicate more effectively about your type 2 diabetes management:"
+
+   - An explanation for the reason behind your new suggested change:
+     - The expert reviewer's change is accurate but still specifically mentions type 2 diabetes, which might imply certain treatments. My change will focus more broadly on effective health management communication.
+
+   - Your new suggested sentence:
+     - "Here are some key topics to help you communicate more effectively about managing your health:"
+
+   - According to [Source - Communicate With Care Pocket Guide, Article 2.i] information should maintain a professional tone and clearly state the context to ensure accuracy and clarity.

@@ -1,0 +1,116 @@
+### Review of "How to talk about treatment options"
+
+#### 1. Opening Paragraph
+**- Guideline source which influenced your response:** 
+EFPIA Chapter 3, Article 17.iv
+
+**- The source sentence your new sentence replaces:** 
+"How to talk about treatment options"
+
+**- The deviations your new sentence corrects:** 
+"This title does not convey the educational purpose directly linked to patient care."
+
+**- New sentence:** 
+"Empowering Conversations About Type 2 Diabetes Treatment Options"
+
+**- The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:** 
+The revised title clearly indicates that the content aims to help patients engage in discussions about their treatment, aligning with the importance of educational materials being directly beneficial to patient care.
+
+#### 2. Informative Content
+**- Guideline source which influenced your response:** 
+EFPIA Chapter 3, Article 16.i
+
+**- The source sentence your new sentence replaces:** 
+"It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+**- The deviations your new sentence corrects:** 
+"While the original sentence conveys a motivational tone, it lacks specificity on enhancing scientific knowledge and competence in medical practice."
+
+**- New sentence:** 
+"It's crucial to feel empowered and informed, ready to discuss with your doctor, backed by scientific knowledge on how changes in treatment can benefit your health outcomes."
+
+**- The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:** 
+The revised sentence emphasizes the educational aspect and aims to improve the patient's understanding of their health, fostering more informed interactions with healthcare providers.
+
+#### 3. Advocacy
+**- Guideline source which influenced your response:** 
+EFPIA Chapter 3, Article 17.iv
+
+**- The source sentence your new sentence replaces:** 
+"You know your mind and body, and it's important to advocate for your needs and preferences during your discussion."
+
+**- The deviations your new sentence corrects:** 
+"While advocating for one's needs is encouraged, the original sentence does not stress the necessity of information being non-product-branded."
+
+**- New sentence:** 
+"You know your mind and body best, so it's important to discuss your needs and preferences with evidence-based, non-product-branded information."
+
+**- The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:** 
+The new sentence maintains the advocacy message while aligning with the guideline prohibiting product branding, ensuring the focus remains on unbiased and verified medical information.
+
+#### 4. Topics to Consider
+**- Guideline source which influenced your response:** 
+EFPIA Chapter 3, Article 18.i
+
+**- The source sentence your new sentence replaces:** 
+"Share your personal goals, whether it's better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective."
+
+**- The deviations your new sentence corrects:** 
+"The original sentence lacks clarity on the scientific basis of treatment choices."
+
+**- New sentence:** 
+"Share your personal health goals, such as improved blood sugar control, weight management, or reduced cardiovascular risk, and engage your doctor in discussing the scientific basis for adjusting your current treatment towards achieving these goals."
+
+**- The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:** 
+The revised sentence emphasizes the importance of scientific reasoning behind treatment decisions, ensuring discussions are based on evidence rather than personal preferences alone.
+
+#### 5. Side Effects Discussion
+**- Guideline source which influenced your response:** 
+Communicate With Care Pocket Guide, Article 2.i
+
+**- The source sentence your new sentence replaces:** 
+"This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
+
+**- The deviations your new sentence corrects:** 
+"The sentence might not explicitly address avoiding exaggerations or speculations about side effects."
+
+**- New sentence:** 
+"This involves discussing and objectively understanding how the medication works and the potential side effects based on current scientific evidence."
+
+**- The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:** 
+The new sentence aligns with the guideline to avoid exaggerations or speculations, focusing on the verified scientific evidence concerning side effects.
+
+#### 6. Proper Follow-Up
+**- Guideline source which influenced your response:** 
+EFPIA Chapter 3, Article 16.i
+
+**- The source sentence your new sentence replaces:** 
+"Discuss when you should follow-up on how your new treatment is working."
+
+**- The deviations your new sentence corrects:** 
+"The suggestion lacks detailed guidance on ensuring ongoing educational value and scientific evaluation."
+
+**- New sentence:** 
+"Discuss an evidence-based follow-up schedule to assess how your new treatment is working, allowing for continuous scientific evaluation and adjustment."
+
+**- The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:** 
+The revised sentence underscores the importance of follow-up for educational and scientific assessment, ensuring patients are continually informed and treatments are appropriately adjusted.
+
+#### 7. Concluding Note
+**- Guideline source which influenced your response:** 
+Disclaimer Texts for Non-promotional Material, Article 3.v
+
+**- The source sentence your new sentence replaces:** 
+"By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health."
+
+**- The deviations your new sentence corrects:** 
+"The final sentence lacks a reminder to consult the patient information leaflet and report side effects."
+
+**- New sentence:** 
+"By speaking up, asking questions, and being part of the decision-making process, you can create a personalized plan for better health. Always refer to the patient information leaflet for detailed guidance and report any side effects to your healthcare provider."
+
+**- The reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations:** 
+The revised sentence incorporates a reminder about consulting the patient information leaflet and reporting side effects, ensuring adherence to compliance and legal responsibilities.
+
+### Conclusion
+The reviewed document has been aligned with the Non-Promotional Material Guidelines, emphasizing education, scientific accuracy, and adherence to ethical standards, making it more compliant and useful for patients.

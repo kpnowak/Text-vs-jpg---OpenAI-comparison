@@ -1,0 +1,96 @@
+### Review of Document
+
+#### Guideline Source and Corrections
+
+1. **Guideline Source**: Disclaimer Texts for Non-promotional Material - Article 3 (v). 
+   - **Source Sentence**: "The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor."
+   - **Deviations**: According to [Disclaimer Texts for Non-promotional Material - Article 3 (v)], the information should include a clear disclaimer for medical advice.
+   - **New Sentence**: “This information is intended for diabetes patients who have been prescribed [insert NN medicinal product] and should not be substituted for medical advice from your doctor.”
+   - **Reason for Replacement**: This change strengthens the disclaimer by specifying that it should not replace professional medical advice, adhering to the provided guidelines.
+
+2. **Guideline Source**: Communicate With Care Pocket Guide - Article 2 (ii). 
+   - **Source Sentence**: "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+   - **Deviations**: According to [Communicate With Care Pocket Guide - Article 2 (ii)], the first sentence could be clearer to avoid ambiguity for those unfamiliar with the topic.
+   - **New Sentence**: "If you have type 2 diabetes, it's common to reevaluate and adjust your treatment as your personal health needs change."
+   - **Reason for Replacement**: This revision ensures that the sentence is clear and concise, reducing the potential for misunderstanding.
+
+3. **Guideline Source**: Communicate With Care Pocket Guide - Article 2 (iii).
+   - **Source Sentence**: "It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment."
+   - **Deviations**: According to [Communicate With Care Pocket Guide - Article 2 (iii)], the language should avoid unnecessary exaggerations and speculation.
+   - **New Sentence**: "It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself about type 2 diabetes—you’ll be able to communicate with your doctor more openly about your treatment."
+   - **Reason for Replacement**: This correction removes informal language (like “like you’re doing right now!") and ensures a professional tone.
+
+4. **Guideline Source**: Disclaimer Texts for Non-promotional Material - Article 3 (i).
+   - **Source Sentence**: "The prescription is based on a patient example and not a real patient."
+   - **Deviations**: According to [Disclaimer Texts for Non-promotional Material - Article 3 (i)], it is essential to clarify that any patient examples are fictional.
+   - **New Sentence**: “The prescription is based on a patient example and not a real patient.”
+   - **Reason for Replacement**: This correction includes the standard disclaimer ensuring clarity that the example is fictional.
+
+5. **Guideline Source**: Communicate With Care Pocket Guide - Article 2 (i).
+   - **Source Sentence**: "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+   - **Deviations**: According to [Communicate With Care Pocket Guide - Article 2 (i)], the tone should remain professional and avoid a conversational style.
+   - **New Sentence**: "While your doctor is the medical expert, you are the one living with type 2 diabetes."
+   - **Reason for Replacement**: This keeps the professional tone, fitting the guidelines.
+
+6. **Guideline Source**: Informational or Educational Materials and Items of Medical Utility - Article 17 (i).
+   - **Source Sentence**: "Ask questions or share concerns you have about trying a new medication.”
+   - **Deviations**: According to [Informational or Educational Materials and Items of Medical Utility - Article 17 (i)], the information should focus on aspects directly relevant to patient care and practice.
+   - **New Sentence**: "Ask your doctor any questions or share concerns you have about trying a new medication.”
+   - **Reason for Replacement**: This correction provides specificity about who to address questions, adding more clarity and relevance to patient care.
+
+### Summary
+
+The reviewed document has been refined based on the guidelines provided in the "Non-Promotional Material Guidelines." The sentences were corrected to ensure clarity, accuracy, and adherence to professional standards, avoiding ambiguity and maintaining a professional tone. The recommendations ensure the document remains informative without crossing into promotional content.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Review of Document
+
+#### Expert's Comments and Corrections
+
+1. **Guideline Source**: Disclaimer Texts for Non-promotional Material - Article 3 (v).
+   - **Original Source Sentence**: "The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor."
+   - **Deviation**: According to [Disclaimer Texts for Non-promotional Material - Article 3 (v)], the disclaimer must clearly specify its intent for prescribed patients and mention consultation with a doctor.
+   - **Expert Reviewer's Suggested Change**: “This information is intended for diabetes patients who have been prescribed [insert NN medicinal product] and should not be substituted for medical advice from your doctor.”
+   - **My New Suggested Change**: The expert's suggested change adheres well to the guideline. No further improvement needed.
+
+2. **Guideline Source**: Communicate With Care Pocket Guide - Article 2 (ii).
+   - **Original Source Sentence**: "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+   - **Deviation**: According to [Communicate With Care Pocket Guide - Article 2 (ii)], the language should be clear to avoid ambiguity.
+   - **Expert Reviewer's Suggested Change**: "If you have type 2 diabetes, it's common to reevaluate and adjust your treatment as your personal health needs change."
+   - **Explanation for My Change**: The expert's suggestion is clear but can be refined to better maintain a professional and clear tone focusing on the need for clarity and avoiding ambiguity.
+   - **My New Suggested Sentence**: "For individuals with type 2 diabetes, it's essential to regularly reassess and adjust their treatment plans to align with evolving personal health requirements."
+
+3. **Guideline Source**: Communicate With Care Pocket Guide - Article 2 (iii). 
+   - **Original Source Sentence**: "It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment."
+   - **Deviation**: According to [Communicate With Care Pocket Guide - Article 2 (iii)], language should avoid unnecessary exaggerations and speculation.
+   - **Expert Reviewer's Suggested Change**: "It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself about type 2 diabetes—you’ll be able to communicate with your doctor more openly about your treatment."
+   - **Explanation for My Change**: The expert's suggestion removes informal language but still ends with a conversational phrase. It can be further improved to maintain a completely professional tone.
+   - **My New Suggested Sentence**: "Starting these conversations can be challenging, but keeping your treatment goals in mind and educating yourself about type 2 diabetes will help you communicate more openly with your doctor about your treatment."
+
+4. **Guideline Source**: Disclaimer Texts for Non-promotional Material - Article 3 (i).
+   - **Original Source Sentence**: "The prescription is based on a patient example and not a real patient."
+   - **Deviation**: According to [Disclaimer Texts for Non-promotional Material - Article 3 (i)], it should include a standard disclaimer ensuring clarity that the example is fictional.
+   - **Expert Reviewer's Suggested Change**: “The prescription is based on a patient example and not a real patient.”
+   - **Explanation for My Change**: The expert's suggested change repeats the source sentence verbatim.
+   - **My New Suggested Sentence**: "The prescription represents a patient example for illustrative purposes only and does not reflect a real patient."
+
+5. **Guideline Source**: Communicate With Care Pocket Guide - Article 2 (i).
+   - **Original Source Sentence**: "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+   - **Deviation**: According to [Communicate With Care Pocket Guide - Article 2 (i)], the tone should remain professional and avoid a conversational style.
+   - **Expert Reviewer's Suggested Change**: "While your doctor is the medical expert, you are the one living with type 2 diabetes."
+   - **Explanation for My Change**: The expert's suggestion still maintains a conversational style. A more professional tone can be employed.
+   - **My New Suggested Sentence**: "Although your doctor is the medical expert, you are ultimately the one managing life with type 2 diabetes."
+
+6. **Guideline Source**: Informational or Educational Materials and Items of Medical Utility - Article 17 (i).
+   - **Original Source Sentence**: "Ask questions or share concerns you have about trying a new medication.”
+   - **Deviation**: According to [Informational or Educational Materials and Items of Medical Utility - Article 17 (i)], the information should focus on aspects directly relevant to patient care and practice.
+   - **Expert Reviewer's Suggested Change**: "Ask your doctor any questions or share concerns you have about trying a new medication.”
+   - **Explanation for My Change**: The expert's suggestion is specific about addressing questions to the doctor, but it could be improved to emphasize the patient's active role in their care.
+   - **My New Suggested Sentence**: "Consult your doctor with any questions or concerns you may have about starting a new medication."
+
+### Summary
+
+The reviewed document has been thoroughly checked and refined based on the guidelines provided in the "Non-Promotional Material Guidelines." The expert's corrections have been further enhanced to ensure clarity, accuracy, and adherence to professional standards. The recommendations ensure the document remains informative without crossing into promotional content, aligning well with the guidelines.

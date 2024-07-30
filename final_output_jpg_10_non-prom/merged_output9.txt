@@ -1,0 +1,139 @@
+**Review of Document "How to talk about treatment options"**
+
+**Detailed Review Based on the "Non-Promotional Material Guidelines"**
+
+1. **Source Sentence**: "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+   
+   **Guideline Source**: EFPIA Chapter 3, Article 16 - Lifelong Learning in Healthcare
+   
+   **Deviations**: The sentence lacks clear attribution to ensure fair, balanced, and objective expression of content.
+   
+   **New Sentence**: "When managing type 2 diabetes, it is common to reassess and modify treatment plans under your doctor's guidance to address evolving health needs."
+
+   **Reason**: This ensures the information aligns with the guideline's requirement for objectivity and acknowledgment of professional medical advice.
+
+2. **Source Sentence**: "It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment."
+
+   **Guideline Source**: Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional
+   
+   **Deviations**: The original sentence uses informal language ("like you’re doing right now!") which may impact the professional tone.
+
+   **New Sentence**: "Starting these conversations can be challenging, but keeping your treatment goals in mind and improving your knowledge about type 2 diabetes will enable more open communication with your doctor about treatment options."
+
+   **Reason**: This corrects the informal language and maintains a professional tone.
+
+3. **Source Sentence**: "Talk about your lifestyle and how a new treatment might be better suited for you."
+
+   **Guideline Source**: EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility
+   
+   **Deviations**: The sentence must clarify that lifestyle discussions should be in the context of medical advice.
+
+   **New Sentence**: "Discuss your lifestyle with your doctor to determine how a new treatment might better suit your needs."
+
+   **Reason**: It emphasizes the need for professional consultation, ensuring the advice is directly relevant and beneficial to patient care.
+
+4. **Source Sentence**: "Ask questions or share concerns you have about trying a new medication."
+
+   **Guideline Source**: EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility
+   
+   **Deviations**: The statement should be framed to encourage discussions based on medical advice.
+
+   **New Sentence**: "Share any questions or concerns you have about trying a new medication with your doctor."
+
+   **Reason**: This ensures the advice is relevant to the practice of medicine and patient care.
+
+5. **Source Sentence**: "Set realistic expectations with your doctor regarding the timeline and outcomes of your new treatment."
+
+   **Guideline Source**: EFPIA Chapter 3, Article 16 - Lifelong Learning in Healthcare
+   
+   **Deviations**: The sentence lacks a clear indication of the role of professional medical guidance.
+
+   **New Sentence**: "Consult with your doctor to set realistic expectations regarding the timeline and outcomes of your new treatment."
+
+   **Reason**: This ensures that the conversation is guided by professional medical advice, in line with the guidelines.
+
+6. **Source Sentence**: "Discuss when you should follow-up on how your new treatment is working."
+
+   **Guideline Source**: EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility
+   
+   **Deviations**: The phrase should clearly indicate the necessity of medical supervision.
+
+   **New Sentence**: "Discuss with your doctor the appropriate times for follow-up to monitor the progress of your new treatment."
+
+   **Reason**: Emphasizes the importance of medical supervision and aligns with the guideline regarding patient care.
+
+**General Corrections**
+
+**Source Sentence**: "This information is intended for education purpose only and should not be substituted for medical advice from your doctor."
+
+   **Guideline Source**: Disclaimer Texts for Non-promotional Material, Article 3 - General Disclaimers
+   
+   **Deviations**: Slight grammatical issue; clarity could be improved.
+
+   **New Sentence**: "This information is intended for educational purposes only and should not be substituted for medical advice from your doctor."
+
+   **Reason**: Ensures grammatical correctness and clarity. 
+
+By making these adjustments, the document adheres to high standards, ensuring it aligns with the relevant guidelines for non-promotional material, maintains a clear professional tone, and respects the importance of medical advice for patient care.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+- The original source sentence:
+   "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+- The deviation from the guidelines originally provided by the expert reviewer:
+   According to the EFPIA Chapter 3, Article 16 - Lifelong Learning in Healthcare, the sentence needs to ensure that the information provided is fair, balanced, and objective, as well as clearly acknowledging the importance of professional medical guidance.
+
+- The expert reviewer's original suggested change:
+   "When managing type 2 diabetes, it is common to reassess and modify treatment plans under your doctor's guidance to address evolving health needs."
+
+- An explanation for the reason behind your new suggested change:
+   The expert's revision aligns well with the guidelines but could be slightly improved by emphasizing the importance of ongoing professional medical advice.
+
+- Your new suggested sentence:
+   "When managing type 2 diabetes, it is common to reassess and modify treatment plans with your doctor’s guidance to address your evolving health needs."
+
+- In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response:
+   According to EFPIA Chapter 3, Article 16, ensuring the information is fair, balanced, and objective while acknowledging the role of professional medical advice is essential.
+
+---
+
+- The original source sentence:
+   "Talk about your lifestyle and how a new treatment might be better suited for you."
+
+- The deviation from the guidelines originally provided by the expert reviewer:
+   According to EFPIA Chapter 3, Article 17, the sentence needs to ensure the relevance and necessity of professional medical advice for patient care and should emphasize the consultation aspect.
+
+- The expert reviewer's original suggested change:
+   "Discuss your lifestyle with your doctor to determine how a new treatment might better suit your needs."
+
+- An explanation for the reason behind your new suggested change:
+   The expert's suggested change is on point but can be enhanced to specify consultations and evaluations.
+
+- Your new suggested sentence:
+   "Discuss your lifestyle with your doctor to evaluate how a new treatment might better suit your specific health needs."
+
+- In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response:
+   According to EFPIA Chapter 3, Article 17, the sentence must ensure relevance to the practice of medicine and patient care through professional consultation.
+
+---
+
+- The original source sentence:
+   "Ask questions or share concerns you have about trying a new medication."
+
+- The deviation from the guidelines originally provided by the expert reviewer:
+   According to EFPIA Chapter 3, Article 17, the original statement should be framed to encourage discussions based on medical advice to ensure the relevance to patient care.
+
+- The expert reviewer's original suggested change:
+   "Share any questions or concerns you have about trying a new medication with your doctor."
+
+- An explanation for the reason behind your new suggested change:
+   The expert's change is effective but can be refined to connect more closely with discussions facilitated by medical professionals.
+
+- Your new suggested sentence:
+   "Share with your doctor any questions or concerns you have about starting a new medication."
+
+- In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response:
+   According to EFPIA Chapter 3, Article 17, the revised sentence emphasizes the importance of having such discussions with a healthcare professional for patient care relevance.

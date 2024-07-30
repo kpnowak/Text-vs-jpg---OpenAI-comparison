@@ -1,0 +1,71 @@
+[document_language] == English.
+
+Grammar & Spelling Guidelines (English):
+1. Grammar and Punctuation:
+    - Correct any grammatical errors, taking into account the specific rules of the language.
+    - Fix punctuation mistakes, including commas, periods, semicolons, colons, and quotation marks, according to the standards of the language. Ignore the lack of a period at the end of the sentence.
+    - Ensure the correct use of capitalization, especially for proper nouns and at the beginning of sentences.
+    - Avoid hyphen usage corrections.
+2. Sentence Structure:
+    - Ensure all sentences are complete and properly structured as per the syntax and grammar rules of the language.
+    - Reorganize sentences if necessary to improve clarity and readability while preserving the original meaning.
+3. Consistency:
+    - Maintain consistent verb tenses throughout the document, as per the conventions of the language.
+    - Ensure consistent use of pronouns, articles, and other language-specific constructs.
+    - Standardize terminology and style across the document.
+4. Spelling:
+    - Correct any spelling mistakes, considering the spelling rules of the language.
+    - Do not correct medical terminology. Some components of the text may contain typical medical jargon (such as sentence fragments related to dosage and use). These are not grammatical errors but rather standard formulations in the medical industry.
+5. Clarity and Readability:
+    - Improve the clarity of sentences where needed, considering the nuances and complexities of the language.
+    - Simpl
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Expert Reviewer Comments Review and Feedback
+
+**Original Sentence:** "Yesterday, I gone to a party with my friend David."
+
+**Deviation from Guidelines:** The verb tense is incorrect.
+
+**Expert Reviewer's Suggested Change:** "Yesterday, I went to a party with my friend David."
+
+**Explanation:** The correct past tense of "go" is "went."
+
+**New Suggested Sentence:** "Yesterday, I went to a party with my friend David."
+
+---
+
+**Original Sentence:** "He study english with me at university."
+
+**Deviation from Guidelines:** Subject-verb agreement and capitalization error.
+
+**Expert Reviewer's Suggested Change:** "He studies English with me at university."
+
+**Explanation:** The verb should be "studies" to agree with the subject "He," and "English" should be capitalized.
+
+**New Suggested Sentence:** "He studies English with me at university."
+
+---
+
+**Original Sentence:** "David and I satt in the corner of the room."
+
+**Deviation from Guidelines:** Spelling error.
+
+**Expert Reviewer's Suggested Change:** "David and I sat in the corner of the room."
+
+**Explanation:** The correct spelling is "sat."
+
+**New Suggested Sentence:** "David and I sat in the corner of the room."
+
+---
+
+**Original Sentence:** "He didn 't making the first move to go and see her."
+
+**Deviation from Guidelines:** Incorrect verb form and spacing issue.
+
+**Expert Reviewer's Suggested Change:** "He didn't make the first move to go and see her."
+
+**Explanation

@@ -1,43 +1,46 @@
-### Review and Recommendations
+### Review and Recommended Revisions:
 
-#### 1. **Section: "Lifestyle" Paragraph**
+#### Deviation 1:
+- **Original Source Sentence:** "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- **Deviation:** The source sentence does not maintain a formal and professional tone in accordance with the guidelines, and lacks context which could prevent misunderstandings.
+- **Expert Reviewer's Suggested Change:** "Living with type 2 diabetes necessitates periodic reevaluation and adjustment of your treatment plan to address your evolving personal health needs."
+- **New Suggested Change Reason:** According to [Source - Communicate With Care Pocket Guide], the revised sentence needs to maintain a professional tone and provide clear context. The expert's suggested change was good, but it could be refined for better clarity and compliance with guidelines.
+- **New Suggested Sentence:** "Living with type 2 diabetes requires regular reassessment and modifications to your treatment plan to meet your changing personal health requirements."
 
-- **Original Source Sentence:**
-  - "Talk about your lifestyle and how a new treatment might be better suited for you."
+#### Deviation 2:
+- **Original Source Sentence:** "You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+- **Deviation:** The source sentence could be perceived as promoting the materials themselves rather than being purely educational or informational.
+- **Expert Reviewer's Suggested Change:** "Your awareness of your personal health needs is crucial for advocating appropriate medical treatments during discussions with your healthcare provider."
+- **New Suggested Change Reason:** According to [Source - EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility], the material should remain purely informational and educational without suggesting a promotional bias. The expert's revision was suitable but could be more precise.
+- **New Suggested Sentence:** "Understanding your personal health needs is essential for effective advocacy of appropriate treatments during discussions with your healthcare provider."
 
-- **Deviation from Guidelines:**
-  - According to [Source - EFPIA Chapter 3, Article 16] the information suggests that LLH activities must have content that is fair, balanced and objective.
+#### Deviation 3:
+- **Original Source Sentence:** "Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
+- **Deviation:** The sentence needs to be more scientifically driven and avoid inducing product-specific recommendations, thus remaining non-promotional.
+- **Expert Reviewer's Suggested Change:** "Share any challenges encountered with your current treatment, such as side effects, administration preferences, lifestyle compatibility, and cost considerations, and inquire about potential alternatives scientifically evaluated to address these concerns."
+- **New Suggested Change Reason:** According to [Source - EFPIA Chapter 3, Article 18 - Non-Interventional Studies], the material should be scientific and unbiased. The expert's revision was effective but could be more structured for clarity.
+- **New Suggested Sentence:** "Communicate any difficulties with your current treatment, including side effects, administration mode preferences, lifestyle suitability, and cost issues, and ask about scientifically evaluated alternatives that address these specific challenges."
 
-- **Expert Reviewer’s Original Suggested Change:**
-  - "Discuss how your lifestyle might impact your treatment choices and whether a different approach might better suit your needs."
+#### Deviation 4:
+- **Original Source Sentence:** "Typically, type 2 diabetes patients should see their doctor every 3–6 months."
+- **Deviation:** The source sentence suggests a clinical guideline without sufficient context on individual variances.
+- **Expert Reviewer's Suggested Change:** "It is generally recommended for patients with type 2 diabetes to have regular consultations with their healthcare provider at intervals such as every 3–6 months, though individual needs may vary."
+- **New Suggested Change Reason:** According to [Source - Disclaimer Texts for Non-promotional Material, Article 3 - General Disclaimers], the content should include a disclaimer about individual variances. The expert's revision was suitable but needed a slight adjustment for better clarity.
+- **New Suggested Sentence:** "Patients with type 2 diabetes are generally advised to have regular consultations with their healthcare provider every 3–6 months, although individual needs can differ."
 
-- **Explanation for New Suggested Change:**
-  - To better align with the objective and balanced content requirement, the inclusion of practical examples will make the advice more actionable while ensuring it remains factual and not promotional.
+#### Deviation 5:
+- **Original Source Sentence:** "Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+- **Deviation:** The sentence lacks clarity and could benefit from a more professional tone.
+- **Expert Reviewer's Suggested Change:** "While your doctor is the clinical expert, you possess unique insights into your daily experience managing type 2 diabetes."
+- **New Suggested Change Reason:** According to [Source - Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional], the information should be clear and professional. The expert's suggestion was effective but could be made slightly more formal.
+- **New Suggested Sentence:** "Your doctor is the clinical expert, yet you hold unique insights into your daily management of type 2 diabetes."
 
-- **New Suggested Sentence:**
-  - "Talk about your lifestyle and any specific preferences, such as work travel or physical activity levels, to see if a different treatment approach might better meet your needs."
+#### Deviation 6:
+- **Original Source Sentence:** "Go to every appointment prepared to talk, ask questions and find solutions together."
+- **Deviation:** The source sentence does not include a disclaimer and could mislead into assuming a generalized approach to all patients.
+- **Expert Reviewer's Suggested Change:** "Approach each appointment prepared to discuss, inquire, and collaboratively find solutions tailored to your specific health needs, recognizing that individual experiences may vary."
+- **New Suggested Change Reason:** According to [Source - Disclaimer Texts for Non-promotional Material, Article 3 - General Disclaimers], the content should account for individual differences. The expert's recommendation was adequate, but it could be refined for brevity.
+- **New Suggested Sentence:** "Prepare for each appointment by being ready to discuss, ask questions, and collaboratively seek solutions tailored to your individual health needs, recognizing variability in patient experiences."
 
-- **Deviations:**
-  - According to [Source - EFPIA Chapter 3, Article 16] the information suggests that LLH activities must have content that is fair, balanced and objective.
-
-#### 2. **Section: "Concerns and side effects" Paragraph**
-
-- **Original Source Sentence:**
-  - "Ask questions or share concerns you have about trying a new medication."
-
-- **Deviation from Guidelines:**
-  - According to [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication, Article 1], the information suggests that Non-Promotional Material must share factual information without promoting any specific product.
-
-- **Expert Reviewer’s Original Suggested Change:**
-  - "Share any concerns you have about your current treatment or potential new treatment options, including understanding their mechanisms and side effects."
-
-- **Explanation for New Suggested Change:**
-  - The suggested change slightly improves the original sentence’s adherence to guidelines by emphasizing factual concerns and understanding mechanisms and side effects within a balanced context.
-
-- **New Suggested Sentence:**
-  - "Express any concerns you have about your current or newly suggested treatments, including their effectiveness, mechanisms, and potential side effects."
-
-- **Deviations:**
-  - According to [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication, Article 1], the information suggests that Non-Promotional Material must share factual information without promoting any specific product.
-
-By implementing these revised changes, the document will align more closely with the Non-Promotional Material Guidelines, maintaining compliance and ensuring a high standard of educational content.
+### Final Note:
+The suggested revisions above address deviations from the provided guidelines by adhering to the ethical principles and maintaining high standards for non-promotional materials. Each revised sentence ensures clarity, professionalism, and educational value without constituting promotion.

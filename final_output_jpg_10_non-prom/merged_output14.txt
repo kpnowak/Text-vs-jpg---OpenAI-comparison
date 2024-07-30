@@ -1,0 +1,127 @@
+### Review of the Non-Promotional Material Document
+
+#### Issue 1:
+
+- **Guideline Source**: EFPIA Chapter 3, Article 17
+- **Source Sentence**: No specific sentence identified.
+- **Deviations**: None of the items in the document include the "inexpensive" qualification, which is a crucial part of compliance for Informational or Educational Materials and Items of Medical Utility.
+- **New Sentence**: "Informational or Educational Materials provided here are designed to be inexpensive and beneficial to patient care, as they aim to support type 2 diabetes management."
+- **Reason**: To ensure compliance with the regulation that any Informational or Educational Materials need to be inexpensive.
+
+#### Issue 2:
+
+- **Guideline Source**: EFPIA Chapter 3, Article 17(iv)
+- **Source Sentence**: No specific sentence identified.
+- **Deviations**: The document mentions no branding guidelines for educational materials or items of medical utility.
+- **New Sentence**: "This material is branded with the company name but does not include the medicinal product's name unless deemed essential for correct use by the patient."
+- **Reason**: Ensures that educational materials are not misused as promotional tools for specific medicinal products.
+
+#### Issue 3:
+
+- **Guideline Source**: Disclaimer Texts for Non-promotional Material, Article 3
+- **Source Sentence**: None, no disclaimer provided.
+- **Deviations**: The document lacks the necessary disclaimers indicating that the characters and scenarios are for representation purposes only.
+- **New Sentence**: "The characters shown and their scenarios are for representation purposes only and do not reflect actual patient experiences."
+- **Reason**: To ensure clarity and legal safety regarding the portrayals in the document.
+
+#### Issue 4:
+
+- **Guideline Source**: Communicate With Care Pocket Guide, Article 1
+- **Source Sentence**: No specific sentence mentioned.
+- **Deviations**: The implications of sharing the document’s content aren’t addressed.
+- **New Sentence**: "This document's content should be shared following legal and compliance standards to avoid misunderstandings or misuse."
+- **Reason**: To ensure that the document follows legal guidelines in its dissemination, potentially impacting patient advice consistency.
+
+#### Issue 5:
+
+- **Guideline Source**: Disclaimer Texts for Non-promotional Material, Article 2
+- **Source Sentence**: No specific source sentence identified.
+- **Deviations**: The document does not include a disclaimer stating the material is for internal preparation.
+- **New Sentence**: "This is a DRAFT for preparatory use in NN only. Affiliates should ensure compliance with local legislation prior to external distribution."
+- **Reason**: Ensures the reader knows the document is in draft form and must undergo local compliance checks.
+
+#### Issue 6:
+
+- **Guideline Source**: Disclaimer Texts for Non-promotional Material, Article 1.vii
+- **Source Sentence**: None provided.
+- **Deviations**: Lack of information regarding side effects and steps for patients to take if they experience them.
+- **New Sentence**: "If you experience any side effects while following this advice, talk to your doctor, pharmacist, or nurse. Report any side effects not listed in the patient leaflet via [insert contact details]."
+- **Reason**: This sentence ensures that patients have clear guidance on managing side effects, adhering to safety and compliance regulations.
+
+#### Issue 7:
+
+- **Guideline Source**: EFPIA Chapter 3, Article 19
+- **Source Sentence**: No direct sentence.
+- **Deviations**: The importance of familiarization and experience with medicinal products isn’t specified.
+- **New Sentence**: "Medical Samples are provided to allow healthcare professionals to familiarize themselves with the products and gain experience for better patient outcomes."
+- **Reason**: Ensures the document includes the purpose of medical samples, complying with EFPIA requirements.
+
+#### Issue 8:
+
+- **Guideline Source**: EFPIA Chapter 3, Article 20.i
+- **Source Sentence**: No single sentence identified.
+- **Deviations**: There is no explicit mention of staff responsibility regarding compliance with all codes and regulations.
+- **New Sentence**: "All staff involved must ensure that this material complies with the applicable codes and laws, overseen by a responsible employee."
+- **Reason**: Reinforces the compliance responsibilities of staff, tying the document's use to regulation adherence.
+
+#### Issue 9:
+
+- **Guideline Source**: Disclaimer Texts for Non-promotional Material, Article 3.v and vi
+- **Source Sentence**: No specific sentence identified.
+- **Deviations**: There is no guide for patients on managing their prescription needs.
+- **New Sentence**: "This information should complement, not replace, advice from your healthcare provider. Always refer to the patient leaflet for detailed instructions."
+- **Reason**: Ensures patients understand the supplementary nature of this material and refer to professional medical advice for their treatment.
+
+#### Issue 10:
+
+- **Guideline Source**: Communicate With Care Pocket Guide, Article 2.ii
+- **Source Sentence**: "Come to every appointment prepared to talk, ask questions and find solutions together."
+- **Deviations**: Lack of context for patients not accustomed to medical discussions.
+- **New Sentence**: "Before your appointments, prepare questions and key topics to discuss to ensure a productive conversation with your healthcare provider."
+- **Reason**: Provides clear instructions, helping patients who may not be used to discussing medical issues more effectively.
+
+This comprehensive review ensures that the document adheres closely to the non-promotional material guidelines, improves understandability, and aligns with legal and ethical standards.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Review of the Non-Promotional Material Document
+
+#### Issue 4:
+
+- **Source Sentence**: No specific sentence mentioned.
+- **Deviation from Guidelines**: The implications of sharing the document’s content aren't addressed.
+- **Expert's Suggested Change**: "This document's content should be shared following legal and compliance standards to avoid misunderstandings or misuse."
+- **Reason for New Sentence**: The expert's suggestion is somewhat generic and could benefit from more clarity and explicit mention of legal and compliance risks.
+- **New Suggested Sentence**: "Ensure all content is shared in accordance with legal and compliance standards to prevent any potential misuse or miscommunication."
+- **Explanation**: According to Communicate With Care Pocket Guide, it's crucial to remember that written communications may become evidence in legal matters and should hence adhere strictly to legal and compliance guidelines. Thus, detailing legal standards adds explicit clarity, reinforcing the need for careful information dissemination.
+
+#### Issue 6:
+
+- **Source Sentence**: None provided.
+- **Deviation from Guidelines**: Lack of information regarding side effects and steps for patients to take if they experience them.
+- **Expert's Suggested Change**: "If you experience any side effects while following this advice, talk to your doctor, pharmacist, or nurse. Report any side effects not listed in the patient leaflet via [insert contact details]."
+- **Reason for New Sentence**: This provides a clear action plan for patients regarding side effects.
+- **New Suggested Sentence**: "Should you experience any side effects while following this guide, immediately contact your healthcare provider. For side effects not listed here, reach out via [insert contact details]."
+- **Explanation**: According to Disclaimer Texts for Non-promotional Material, it’s essential to provide patients with clear instructions for managing side effects. This revised text adds emphasis on immediate contact and reaches out to unlisted side effects, adhering to both clarity and legal compliance.
+
+#### Issue 7:
+
+- **Source Sentence**: No direct sentence.
+- **Deviation from Guidelines**: The importance of familiarization and experience with medicinal products isn't specified.
+- **Expert's Suggested Change**: "Medical Samples are provided to allow healthcare professionals to familiarize themselves with the products and gain experience for better patient outcomes."
+- **Reason for New Sentence**: Emphasizes the specific intent behind providing medical samples while aligning with EFPIA requirements.
+- **New Suggested Sentence**: "Medical samples are distributed to enable healthcare professionals to become familiar with and gain practical experience in using these medicinal products, leading to improved patient care."
+- **Explanation**: According to EFPIA Chapter 3, Article 19, the distribution of medical samples should be justified as a means of allowing healthcare professionals to acquire hands-on experience. This revised sentence clarifies and highlights the educational and patient care benefits, adhering to the guidelines.
+
+#### Issue 10:
+
+- **Source Sentence**: "Come to every appointment prepared to talk, ask questions and find solutions together."
+- **Deviation from Guidelines**: Lack of context for patients not accustomed to medical discussions.
+- **Expert's Suggested Change**: "Before your appointments, prepare questions and key topics to discuss to ensure a productive conversation with your healthcare provider."
+- **Reason for New Sentence**: Provides a more detailed instruction to help patients engage effectively in medical discussions.
+- **New Suggested Sentence**: "Prepare a list of questions and key discussion points before your appointments to ensure productive and meaningful conversations with your healthcare provider."
+- **Explanation**: According to Communicate With Care Pocket Guide, ensuring context and clarity for patients is crucial to prevent misunderstandings. This revised sentence gives tangible advice for patient preparation, enhancing the productivity of their medical consultations.
+
+These improvements ensure the document aligns more closely with the non-promotional material guidelines, strengthens patient understanding, and maintains legal and ethical compliance.

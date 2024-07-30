@@ -1,0 +1,28 @@
+### Review of the Document: "How to talk about treatment options"
+
+#### Sentence 1 
+- **The original source sentence**: "It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+- **The deviation from guidelines originally provided by the expert reviewer**: The original sentence may be interpreted as indirectly promoting a change in treatment, thus contravening Article 16 of EFPIA Chapter 3 which states that educational materials should be "fair, balanced and objective".
+- **The expert reviewer's original suggested change**: "It’s crucial to have open discussions with your doctor to ensure that any adjustments to your treatment align with your healthcare needs."
+- **An explanation for the reason behind your new suggested change**: While the expert's suggestion removes the implication of promoting treatment changes, it could be further refined to emphasize balanced discussion without suggesting any adjustments.
+- **Your new suggested sentence**: "It’s crucial to have open discussions with your doctor about your treatment options to ensure they meet your healthcare needs."
+- **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to [Source - EFPIA Chapter 3, Article 16], the information suggests that educational materials should be "fair, balanced and objective."
+
+#### Sentence 2 
+- **The original source sentence**: "Discuss any difficulties you've experienced with your current treatment—such as side effects..."
+- **The deviation from guidelines originally provided by the expert reviewer**: The original sentence could be seen as inducing changes based on negative experiences, thus it should avoid focusing solely on difficulties.
+- **The expert reviewer's original suggested change**: "Discuss any experiences you've had with your current treatment—including positive outcomes and any challenges like side effects..."
+- **An explanation for the reason behind your new suggested change**: The expert’s original suggestion is close to the target but can be refined to balance even more the discussion of experiences without overemphasizing either negative or positive outcomes and avoiding any implications of change unless necessary.
+- **Your new suggested sentence**: "Discuss all your experiences with your current treatment—including both positive outcomes and any challenges you have faced."
+- **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to [Source - Communicate With Care Pocket Guide], the information suggests a balanced and fair content.
+
+#### Sentence 5 
+- **The original source sentence**: "Talk about your lifestyle and how a new treatment might be better suited for you."
+- **The deviation from guidelines originally provided by the expert reviewer**: The phrase "better suited" might imply promotion of a treatment.
+- **The expert reviewer's original suggested change**: "Talk about your lifestyle and discuss how various treatment options may align with your daily routine and personal health goals."
+- **An explanation for the reason behind your new suggested change**: While the expert reviewer's suggestion removes implications of promoting new treatments, it needs to avoid any suggestion of multiple changes being inherently better.
+- **Your new suggested sentence**: "Discuss your lifestyle and explore how different treatment options can fit into your daily routine and support your health goals."
+- **In the deviations write which source and key point from "Non-Promotional Material Guidelines" influenced the response**: According to [Source - EFPIA Chapter 3, Article 17], the materials should be "fair, balanced and objective" and not imply any promotion.
+
+### Summary 
+The new sentences ensure that the document adheres to the EFPIA guidelines and other Non-Promotional Material Guidelines by reinforcing a balanced, objective, and non-promotional approach. Each replacement maintains the educational and informational purpose without suggesting changes or promoting new treatments inappropriately.

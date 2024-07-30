@@ -1,0 +1,48 @@
+Mistake 'It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial.': 
+- True Positive: 0
+- False Negative: 10
+- False Positive: 0
+- True Negative: 0
+
+Mistake 'like you're doing right now!':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+Mistake 'Lacks sufficient context and implies personal advice without sufficient context.':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+Mistake 'Lacks acknowledgment of follow-up schedules may vary based on individual circumstances.':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+Mistake 'Not adhering to a professional tone, uses casual language.':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+Mistake 'Ensure clarity and collaboration in patient-doctor interaction.':
+- True Positive: 0
+- False Negative: 10
+- False Positive: 0
+- True Negative: 0
+
+Mistake 'Encourages empowerment but should emphasize professional guidance.':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+
+Overall Summary:
+- True Positive: 50
+- False Negative: 20
+- False Positive: 0
+- True Negative: 0

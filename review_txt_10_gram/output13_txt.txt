@@ -1,0 +1,22 @@
+### Sentence 3:
+- **Original Sentence**: He wanted to be introduced to Lucy wo he fancied.
+- **Deviation by Expert Reviewer**: The expert reviewer's suggestion to replace "wo" with "who" does not address the awkward phrasing of "who he fancied."
+- **Expert Reviewer's Suggested Change**: He wanted to be introduced to Lucy who he fancied.
+- **Reason for New Suggested Change**: To improve clarity and readability, rephrase the sentence while maintaining its meaning.
+- **New Suggested Sentence**: He wanted to be introduced to Lucy, whom he fancied.
+
+### Sentence 17:
+- **Original Sentence**: She could hardly say a word but after a little seconds, she said : ' I' m sorry to deceive you but actually I fancy Sebastian '.
+- **Deviation by Expert Reviewer**: The expert reviewer's correction is mostly adequate, but there can be further improvement by removing redundant spaces within the quotation marks.
+- **Expert Reviewer's Suggested Change**: She could hardly say a word but after a few seconds, she said: 'I'm sorry to deceive you but actually I fancy Sebastian'.
+- **Reason for New Suggested Change**: To adhere to the guidelines, remove the unnecessary spaces inside the quotation marks for better clarity.
+- **New Suggested Sentence**: She could hardly say a word, but after a few seconds, she said: 'I'm sorry to deceive you, but actually I fancy Sebastian'.
+
+### Sentence 18:
+- **Original Sentence**: David fainted : ' a friend in need is a friend inded ' !!
+- **Deviation by Expert Reviewer**: The expert reviewer's suggestion corrects "inded" to "indeed" and fixes the punctuation. However, the double exclamation marks can be simplified.
+- **Expert Reviewer's Suggested Change**: David fainted: 'A friend in need is a friend indeed!'.
+- **Reason for New Suggested Change**: To ensure proper punctuation and readability, use a single exclamation mark.
+- **New Suggested Sentence**: David fainted: 'A friend in need is a friend indeed!'.
+
+These changes align with the provided guidelines and improve the overall clarity and readability of the document.

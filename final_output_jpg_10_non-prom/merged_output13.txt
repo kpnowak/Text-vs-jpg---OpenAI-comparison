@@ -1,0 +1,187 @@
+Here is the review of the provided document based on the "Non-Promotional Material Guidelines":
+
+### Section: Header
+**Original Sentence:**
+"How to talk about treatment options"
+
+**Deviation(s):**
+This header is clear and professional. However, ensure that the content does not imply any promotional intent, sticking only to educational and informational content as mandated by [Source - EFPIA Chapter 3: Article 16].
+
+### Section: Body Content (Introduction)
+**Original Sentence:**
+"When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+**Deviation(s):**
+- Not explicitly presenting facts without implying specific treatment changes which may border on promotion.
+- Should be non-promotional and directly educational.
+
+**New Sentence:**
+"Living with type 2 diabetes requires regular reassessment of your treatment plans to better address your evolving healthcare needs."
+
+**Guideline Source & Key Point:**
+[Source - EFPIA Chapter 3: Article 16]
+- This corrects the deviation by maintaining a non-promotional tone while being informative about regular reassessment needs in diabetes care.
+
+**Reason for Change:**
+To ensure the text remains impartial and educational, aligning with non-promotional guidelines.
+
+### Section: Body Content (Empowerment)
+**Original Sentence:**
+"It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+**Deviation(s):**
+- Could unintentionally imply encouragement for a change in treatment which could be seen as indirect promotion.
+
+**New Sentence:**
+"It’s important to feel confident and prepared to discuss your healthcare needs with your doctor."
+
+**Guideline Source & Key Point:**
+[Source - EFPIA Chapter 3: Article 20]
+- This corrects the deviation by focusing on communication without suggesting specific actions like changing treatment.
+
+**Reason for Change:**
+To maintain neutrality and avoid any indirect promotion.
+
+### Section: Personal Goals
+**Original Sentence:**
+"Share your personal goals, whether it’s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective."
+
+**Deviation(s):**
+- Explicit mention of treatment efficacy bordering promotional tone needs adjustment.
+
+**New Sentence:**
+"Discuss your personal health goals such as better blood sugar control, weight management, or reducing the risk of cardiovascular events with your doctor to understand the best approaches to manage these goals."
+
+**Guideline Source & Key Point:**
+[Source - EFPIA Chapter 3: Article 17 (ii)]
+- Indicates the importance of informational material directly benefiting patient care without implying changes in treatment effectiveness.
+
+**Reason for Change:**
+Neutrally supportive, focusing on discussing goals rather than implying treatment change efficacy.
+
+### Section: Challenges
+**Original Sentence:**
+"Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
+
+**Deviation(s):**
+- Possibly suggesting alternatives, verging on treatment promotional suggestions.
+
+**New Sentence:**
+"Discuss any difficulties experienced with your current treatment, such as side effects, administration preferences, lifestyle compatibility, or cost considerations, and seek professional advice on managing these challenges."
+
+**Guideline Source & Key Point:**
+[Source - EFPIA Chapter 3: Article 16]
+- Neutrally addresses difficulties without suggesting seeking different treatment options.
+
+**Reason for Change:**
+Maintains non-promotional, support-focused language.
+
+### Section: Footer Disclaimer
+**Current Disclaimers Present**:
+"The image shown is a model and not a real patient."
+"The prescription is based on a patient example and not a real patient."
+
+**Deviation(s):**
+- Aligning additional disclaimers to include comprehensive transparency.
+
+**Additional Recommended Sentence:**
+"The character and its description are for representation purposes only and do not reflect a real patient."
+
+**Guideline Source & Key Point:**
+[Source - Disclaimer Texts for Non-promotional Material: Article 3]
+  
+**Reason for Change:**
+This additional disclaimer ensures all models are clearly indicated as non-real patients, thereby maintaining transparency.
+
+### Overarching Guideline Adherence:
+
+Across the document, ensure these keys are met:
+- **Clarity and Professionalism (Source - Communicate With Care Pocket Guide)**
+- **Non-Promotional Tone (Source - EFPIA Chapter 3)**
+- **Inexpensiveness & Relevance (Source - EFPIA Chapter 3: Article 17)**
+
+### Summary:
+The document's current state largely complies with non-promotional material guidelines. Adjustments were suggested to maintain an informational and neutral tone, classify the content clearly, and add disclaimers as necessary. These modifications ensure compliance with EFPIA regulations and internal guidelines for non-promotional medical material.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Section: Body Content (Introduction)
+**Original Sentence:**
+"When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+**Deviation:**
+- Not explicitly presenting facts without implying specific treatment changes which may border on promotion.
+- Should be non-promotional and directly educational.
+- According to [Source - EFPIA Chapter 3: Article 16], the content must avoid promotional intent and focus on educational aspects.
+
+**Expert Reviewer's Original Suggested Change:**
+"Living with type 2 diabetes requires regular reassessment of your treatment plans to better address your evolving healthcare needs."
+
+**Explanation for New Change:**
+The original suggested change could still imply a reassessment of treatment plans. To maintain a purely educational tone without implying treatment changes, it’s important to focus on general health management.
+
+**New Suggested Sentence:**
+"Living with type 2 diabetes involves regular evaluations of your health to address your evolving healthcare needs."
+
+---
+
+### Section: Body Content (Empowerment)
+**Original Sentence:**
+"It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+**Deviation:**
+- Could unintentionally imply encouragement for a change in treatment which could be seen as indirect promotion.
+- According to [Source - EFPIA Chapter 3: Article 20], content must focus on communication without suggesting treatment adjustments.
+
+**Expert Reviewer's Original Suggested Change:**
+"It’s important to feel confident and prepared to discuss your healthcare needs with your doctor."
+
+**Explanation for New Change:**
+The expert’s change is almost adequate but the phrase “discuss your healthcare needs” can still be more general. Emphasizing the aspect of communication without hinting at treatment changes is crucial.
+
+**New Suggested Sentence:**
+"It’s important to feel empowered and ready to discuss your health with your doctor."
+
+---
+
+### Section: Personal Goals
+**Original Sentence:**
+"Share your personal goals, whether it’s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective."
+
+**Deviation:**
+- Explicit mention of treatment efficacy bordering promotional tone needs adjustment.
+- According to [Source - EFPIA Chapter 3: Article 17 (ii)], informational material should directly benefit patient care without implying changes in treatment effectiveness.
+
+**Expert Reviewer's Original Suggested Change:**
+"Discuss your personal health goals such as better blood sugar control, weight management, or reducing the risk of cardiovascular events with your doctor to understand the best approaches to manage these goals."
+
+**Explanation for New Change:**
+While the expert’s suggestion moves towards a more educational tone, it still needs refinement to avoid the implication of treatment effectiveness completely.
+
+**New Suggested Sentence:**
+"Discuss your personal health goals, including better blood sugar control, weight management, or reducing the risk of cardiovascular events with your doctor to explore various management strategies."
+
+---
+
+### Section: Challenges
+**Original Sentence:**
+"Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
+
+**Deviation:**
+- Possibly suggesting alternatives, verging on treatment promotional suggestions.
+- According to [Source - EFPIA Chapter 3: Article 16], addressing difficulties should not imply seeking different treatment options.
+
+**Expert Reviewer's Original Suggested Change:**
+"Discuss any difficulties experienced with your current treatment, such as side effects, administration preferences, lifestyle compatibility, or cost considerations, and seek professional advice on managing these challenges."
+
+**Explanation for New Change:**
+The expert reviewer’s suggestion is good but can be improved by focusing more on managing challenges rather than referring too specifically to treatment alternatives.
+
+**New Suggested Sentence:**
+"Talk to your doctor about any difficulties with your current treatment, such as side effects, administration preferences, lifestyle compatibility, or cost, to find ways to manage these issues."
+
+---
+
+By making these modifications, we ensure the content aligns with the Non-Promotional Material Guidelines, remains educational, and avoids any language that could be construed as promotional.

@@ -1,0 +1,34 @@
+### Review Improvements:
+
+**Source Sentence:** He whispered ' Yes ' and had a glance at me.
+- **Deviation:** Incorrect spacing within quotation marks and capitalization inconsistency.
+- **Expert's Suggested Change:** He whispered ' Yes ' and had a glance at me.
+- **Reason for Change:** Proper spacing around quotation marks and consistency in capitalization.
+- **New Suggestion:** He whispered 'Yes' and glanced at me.
+
+**Source Sentence:** David fainted: 'a friend in need is a friend indeed ' !!
+- **Deviation:** Punctuation error for exclamation marks; incorrect quotation and punctuation usage.
+- **Expert's Suggested Change:** David fainted: 'a friend in need is a friend indeed'!
+- **Reason for Change:** Correct punctuation placement and consistency with exclamation marks.
+- **New Suggestion:** David fainted: "A friend in need is a friend indeed!"
+
+**Source Sentence:** She could hardly say a word but after a little seconds, she said: ' I 'm sorry to deceive you but actually I fancy Sebastian '.
+- **Deviation:** Incorrect phrase "a little seconds"; incorrect quotation usage.
+- **Expert's Suggested Change:** She could hardly say a word but after a few seconds, she said: 'I'm sorry to deceive you but actually I fancy Sebastian.'
+- **Reason for Change:** Correct phrase and correct punctuation/quotation usage.
+- **New Suggestion:** She could hardly say a word, but after a few seconds, she said, "I'm sorry to deceive you, but actually I like Sebastian."
+
+**Source Sentence:** Yesterday, I gone to a party with my friend David.
+- **Deviation:** Incorrect past tense usage "gone".
+- **Expert's Suggested Change:** Yesterday, I went to a party with my friend David.
+- **Reason for Change:** The correct past tense form should be "went".
+- **New Suggestion:** Yesterday, I went to a party with my friend, David.
+
+**Source Sentence:** He study english with me at university.
+- **Deviation:** Incorrect verb form "study"; incorrect capitalization "english".
+- **Expert's Suggested Change:** He studied English with me at university.
+- **Reason for Change:** Corrected to past tense "studied"; "English" should be capitalized as it is a proper noun.
+- **New Suggestion:** He studied English with me at the university.
+
+### Summary:
+The expert reviewers made several valid corrections. However, there were some minor areas where improvements were necessary, especially in consistent punctuation and proper phrases. The suggested sentences ensure clarity, readability, and adherence to standard grammatical rules.

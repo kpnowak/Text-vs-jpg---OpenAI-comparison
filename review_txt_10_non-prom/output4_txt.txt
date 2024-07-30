@@ -1,0 +1,73 @@
+### Document Review
+
+#### Paragraph Review:
+
+**Original Sentence:**
+“When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.”
+
+1. **Deviation:**
+   - According to [Source - Communicate With Care Pocket Guide], the information suggests that clarity and avoiding assumptions are critical. The original sentence might inadvertently suggest patients independently reevaluate and change their treatments regularly without clarifying the role of the healthcare provider in these decisions.
+2. **Expert Reviewer's Suggested Change:**
+   “When you are living with type 2 diabetes, regularly discussing your treatment plan with your healthcare provider ensures it remains aligned with your changing personal health needs.”
+3. **Reason for New Change:**
+   Ensuring that the healthcare provider's role is clear while maintaining the sentiment of reassessing treatment is essential.
+4. **New Suggested Sentence:**
+   "When you are living with type 2 diabetes, it is important to regularly review your treatment plan with your healthcare provider to ensure it continues to meet your personal health needs."
+
+**Original Sentence:**
+“Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+
+1. **Deviation:**
+   - According to [Source - Communicate With Care Pocket Guide], this statement might come off as overly assertive, potentially undermining the doctor’s expertise.
+2. **Expert Reviewer's Suggested Change:**
+   “While your doctor is the medical expert, your personal experience with type 2 diabetes is invaluable.”
+3. **Reason for New Change:**
+   The suggested wording should emphasize collaboration and respect for both the patient and the doctor’s roles.
+4. **New Suggested Sentence:**
+   “While your doctor provides medical expertise, your experiences living with type 2 diabetes offer vital insights for effective treatment.”
+
+**Original Sentence:**
+“Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges.”
+
+1. **Deviation:**
+   - According to [Source - EFPIA Chapter 3, Article 17], the statement needs to ensure that costs and preferences are mentioned professionally and should not imply direct promotional content for alternatives.
+2. **Expert Reviewer's Suggested Change:**
+   “Discuss any difficulties you've experienced with your current treatment, including side effects, preferences for oral or injectable options, lifestyle compatibility, and affordability, and ask your doctor about possible alternatives.”
+3. **Reason for New Change:**
+   The sentence should remain non-promotional and provide a clear and professional discussion context.
+4. **New Suggested Sentence:**
+   “Outline any challenges you’ve faced with your current treatment—such as side effects, preference for administration method, lifestyle compatibility, and cost concerns—with your doctor to explore potential alternative solutions.”
+
+**Original Sentence:**
+“Remember, this conversation is about working together with your doctor to find the best treatment option for you.”
+
+1. **Deviation:**
+   - According to [Source - Communicate With Care Pocket Guide], needs to ensure clarity and provide professional tone.
+2. **Expert Reviewer's Suggested Change:**
+   “Remember, the aim of this conversation is to collaborate with your doctor to identify the most suitable treatment option for you.”
+3. **Reason for New Change:**
+   Maintaining a collaborative approach is important while ensuring clarity and professional tone.
+4. **New Suggested Sentence:**
+   “Keep in mind that this discussion is focused on working collaboratively with your doctor to determine the best treatment option for you.”
+
+### General Observations:
+
+**Consistency & Disclaimers:**
+
+1. **Guideline Source: Source - Disclaimer Texts for Non-promotional Material**
+2. **Comment:**
+   - Each non-promotional material must contain appropriate disclaimers to ensure all information is clear and follows legal requirements.
+3. **New Sentence:**
+   Add the disclaimer, "This information is intended for diabetes patients who have been prescribed a treatment by their doctor and should not be substituted for medical advice from your doctor."
+4. **Reason:**
+   Ensures compliance with guidelines and avoids misinterpretation.
+
+**References & Disclosure:**
+
+1. **Guideline Source: Source - EFPIA Chapter 4, Article 21**
+2. **Comment:**
+   - The document should clearly acknowledge if any company or third-party organization funded or influenced the content.
+3. **New Sentence:**
+   “This material is provided by [Insert company name] and is intended to inform patients based on the latest available scientific evidence.”
+4. **Reason:**
+   Transparency and acknowledging the source keeps the material compliant and ethical.

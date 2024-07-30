@@ -1,71 +1,63 @@
-### Review of Non-Promotional Material Document
-
-#### Guideline Source: Disclaimer Texts for Non-promotional Material
-Source Sentence:
-"The image shown is a model and not a real patient."
-Deviation:
-- Certain disclaimers relevant to visual content depicting individuals or medical scenarios have not been included.
-New Sentence:
-- "Model is not a real patient and situations shown do not reflect models’ experience."
-Reason for Replacement:
-- Ensures that the document clearly states that any human imagery is not representative of real patients, maintaining clarity and compliance. This includes all necessary disclaimers to avoid misinterpretations or legal implications.
-
-#### Guideline Source: EFPIA Chapter 3, Article 17
-Source Sentence:
-"It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
-Deviation:
-- The original text may unintentionally imply direct consumer recommendation of initiating treatment conversations, which should be neutral and informational.
-New Sentence:
-- "It’s important that you stay informed and prepared to discuss treatment options with your doctor whenever appropriate."
-Reason for Replacement:
-- The new sentence ensures the tone remains educational, informing patients they can discuss changes with their healthcare provider, but without encouraging actions directly, adhering to non-promotional compliance.
-
-#### Guideline Source: Communicate With Care Pocket Guide, Article 2
-Source Sentence:
-"This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
-Deviation:
-- The original text could be seen as informal and lacking in professionalism.
-New Sentence:
-- "This involves discussing and understanding how the medication works, including potential side effects."
-Reason for Replacement:
-- This change maintains a more formal and professional tone, ensuring clarity and that the information remains straightforward and professional.
-
-#### Guideline Source: EFPIA Chapter 4, Article 21
-Source Sentence:
-"Share your personal goals, whether it’s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and ask if your doctor how your current treatment could be more effective."
-Deviation:
-- The sentence may appear to offer treatment suggestions or pose direct medical advice.
-New Sentence:
-- "Discuss your personal goals, such as improving blood sugar control, managing weight, or reducing cardiovascular risks, and explore with your doctor whether your current treatment meets these goals."
-Reason for Replacement:
-- Rephrasing ensures the focus remains on a collaborative discussion with the healthcare provider, aligning with principles of mutual respect and patient-doctor partnership described in Chapter 4.
-
-#### Guideline Source: Disclaimer Texts for Non-promotional Material, Article 3
-Source Sentence:
-"Remember, this conversation is about working together with your doctor to find the best treatment option for you."
-Deviation:
-- Lacks a general disclaimer about patient-doctor discussions and prescribed treatments.
-New Sentence:
-- "This information is intended for educational purposes only and should not be substituted for medical advice from your doctor."
-Reason for Replacement:
-- This clarifies the purpose of the material, ensuring it is seen as informational and supporting the proper patient-doctor relationship for treatment decisions.
-
-#### Guideline Source: EFPIA Chapter 4, Article 21
-Source Sentence:
-"By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that’ll empower you on your journey towards better health."
-Deviation:
-- The original phrasing may promise empowerment, which could be considered as promotional language.
-New Sentence:
-- "By actively participating in discussions and asking questions, you can collaborate with your doctor to develop a personalized plan that supports your health journey."
-Reason for Replacement:
-- The modified text emphasizes collaborative efforts in planning health management with a healthcare provider without promising specific patient outcomes.
+- **Source**: "Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication: Article 1 - Non-Promotional Material"
+- **Source sentence**: "This information is intended for education purpose only and should not be substituted for medical advice from your doctor."
+- **Deviations**: According to "Global Legal & Compliance Pocket Guide Semaglutide portfolio Appropriate product communication: Article 1 - Non-Promotional Material", it is essential to include a disclaimer stating that the information is not a substitute for medical advice and is intended for educational purposes only.
+- **New sentence**: "This information is intended for educational purposes only and should not be substituted for medical advice from your doctor."
+- **Reason for replacement**: This correction ensures that the disclaimer accurately reflects the guideline's emphasis on maintaining non-promotional and educational intent, clearly stating that it is not a substitute for professional medical advice.
 
 ---
-### Summary of Changes Made
 
-1. **Disclaimers**: Added visual and patient-related disclaimers to ensure clarity and legal compliance.
-2. **Language Tone**: Adjusted language to maintain a professional and formal tone.
-3. **Neutrality**: Ensured that all wording remains neutral and purely informational without unintentionally promoting specific actions.
-4. **Collaborative Emphasis**: Highlighted the collaborative nature of patient-doctor interactions without implying medical advice.
+- **Source**: "Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers include in all pages"
+- **Source sentence**: Missing disclaimer required by guideline: “The image shown is a model and not a real patient.”
+- **Deviations**: According to "Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers include in all pages", each document should include the disclaimer that images are of models and not real patients.
+- **New sentence**: “The image shown is a model and not a real patient.”
+- **Reason for replacement**: Adding this disclaimer aligns the document with the guideline requirement to clarify that represented individuals are models, hence maintaining transparency and compliance.
 
-By correcting these deviations, the reviewed material adheres more stringently to the Non-Promotional Material Guidelines, ensuring legal compliance and maintaining professional integrity.
+---
+
+- **Source**: "EFPIA Chapter 3: Article 17 - Informational or Educational Materials and Items of Medical Utility"
+- **Source sentence**: Missing clarification on the cost and utility of informational materials: "This material is provided for informational purposes and is not intended to promote any specific product."
+- **Deviations**: According to "EFPIA Chapter 3: Article 17 - Informational or Educational Materials and Items of Medical Utility", informational materials must be inexpensive and directly relevant to medical practice, without promoting specific products.
+- **New sentence**: "This material is provided for informational purposes only, is inexpensive, and is not intended to promote any specific product."
+- **Reason for replacement**: This new sentence clarifies the cost aspect, ensuring compliance with the guideline that informational materials should not constitute a form of indirect promotion or inducement.
+
+---
+
+- **Source**: "Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional"
+- **Source sentence**: "By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health."
+- **Deviations**: According to "Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional", the language should be clear and professional, avoiding any informal contractions.
+- **New sentence**: "By speaking up, asking questions, and being part of the decision-making process, you can create a personalized plan that will empower you on your journey towards better health."
+- **Reason for replacement**: This adjustment removes the contraction "that'll" in favor of more formal and professional language, ensuring clarity and adherence to professional tone guidelines.
+
+---
+
+- **Source**: "EFPIA Chapter 3: Article 16 - Lifelong Learning in Healthcare"
+- **Source sentence**: "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+- **Deviations**: According to "EFPIA Chapter 3: Article 16 - Lifelong Learning in Healthcare", educational content should facilitate the expression of diverse evidence-based science and meet unmet educational needs.
+- **New sentence**: "Remember, this conversation aims to collaborate with your doctor to find the best evidence-based treatment option for you."
+- **Reason for replacement**: This adjustment ensures the sentence emphasizes collaboration based on evidence-based science, aligning with the guideline's focus on scientific knowledge and educational content.
+
+---
+
+- **Source**: "Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers include in all pages"
+- **Source sentence**: Missing disclaimer required by guideline: “Situations shown do not reflect models’ experience.”
+- **Deviations**: According to "Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers include in all pages", each document should include disclaimers stating that shown situations do not reflect the models' real experiences.
+- **New sentence**: “Situations shown do not reflect models’ experience.”
+- **Reason for replacement**: Adding this disclaimer ensures clear distinction that situations depicted in the material are fictional and do not represent real-life experiences, maintaining transparency.
+
+---
+
+- **Source**: "Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers include in all pages"
+- **Source sentence**: Missing disclaimer required by guideline: “The prescription is based on a patient example and not a real patient.”
+- **Deviations**: According to "Disclaimer Texts for Non-promotional Material: Article 3 - General Disclaimers include in all pages", each document should clarify that specific prescriptions demonstrated are based on illustrative examples, not real patient cases.
+- **New sentence**: “The prescription is based on a patient example and not a real patient.”
+- **Reason for replacement**: Including this disclaimer ensures that any specific medical prescriptions shown are clearly identified as examples, which aligns with the guideline to maintain factual representation.
+
+---
+
+- **Source**: "Communicate With Care Pocket Guide: Article 1 - Be Mindful"
+- **Source sentence**: "Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it’s important to advocate for your needs and preferences during your discussion."
+- **Deviations**: According to "Communicate With Care Pocket Guide: Article 1 - Be Mindful", the information should be legally appropriate, mindful of patient autonomy without undermining medical authority.
+- **New sentence**: "Your doctor is the medical expert, but as someone living with type 2 diabetes, it is important to discuss your needs and preferences during your consultation."
+- **Reason for replacement**: Revising the sentence to avoid implying medical self-management over professional advice ensures it aligns with promoting respectful and professional patient-doctor interactions.
+
+Each new sentence addresses a specific deviation, ensuring the document aligns with the provided "Non-Promotional Material Guidelines" and maintains the highest standards of accurate, professional, and transparent communication.

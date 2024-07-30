@@ -1,0 +1,184 @@
+Firstly, I will provide a structured response to each identified deviation, adhering to the specified template.
+
+---
+
+### Correction 1:
+#### Guideline Source:
+- EFPIA Chapter 3, Article 16 - Lifelong Learning in Healthcare
+
+#### Source Sentence Replaced:
+- "It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you're doing right now!)—you'll be able to communicate with your doctor more openly about treatment."
+
+#### Deviations Corrected:
+- According to EFPIA Chapter 3, Article 16, materials must not constitute Promotion. The original sentence creates personal endorsement and may be seen as promotional or supportive of a particular intervention over another.
+
+#### New Sentence:
+- "It might be challenging to start these conversations, but by understanding your health condition and keeping your treatment goals in mind, you'll be better prepared to engage in constructive discussions with your doctor about your treatment options."
+
+#### Reason for Replacing:
+- This change removes any impression of promotional endorsement and focuses purely on informative and educational content, aligning with the non-promotional guidelines.
+
+---
+
+### Correction 2:
+#### Guideline Source:
+- Communicate With Care Pocket Guide, Article 2 - Be Clear and Professional
+
+#### Source Sentence Replaced:
+- "Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it's important to advocate for your needs and preferences during your discussion."
+
+#### Deviations Corrected:
+- Emphasizes appropriate professional tone and clarity; the original text might inadvertently undermine the doctor's authority.
+
+#### New Sentence:
+- "While your doctor has the medical expertise, it is essential for you, as someone managing type 2 diabetes daily, to communicate your experiences and preferences clearly during your discussions."
+
+#### Reason for Replacing:
+- This ensures a balanced tone, reinforcing respect for professional medical advice while encouraging patient advocacy.
+
+---
+
+### Correction 3:
+#### Guideline Source:
+- EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility
+
+#### Source Sentence Replaced:
+- "Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
+
+#### Deviations Corrected:
+- Ensures material is directly relevant and beneficial, avoiding language that simplifies medical decisions to just preferences.
+
+#### New Sentence:
+- "Discuss any difficulties you've had with your current treatment, such as side effects, administration preferences, lifestyle fit, and cost concerns, and ask if there might be better alternatives that could address these challenges."
+
+#### Reason for Replacing:
+- This rephrasing maintains the informational and educational intent while avoiding oversimplification and ensuring the content is relevant to patient care.
+
+---
+
+### Correction 4:
+#### Guideline Source:
+- Disclaimer Texts for Non-promotional Material, Article 3 - General Disclaimers
+
+#### Source Sentence Replaced:
+- "Talk about your lifestyle and how a new treatment might be better suited for you."
+
+#### Deviations Corrected:
+- Lacks necessary disclaimers to ensure clarity this is not personalized medical advice.
+
+#### New Sentence:
+- "Discuss with your doctor how your lifestyle might intersect with potential new treatments, keeping in mind this information should complement your doctor's medical advice."
+
+#### Reason for Replacing:
+- Incorporates a disclaimer ensuring the patient understands the necessity of professional medical guidance, maintaining educational integrity.
+
+---
+
+### Correction 5:
+#### Guideline Source:
+- EFPIA Chapter 3, Article 19 - Medical Samples
+
+#### Source Sentence Replaced:
+- "Typically, type 2 diabetes patients should see their doctor every 3-6 months."
+
+#### Deviations Corrected:
+- Generalization without acknowledgment of individual medical advice.
+
+#### New Sentence:
+- "Your doctor may recommend follow-up visits typically every 3-6 months to monitor your condition and treatment efficacy."
+
+#### Reason for Replacing:
+- This provides a clearer indication that follow-up schedules need to be based on individualized medical advice from a healthcare provider.
+
+---
+
+### Correction 6:
+#### Guideline Source:
+- Disclaimer Texts for Non-promotional Material, Article 3 - General Disclaimers
+
+#### Source Sentence Replaced:
+- "(like you're doing right now!)"
+
+#### Deviations Corrected:
+- Informal language and lack of professionalism.
+
+#### New Sentence:
+- "(as you are currently doing)"
+
+#### Reason for Replacing:
+- This improves the professionalism and formality of the language, avoiding the informal tone.
+
+---
+
+### Correction 7:
+#### Guideline Source:
+- Communicate With Care Pocket Guide, Article 1 - Be Mindful
+
+#### Source Sentence Replaced:
+- "This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
+
+#### Deviations Corrected:
+- Needs more precise and cautious language regarding the understanding of side effects.
+
+#### New Sentence:
+- "This means discussing and understanding how the medication works and the potential side effects it may cause."
+
+#### Reason for Replacing:
+- Enhances clarity and maintains a professional tone while addressing the possible implications of side effects accurately.
+
+---
+
+### Correction 8:
+#### Guideline Source:
+- EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility
+
+#### Source Sentence Replaced:
+- "Set realistic expectations with your doctor regarding the timeline and outcomes of your new treatment."
+
+#### Deviations Corrected:
+- Ensures content does not constitute promotional material and implies patient education.
+
+#### New Sentence:
+- "Establish realistic expectations regarding the timeline and outcomes of your new treatment in consultation with your doctor."
+
+#### Reason for Replacing:
+- Re-emphasizes the dialogue with the healthcare provider and avoids any suggestion of promotion.
+
+---
+
+### Final Document with Amendments:
+
+When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs.
+
+It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial. It might be challenging to start these conversations, but by understanding your health condition and keeping your treatment goals in mind, you'll be better prepared to engage in constructive discussions with your doctor about your treatment options.
+
+While your doctor has the medical expertise, it is essential for you, as someone managing type 2 diabetes daily, to communicate your experiences and preferences clearly during your discussions. Come to every appointment prepared to talk, ask questions and find solutions together. Here are some topics to consider if you want to speak up about your type 2 diabetes treatment:
+
+Goals
+Share your personal goals, whether it's better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective.
+
+Challenges
+Discuss any difficulties you've had with your current treatment, such as side effects, administration preferences, lifestyle fit, and cost concerns, and ask if there might be better alternatives that could address these challenges.
+
+Lifestyle
+Discuss with your doctor how your lifestyle might intersect with potential new treatments, keeping in mind this information should complement your doctor's medical advice. For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don't have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals (in addition to healthy eating and exercise).
+
+Concerns and side effects
+Ask questions or share concerns you have about trying a new medication. This means discussing and understanding how the medication works and the potential side effects it may cause. Your doctor should have useful strategies that can help you manage them or decide if you should switch to something else.
+
+Treatment expectations
+Establish realistic expectations regarding the timeline and outcomes of your new treatment in consultation with your doctor. Understanding what to expect can help you stay motivated and evaluate if your medicine is working.
+
+Follow-up
+Your doctor may recommend follow-up visits typically every 3-6 months to monitor your condition and treatment efficacy.
+
+Remember, this conversation is about working together with your doctor to find the best treatment option for you. By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health.
+
+HQ23GLP00004
+
+References
+1. Buse JB, Wexler DJ, Tsapas A, et al., 2019 update to: Management of hyperglycaemia in type 2 diabetes., 2018. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetologia. 2020 Feb;63(2):221-228.
+
+---
+
+This revised document now conforms to the Non-Promotional Material Guidelines, maintaining an appropriate professional tone and ensuring clarity and informational content without breaching promotional boundaries.

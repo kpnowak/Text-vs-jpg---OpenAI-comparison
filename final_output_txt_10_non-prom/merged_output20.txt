@@ -1,0 +1,220 @@
+**Review of the Document Against Non-Promotional Material Guidelines**
+
+### Sentence 1
+**Source Sentence:** "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+**Guideline Source:** Source - Communicate With Care Pocket Guide
+**Deviations:** 
+- The current sentence mentions treatment changes but does not emphasize professional supervision.
+- According to Article 2 (ii) from the Communicate With Care Pocket Guide, information must be clear and professional, ensuring clarity to prevent misunderstandings.
+
+**New Sentence:** "When living with type 2 diabetes, it's important to regularly evaluate and possibly adjust your treatment plan under the guidance of your healthcare provider to meet your evolving health needs."
+
+**Reason for Replacement:** This adjustment emphasizes the importance of professional supervision and aligns with the guideline to ensure clarity and professional tone in the document.
+
+
+### Sentence 2
+**Source Sentence:** "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+**Guideline Source:** Source - Communicate With Care Pocket Guide
+**Deviations:** 
+- The current sentence lacks emphasis on professional support.
+- Article 2 (iii) of the Communicate With Care Pocket Guide emphasizes sticking to facts, avoiding speculations.
+
+**New Sentence:** "It’s essential to feel empowered and prepared to discuss any potential treatment changes with your doctor to ensure they meet your health needs."
+
+**Reason for Replacement:** This revised sentence ensures clarity to avoid any speculative notions about when and how changes should be made, aligning with the guidelines for clarity and professionalism.
+
+
+### Sentence 3
+**Source Sentence:** "Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it's important to advocate for your needs and preferences during your discussion."
+
+**Guideline Source:** Source - Communicate With Care Pocket Guide
+**Deviations:** 
+- The sentence does not explicitly emphasize the doctor’s role in evaluating medical decisions.
+- Article 1 from Communicate With Care Pocket Guide instructs to consider legal implications, ensuring written communications can stand up in legal matters.
+
+**New Sentence:** "While your doctor is the medical expert, you are the one living with type 2 diabetes. It is crucial to express your needs and preferences during discussions, so your doctor can help make informed and tailored medical decisions."
+
+**Reason for Replacement:** This revision underscores the necessity of medical expertise in decision-making, which aligns with professional and legal considerations.
+
+
+### Sentence 4
+**Source Sentence:** "Here are some topics to consider if you want to speak up about your type 2 diabetes treatment:"
+
+**Guideline Source:** Source - Communicate With Care Pocket Guide
+**Deviations:** 
+- Lack of a direct reference to consulting your healthcare provider for advice.
+- Article 2 (ii) on providing context to ensure clarity in communications.
+
+**New Sentence:** "Here are some topics to consider when discussing your type 2 diabetes treatment options with your healthcare provider:"
+
+**Reason for Replacement:** This revised sentence directs the involvement of the healthcare provider, ensuring clarity and adherence to professional guidelines.
+
+
+### Sentence 5
+**Source Sentence:** "Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
+
+**Guideline Source:** Source - EFPIA Chapter 3, Article 17
+**Deviations:** 
+- The sentence could imply a discussion about treatment options which could be misconstrued as a promotional attempt.
+- Article 17 (iii) emphasizes that materials must not constitute any inducement to recommend or prescribe a product.
+
+**New Sentence:** "Discuss any difficulties you've experienced with your current treatment, including side effects, administration form (e.g., pill or injection), lifestyle compatibility, and cost. Ask your doctor to help identify potential alternatives that may better address these challenges."
+
+**Reason for Replacement:** This revision maintains neutrality and avoids implications of promoting any specific product, aligning with guidelines to avoid circumvention of promotional restrictions.
+
+
+### Sentence 6
+**Source Sentence:** "For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don't have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals (in addition to healthy eating and exercise)."
+
+**Guideline Source:** Source - Communicate With Care Pocket Guide
+**Deviations:** 
+- The sentence hints at choosing a particular type of medication which could be seen as promotional.
+- Article 2 (iii) advises avoiding exaggerations and speculations.
+
+**New Sentence:** "For instance, if you travel frequently for work and require a treatment that is convenient, or if you need support in managing weight due to limited time for exercise alongside a healthy diet and exercise plan, discuss these needs with your doctor."
+
+**Reason for Replacement:** This revision remains factual and avoids any speculative claims about specific treatment types, maintaining clarity and avoiding promotional content.
+
+
+### Sentence 7
+**Source Sentence:** "Typically, type 2 diabetes patients should see their doctor every 3–6 months."
+
+**Guideline Source:** Source - Communicate With Care Pocket Guide
+**Deviations:**
+- Lack of specification can lead to unrealistic expectations without considering individualized treatment plans.
+- Article 2 (iii) insists on sticking to facts and avoiding exaggeration.
+
+**New Sentence:** "It is generally advised that type 2 diabetes patients see their doctor for follow-ups every 3 to 6 months, but the frequency may vary based on individual health needs."
+
+**Reason for Replacement:** This revision adds specificity and factual basis, maintaining clarity and alignment with individualized care plans.
+
+### Sentence 8
+**Source Sentence:** "Remember, this conversation is about working together with your doctor to find the best treatment option for you."
+
+**Guideline Source:** Source - Communicate With Care Pocket Guide
+**Deviations:**
+- The sentence does not emphasize seeking professional advice for medical decisions.
+- Article 2 (ii) advises on maintaining a clear and professional tone.
+
+**New Sentence:** "Remember, this conversation aims to collaborate with your doctor to find the most suitable treatment option tailored to your health needs."
+
+**Reason for Replacement:** This adjusts the sentence to underscore professional collaboration and assures alignment with communication clarity and professionalism.
+
+### Sentence 9
+**Source Sentence:** "By speaking up, asking questions, and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health."
+
+**Guideline Source:** Source - Communicate With Care Pocket Guide
+**Deviations:**
+- The sentence should not imply that patient involvement alone determines the best outcome without emphasizing professional guidance.
+- Article 2 (ii) about providing context for clarity.
+
+**New Sentence:** "By actively speaking up, asking questions, and collaborating with your healthcare provider, you can help develop a personalized plan that empowers you on your journey towards better health."
+
+**Reason for Replacement:** This clarification underscores the importance of professional guidance and collaboration, ensuring alignment with the guidelines for clarity and context.
+
+### Disclaimer Note
+**Source Sentence:** The document does not have any disclaimer notes despite providing treatment-related discussions.
+
+**Guideline Source:** Source - Disclaimer Texts for Non-promotional Material
+**Deviations:**
+- Missing a general disclaimer which is mandatory for all pages.
+- Article 3 (v) from Disclaimer Texts for Non-promotional Material: “This information is intended for diabetes patients who have been prescribed [insert NN medicinal product] and should not be substituted for medical advice from your doctor.”
+
+**New Sentence:** "This information is intended for diabetes patients and should not substitute for medical advice from your doctor. Please see patient information leaflet in the package for additional information."
+
+**Reason for Replacement:** Adding this disclaimer ensures the document complies with guidelines, reminding readers to seek professional advice for medical decisions and aligning with the non-promotional standards.
+
+### Document Code
+**Source Sentence:** HQ23GLP00004
+
+**Guideline Source:** Source - Communicate With Care Pocket Guide, Article 3
+
+**Deviations:**
+- The code lacks context and isn’t descriptive, which can lead to misunderstanding or errors in compliance.
+- Article 3 (i) about addressing concerns if encountering inappropriate content.
+
+**New Sentence:** "Document Code: HQ23GLP00004 - For preparatory use in NN only."
+
+**Reason for Replacement:** Adding a brief context ensures the document is identified correctly and aligns with guidelines for clear and professional communication.
+
+This detailed review ensures all content adheres to high standards, maintaining ethical principles and compliance with the Non-Promotional Material Guidelines. It provides clarity, objectivity, and professionalism throughout the document.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Sentence 1
+- The original source sentence: "When you're living with type 2 diabetes, it's common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- The deviation from the guidelines originally provided by the expert reviewer:
+  - According to [Source - Communicate With Care Pocket Guide] the information suggests that Article 2 (ii) emphasizes ensuring clarity and professional tone in the document.
+- The expert reviewer's original suggested change: "When living with type 2 diabetes, it's important to regularly evaluate and possibly adjust your treatment plan under the guidance of your healthcare provider to meet your evolving health needs."
+- An explanation for the reason behind your new suggested change:
+  - The expert’s revision emphasizes the importance of professional supervision correctly. However, it can be made more specific and clearer by mentioning the healthcare provider explicitly.
+- Your new suggested sentence: "When living with type 2 diabetes, it's crucial to regularly review and adjust your treatment plan with your healthcare provider to meet your evolving health needs."
+
+### Sentence 2
+- The original source sentence: "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+- The deviation from the guidelines originally provided by the expert reviewer:
+  - According to [Source - Communicate With Care Pocket Guide] the information suggests that Article 2 (iii) emphasizes sticking to facts and avoiding speculations.
+- The expert reviewer's original suggested change: "It’s essential to feel empowered and prepared to discuss any potential treatment changes with your doctor to ensure they meet your health needs."
+- An explanation for the reason behind your new suggested change:
+  - The expert’s revision is clear and professional but can be enhanced to explicitly state the importance of consulting with a healthcare provider for better clarity and emphasis.
+- Your new suggested sentence: "It’s essential to feel empowered and ready to discuss any potential treatment changes with your healthcare provider to ensure they align with your health needs."
+
+### Sentence 3
+- The original source sentence: "Your doctor is the medical expert, but you are the one living with type 2 diabetes. You know your mind and body, and it's important to advocate for your needs and preferences during your discussion."
+- The deviation from the guidelines originally provided by the expert reviewer: 
+  - According to [Source - Communicate With Care Pocket Guide] the information suggests that Article 1 advises considering legal implications and ensuring that written communications can stand up in legal matters.
+- The expert reviewer's original suggested change: "While your doctor is the medical expert, you are the one living with type 2 diabetes. It is crucial to express your needs and preferences during discussions, so your doctor can help make informed and tailored medical decisions."
+- An explanation for the reason behind your new suggested change:
+  - The expert’s revision correctly emphasizes the necessity of medical expertise but can be worded to better ensure the collaboration with a healthcare provider.
+- Your new suggested sentence: "While your doctor is the medical expert, you know your own body and mind best. It's vital to communicate your needs and preferences during discussions to help your doctor make informed and tailored medical decisions."
+
+### Sentence 5
+- The original source sentence: "Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
+- The deviation from the guidelines originally provided by the expert reviewer:
+  - According to [Source - EFPIA Chapter 3], the information should avoid any possibility of inducing recommendations or prescribing, as emphasized in Article 17 (iii).
+- The expert reviewer's original suggested change: "Discuss any difficulties you've experienced with your current treatment, including side effects, administration form (e.g., pill or injection), lifestyle compatibility, and cost. Ask your doctor to help identify potential alternatives that may better address these challenges."
+- An explanation for the reason behind your new suggested change:
+  - The revision by the expert is adequate but can be enhanced to expressly mention the importance of professional advice while also being concise.
+- Your new suggested sentence: "Discuss any difficulties you’ve experienced with your current treatment, like side effects, preferred administration method, lifestyle compatibility, and cost. Ask your healthcare provider about alternatives that might better address these issues."
+
+### Sentence 6
+- The original source sentence: "For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don't have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals (in addition to healthy eating and exercise)."
+- The deviation from the guidelines originally provided by the expert reviewer:
+  - According to [Source - Communicate With Care Pocket Guide], the information suggests Article 2 (iii) advises avoiding exaggerations and speculations.
+- The expert reviewer's original suggested change: "For instance, if you travel frequently for work and require a treatment that is convenient, or if you need support in managing weight due to limited time for exercise alongside a healthy diet and exercise plan, discuss these needs with your doctor."
+- An explanation for the reason behind your new suggested change:
+  - The expert’s revision is accurate but can be made more concise to avoid any ambiguity or promotional tone.
+- Your new suggested sentence: "For instance, if frequent travel requires a more convenient medication, or if you need help managing weight due to limited exercise time, discuss these needs with your doctor."
+
+### Sentence 7
+- The original source sentence: "Typically, type 2 diabetes patients should see their doctor every 3–6 months."
+- The deviation from the guidelines originally provided by the expert reviewer:
+  - According to [Source - Communicate With Care Pocket Guide], the information should be accurate and avoid exaggerations, as detailed in Article 2 (iii).
+- The expert reviewer's original suggested change: "It is generally advised that type 2 diabetes patients see their doctor for follow-ups every 3 to 6 months, but the frequency may vary based on individual health needs."
+- An explanation for the reason behind your new suggested change:
+  - The expert’s revision is accurate but can be improved to explicitly state the reason behind the frequency variation.
+- Your new suggested sentence: "It is generally advised that type 2 diabetes patients have follow-ups with their doctor every 3 to 6 months, although this can vary based on individual health needs and conditions."
+
+### Disclaimer Note
+- The original source sentence: The document does not have any disclaimer notes despite providing treatment-related discussions.
+- The deviation from the guidelines originally provided by the expert reviewer:
+  - According to [Source - Disclaimer Texts for Non-promotional Material], the document must have necessary disclaimers to ensure readers understand the context and limits, as per Article 3 (v).
+- The expert reviewer's original suggested change: "This information is intended for diabetes patients and should not substitute for medical advice from your doctor. Please see patient information leaflet in the package for additional information."
+- An explanation for the reason behind your new suggested change:
+  - The expert’s revision needs to be adjusted to incorporate more context-specific disclaimers to meet the rigorous non-promotional standards.
+- Your new suggested sentence: "This information is intended for diabetes patients and should not replace professional medical advice. Always consult your doctor for personalized medical guidance. Please see the patient information leaflet in the package for additional details."
+
+### Document Code
+- The original source sentence: HQ23GLP00004
+- The deviation from the guidelines originally provided by the expert reviewer:
+  - According to [Source - Communicate With Care Pocket Guide], the document should clearly address any potential concerns of inappropriateness and provide proper context as per Article 3 (i).
+- The expert reviewer's original suggested change: "Document Code: HQ23GLP00004 - For preparatory use in NN only."
+- An explanation for the reason behind your new suggested change:
+  - The expert’s change is appropriate, but the context of confidentiality can be enhanced further for clarity.
+- Your new suggested sentence: "Document Code: HQ23GLP00004 - For preparatory use in NN only. Please ensure it remains confidential and is used appropriately within the organization."
+
+These revised suggestions ensure the document aligns with all relevant guidelines and maintain adherence to high ethical and professional standards.

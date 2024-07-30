@@ -1,7 +1,14 @@
-from openai import OpenAI
+from openai import OpenAI, AzureOpenAI
 import base64
+import os
 
-client = OpenAI(api_key = 'PUT KEY HERE')
+
+
+client = AzureOpenAI(
+    api_key=os.getenv("AZURE_OPENAI_API_KEY"),  
+    api_version=os.getenv("OPENAI_API_VERSION"),
+    azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT")
+)
 
 MULTILANGUAGE_GUIDELINES = """
 1. Grammar and Punctuation: 
@@ -36,7 +43,7 @@ MULTILANGUAGE_GUIDELINES = """
     iii. Numbers can be written numerically or with words. Do not correct.
 """
 
-with open('Gram\jpg_to_txt.txt', 'r', encoding='latin-1') as file:
+with open('Gram\\jpg_to_txt.txt', 'r', encoding='latin-1') as file:
     jpg_to_txt_content = file.read()
 
 multi_lang_grammar_review_prompt_template_txt = f"""
@@ -106,25 +113,25 @@ base64_image = encode_image(image_path)
 def jpg_to_text():
     url = f"data:image/jpeg;base64,{base64_image}"
     response = client.chat.completions.create(
-    model="gpt-4o",
-    messages=[
-        {"role":"assistant","content":"Your role is to create a transcription of the text that is on the image."},
-        {
-        
-        "role": "user",
-        "content": [
-            {"type": "text", "text": "Transcribe the text that is on the image. Do it the best as you can."},
+        model="gpt-4o",
+        messages=[
+            {"role":"assistant","content":"Your role is to create a transcription of the text that is on the image."},
             {
-            "type": "image_url",
-            "image_url": {
-                "url": url,
-            },
-            },
+            
+            "role": "user",
+            "content": [
+                {"type": "text", "text": "Transcribe the text that is on the image. Do it the best as you can."},
+                {
+                "type": "image_url",
+                "image_url": {
+                    "url": url,
+                },
+                },
+            ],
+            }
+            
         ],
-        }
-        
-    ],
-    max_tokens=1500,
+        max_tokens=1500,
     )
     
     with open("jpg_to_txt.txt", "w") as f:
@@ -138,11 +145,11 @@ def text_review():
 
     # first review code
     response = client.chat.completions.create(
-    model="gpt-3.5-turbo",
-    messages=[
-        {"role": "system", "content": "You are a helpful assistant that reviews the documents."},
-        {"role": "user", "content": f"{multi_lang_grammar_review_prompt_template_txt}"},
-    ]
+        model="gpt-3.5-turbo",
+        messages=[
+            {"role": "system", "content": "You are a helpful assistant that reviews the documents."},
+            {"role": "user", "content": f"{multi_lang_grammar_review_prompt_template_txt}"},
+        ]
     )
     with open("result_txt.txt", "w") as f:
         f.write(response.choices[0].message.content)
@@ -200,11 +207,11 @@ def text_review():
 
     # chef review code
     response = client.chat.completions.create(
-    model="gpt-3.5-turbo",
-    messages=[
-        {"role": "system", "content": "You are a helpful assistant that reviews the documents."},
-        {"role": "user", "content": f"{chief_multi_lang_grammar_review_prompt_template_txt}"},
-    ]
+        model="gpt-3.5-turbo",
+        messages=[
+            {"role": "system", "content": "You are a helpful assistant that reviews the documents."},
+            {"role": "user", "content": f"{chief_multi_lang_grammar_review_prompt_template_txt}"},
+        ]
     )
     with open("output_txt.txt", "w") as f:
         f.write(response.choices[0].message.content)
@@ -214,13 +221,13 @@ def text_review_10():
     for i in range(10):
         # first review code
         response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
-        messages=[
-            {"role": "system", "content": "You are a helpful assistant that reviews the documents."},
-            {"role": "user", "content": f"{multi_lang_grammar_review_prompt_template_txt}"},
-        ]
+            model="gpt-4o",
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant that reviews the documents."},
+                {"role": "user", "content": f"{multi_lang_grammar_review_prompt_template_txt}"},
+            ]
         )
-        with open(f"review_txt_10/result{i + 1}_txt.txt", "w") as f:
+        with open(f"review_txt_10_gram/result{i + 11}_txt.txt", "w") as f:
             f.write(response.choices[0].message.content)
 
         # chef review instruction
@@ -276,12 +283,12 @@ def text_review_10():
 
         # chef review code
         response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
-        messages=[
-            {"role": "user", "content": f"{chief_multi_lang_grammar_review_prompt_template_txt}"},
-        ]
+            model="gpt-4o",
+            messages=[
+                {"role": "user", "content": f"{chief_multi_lang_grammar_review_prompt_template_txt}"},
+            ]
         )
-        with open(f"review_txt_10/output{i + 1}_txt.txt", "w") as f:
+        with open(f"review_txt_10_gram/output{i + 11}_txt.txt", "w") as f:
             f.write(response.choices[0].message.content)
 
 # --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -340,25 +347,25 @@ Please provide the following response for each of the comments you've improved u
 def jpg_review():
     url = f"data:image/jpeg;base64,{base64_image}"
     response = client.chat.completions.create(
-    model="gpt-4o",
-    messages=[
-        {"role":"assistant","content":"Your role is to review an image."},
-        {
-        
-        "role": "user",
-        "content": [
-            {"type": "text", "text": f"{multi_lang_grammar_review_prompt_template_jpg}"},
+        model="gpt-4o",
+        messages=[
+            {"role":"assistant","content":"Your role is to review an image."},
             {
-            "type": "image_url",
-            "image_url": {
-                "url": url,
-            },
-            },
+            
+            "role": "user",
+            "content": [
+                {"type": "text", "text": f"{multi_lang_grammar_review_prompt_template_jpg}"},
+                {
+                "type": "image_url",
+                "image_url": {
+                    "url": url,
+                },
+                },
+            ],
+            }
+            
         ],
-        }
-        
-    ],
-    max_tokens=1500,
+        max_tokens=1500,
     )
     
     with open("result_jpg.txt", "w") as f:
@@ -419,35 +426,6 @@ def jpg_review():
 
     url = f"data:image/jpeg;base64,{base64_image}"
     response = client.chat.completions.create(
-    model="gpt-4o",
-    messages=[
-        {"role":"assistant","content":"Your role is to review an image."},
-        {
-        
-        "role": "user",
-        "content": [
-            {"type": "text", "text": f"{chief_multi_lang_grammar_review_prompt_template_jpg}"},
-            {
-            "type": "image_url",
-            "image_url": {
-                "url": url,
-            },
-            },
-        ],
-        }
-        
-    ],
-    max_tokens=1500,
-    )
-    
-    with open("output_jpg.txt", "w") as f:
-        f.write(response.choices[0].message.content)
-
-
-def jpg_review_10():
-    for i in range(10):
-        url = f"data:image/jpeg;base64,{base64_image}"
-        response = client.chat.completions.create(
         model="gpt-4o",
         messages=[
             {"role":"assistant","content":"Your role is to review an image."},
@@ -455,7 +433,7 @@ def jpg_review_10():
             
             "role": "user",
             "content": [
-                {"type": "text", "text": f"{multi_lang_grammar_review_prompt_template_jpg}"},
+                {"type": "text", "text": f"{chief_multi_lang_grammar_review_prompt_template_jpg}"},
                 {
                 "type": "image_url",
                 "image_url": {
@@ -467,9 +445,37 @@ def jpg_review_10():
             
         ],
         max_tokens=1500,
+    )
+    
+    with open("output_jpg.txt", "w") as f:
+        f.write(response.choices[0].message.content)
+
+
+def jpg_review_10():
+    for i in range(10):
+        url = f"data:image/jpeg;base64,{base64_image}"
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=[
+                {"role":"assistant","content":"Your role is to review an image."},
+                {
+                
+                "role": "user",
+                "content": [
+                    {"type": "text", "text": f"{multi_lang_grammar_review_prompt_template_jpg}"},
+                    {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": url,
+                    },
+                    },
+                ],
+                }
+                
+            ],
         )
         
-        with open(f"review_jpg_10/result{i + 1}_jpg.txt", "w") as f:
+        with open(f"review_jpg_10_gram/result{i + 11}_jpg.txt", "w") as f:
             f.write(response.choices[0].message.content)
 
         # chef review instruction
@@ -527,33 +533,32 @@ def jpg_review_10():
 
         url = f"data:image/jpeg;base64,{base64_image}"
         response = client.chat.completions.create(
-        model="gpt-4o",
-        messages=[
-            {"role":"assistant","content":"Your role is to review an image."},
-            {
-            
-            "role": "user",
-            "content": [
-                {"type": "text", "text": f"{chief_multi_lang_grammar_review_prompt_template_jpg}"},
+            model="gpt-4o",
+            messages=[
+                {"role":"assistant","content":"Your role is to review an image."},
                 {
-                "type": "image_url",
-                "image_url": {
-                    "url": url,
-                },
-                },
+                
+                "role": "user",
+                "content": [
+                    {"type": "text", "text": f"{chief_multi_lang_grammar_review_prompt_template_jpg}"},
+                    {
+                    "type": "image_url",
+                    "image_url": {
+                        "url": url,
+                    },
+                    },
+                ],
+                }
+                
             ],
-            }
-            
-        ],
-        max_tokens=1500,
         )
         
-        with open(f"review_jpg_10/output{i + 1}_jpg.txt", "w") as f:
+        with open(f"review_jpg_10_gram/output{i + 11}_jpg.txt", "w") as f:
             f.write(response.choices[0].message.content)
 
 
-#jpg_to_text()
+jpg_to_text()
 #text_review()
 #text_review_10()
 #jpg_review()
-jpg_review_10()
+#jpg_review_10()

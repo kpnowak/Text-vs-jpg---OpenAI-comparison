@@ -1,0 +1,138 @@
+[document_language]: English
+
+### Sentence 1
+- **Source sentence**: "Yesterday, I gone to a party with my friend David."
+- **Deviations your new sentence corrects**: Incorrect verb tense.
+- **Reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: The correct past tense of the verb "go" is "went." This replacement corrects the grammatical error.
+- **Your new sentence**: "Yesterday, I went to a party with my friend David."
+
+### Sentence 2
+- **Source sentence**: "He study english with me at university."
+- **Deviations your new sentence corrects**: Incorrect verb tense and capitalization.
+- **Reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: The correct present tense of the verb "study" for third person singular is "studies," and "english" should be capitalized as "English." This replacement corrects the grammatical error.
+- **Your new sentence**: "He studies English with me at university."
+
+### Sentence 3
+- **Source sentence**: "He wanted to be introduced to Lucy wo he fancied."
+- **Deviations your new sentence corrects**: Typographical error ("wo" instead of "who").
+- **Reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: Correcting the typo improves readability and grammatical accuracy.
+- **Your new sentence**: "He wanted to be introduced to Lucy who he fancied."
+
+### Sentence 4
+- **Source sentence**: "David and I satt in the corner of the room."
+- **Deviations your new sentence corrects**: Incorrect verb form ("satt" instead of "sat").
+- **Reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: Changing "satt" to "sat" corrects the spelling error.
+- **Your new sentence**: "David and I sat in the corner of the room."
+
+### Sentence 5
+- **Source sentence**: "He didn 't making the first move to go and see her."
+- **Deviations your new sentence corrects**: Incorrect verb form and spacing between words ("didn't making" instead of "didn't make," unnecessary spacing before the apostrophe).
+- **Reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: Modifying "didn't making" to "didn't make" and correcting the space before the apostrophe improves grammatical correctness.
+- **Your new sentence**: "He didn't make the first move to go and see her."
+
+### Sentence 6
+- **Source sentence**: "He waited for so long to tell her that he had a crush on her."
+- **Deviations your new sentence corrects**: No deviations noted.
+- **Reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: N/A
+- **Your new sentence**: "He waited for so long to tell her that he had a crush on her."
+
+### Sentence 7
+- **Source sentence**: "He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+- **Deviations your new sentence corrects**: Incorrect verb form ("taked" instead of "took").
+- **Reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: Change "taked" to "took" to correct the past tense form of the verb.
+- **Your new sentence**: "He took a drink to get some energy and after a few minutes of endless hesitation, he walked to her."
+
+### Sentence 8
+- **Source sentence**: "David remained mute."
+- **Deviations your new sentence corrects**: No deviations noted.
+- **Reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: N/A
+- **Your new sentence**: "David remained mute."
+
+### Sentence 9
+- **Source sentence**: "She gave a hint of a smile, noticing David blushing."
+- **Deviations your new sentence corrects**: No deviations noted.
+- **Reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: N/A
+- **Your new sentence**: "She gave a hint of a smile, noticing David blushing."
+
+### Sentence 10
+- **Source sentence**: "She asked him if he enjoyed the party."
+- **Deviations your new sentence corrects**: No deviations noted.
+- **Reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: N/A
+- **Your new sentence**: "She asked him if he enjoyed the party."
+
+### Sentence 11
+- **Source sentence**: "He whispered ' Yes ' and had a glance at me."
+- **Deviations your new sentence corrects**: Incorrect quotation mark spacing and word choice ("had a glance" instead of "glanced").
+- **Reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: Correcting the spacing and changing "had a glance" to "glanced" improves grammatical correctness and succinctness.
+- **Your new sentence**: "He whispered 'Yes' and glanced at me."
+
+### Sentence 12
+- **Source sentence**: "I wincked at him."
+- **Deviations your new sentence corrects**: Spelling error ("wincked" instead of "winked").
+- **Reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: Correct the spelling mistake.
+- **Your new sentence**: "I winked at him."
+
+### Sentence 13
+- **Source sentence**: "That was it."
+- **Deviations your new sentence corrects**: No deviations noted.
+- **Reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: N/A
+- **Your new sentence**: "That was it."
+
+### Sentence 14
+- **Source sentence**: "Feeling reassured and confident, he told her which feelings he was experiencing."
+- **Deviations your new sentence corrects**: Incorrect word choice ("which" instead of "what").
+- **Reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: Changing "which" to "what" improves readability and makes the sentence more natural.
+- **Your new sentence**: "Feeling reassured and confident, he told her what feelings he was experiencing."
+
+### Sentence 15
+- **Source sentence**: "She suddenly looked sullen."
+- **Deviations your new sentence corrects**: No deviations noted.
+- **Reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: N/A
+- **Your new sentence**: "She suddenly looked sullen."
+
+### Sentence 16
+- **Source sentence**: "She looked embaressed."
+- **Deviations your new sentence corrects**: Spelling error ("embaressed" instead of "embarrassed").
+- **Reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: Correct the spelling mistake.
+- **Your new sentence**: "She looked embarrassed."
+
+### Sentence 17
+- **Source sentence**: "She could hardly say a word but after a little seconds, she said : ' I' m sorry to deceive you but actually I fancy Sebastian '."
+- **Deviations your new sentence corrects**: Incorrect word choice ("little seconds" instead of "few seconds"), punctuation formatting issues (space before colon and quotation marks).
+- **Reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: "A few seconds" is the correct phrase, and fixing the punctuation improves readability.
+- **Your new sentence**: "She could hardly say a word, but after a few seconds, she said: 'I'm sorry to deceive you, but actually I fancy Sebastian.'"
+
+### Sentence 18
+- **Source sentence**: "David fainted : ' a friend in need is a friend inded ' !!"
+- **Deviations your new sentence corrects**: Punctuation formatting issues (space before kolon), spelling error ("inded" instead of "indeed"), and quotation marks.
+- **Reason for replacing the source sentence with your new sentence and how it resolves the referenced deviations**: Correcting the spelling and punctuation improves clarity.
+- **Your new sentence**: "David fainted: 'A friend in need is a friend indeed!'"
+
+
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Sentence 5
+- **Original sentence**: "He didn 't making the first move to go and see her."
+- **Deviation from guidelines**: The expert reviewer noted the error in verb form and spacing before the apostrophe but did not fully address clarity and readability as per the guidelines. The sentence’s structure could be made clearer.
+- **Expert's suggested change**: "He didn't make the first move to go and see her."
+- **Reason for new suggested change**: Improving clarity and readability, simplifying the sentence.
+- **New suggested sentence**: "He didn't make the first move to go see her."
+
+### Sentence 16
+- **Original sentence**: "She looked embaressed."
+- **Deviation from guidelines**: The expert reviewer correctly identified the spelling error but did not consider improving readability through a minor rephrase.
+- **Expert's suggested change**: "She looked embarrassed."
+- **Reason for new suggested change**: Improving clarity and readability, ensuring the sentence reads smoothly.
+- **New suggested sentence**: "She appeared embarrassed."
+
+### Sentence 18
+- **Original sentence**: "David fainted : ' a friend in need is a friend inded ' !!"
+- **Deviation from guidelines**: The expert reviewer notes punctuation and spelling issues but does not address capitalization for quotations and redundant punctuation.
+- **Expert's suggested change**: "David fainted: 'A friend in need is a friend indeed!'"
+- **Reason for new suggested change**: Proper punctuation and spacing for direct quotes are essential for clarity and readability. Remove the redundant punctuation.
+- **New suggested sentence**: "David fainted: 'A friend in need is a friend indeed.'"
+
+By considering all guidelines, the suggestions now fully align with the standards required for "Grammar & Spelling Guidelines".

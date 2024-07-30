@@ -1,0 +1,20 @@
+I will help you review and correct the grammar in the given document. Let's start by analyzing and improving each sentence based on the provided guidelines.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+The original sentence: 
+"The company have been working on the new project for over a year now."
+
+The deviation from the guidelines originally provided by the expert reviewer:
+The verb tense is inconsistent in the sentence.
+
+The expert reviewer's original suggested change:
+"The company has been working on the new project for over a year now."
+
+An explanation for the reason behind your new suggested change in the same language as the issue:
+In English, when referring to a singular entity like a company, the verb should be singular as well.
+
+Your new suggested sentence:
+"The company has been working on the new project for over a year now."

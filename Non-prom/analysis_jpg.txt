@@ -1,0 +1,49 @@
+### Summary Confusion Matrix
+
+#### Total Count for Mistake 'It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial.':
+- True Positive: 10
+- False Negative: 0
+- False Positive: 0
+- True Negative: 0
+
+#### Total Count for Mistake 'It's important to discuss any potential treatment changes with your doctor based on your evolving health needs.':
+- True Positive: 1
+- False Negative: 9
+- False Positive: 0
+- True Negative: 0
+
+#### Total Count for Mistake 'While your doctor provides expert medical advice, you bring valuable personal experience living with type 2 diabetes.':
+- True Positive: 1
+- False Negative: 9
+- False Positive: 0
+- True Negative: 0
+
+#### Total Count for Mistake 'Discuss your health goals, including better blood sugar control, weight management, or reducing the risk of cardiovascular events with your doctor to explore various management strategies.':
+- True Positive: 1
+- False Negative: 9
+- False Positive: 0
+- True Negative: 0
+
+#### Total Count for Mistake 'Discuss any questions or concerns you have about new medication, such as how it works and possible side effects.':
+- True Positive: 1
+- False Negative: 9
+- False Positive: 0
+- True Negative: 0
+
+#### Total Count for Mistake 'Consult your doctor about potential treatment alternatives that could better address these challenges.':
+- True Positive: 1
+- False Negative: 9
+- False Positive: 0
+- True Negative: 0
+
+#### Total Count for Mistake 'The information on this website is for educational purposes only and should not replace medical advice from your healthcare provider.':
+- True Positive: 1
+- False Negative: 9
+- False Positive: 0
+- True Negative: 0
+
+#### Final Summary Confusion Matrix:
+- True Positive: 16
+- False Negative: 54
+- False Positive: 0
+- True Negative: 0

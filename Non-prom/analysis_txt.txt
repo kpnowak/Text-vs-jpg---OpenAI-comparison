@@ -1,0 +1,67 @@
+### Mistake 'It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial.':
+- True Positive: 0
+- False Negative: 10
+- False Positive: 0
+- True Negative: 0
+
+### Mistake 'It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you're doing right now!)—you'll be able to communicate with your doctor more openly about treatment.':
+- True Positive: 2
+- False Negative: 2
+- False Positive: 6
+- True Negative: 0
+
+### Mistake 'Your doctor is the medical expert, but you are the one living with type 2 diabetes.':
+- True Positive: 2
+- False Negative: 2
+- False Positive: 6
+- True Negative: 0
+
+### Mistake 'You know your mind and body, and it's important to advocate for your needs and preferences during your discussion.' :
+- True Positive: 0
+- False Negative: 6
+- False Positive: 4
+- True Negative: 0
+
+### Mistake 'Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges.':
+- True Positive: 3
+- False Negative: 3
+- False Positive: 4
+- True Negative: 0
+
+### Mistake 'Talk about your lifestyle and how a new treatment might be better suited for you.':
+- True Positive: 3
+- False Negative: 3
+- False Positive: 4
+- True Negative: 0
+
+### Mistake 'Ask questions or share concerns you have about trying a new medication. This means talking through and understanding how it works, and the kind of side effects you could potentially experience.':
+- True Positive: 2
+- False Negative: 2
+- False Positive: 6
+- True Negative: 0
+
+### Mistake 'Set realistic expectations with your doctor regarding the timeline and outcomes of your new treatment.':
+- True Positive: 1
+- False Negative: 3
+- False Positive: 6
+- True Negative: 0
+
+### Mistake 'Typically, type 2 diabetes patients should see their doctor every 3–6 months.':
+- True Positive: 1
+- False Negative: 3
+- False Positive: 6
+- True Negative: 0
+
+### Mistake 'Remember, this conversation is about working together with your doctor to find the best treatment option for you.':
+- True Positive: 0
+- False Negative: 7
+- False Positive: 3
+- True Negative: 0
+
+---
+
+### Summary Confusion Matrix:
+- True Positive: 14
+- False Negative: 41
+- False Positive: 45
+- True Negative: 0

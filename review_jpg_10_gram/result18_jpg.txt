@@ -1,0 +1,240 @@
+### Step 1: Identifying the Language
+
+The document is in English.
+
+### Step 2: Focus
+
+Since the document is in English, I will proceed to review the document for grammatical accuracy according to the steps provided.
+
+### Step 5 & 6: Sentence by Sentence Review
+
+#### Original Sentence:
+Yesterday, I gone to a party with my friend David.
+
+#### Review and Correction:
+**Deviations Corrected:**
+- Incorrect past-tense verb usage. "Gone" should be "went".
+
+**Reasoning:**
+The verb "gone" is the past participle, which requires an auxiliary verb. The correct past tense of "go" without an auxiliary is "went".
+
+**New Sentence:**
+Yesterday, I went to a party with my friend David.
+
+---
+
+#### Original Sentence:
+He study english with me at university.
+
+#### Review and Correction:
+**Deviations Corrected:**
+- Incorrect verb form. "study" should be "studies".
+- Capitalization error in "english".
+
+**Reasoning:**
+Subject-verb agreement requires "studies" to match "He". The word "English" should be capitalized as it is a proper noun.
+
+**New Sentence:**
+He studies English with me at university.
+
+---
+
+#### Original Sentence:
+He wanted to be introduced to Lucy wo he fancied.
+
+#### Review and Correction:
+**Deviations Corrected:**
+- Typographical error with "wo". It should be "who".
+
+**Reasoning:**
+Correcting the typographical error improves clarity.
+
+**New Sentence:**
+He wanted to be introduced to Lucy who he fancied.
+
+---
+
+#### Original Sentence:
+David and I satt in the corner of the room.
+
+#### Review and Correction:
+**Deviations Corrected:**
+- Typographical error in "satt", which should be "sat".
+
+**Reasoning:**
+Correcting the typographical error.
+
+**New Sentence:**
+David and I sat in the corner of the room.
+
+---
+
+#### Original Sentence:
+He didn ' t making the first move to go and see her.
+
+#### Review and Correction:
+**Deviations Corrected:**
+- Incorrect verb form. "making" should be "make".
+- The use of the contraction "didn't" alongside "making" is incorrect.
+
+**Reasoning:**
+The correct form following "didn't" should be the base form "make".
+
+**New Sentence:**
+He didn't make the first move to go and see her.
+
+---
+
+#### Original Sentence:
+He waited for so long to tell her that he had a crush on her.
+
+**No correction needed. This sentence is grammatically correct.**
+
+---
+
+#### Original Sentence:
+He taked a drink to get some energy and after a few minutes of endless hesitation, he walked to her.
+
+#### Review and Correction:
+**Deviations Corrected:**
+- Incorrect past-tense verb "taked". It should be "took".
+
+**Reasoning:**
+"taked" is an incorrect conjugation of the verb "take". The correct past tense is "took".
+
+**New Sentence:**
+He took a drink to get some energy, and after a few minutes of endless hesitation, he walked to her.
+
+---
+
+#### Original Sentence:
+David remained mute.
+
+**No correction needed. This sentence is grammatically correct.**
+
+---
+
+#### Original Sentence:
+She gave a hint of a smile, noticing David blushing.
+
+**No correction needed. This sentence is grammatically correct.**
+
+---
+
+#### Original Sentence:
+She asked him if he enjoyed the party.
+
+**No correction needed. This sentence is grammatically correct.**
+
+---
+
+#### Original Sentence:
+He whispered ' Yes ' and had a glance at me.
+
+#### Review and Correction:
+**Deviations Corrected:**
+- Improper spacing around quotation marks.
+- Replace single quotation marks with double quotation marks for consistency in English usage.
+
+**Reasoning:**
+Proper use of quotation marks and spacing improves readability.
+
+**New Sentence:**
+He whispered, "Yes," and glanced at me.
+
+---
+
+#### Original Sentence:
+I wincked at him.
+
+#### Review and Correction:
+**Deviations Corrected:**
+- Typographical error in "wincked", which should be "winked".
+
+**Reasoning:**
+Correcting the typographical error.
+
+**New Sentence:**
+I winked at him.
+
+---
+
+#### Original Sentence:
+That was it.
+
+**No correction needed. This sentence is grammatically correct.**
+
+---
+
+#### Original Sentence:
+Feeling reassured and confident, he told her which feelings he was experiencing.
+
+#### Review and Correction:
+**Deviations Corrected:**
+- Ambiguity in "which feelings". "the feelings" is clearer.
+
+**Reasoning:**
+Improves clarity without altering the meaning.
+
+**New Sentence:**
+Feeling reassured and confident, he told her the feelings he was experiencing.
+
+---
+
+#### Original Sentence:
+She suddenly looked sullen.
+
+**No correction needed. This sentence is grammatically correct.**
+
+---
+
+#### Original Sentence:
+She looked embaarsed.
+
+#### Review and Correction:
+**Deviations Corrected:**
+- Typographical error in "embaarsed", which should be "embarrassed".
+
+**Reasoning:**
+Correcting the typographical error.
+
+**New Sentence:**
+She looked embarrassed.
+
+---
+
+#### Original Sentence:
+She could hardly say a word but after a little seconds, she said : ' I ' m sorry to deceive you but actually I fancy Sebastian ' .
+
+#### Review and Correction:
+**Deviations Corrected:**
+- Improve phrasing to more naturally flow.
+- Correct punctuation around the dialogue.
+
+**Reasoning:**
+Improves clarity and readability.
+
+**New Sentence:**
+She could hardly say a word, but after a few seconds, she said, "I'm sorry to deceive you, but actually, I fancy Sebastian."
+
+---
+
+#### Original Sentence:
+David fainted : ' a friend in need is a friend indeed ' !!
+
+#### Review and Correction:
+**Deviations Corrected:**
+- Improve phrasing and punctuation.
+- Correct punctuation around the dialogue and use single exclamation mark for emphasis.
+
+**Reasoning:**
+Improves clarity and readability.
+
+**New Sentence:**
+David fainted: "A friend in need is a friend indeed!"
+
+---
+
+### Final Document
+
+Yesterday, I went to a party with my friend David. He studies English with me at university. He wanted to be introduced to Lucy who he fancied. David and I sat in the corner of the room. He didn't make the first move to go and see her. He waited for so long to tell her that he had a crush on her. He took a drink to get some energy, and after a few minutes of endless hesitation, he walked to her. David remained mute. She gave a hint of a smile, noticing David blushing. She asked him if he enjoyed the party. He whispered, "Yes," and glanced at me. I winked at him. That was it. Feeling reassured and confident, he told her the feelings he was experiencing. She suddenly looked sullen. She looked embarrassed. She could hardly say a word, but after a few seconds, she said, "I'm sorry to deceive you, but actually, I fancy Sebastian." David fainted: "A friend in need is a friend indeed!"

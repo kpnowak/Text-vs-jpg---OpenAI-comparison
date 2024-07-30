@@ -1,0 +1,85 @@
+### Review of Document: "How to talk about treatment options"
+
+The task is to review the document to ensure it complies with the "Non-Promotional Material Guidelines," which include compliance with legal and ethical standards as outlined in the sources provided. Here is the meticulous review while identifying and correcting deviations:
+
+---
+
+#### Opening Introduction:
+**Original Sentence:** "It's important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+**Guideline Source:** EFPIA Chapter 3, Article 17 (Informational or Educational Materials)
+
+**Deviations:** The original sentence lacks a direct mention of patient benefit and relevance to medical practice, as per Article 17(i).
+
+**New Sentence:** "It's important that you feel empowered and ready to consult your healthcare provider whenever you believe a change in your treatment plan would directly benefit your health."
+
+**Reason for Change:** The revised sentence adheres to the guidelines by emphasizing the direct benefit to patient care, thus ensuring clear and relevant communication.
+
+---
+
+#### Patient Advocacy:
+**Original Sentence:** "You know your mind and body, and it's important to advocate for your needs and preferences during your discussion."
+
+**Guideline Source:** EFPIA Chapter 4, Article 21 (Interactions with POs)
+
+**Deviations:** The original sentence doesn't ensure mutual respect or avoid promoting medicinal products inadvertently.
+
+**New Sentence:** "You understand your health best, and it is crucial to advocate for your needs and preferences to ensure respectful and mutual decision-making with your doctor."
+
+**Reason for Change:** Aligns with the guideline stressing the importance of respectful interactions without suggesting the promotion of specific products.
+
+---
+
+#### Challenges:
+**Original Sentence:** "Discuss any difficulties you've experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find a better alternative that addresses these challenges."
+
+**Guideline Source:** Communicate With Care Pocket Guide, Article 2 (Be Clear and Professional)
+
+**Deviations:** The original sentence lacks clarity and can cause misunderstandings without clear context.
+
+**New Sentence:** "Share any difficulties with your current treatment, such as side effects, preference for pill or injection, lifestyle compatibility, or cost concerns, and inquire about alternatives that might better address these issues."
+
+**Reason for Change:** Ensures clarity and context for better understanding, preventing misinterpretations.
+
+---
+
+#### Side Effects:
+**Original Sentence:** "Ask questions or share concerns you have about trying a new medication. This means talking through and understanding how it works, and the kind of side effects you could potentially experience."
+
+**Guideline Source:** Disclaimer Texts for Non-promotional Material
+
+**Deviations:** Lacks a disclaimer about potential side effects reporting and does not advise consultation with a healthcare provider.
+
+**New Sentence:** "Discuss any questions or concerns about a new medication, including how it works and potential side effects. Remember to consult your healthcare provider for personalized advice and report any adverse effects."
+
+**Reason for Change:** Adds necessary disclaimers and advises consulting healthcare professionals, aligning with guidelines on providing accurate and non-promotional medical information.
+
+---
+
+#### Follow-up:
+**Original Sentence:** "Discuss when you should follow-up on how your new treatment is working. Typically, type 2 diabetes patients should see their doctor every 3–6 months."
+
+**Guideline Source:** Global Legal & Compliance Pocket Guide, Article 1 (Non-Promotional Material)
+
+**Deviations:** Needs more context to be compelling as scientific informational material without implying promotional content.
+
+**New Sentence:** "Discuss the appropriate follow-up schedule to monitor your new treatment’s progress, typically recommended every 3–6 months for type 2 diabetes patients. This helps ensure the treatment's effectiveness and manage your health better."
+
+**Reason for Change:** Provides a balanced and non-promotional context, focusing on scientific and factual information.
+
+---
+
+#### General Comments:
+1. **HQ23GLP00004** (Reference Section): Verify the inclusion of necessary disclaimers and make sure references are used appropriately. No changes required as the current format is compliant.
+
+2. **Be Mindful** (Communicate With Care Pocket Guide): Ensure all informative points are concise and avoid exaggeration. Existing material aligns well; no changes needed.
+
+3. **General Disclaimers** (Disclaimer Texts for Non-promotional Material): Add necessary disclaimers where missing in each relevant section, including side effects and medical advice:
+    - "Please see patient information leaflet in the package for additional information."
+    - "If you experience any side effects while using [insert NN medicinal product], talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in the package leaflet. You can also report side effects directly via [insert the local customer contact function or local safety department]."
+
+---
+
+### Conclusion:
+
+This review ensures that the material "How to talk about treatment options" complies with the "Non-Promotional Material Guidelines" by correcting deviations and enhancing communication clarity while staying non-promotional and informative.

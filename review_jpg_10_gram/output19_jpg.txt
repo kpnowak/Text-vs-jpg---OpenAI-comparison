@@ -1,0 +1,176 @@
+### Review of the Image
+
+#### Language of the Document
+The document language is identified as English.
+
+#### Detailed Review
+
+1. **Source Sentence:**
+   "He study english with me at university."
+
+   **Deviation Corrected:**
+   The expert's suggestion to change "study" to "studies" and capitalize "english" to "English" is correct.
+
+   **Reason:**
+   The correction maintains subject-verb agreement and capitalizes the proper noun.
+
+   **Corrected Sentence:**
+   "He studies English with me at university."
+
+2. **Source Sentence:**
+   "He didn ' t making the first move to go and see her."
+
+   **Deviation Corrected:**
+   The expert suggests changing "didn ' t making" to "didn't make."
+
+   **Reason:**
+   Correct use of auxiliary verb with the base form of the main verb.
+
+   **Corrected Sentence:**
+   "He didn't make the first move to go and see her."
+
+3. **Source Sentence:**
+   "I wincked at him."
+
+   **Deviation Corrected:**
+   The expert suggests changing "wincked" to "winked."
+
+   **Reason:**
+   Correct spelling of the word "winked."
+
+   **Corrected Sentence:**
+   "I winked at him."
+
+4. **Source Sentence:**
+   "Feeling reassured and confident, he told her which feelings he was experiencing."
+
+   **Deviation Corrected:**
+   Change "which feelings" to "what feelings."
+
+   **Reason:**
+   "What" is the correct pronoun to introduce the object.
+
+   **Corrected Sentence:**
+   "Feeling reassured and confident, he told her what feelings he was experiencing."
+
+5. **Source Sentence:**
+   "She looked emba rased."
+
+   **Deviation Corrected:**
+   Change "emba rased" to "embarrassed."
+
+   **Reason:**
+   Correct spelling of the word "embarrassed."
+
+   **Corrected Sentence:**
+   "She looked embarrassed."
+
+6. **Source Sentence:**
+   "She could hardly say a word but after a little seconds, she said: ' I ' m sorry to dece ive you but actually I fancy Sebas tian '."
+
+   **Deviation Corrected:**
+   Change "after a little seconds" to "after a few seconds" and correct the formatting and spelling.
+
+   **Reason:**
+   Correct usage of "a few," formatting, and spelling.
+
+   **Corrected Sentence:**
+   "She could hardly say a word but after a few seconds, she said: 'I'm sorry to deceive you but actually, I fancy Sebastian.'"
+
+7. **Source Sentence:**
+   '' David fainted : ' a friend in need is a friend indeed ' !!''
+
+   **Deviation Corrected:**
+   Change "a friend in need is a friend indeed !!" to correct punctuation.
+
+   **Reason:**
+   Simplifying punctuation and spacing.
+
+   **Corrected Sentence:**
+   "David fainted: 'a friend in need is a friend indeed!'"
+
+### Summary of Revisions
+
+1. **Original Sentence:**
+   "He study english with me at university."
+
+   **Expert Suggested Change:**
+   "He studies English with me at university."
+
+   **Reason for New Suggested Change:**
+   Correct subject-verb agreement and capitalization.
+
+   **New Suggested Sentence:**
+   "He studies English with me at university."
+
+2. **Original Sentence:**
+   "He didn ' t making the first move to go and see her."
+
+   **Expert Suggested Change:**
+   "He didn't make the first move to go and see her."
+
+   **Reason for New Suggested Change:**
+   Correct use of auxiliary verb with the base form of the main verb.
+
+   **New Suggested Sentence:**
+   "He didn't make the first move to go and see her."
+
+3. **Original Sentence:**
+   "I wincked at him."
+
+   **Expert Suggested Change:**
+   "I winked at him."
+
+   **Reason for New Suggested Change:**
+   Correct spelling of "winked."
+
+   **New Suggested Sentence:**
+   "I winked at him."
+
+4. **Original Sentence:**
+   "Feeling reassured and confident, he told her which feelings he was experiencing."
+
+   **Expert Suggested Change:**
+   "Feeling reassured and confident, he told her what feelings he was experiencing."
+
+   **Reason for New Suggested Change:**
+   Correct pronoun usage.
+
+   **New Suggested Sentence:**
+   "Feeling reassured and confident, he told her what feelings he was experiencing."
+
+5. **Original Sentence:**
+   "She looked emba rased."
+
+   **Expert Suggested Change:**
+   "She looked embarrassed."
+
+   **Reason for New Suggested Change:**
+   Correct spelling of "embarrassed."
+
+   **New Suggested Sentence:**
+   "She looked embarrassed."
+
+6. **Original Sentence:**
+   "She could hardly say a word but after a little seconds, she said: ' I ' m sorry to dece ive you but actually I fancy Sebas tian '."
+
+   **Expert Suggested Change:**
+   "She could hardly say a word but after a few seconds, she said: 'I'm sorry to deceive you but actually, I fancy Sebastian.'"
+
+   **Reason for New Suggested Change:**
+   Correct use of "a few" and formatting.
+
+   **New Suggested Sentence:**
+   "She could hardly say a word but after a few seconds, she said: 'I'm sorry to deceive you but actually, I fancy Sebastian.'"
+
+7. **Original Sentence:**
+   '' David fainted : ' a friend in need is a friend indeed ' !!''
+
+   **Expert Suggested Change:**
+   "David fainted: 'a friend in need is a friend indeed!'"
+
+   **Reason for New Suggested Change:**
+   Correct punctuation and spacing.
+
+   **New Suggested Sentence:**
+   "David fainted: 'a friend in need is a friend indeed!'"

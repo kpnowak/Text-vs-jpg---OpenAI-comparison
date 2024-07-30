@@ -1,0 +1,217 @@
+### Review and Corrections Based on Non-Promotional Material Guidelines
+
+#### Main Text and Headings Review
+
+1. **Source Sentence:**
+   "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+   **Guideline Source:**
+   **Source - EFPIA Chapter 3, Article 17.ii**: "Informational or Educational Materials ... directly beneficial to the care of patients."
+
+   **Deviations:**
+   The source sentence could be interpreted ambiguously regarding what specific actions the patient should take, which could be perceived as promotional.
+
+   **New Sentence:**
+   "When managing type 2 diabetes, it’s important to regularly assess your treatment plan in collaboration with your healthcare provider to ensure it meets your changing health needs."
+
+   **Reasoning:**
+   This change ensures clarity and emphasizes collaboration with healthcare providers, aligning with non-promotional educational material guidelines.
+
+2. **Source Sentence:**
+   "It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+   **Guideline Source:**
+   **Source - Communicate With Care Pocket Guide, Article 2.i.**: "Maintain Professional Tone."
+
+   **Deviations:**
+   The original sentence lacks professional tone and can be perceived as overly reassuring.
+
+   **New Sentence:**
+   "It’s crucial to feel confident and prepared to discuss any potential treatment changes with your doctor when deemed necessary."
+
+   **Reasoning:**
+   This modification maintains professional tone and reduces any potential misinterpretation.
+
+3. **Source Sentence:**
+   "Start by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment."
+
+   **Guideline Source:**
+   **Source - Communicate With Care Pocket Guide, Article 2.i.**: "Maintain Professional Tone."
+
+   **Deviations:**
+   The phrase "(like you’re doing right now!)" is casual and could be misinterpreted.
+
+   **New Sentence:**
+   "Start by educating yourself about type 2 diabetes to facilitate more open communication with your doctor regarding treatment."
+
+   **Reasoning:**
+   Ensures the text remains professional and clear, avoiding casual expressions.
+
+4. **Source Sentence:**
+   "Talk about your lifestyle and how a new treatment might be better suited for you."
+
+   **Guideline Source:**
+   **Source - EFPIA Chapter 3, Article 17.ii**: "Informational or Educational Materials ... directly beneficial to the care of patients."
+
+   **Deviations:**
+   The sentence might imply that a new treatment is inherently better, which could be perceived as an inducement.
+
+   **New Sentence:**
+   "Discuss your lifestyle with your doctor to evaluate whether a new treatment might be more appropriate for you."
+
+   **Reasoning:**
+   Emphasizes the need for a professional assessment without suggesting a new treatment is automatically superior.
+
+5. **Source Sentence:**
+   "If you experience any side effects while using [insert NN medicinal product], talk to your doctor, pharmacist or nurse."
+
+   **Guideline Source:**
+   **Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio, Article 1.ii**: "Off-Label Promotion."
+
+   **Deviations:**
+   The sentence could imply a direct connection to a specific product, potentially regarded as promotional.
+
+   **New Sentence:**
+   "If you experience any adverse effects from your current medications, consult your doctor, pharmacist, or nurse."
+
+   **Reasoning:**
+   Maintains educational intent while avoiding any direct promotion of specific products.
+
+#### Disclaimer and Information Review
+
+6. **Source Sentence:**
+   “The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor.”
+
+   **Guideline Source:**
+   **Source - Disclaimer Texts for Non-promotional Material, Article 3.i.**: “The image shown is a model and not a real patient."
+
+   **Deviations:**
+   The original sentence does not clearly specify the non-substitutive nature and educational purpose together.
+
+   **New Sentence:**
+   "The information on this website is intended solely for educational purposes and should not replace medical advice from your healthcare provider."
+
+   **Reasoning:**
+   Clarifies the material's educational purpose and non-substitutive nature more effectively.
+
+By correcting these deviations, we align the document with the "Non-Promotional Material Guidelines," ensuring clarity, professionalism, and compliance with regulatory standards. Each change strengthens the non-promotional nature of the content and reinforces the importance of collaboration with healthcare professionals.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Review and Corrections Based on Non-Promotional Material Guidelines
+
+#### Main Text and Headings Review
+
+1. **Original Source Sentence:**
+   "When you’re living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+
+   **Deviation from Expert Reviewer:**
+   The source sentence could be interpreted ambiguously regarding what specific actions the patient should take, which could be perceived as promotional.
+
+   **Expert Reviewer Suggested Change:**
+   "When managing type 2 diabetes, it’s important to regularly assess your treatment plan in collaboration with your healthcare provider to ensure it meets your changing health needs."
+
+   **Explanation for New Suggested Change:**
+   The expert's suggestion improves on the original but can further emphasize the non-promotional aspect by eliminating any implication of self-medication.
+
+   **New Suggested Sentence:**
+   "Managing type 2 diabetes involves regularly reviewing and adjusting your treatment plan with your healthcare provider to meet your evolving health needs."
+
+   **Deviations:**
+   According to [Source - EFPIA Chapter 3, Article 17.ii], Informational or Educational Materials must directly benefit the care of patients without suggesting self-treatment that could be perceived as promotional.
+
+2. **Original Source Sentence:**
+   "It’s important that you feel empowered and ready to talk to your doctor whenever you feel a change could be beneficial."
+
+   **Deviation from Expert Reviewer:**
+   The original sentence lacks professional tone and can be perceived as overly reassuring.
+
+   **Expert Reviewer Suggested Change:**
+   "It’s crucial to feel confident and prepared to discuss any potential treatment changes with your doctor when deemed necessary."
+
+   **Explanation for New Suggested Change:**
+   The expert's suggestion is closer to a professional tone but can be made more precise in terms of aligning with healthcare provider recommendations.
+
+   **New Suggested Sentence:**
+   "It’s essential to feel equipped to discuss any needed treatment changes with your doctor."
+
+   **Deviations:**
+   According to [Source - Communicate With Care Pocket Guide, Article 2.i.], the communication should maintain a professional tone and avoid overly reassuring language.
+
+3. **Original Source Sentence:**
+   "Start by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment."
+
+   **Deviation from Expert Reviewer:**
+   The phrase "(like you’re doing right now!)" is casual and could be misinterpreted.
+
+   **Expert Reviewer Suggested Change:**
+   "Start by educating yourself about type 2 diabetes to facilitate more open communication with your doctor regarding treatment."
+
+   **Explanation for New Suggested Change:**
+   While accurate, the expert's suggested change can be worded to stress proactive communication more explicitly.
+
+   **New Suggested Sentence:**
+   "Begin by educating yourself about type 2 diabetes to improve communication with your healthcare provider regarding your treatment options."
+
+   **Deviations:**
+   According to [Source - Communicate With Care Pocket Guide, Article 2.i.], professional tone and clear language are required, avoiding casual expressions.
+
+4. **Original Source Sentence:**
+   "Talk about your lifestyle and how a new treatment might be better suited for you."
+
+   **Deviation from Expert Reviewer:**
+   The sentence might imply that a new treatment is inherently better, which could be perceived as an inducement.
+
+   **Expert Reviewer Suggested Change:**
+   "Discuss your lifestyle with your doctor to evaluate whether a new treatment might be more appropriate for you."
+
+   **Explanation for New Suggested Change:**
+   The expert's suggestion prompts evaluation but can be clearer about the context of professional medical advice.
+
+   **New Suggested Sentence:**
+   "Discuss your lifestyle with your doctor to assess if a new treatment would be more suitable based on your health needs."
+
+   **Deviations:**
+   According to [Source - EFPIA Chapter 3, Article 17.ii], materials should focus on patient care benefits without suggesting superiority of new treatments.
+
+5. **Original Source Sentence:**
+   "If you experience any side effects while using [insert NN medicinal product], talk to your doctor, pharmacist or nurse."
+
+   **Deviation from Expert Reviewer:**
+   The sentence could imply a direct connection to a specific product, potentially regarded as promotional.
+
+   **Expert Reviewer Suggested Change:**
+   "If you experience any adverse effects from your current medications, consult your doctor, pharmacist, or nurse."
+
+   **Explanation for New Suggested Change:**
+   To remain non-promotional, the sentence should avoid any specific mention of medication by ensuring phrasing is directed towards all possible side effects in a general sense.
+
+   **New Suggested Sentence:**
+   "If you experience any side effects from your medications, consult your doctor, pharmacist, or nurse immediately."
+
+   **Deviations:**
+   According to [Source - Global Legal & Compliance Pocket Guide Semaglutide portfolio, Article 1.ii], communication should avoid promoting specific products and remain factual.
+
+#### Disclaimer and Information Review
+
+6. **Original Source Sentence:**
+   “The information on this website is intended for education purpose only and should not be substituted for medical advice from your doctor.”
+
+   **Deviation from Expert Reviewer:**
+   The original sentence does not clearly specify the non-substitutive nature and educational purpose together.
+
+   **Expert Reviewer Suggested Change:**
+   "The information on this website is intended solely for educational purposes and should not replace medical advice from your healthcare provider."
+
+   **Explanation for New Suggested Change:**
+   The expert's suggested change was accurate but can be slightly refined to avoid redundancy and enhance clarity.
+
+   **New Suggested Sentence:**
+   "The information on this website is for educational purposes only and should not replace medical advice from your healthcare provider."
+
+   **Deviations:**
+   According to [Source - Disclaimer Texts for Non-promotional Material, Article 3.i.], disclaimers should clearly signify the educational purpose and non-substitutive nature of the provided information.
+
+By implementing these improved changes, we ensure that the document not only adheres strictly to the guidelines but also maintains clarity, professionalism, and non-promotional integrity throughout.

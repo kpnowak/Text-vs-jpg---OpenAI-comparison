@@ -1,0 +1,73 @@
+**Source Sentence:**
+He wanted to be introduced to Lucy wo he fancied.
+
+**Deviations Corrected:**
+- Spelling: "wo" should be "who."
+- Punctuation: Adding a comma before the relative clause.
+
+**Reason for Replacement:**
+To correct the spelling error and improve sentence clarity by separating the relative clause.
+
+**New Sentence:**
+He wanted to be introduced to Lucy, who he fancied.
+
+---
+
+**Source Sentence:**
+He didn ' t making the first move to go and see her.
+
+**Deviations Corrected:**
+- Incorrect verb form: "making" should be "make."
+- Spacing: fix the space before and after the apostrophe in "didn't."
+
+**Reason for Replacement:**
+To correct the verb form and punctuation.
+
+**New Sentence:**
+He didn't make the first move to go and see her.
+
+---
+
+**Source Sentence:**
+He whispered ' Yes ' and had a glance at me.
+
+**Deviations Corrected:**
+- Incorrect use of single quotation marks: ' ' should be “.”
+- Grammar: Changed "had a glance at me" to "glanced at me" for better readability.
+
+**Reason for Replacement:**
+To correct the punctuation according to standard English grammar and improve readability.
+
+**New Sentence:**
+He whispered, “Yes,” and glanced at me.
+
+---
+
+**Source Sentence:**
+She could hardly say a word but after a little seconds, she said : ' I ' m sorry to deceive you but actually I fancy Sebastian ' .
+
+**Deviations Corrected:**
+- Grammar: "a little seconds" should be "a few seconds."
+- Punctuation: Adjust spaces around quotation marks.
+- Incorrect use of single quotation marks: ' ' should be “.”
+
+**Reason for Replacement:**
+To improve grammatical accuracy and correct punctuation.
+
+**New Sentence:**
+She could hardly say a word but after a few seconds, she said, “I’m sorry to deceive you but actually I fancy Sebastian.”
+
+---
+
+**Source Sentence:**
+David fainted : ' a friend in need is a friend inded ' !!
+
+**Deviations Corrected:**
+- Spelling: "inded" should be "indeed."
+- Punctuation: Correct the use of quotation marks and adjust spaces.
+
+**Reason for Replacement:**
+To correct the spelling error and punctuation.
+
+**New Sentence:**
+David fainted: “A friend in need is a friend indeed!!”

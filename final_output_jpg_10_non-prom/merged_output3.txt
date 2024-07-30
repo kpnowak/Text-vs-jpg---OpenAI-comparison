@@ -1,0 +1,168 @@
+### Review of Document: "How to talk about treatment options"
+
+#### Section 1: Introduction
+**Source Sentence:** “It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment.”
+
+**Deviation:** The sentence contains an informal tone and encourages self-education in a promotional manner.
+
+**Guideline Source:** [Source - Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional, ii. Assess Document Sensitivity: Evaluate if the content should be shared or discussed in a less permanent form, like verbally.]
+
+**New Sentence:** "While these discussions might be challenging, keeping your treatment goals in focus and being well-informed about type 2 diabetes can enhance your communication with your doctor regarding treatment options."
+
+**Reason for Change:** This resolves the deviation by maintaining a professional tone and providing clear, factual information without promotional language.
+
+---
+
+#### Section 2: Goals
+**Source Sentence:** “Share your personal goals, whether it’s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective.”
+
+**Deviation:** The sentence suggests discussing potential alternatives in a manner that might be interpreted as promotional.
+
+**Guideline Source:** [Source - EFPIA Chapter 3, Article 16 - Lifelong Learning in Healthcare, Paragraph i: When funding Independent Medical Education or organizing LLH activities directly or in collaboration with third parties, Member Companies must ensure that their participation and role is clearly acknowledged and apparent from the outset.]
+
+**New Sentence:** "Discuss your personal goals such as improving blood sugar control, weight management, or reducing cardiovascular risks, and review with your doctor whether your current treatment meets these objectives."
+
+**Reason for Change:** The revised sentence adheres to educational content focusing on reviewing current treatments without suggesting promotional change.
+
+---
+
+#### Section 3: Challenges
+**Source Sentence:** “Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find be a better alternative that addresses these challenges.”
+
+**Deviation:** The sentence introduces options such as “a pill or an injection” and discusses cost which might seem promotional.
+
+**Guideline Source:** [Source - EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility, iv: Informational or Educational Materials and Items of Medical Utility can include the Member Company name, but must not be product branded.]
+
+**New Sentence:** "Discuss any difficulties you're experiencing with your current treatment, including side effects and how well it fits into your lifestyle, and ask about possible ways to address these challenges."
+
+**Reason for Change:** This sentence avoids the implication of specific product types and focuses on patient challenges, adhering strictly to an educational narrative.
+
+---
+
+#### Section 4: Lifestyle
+**Source Sentence:** “Talk about your lifestyle and how a new treatment might be better suited for you. For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don’t have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals (in addition to healthy eating and exercise).”
+
+**Deviation:** The sentence suggests preference for new treatment options, which can be perceived as promotional.
+
+**Guideline Source:** [Source - EFPIA Chapter 3, Article 17 - Informational or Educational Materials and Items of Medical Utility, iii: The nature of Informational or Educational Materials and Items of Medical Utility considered may not constitute a circumvention of the prohibition on gifts defined under Article 11 of this Code.]
+
+**New Sentence:** "Discuss your lifestyle factors, such as the need for convenience in managing your medication, and strategies to support your weight management goals together with healthy eating and exercise."
+
+**Reason for Change:** This resolves the deviation by focusing on general lifestyle discussions without suggesting the need for a new treatment.
+
+---
+
+#### Section 5: General Disclaimers
+**Guideline Source:** [Source - Disclaimer Texts for Non-promotional Material, Article 3 - General Disclaimers]
+**Deviations:** These statements are not included in the provided document.
+
+**New Sentence Additions:** 
+1. "The character and its description are for representation purposes only and do not reflect real patient experience."
+2. "The image shown is a model and not a real patient."
+
+**Reason for Including:** Adding these disclaimers ensures clarity, transparency, and adherence to ethical guidelines while maintaining non-promotional integrity.
+
+### Summary
+The revised document ensures compliance with EFPIA and other relevant guidelines by focusing on factual, balanced information while avoiding promotional tones. All changes reflect guidelines that require professionalism, transparency, and clarity in non-promotional materials.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Section 1: Introduction
+**Original Source Sentence:**
+“It can be difficult to start these conversations, but with your treatment goals in mind—and by educating yourself more about type 2 diabetes (like you’re doing right now!)—you’ll be able to communicate with your doctor more openly about treatment.”
+
+**Deviation:**
+The sentence contains an informal tone and encourages self-education in a promotional manner.
+
+**Expert Reviewer’s Suggested Change:**
+"While these discussions might be challenging, keeping your treatment goals in focus and being well-informed about type 2 diabetes can enhance your communication with your doctor regarding treatment options."
+
+**Reason for Your New Suggested Change:**
+The original suggestion is good but can be further refined to remove any perceived promotional encouragement regarding self-education.
+
+**Your New Suggested Sentence:**
+"Although initiating these conversations might be challenging, focusing on your treatment goals and gaining a thorough understanding of type 2 diabetes can improve your communication with your doctor about available treatment options."
+
+**Deviation Explanation:**
+According to [Source - Communicate With Care Pocket Guide], the information suggests maintaining a professional tone and avoiding promotional content.
+
+---
+
+### Section 2: Goals
+**Original Source Sentence:**
+“Share your personal goals, whether it’s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective.”
+
+**Deviation:**
+The sentence suggests discussing potential alternatives in a manner that might be interpreted as promotional.
+
+**Expert Reviewer’s Suggested Change:**
+"Discuss your personal goals such as improving blood sugar control, weight management, or reducing cardiovascular risks, and review with your doctor whether your current treatment meets these objectives."
+
+**Reason for Your New Suggested Change:**
+The expert's revision addresses the deviation reasonably well, but additional clarity on current care can be provided without implying changes in treatment.
+
+**Your New Suggested Sentence:**
+"Communicate your personal health goals like improving blood sugar control, managing weight, or reducing cardiovascular risks, and assess with your doctor how well your current treatment aligns with these aims."
+
+**Deviation Explanation:**
+According to [Source - EFPIA Chapter 3, Article 16], guidelines emphasize acknowledging the role of current treatment without promoting changes.
+
+---
+
+### Section 3: Challenges
+**Original Source Sentence:**
+“Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high—and ask if there might find be a better alternative that addresses these challenges.”
+
+**Deviation:**
+The sentence introduces options such as “a pill or an injection” and discusses cost which might seem promotional.
+
+**Expert Reviewer’s Suggested Change:**
+"Discuss any difficulties you're experiencing with your current treatment, including side effects and how well it fits into your lifestyle, and ask about possible ways to address these challenges."
+
+**Reason for Your New Suggested Change:**
+The suggestion is good but should also mitigate perceived promotion by solely focusing on existing treatment concerns.
+
+**Your New Suggested Sentence:**
+"Talk about any challenges you face with your current treatment, such as side effects or how it fits into your lifestyle, and inquire about addressing these challenges alongside your doctor."
+
+**Deviation Explanation:**
+According to [Source - EFPIA Chapter 3, Article 17], informational or educational content must not suggest product choices.
+
+---
+
+### Section 4: Lifestyle
+**Original Source Sentence:**
+“Talk about your lifestyle and how a new treatment might be better suited for you. For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don’t have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals (in addition to healthy eating and exercise).”
+
+**Deviation:**
+The sentence suggests preference for new treatment options, which can be perceived as promotional.
+
+**Expert Reviewer’s Suggested Change:**
+"Discuss your lifestyle factors, such as the need for convenience in managing your medication, and strategies to support your weight management goals together with healthy eating and exercise."
+
+**Reason for Your New Suggested Change:**
+While the expert's suggestion is mostly adequate, clarifying lifestyle influence without implying product change is essential.
+
+**Your New Suggested Sentence:**
+"Talk about your lifestyle, highlighting needs such as medication convenience, and discuss strategies for support in weight management, incorporating healthy eating and exercise."
+
+**Deviation Explanation:**
+According to [Source - EFPIA Chapter 3, Article 17], educational material should refrain from implying specific treatments.
+
+---
+
+### Section 5: General Disclaimers
+**Guideline Source:**
+[Source - Disclaimer Texts for Non-promotional Material, Article 3 - General Disclaimers]
+
+**Reason for Including:**
+Adding these disclaimers ensures clarity, transparency, and adherence to guidelines while maintaining non-promotional integrity.
+
+**New Sentence Additions:**
+1. "The character and its description are for representation purposes only and do not reflect real patient experience."
+2. "The image shown is a model and not a real patient." 
+
+**Deviation Explanation:**
+According to [Source - Disclaimer Texts for Non-promotional Material], disclaimers ensure all materials are clear, ethical, and avoid promotional ambiguity.

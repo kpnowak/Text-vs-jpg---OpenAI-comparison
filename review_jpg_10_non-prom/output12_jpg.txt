@@ -1,0 +1,74 @@
+### Comment 1:
+- **Original Source Sentence:**
+"When you're living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- **Deviation from the Guidelines:**
+The original statement does not include the required disclaimer that the information is for educational purposes and should not substitute medical advice. 
+According to [Source - Disclaimer Texts for Non-promotional Material], all informational material should include disclaimers like "The information is intended for educational purposes only and should not be substituted for medical advice from your doctor."
+- **Expert Reviewer’s Original Suggested Change:**
+"When you're living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs. The information on this website is intended for educational purposes only and should not be substituted for medical advice from your doctor."
+- **Reason for New Suggested Change:**
+To ensure the disclaimer is prominently included and clear, aligning the sentence with the guidelines.
+- **New Suggested Sentence:**
+"When you're living with type 2 diabetes, it’s common to reevaluate and change your treatment to adjust to your changing personal health needs. Please note that this information is intended for educational purposes only and should not replace professional medical advice from your doctor."
+
+### Comment 4:
+- **Original Source Sentence:**
+"Talk about your lifestyle and how a new treatment might be better suited for you."
+- **Deviation from the Guidelines:**
+The current sentence lacks a detailed explanation and may be perceived as speculative about the suitability of a new treatment. According to [Source - Communicate With Care Pocket Guide], it is important to maintain a professional tone, avoid exaggerations, and stick to facts.
+- **Expert Reviewer’s Original Suggested Change:**
+"Discuss your daily routines, such as travel or physical activity, and evaluate how a new treatment could specifically fit within these aspects of your lifestyle."
+- **Reason for New Suggested Change:**
+The new sentence needs to be more specific and still avoid speculation while being clear and factual.
+- **New Suggested Sentence:**
+"Discuss specific aspects of your daily life, such as travel or physical activity, with your doctor to evaluate how a new treatment might fit your lifestyle needs."
+
+### Comment 6:
+- **Original Source Sentence:**
+"If the cost is too high—and ask if there might find a better alternative."
+- **Deviation from the Guidelines:**
+The original phrase is incomplete and lacks context, violating [Source - Communicate With Care Pocket Guide]'s directive to provide context and clarity.
+- **Expert Reviewer’s Original Suggested Change:**
+"If the cost of your current medication is too high, discuss with your doctor about any alternatives that might fit your financial situation better."
+- **Reason for New Suggested Change:**
+To provide a complete and contextually accurate sentence that maintains neutrality in informational content.
+- **New Suggested Sentence:**
+"If the cost of your current medication is too high, ask your doctor about any alternative treatments that might be more affordable for you."
+
+### Comment 8:
+- **Original Source Sentence:**
+"Typically, type 2 diabetes patients should see their doctor every 3–6 months."
+- **Deviation from the Guidelines:**
+The statement is too generalized and might not be accurate for all patients. According to [Source - Communicate With Care Pocket Guide], it is important to provide context and avoid misunderstandings.
+- **Expert Reviewer’s Original Suggested Change:**
+"Generally, patients with type 2 diabetes are advised to schedule follow-up appointments with their doctor every 3–6 months, based on their individual medical needs."
+- **Reason for New Suggested Change:**
+To better align with individual medical requirements and avoid overgeneralization.
+- **New Suggested Sentence:**
+"In general, it is recommended that patients with type 2 diabetes schedule follow-up appointments with their doctor every 3–6 months, tailored to their specific medical needs."
+
+### Comment 10:
+- **Original Source Sentence:**
+"Your doctor is the medical expert, but you are the one living with type 2 diabetes."
+- **Deviation from the Guidelines:**
+The statement is simplistic and does not emphasize the collaborative approach between doctor and patient. According to [Source - EFPIA Chapter 3, Article 16, Section i], it is important to increase HCPs’ scientific knowledge and competence to enhance medical practice and improve patient outcomes, emphasizing collaboration.
+- **Expert Reviewer’s Original Suggested Change:**
+"While your doctor brings medical expertise, you play an essential role by sharing insights into your daily experience with type 2 diabetes, ensuring a collaborative approach towards effective management of the condition."
+- **Reason for New Suggested Change:**
+To further clarify the importance of collaboration for effective management.
+- **New Suggested Sentence:**
+"Although your doctor provides medical expertise, your role in sharing daily experiences with type 2 diabetes is essential for a collaborative and effective management plan."
+
+### Comment 12:
+- **Original Source Sentence:**
+"Ask questions or share concerns you have about trying a new medication."
+- **Deviation from the Guidelines:**
+The statement lacks clarity and the required disclaimer. According to [Source - Disclaimer Texts for Non-promotional Material], informational material must include disclaimers such as "The prescription is based on a patient example and not a real patient."
+- **Expert Reviewer’s Original Suggested Change:**
+"Discuss any questions or concerns you might have about trying a new medication with your doctor, ensuring you understand the risks and benefits. The prescription mentioned is based on a patient example and not a real patient."
+- **Reason for New Suggested Change:**
+To incorporate the necessary disclaimer while ensuring clarity and providing useful information.
+- **New Suggested Sentence:**
+"Share any questions or concerns you have about trying a new medication with your doctor to understand its risks and benefits. Please note that the prescription discussed is based on a patient example and does not pertain to a real patient."
+
+These revisions ensure that the document strictly adheres to the "Non-Promotional Material Guidelines," ensuring that all necessary information is communicated clearly, professionally, and within compliance.
