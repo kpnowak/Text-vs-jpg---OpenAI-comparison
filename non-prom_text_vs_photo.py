@@ -2,7 +2,9 @@ from openai import OpenAI, AzureOpenAI
 import base64
 import os
 
-
+os.environ['AZURE_OPENAI_API_KEY'] = ''
+os.environ['AZURE_OPENAI_ENDPOINT'] = ''
+os.environ['OPENAI_API_VERSION'] = ""
 
 client = AzureOpenAI(
     api_key=os.getenv("AZURE_OPENAI_API_KEY"),  
@@ -139,7 +141,6 @@ def jpg_to_text():
             }
             
         ],
-        max_tokens=1500,
     )
     
     with open("jpg_to_txt.txt", "w") as f:
@@ -318,7 +319,6 @@ def jpg_review():
             }
             
         ],
-        max_tokens=1500,
     )
     
     with open("Non-prom/result_jpg.txt", "w") as f:
@@ -379,7 +379,6 @@ def jpg_review():
             }
             
         ],
-        max_tokens=1500,
     )
     
     with open("Non-prom/output_jpg.txt", "w") as f:
@@ -474,6 +473,6 @@ def jpg_review_10():
 
 #jpg_to_text()
 #text_review()
-text_review_10()
-#jpg_review()
-jpg_review_10()
+#text_review_10()
+jpg_review()
+#jpg_review_10()

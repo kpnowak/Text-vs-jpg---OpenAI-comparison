@@ -1,0 +1,159 @@
+### Review:
+
+#### Source Sentence 1:
+**Original Text:**
+"Ask questions or share concerns you have about trying a new medication. This means talking through and understanding how it works, and the kind of side effects you could potentially experience. Your doctor should have useful strategies that can help you manage them or decide if you should switch to something else."
+
+#### Deviation Correction:
+**Guideline Source:**
+Communicate With Care Pocket Guide: Article 3 - Do Not Ignore Inappropriate Writing
+
+**Deviation:**
+The original sentence suggests a blanket approach to switching medication without adequate professional guidance, which may mislead patients.
+
+**New Sentence:**
+"Ask questions or share concerns you have about trying a new medication. This means talking through and understanding how it works, and the kind of side effects you could potentially experience. Your doctor should provide evidence-based strategies to manage them and advise you on the best actions, including alternative options if necessary."
+
+**Reason:**
+The new sentence offers a more prudent approach, emphasizing evidence-based strategies and proper medical advice rather than suggesting switching medications unilaterally. This approach aligns with professional and ethical standards, ensuring patients receive accurate and safe guidance.
+
+---
+
+#### Source Sentence 2:
+**Original Text:**
+"Discuss when you should follow-up on how your new treatment is working. Typically type 2 diabetes patients should see their doctor every 3�6 months."
+
+#### Deviation Correction:
+**Guideline Source:**
+Communicate With Care Pocket Guide: Article 2 - Be Clear and Professional
+
+**Deviation:**
+The original sentence could cause misunderstandings if patients interpret the guidance too rigidly without considering personalized medical advice.
+
+**New Sentence:**
+"Discuss when you should follow-up on how your new treatment is working. Your doctor will advise on the appropriate follow-up schedule, which could typically range from every 3-6 months for type 2 diabetes patients."
+
+**Reason:**
+The new sentence clearly indicates that follow-up schedules should be personalized based on the doctor�s advice while still providing a general guideline. This ensures patients understand the importance of medical recommendations tailored to their individual needs.
+
+---
+
+#### Source Sentence 3:
+**Original Text:**
+"Remember, this conversation is about working together with your doctor to find the best treatment option for you. By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health."
+
+#### Deviation Correction:
+**Guideline Source:**
+Communicate With Care Pocket Guide: Article 1 - Be Mindful
+
+**Deviation:**
+The original sentence uses informal language ("plan that'll empower you"), which may not be suitable for professional communication and might influence patient expectations unduly.
+
+**New Sentence:**
+"Remember, this conversation is about working collaboratively with your doctor to determine the best treatment options for you. By actively engaging in the decision-making process and asking pertinent questions, you can develop a personalized plan suited to your health needs."
+
+**Reason:**
+The new sentence maintains a professional tone and encourages patient engagement without suggesting unrealistic outcomes. This aligns with the communication principles, ensuring clarity and professionalism.
+
+---
+
+#### Source Sentence 4:
+**Original Text:**
+"Involve family, friends, support groups etc. in the journey towards a healthier lifestyle. Link to PAGs, patient organizations or likewise."
+
+#### Deviation Correction:
+**Guideline Source:**
+Non-Promotional Material Guidelines: Article 21 - Interactions with POs
+
+**Deviation:**
+The original sentence's use of "etc." is vague and "Link to PAGs" lacks clear context, potentially causing confusion regarding the support resources.
+
+**New Sentence:**
+"Involve family, friends, and support groups in your efforts towards a healthier lifestyle. Consider connecting with patient advocacy groups (PAGs) or patient organizations for additional support."
+
+**Reason:**
+The new sentence provides clearer instructions and defines "PAGs" correctly. It ensures that patients understand the types of support available and the importance of involving structured support systems in their care plan.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Review:
+
+#### Source Sentence 1:
+**Original Text:** 
+"Ask questions or share concerns you have about trying a new medication. This means talking through and understanding how it works, and the kind of side effects you could potentially experience. Your doctor should have useful strategies that can help you manage them or decide if you should switch to something else."
+
+**Deviation:**
+The original sentence suggests a blanket approach to switching medication without adequate professional guidance, which may mislead patients.
+
+**Expert's Suggested Change:**
+"Ask questions or share concerns you have about trying a new medication. This means talking through and understanding how it works, and the kind of side effects you could potentially experience. Your doctor should provide evidence-based strategies to manage them and advise you on the best actions, including alternative options if necessary."
+
+**Reason for New Change:** 
+The expert's suggestion, while an improvement, can be further refined to emphasize collaboration and professional advice more clearly.
+
+**New Suggested Sentence:**
+"Ask questions or share concerns you have about trying a new medication. This includes discussing how it works and the potential side effects you might experience. Your doctor can provide evidence-based strategies to manage any side effects and guide you on whether alternative options might be necessary."
+
+**Deviations Source:**
+According to Communicate With Care Pocket Guide, certain suggestions in the original sentence could potentially mislead patients by suggesting self-directed medication changes without professional advice.
+
+#### Source Sentence 2:
+**Original Text:** 
+"Discuss when you should follow-up on how your new treatment is working. Typically type 2 diabetes patients should see their doctor every 3�6 months."
+
+**Deviation:**
+The original sentence could cause misunderstandings if patients interpret the guidance too rigidly without considering personalized medical advice.
+
+**Expert's Suggested Change:**
+"Discuss when you should follow-up on how your new treatment is working. Your doctor will advise on the appropriate follow-up schedule, which could typically range from every 3-6 months for type 2 diabetes patients."
+
+**Reason for New Change:**
+The expert�s suggestion is acceptable and improves adherence to the guidelines. However, a slight adjustment to emphasize the role of the physician can further improve clarity.
+
+**New Suggested Sentence:**
+"Discuss with your doctor when you should follow-up on how your new treatment is working. While follow-up schedules may typically range from every 3-6 months for type 2 diabetes patients, your doctor will recommend the most appropriate schedule for your specific needs."
+
+**Deviations Source:**
+According to Communicate With Care Pocket Guide, the original text could mislead patients into following a rigid schedule rather than seeking personalized medical advice.
+
+#### Source Sentence 3:
+**Original Text:**
+"Remember, this conversation is about working together with your doctor to find the best treatment option for you. By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that'll empower you on your journey towards better health."
+
+**Deviation:**
+The original sentence uses informal language ("plan that'll empower you"), which may not be suitable for professional communication and might influence patient expectations unduly.
+
+**Expert's Suggested Change:**
+"Remember, this conversation is about working collaboratively with your doctor to determine the best treatment options for you. By actively engaging in the decision-making process and asking pertinent questions, you can develop a personalized plan suited to your health needs."
+
+**Reason for New Change:**
+The expert�s suggestion is acceptable but can be enhanced slightly by focusing on collaboration with the healthcare provider.
+
+**New Suggested Sentence:**
+"Remember, this conversation is about working collaboratively with your doctor to find the best treatment options for you. By engaging actively, asking questions, and being part of the decision-making process, you can develop a personalized plan that supports your journey towards better health."
+
+**Deviations Source:**
+According to Communicate With Care Pocket Guide, the original wording could set unrealistic expectations due to the tone and phrasing used.
+
+#### Source Sentence 4:
+**Original Text:** 
+"Involve family, friends, support groups etc. in the journey towards a healthier lifestyle. Link to PAGs, patient organizations or likewise."
+
+**Deviation:**
+The original sentence's use of "etc." is vague and "Link to PAGs" lacks clear context, potentially causing confusion regarding the support resources.
+
+**Expert's Suggested Change:**
+"Involve family, friends, and support groups in your efforts towards a healthier lifestyle. Consider connecting with patient advocacy groups (PAGs) or patient organizations for additional support."
+
+**Reason for New Change:**
+The expert's suggestion is largely suitable, but can be further refined by offering clearer directions while removing vague terms.
+
+**New Suggested Sentence:**
+"Involve family, friends, and support groups in your journey towards a healthier lifestyle. Additionally, connecting with patient advocacy groups (PAGs) or patient organizations can provide valuable support."
+
+**Deviations Source:**
+According to Non-Promotional Material Guidelines, the use of vague terms and unclear instructions could cause confusion and hinder effective communication.
+
+In conclusion, refining these sentences ensures that the advice is clear, professional, and adheres to the guidelines, thereby providing better support and clarity for patients.

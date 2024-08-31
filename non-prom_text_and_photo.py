@@ -341,10 +341,13 @@ XXX
 """
 
 both_text_and_image = f"""
-There are two reviews done of the same text. You need to combine both of these reviews to create one the best review on earth that will contain information from both of them.
-These reviews are done with the use of different output, but both of them are about the same non-promotional review.
+There are two reviews done of the same text. You need to combine both of these reviews to create one 
+the best review on earth that will contain information from both of them.
+These reviews are done with the use of different output, but both of them are about the same 
+non-promotional review.
 
-To make it easier for creating the best review in the world, you should see the initial text that is being reviewed, which is an image inputed with this message.
+To make it easier for creating the best review in the world, you should see the initial text that is 
+being reviewed, which is an image inputed with this message.
 
 Now let's create the best review in the world that will combine these two reviews.
 

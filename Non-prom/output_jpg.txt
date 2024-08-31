@@ -1,85 +1,32 @@
-### Corrections and Justifications:
+### Review of Expert's Comments with Necessary Improvements
 
-#### 1. Missing Disclaimers
+1. **Original Source Sentence:** "Share your personal goals, whether it’s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective."
+   - **Deviation Identified:** Overemphasis on treatment effectiveness, which might imply promotional intent.
+     - **Source and Key Point:** According to [Source - EFPIA Chapter 3, Article 17, key point iii]: “The nature of Informational or Educational Materials and Items of Medical Utility considered may not constitute a circumvention of the prohibition on gifts defined under Article 11 of this Code."
+   - **Expert Reviewer's Suggested Change:** "Share your personal goals, such as better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss potential adjustments to your treatment with your doctor."
+   - **Reason for New Suggested Change:** The revised sentence still subtly promotes treatment effectiveness. A more neutral phrasing ensures that it remains purely informational without any promotional undertones.
+   - **New Suggested Sentence:** "Share your personal goals, such as better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss your options with your doctor for achieving these goals."
+  
+2. **Original Source Sentence:** "Set realistic expectations with your doctor regarding the timeline and outcomes of your new treatment."
+   - **Deviation Identified:** The mention of “new treatment” can imply promotion.
+     - **Source and Key Point:** According to [Source - EFPIA Chapter 3, Article 17, key point iii]: “The transmission of such materials or items must not constitute an inducement to recommend and/or prescribe, purchase, supply, sell, or administer a Medicinal Product."
+   - **Expert Reviewer's Suggested Change:** "Discuss and set realistic expectations with your doctor regarding the timeline and outcomes of any adjustments in your treatment."
+   - **Reason for New Suggested Change:** While the expert’s suggestion is generally appropriate, I'd slightly rephrase it to clearly emphasize the ongoing nature of treatment rather than new adjustments.
+   - **New Suggested Sentence:** "Discuss and set realistic expectations with your doctor regarding the timeline and outcomes of your ongoing treatment plan."
+   
+3. **Original Source Sentence:** "Your doctor should have useful strategies that can help you manage them or decide if you should switch to something else."
+   - **Deviation Identified:** Lack of clarity regarding non-promotional intent.
+     - **Source and Key Point:** According to [Source - Communicate With Care Pocket Guide, Article 1, key point i]: “Consider Legal Implications: Remember that written communications may become evidence in legal matters.” 
+     - Key point iii: “Stick to Facts: Avoid exaggerations and speculations.”
+   - **Expert Reviewer's Suggested Change:** "Your doctor should be able to provide strategies to manage side effects or determine if an adjustment to your treatment plan is necessary."
+   - **Reason for New Suggested Change:** To clearly communicate the process without implying a switch, thus emphasizing the consultative role of the healthcare provider.
+   - **New Suggested Sentence:** "Your doctor can provide strategies to manage side effects and help determine if adjusting your treatment plan is necessary."
 
-**Source Sentence:**
-(There is no disclaimer at the beginning of the document)
+4. **Original Source Sentence:** "By speaking up, asking questions and being part of the decision-making process, you can create a personalized plan that’ll empower you on your journey towards better health."
+   - **Deviation Identified:** Lack of specific disclaimer regarding educational nature.
+     - **Source and Key Point:** According to [Source - Disclaimer Texts for Non-promotional Material, Article 3, key point v]: “This information is intended for diabetes patients who have been prescribed [insert NN medicinal product], and should not be substituted for medical advice from your doctor.”
+   - **Expert Reviewer's Suggested Change:** "By speaking up, asking questions, and being part of the decision-making process, you can create a personalized plan that’ll empower you on your journey towards better health. This information is intended for diabetes patients who have been prescribed a medicinal product and should not be substituted for medical advice from your doctor."
+   - **Reason for New Suggested Change:** To further emphasize the educational intention and ensure that patients are clearly directed to seek personal medical advice.
+   - **New Suggested Sentence:** "By speaking up, asking questions, and being involved in the decision-making process, you can create a personalized plan tailored to your health journey. This information is intended for diabetes patients who are prescribed a medicinal product and should not replace professional medical advice from your doctor."
 
-**Deviations:**
-According to [Disclaimer Texts for Non-promotional Material], Article 1 states that any materials used for internal communication or local distribution should contain a disclaimer indicating their intended use and confidentiality.
-
-**Expert Reviewer's Suggested Change:**
-"This is a DRAFT, for preparatory use in NN only. Affiliates are responsible for compliance with local procedures and for review of such non-promotional material, e.g., against more stringent local legislation, and if relevant local code of conduct before distribution."
-
-**Explanation for New Change:**
-While the expert's suggestion is correct, it lacks a note for confidentiality when relevant and instructions for final documents.
-
-**New Suggested Sentence:**
-"This material is for preparatory use in NN only. Affiliates are responsible for ensuring compliance with local procedures and reviewing this non-promotional material against more stringent local legislation and relevant codes of conduct before distribution. Mark as 'DRAFT' if not final and/or 'CONFIDENTIAL' if required."
-
-**Deviations:**
-According to [Disclaimer Texts for Non-promotional Material, Article 1], internal communications should include disclaimers regarding their preparatory nature and confidentiality. Also, it should indicate DRAFT and/or CONFIDENTIAL as needed.
-
-#### 4. Off-Label Information Clarification
-
-**Source Sentence:**
-“Discuss any difficulties you’ve experienced with your current treatment—such as side effects, if you would prefer a pill or an injection (if the option is available).”
-
-**Deviations:**
-According to [Global Legal & Compliance Pocket Guide Semaglutide portfolio, Article 1.ii], it is critical to avoid implying off-label use or treatment preferences that are not supported by clinical evidence.
-
-**Expert Reviewer's Suggested Change:**
-"Discuss any difficulties you’ve experienced with your current treatment—such as side effects, and explore available treatment options under your doctor’s guidance."
-
-**Explanation for New Change:**
-Further clarification is needed to emphasize evidence-based guidance rather than just stating “available treatment options.”
-
-**New Suggested Sentence:**
-"Discuss any difficulties you’ve experienced with your current treatment, such as side effects, and consult your doctor to explore available evidence-based treatment options."
-
-**Deviations:**
-According to [Global Legal & Compliance Pocket Guide Semaglutide portfolio, Article 1.ii], factual information must be communicated correctly, avoiding implications of off-label use and focusing on evidence-based options.
-
-#### 6. Consistency and Compliance
-
-**Source Sentence:**
-“Remember, this conversation is about working together with your doctor to find the best treatment option for you.”
-
-**Deviations:**
-According to [EFPIA Chapter 3, Article 16.i], Educational materials should promote fair, balanced, and objective scientific information.
-
-**Expert Reviewer's Suggested Change:**
-“Remember, collaborating with your doctor helps find the most appropriate treatment option based on evidenced-based medical guidance.”
-
-**Explanation for New Change:**
-The new sentence can emphasize the importance of scientific evidence and a balanced perspective.
-
-**New Suggested Sentence:**
-"Remember, working together with your doctor ensures that treatment choices are based on balanced and evidence-based medical guidance."
-
-**Deviations:**
-According to [EFPIA Chapter 3, Article 16.i], LLH activities must introduce fair, balanced, and objective educational content.
-
-#### 7. Unbiased Non-Promotional Stance
-
-**Source Sentence:**
-“Ask questions or share concerns you have about trying a new medication. This means talking through and understanding how it works, and the kind of side effects you could potentially experience.”
-
-**Deviations:**
-According to [EFPIA Chapter 3, Article 17.iii], materials should not serve as an inducement to prescribe or promote specific medications.
-
-**Expert Reviewer's Suggested Change:**
-“Engage in discussions with your doctor about how different medications work and their potential side effects, ensuring you make informed choices.”
-
-**Explanation for New Change:**
-Further specifying the unbiased approach without suggesting new medications.
-
-**New Suggested Sentence:**
-"Engage in discussions with your doctor to understand how different medications work and their potential side effects, ensuring informed decisions without bias."
-
-**Deviations:**
-According to [EFPIA Chapter 3, Article 17.iii], materials must not act as an inducement to recommend specific Medicinal Products. 
-
-### Summary:
-
-By refining the suggested changes from the expert, we've ensured the materials now better align with "Non-Promotional Material Guidelines," promoting ethical standards, compliance, and clarity without suggesting any indirect promotions or off-label uses.
+By making these adjustments, the changes will adhere more closely to the "Non-Promotional Material Guidelines," ensuring clarity, objectivity, and proper disclaimers.

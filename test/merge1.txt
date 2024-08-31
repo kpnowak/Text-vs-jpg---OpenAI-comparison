@@ -1,0 +1,79 @@
+### Review and Corrections
+
+#### 1. When you�re living with type 2 diabetes, it�s common to reevaluate and change your treatment to adjust to your changing personal health needs.
+
+- **Guideline Source:** "Disclaimer Texts for Non-promotional Material"
+- **Source Sentence:** "When you�re living with type 2 diabetes, it�s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- **Deviations:** According to "Disclaimer Texts for Non-promotional Material", general disclaimers should be included to emphasize that examples are not specific patient cases and that no medical advice is substituted.
+- **New Sentence:** "When you�re living with type 2 diabetes, it�s common to reevaluate and change your treatment to adjust to your changing personal health needs. Please note that the information provided does not substitute medical advice from your doctor."
+- **Reason for Replacement:** This revision includes a disclaimer to ensure readers understand that the document does not replace professional medical advice, addressing a potential deviation from the guideline.
+
+#### 2. Share your personal goals, whether it�s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective.
+
+- **Guideline Source:** "Disclaimer Texts for Non-promotional Material"
+- **Source Sentence:** "Share your personal goals, whether it�s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective."
+- **Deviations:** According to "Disclaimer Texts for Non-promotional Material", disclaimers should clarify content is not suggestive of personal or medical advice.
+- **New Sentence:** "Share your personal goals, whether it�s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective. The information provided is for discussion purposes and does not substitute medical advice from your doctor."
+- **Reason for Replacement:** This sentence clearly indicates the advisory nature of the content, preventing any misinterpretation that it serves as medical advice.
+
+#### 3. Discuss any difficulties you�ve experienced with your current treatment�such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high�and ask if there might find a better alternative that addresses these challenges.
+
+- **Guideline Source:** "Communicate With Care Pocket Guide"
+- **Source Sentence:** Discuss any difficulties you�ve experienced with your current treatment�such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high�and ask if there might find a better alternative that addresses these challenges.
+- **Deviations:** According to "Communicate With Care Pocket Guide", assessments of document sensitivity and avoiding suggestions that can be construed as medical advice should be included.
+- **New Sentence:** "Discuss any difficulties you�ve experienced with your current treatment�such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high�and ask if there might be a better alternative that addresses these challenges. Always consult your healthcare provider for personalized medical advice."
+- **Reason for Replacement:** This revision aligns with sensitivity guidelines and restates that consultation with a healthcare provider is essential.
+
+#### 4. Talk about your lifestyle and how a new treatment might be better suited for you. For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don�t have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals (in addition to healthy eating and exercise).
+
+- **Guideline Source:** "Communicate With Care Pocket Guide" & "Disclaimer Texts for Non-promotional Material"
+- **Source Sentence:** "Talk about your lifestyle and how a new treatment might be better suited for you. For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don�t have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals (in addition to healthy eating and exercise)."
+- **Deviations:** According to "Communicate With Care Pocket Guide" and "Disclaimer Texts for Non-promotional Material", providing clear disclaimers and ensuring definitions of recommendations are not substituting medical advice are key.
+- **New Sentence:** "Talk about your lifestyle and how a new treatment might be better suited for you. For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don�t have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals (in addition to healthy eating and exercise). This information is intended for discussion purposes only and does not substitute medical advice from your doctor."
+- **Reason for Replacement:** Adding this disclaimer ensures clarity and aligns with the guideline recommendations for non-promotional material.
+
+Overall, these replacements ensure that the document strictly adheres to non-promotional material guidelines, emphasizing that the information provided does not replace professional medical advice and should always be discussed with a healthcare provider.
+
+----------------------------------------------------------------------------------------------
+---------------------------------------- Chief Output ----------------------------------------
+----------------------------------------------------------------------------------------------
+
+### Review and Corrections
+
+#### 1. When you�re living with type 2 diabetes, it�s common to reevaluate and change your treatment to adjust to your changing personal health needs.
+
+- **Original Source Sentence:** "When you�re living with type 2 diabetes, it�s common to reevaluate and change your treatment to adjust to your changing personal health needs."
+- **Deviation Identified:** Lacks a disclaimer indicating that the information does not substitute professional medical advice.
+- **Expert Reviewer�s Suggested Change:** "When you�re living with type 2 diabetes, it�s common to reevaluate and change your treatment to adjust to your changing personal health needs. Please note that the information provided does not substitute medical advice from your doctor."
+- **New Suggested Change Explanation:** The inclusion of a disclaimer fulfills the requirement to indicate that the provided information is not meant to replace professional medical advice.
+- **New Suggested Sentence:** "When you�re living with type 2 diabetes, it�s important to regularly reevaluate and adjust your treatment to meet your changing health needs. Please remember that this information is for general guidance and should not replace medical advice from your healthcare provider."
+- **Deviations:** According to the "Disclaimer Texts for Non-promotional Material," general disclaimers should be provided to emphasize that content is general in nature and not a substitute for personalized medical advice.
+
+#### 2. Share your personal goals, whether it�s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective.
+
+- **Original Source Sentence:** "Share your personal goals, whether it�s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective."
+- **Deviation Identified:** Lacks a disclaimer to reinforce that this content is not intended as specific medical advice.
+- **Expert Reviewer�s Suggested Change:** "Share your personal goals, whether it�s better blood sugar control, weight management, or reducing the risk of cardiovascular events, and discuss with your doctor how your current treatment could be more effective. The information provided is for discussion purposes and does not substitute medical advice from your doctor."
+- **New Suggested Change Explanation:** Adding a disclaimer without detracting from the reader�s understanding of the text is essential.
+- **New Suggested Sentence:** "Share your personal goals�whether it�s better blood sugar control, weight management, or reducing the risk of cardiovascular events�and discuss with your doctor how your current treatment could be more effective. This information is intended for discussion purposes only and does not replace medical advice from your healthcare provider."
+- **Deviations:** According to "Disclaimer Texts for Non-promotional Material," general disclaimers should be included to clarify that content is advisory in nature and not a replacement for professional medical consultations.
+
+#### 3. Discuss any difficulties you�ve experienced with your current treatment�such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high�and ask if there might find a better alternative that addresses these challenges.
+
+- **Original Source Sentence:** "Discuss any difficulties you�ve experienced with your current treatment�such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high�and ask if there might find a better alternative that addresses these challenges."
+- **Deviation Identified:** Needs sensitivity assessment and disclaimers to ensure it doesn't suggest personalized medical advice.
+- **Expert Reviewer�s Suggested Change:** "Discuss any difficulties you�ve experienced with your current treatment�such as side effects, if you would prefer a pill or an injection (if the option is available), if it fits into your lifestyle, if the cost is too high�and ask if there might be a better alternative that addresses these challenges. Always consult your healthcare provider for personalized medical advice."
+- **New Suggested Change Explanation:** The inclusion of a disclaimer to emphasize the need for professional consultation ensures the content adheres to non-promotional guidelines.
+- **New Suggested Sentence:** "Discuss any difficulties you�ve experienced with your current treatment, such as side effects, preference for a pill or injection, lifestyle fit, or cost issues, and ask if there might be a better alternative. Always consult your healthcare provider for personalized medical advice."
+- **Deviations:** According to "Communicate With Care Pocket Guide," the content must include disclaimers to avoid being construed as specific medical advice.
+
+#### 4. Talk about your lifestyle and how a new treatment might be better suited for you. For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don�t have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals (in addition to healthy eating and exercise).
+
+- **Original Source Sentence:** "Talk about your lifestyle and how a new treatment might be better suited for you. For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don�t have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals (in addition to healthy eating and exercise)."
+- **Deviation Identified:** Requires clear disclaimers and must indicate that it does not replace professional medical advice.
+- **Expert Reviewer�s Suggested Change:** "Talk about your lifestyle and how a new treatment might be better suited for you. For example, if you travel a lot for work and are looking for a medication that is easy to take or maybe you don�t have time to exercise as much as you would like, and you would prefer a treatment that can support your weight management goals (in addition to healthy eating and exercise). This information is intended for discussion purposes only and does not substitute medical advice from your doctor."
+- **New Suggested Change Explanation:** Adding a disclaimer ensures that readers understand this content is for conversational purposes and shouldn't be interpreted as medical advice.
+- **New Suggested Sentence:** "Discuss how your lifestyle may affect your treatment options. For example, if you travel often and need a medication that is easy to administer, or if your schedule limits your exercise time and you are seeking a treatment to support weight management alongside a healthy diet. This information is for general discussion and does not substitute medical advice from your healthcare provider."
+- **Deviations:** According to "Communicate With Care Pocket Guide" and "Disclaimer Texts for Non-promotional Material," the inclusion of disclaimers is critical to indicate that the information is generalized and not a replacement for professional advice.
+
+By providing these suggested changes, the document adheres to the "Non-Promotional Material Guidelines," ensuring that all content includes necessary disclaimers and clearly communicates that information should not replace professional medical advice.
